@@ -1,0 +1,368 @@
+Q3 2006 TATA CONSULTANCY SERVICES KTD Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q3-2006-tata-consultancy-services-ktd-earnings/docview/466952010/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Good evening ladies and gentlemen. I am Fatima, the moderator for this conference. Welcome to the TCS conference call. [OPERATOR INSTRUCTIONS]. I would now like to hand over the TCS management. Thank you, and over to TCS.
+KISHORE BELAI, IR, TATA CONSULTANCY SERVICES KTD: Thank you Fatima. Welcome everyone. And thank you for joining us on this conference call. I am Kishore Belai from the TCS investor relations team.
+I am sure you have all analyzed our results by this time. The results presentation, financial statements and press release are available on our website.
+Our business team is present on this call to discuss our third quarter results with you. Most of you are familiar with them already, but nonetheless, I would like to introduce them to you. Mr. S Ramadorai, our CEO and Managing Director.
+MR. S RAMADORAI, CEO AND MD, TATA CONSULTANCY SERVICES KTD: Good morning, good afternoon, good evening.
+KISHORE BELAI: Mr. S Mahalingam, our Chief Financial Officer.
+MR. S MAHALINGAM, CFO, TATA CONSULTANCY SERVICES KTD: Good morning, good afternoon, good evening.
+KISHORE BELAI: Our three Executive Vice Presidents, Mr. N Chandrasekaran, Head of Global Sales and Operations.
+MR. N CHANDRASEKARAN, HEAD OF GLOBAL SALES AND OPERATIONS, TATA CONSULTANCY SERVICES KTD: Hello everyone.
+KISHORE BELAI: Mr. S Padmanabhan, Head of Global Human Resources.
+MR. S PADMANABHAN, HEAD OF GLOBAL HUMAN RESOURCES, TATA CONSULTANCY SERVICES KTD: Hello everyone.
+KISHORE BELAI: And Mr. [Pilod Vandelera], Head of Global Corporate Affairs.
+PILOD VANDELERA, HEAD OF GLOBAL CORPORATE AFFAIRS, TATA CONSULTANCY SERVICES KTD: Hello there.
+KISHORE BELAI: We will start with Mr. Ramadorai presenting a brief overview of the Company's performance for the quarter, after which we will commence the interactive session.
+This call is being webcast live on our website [technical difficulty] on the site for the rest of the quarter.
+As you are aware, TCS does not provide any guidance. Also, I would like to remind you that anything said on this call that reflects our outlook for the future or that can be construed as a forward-looking statement must be read in conjunction with the risk that the Company faces. The full statement of this is available on the second slide in the results presentation.
+I now request Mr. Ramadorai to present the overview.
+MR. S RAMADORAI: Thank you Kishore. I just wanted to be very brief and most of you must have seen the website by now.
+The quarter three has been a great one in terms of both revenues going up by about 10 points, 61% quarter on quarter, and net income going up by 8 points, at 9% quarter on quarter.
+More importantly, we have already reached in the first nine months $2b in revenue which, again, is very, very creditable, that we believe.
+The earnings per share is [109] crores. 83 new customers have been added in this quarter. And we added 6,076 professionals and net additions.
+The acquisitions which we did in Australia and Chile, we bought a company [inaudible] has borne a result in terms of three strategic wins, one in India, one in China and one in Russia.
+And we feel that we and the platform-based strategy is beginning to take shape. And that will certainly be a platform for growth in the future in addition to the other areas, it is an all-around growth.
+We also brought in a new member to the Board as an independent director, and he is the [new] of [inaudible] innovation how our business will [transfer late] interest income. He joined the Board today as a independent director as I mentioned, which makes the total number of Board members to six, two from the TATA Group and four as independent directors.
+Overall, we have a lot of traction. And we believe we will serve and deliver value to our customers [as visible] as we interact with you, and we look forward to a good question and answer session.
+Thank you so much.
+KISHORE BELAI: We will now start the interactive session.
+OPERATOR: Thank you very much sir. At this moment I would like to hand over the floor to Lucy to handle the Q&A session for participants at the SingTel bridge. This will be followed by a Q&A session for participants in India. Thank you, and over to Lucy.
+OPERATOR: Thank you Fatima. [OPERATOR INSTRUCTIONS]. Mr. Pratik Gupta, please go ahead.
+PRATIK GUPTA, ANALYST, SMITH BARNEY CITIGROUP: Yes, hi. Congratulations on the quarter. I was just wondering if you can address the margin performance in this current quarter. It seems like while the rupee impact has been beneficial at the operating level, and also you had a favorable onsite/offshore mix and also the proportion of the low margin in India seems to have declined, yet your margins both at the gross level as well as the EBIT level seem to have come upside on a Q on Q basis.
+And there is also an element of something called other costs which has gone up sharply in the current quarter. I was just wondering if you could address what's really gone on. Is it pricing or some specific deal related to margin issues?
+That's number one. And number two, in the previous call you had -- or rather last quarter you mentioned that for the full year as a whole you expect margins to be largely flat Y on Y versus FY05. Is that still the case because that seems a bit pretty optimistic now given the performance in this quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay, this is [inaudible] here. Let me address this for the issue of margins. From a positive impact at the operating level we have had the exchange -- at a revenue level we have had the exchange kicking in. And as we have explained earlier in our press conference and so on about 74 crores and rupees -- of 740m rupees was the gain from a revenue point of view.
+And we have expenses also going up in some form. So the net result of the exchange addition was about 470 at the revenue and expenses level. So this will be in addition to gross margin.
+Now the other possible factors came mostly from offshore mix, there was a slight improvement in that. And you have had about 1% that's really kicked in. So these were positive factors.
+We also, at the same time, there were certain cost increases that really took place at the compensation level. Our employee costs at the [PR] level went up by close to about [3%]. And the SG&A costs, we paid a little over 1%. So this additional part of the employee cost was one factor.
+And the main reason for this additional employee cost was on account of certain overseas employees that we have taken on. And either level, as a result, [they came as] the result of acquisition or they were certain employees that we have taken on board.
+So the margin improvement that we had as the result of some of these possible factors declined once as a result of price increase in [POR]. POR, as you can see, went up by about 0.4%. And then that was one particular factor.
+Also, if I were to take some other costs that were incurred as a result of some [inaudible]. So these are the full largely main reasons why the margins were slightly down. Remember, if you look at the operating margins, it went down from 27.1% in Q2 to 27% in Q3. So that was a slight decrease as far as our operating margin is concerned.
+So to sum up, as far as the diverse positive factors that came in and the negative factor really was there were certain things from a subsidiary point of view, and there were also certain features from an employee cost point of view.
+PRATIK GUPTA: Sorry, what are the components of the other costs that have gone up sharply?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The other costs, essentially we had in the POR, that there are definite [costs] to public centers within SG&A. These are a lot and as many [inaudible] that came in, but one of the things that we -- in the SG&A was the marketing and sales promotion, there were certain events that have taken place -- that have taken place within the period, the customer events and so on. And then in addition to that we also had certain other statements in there from a -- some other statements. But nothing was very substantial.
+For instance, the SG&A, the costs went up from 969 to 1,300. But they were on [the people] here and there and that's why we have had an increase up to [inaudible].
+But I want to just emphasize one point that we have all along said that as far as the SG&A is concerned, it would be somewhere around the 19% mark. We invest for the cost management and managed to remain in the 19% mark. It will be -- POR Group essentially had a slight increase over the previous period.
+PRATIK GUPTA: Okay. And just give us some color on your outlook for the coming quarter. Are any of these costs one-off in nature and also your expectations in terms of the coming quarters' margins from investing, in spite of all the acquisitions which were taken in order to speed up and [inaudible].
+UNIDENTIFIED COMPANY REPRESENTATIVE: There are two main-ish issues that we have as far of the coming quarter is concerned. One is the TATA InfoTech integration and TATA InfoTech has a lower margin than TCS. And of course they are -- they are about INR10b in terms of turnover or thereabouts.
+And the other one is the result of the 902 people from [inaudible] coming in from in the [U.K.]. These two factors that would be significant as far as the coming quarter is concerned.
+So to that extent we will have certain cost pressures and there will be certain margin issues for a short period of time because I think I have explained earlier we are intentionally going in the right direction from an onsite/offshore. There are certain initiatives that we are taking on the cost front which should generate some additional margin. But then in one quarter I think we might see a slight [difference] because of the factor of the merger of TATA InfoTech.
+PRATIK GUPTA: Okay. Thank you very much.
+OPERATOR: Mr. Anthony Miller from Arete Research. Please go ahead sir.
+ANTHONY MILLER, ANALYST, ARETE RESEARCH: Yes. Hello there. I wonder if you can just give us a view, both on the demand side, whether you're seeing any change in the nature of the demand from customers and also pricing, what the pricing has been in the previous quarter and any changes in competition?
+And then on the supply side, if you could talk a little bit about the recruitment. It looks like all the players are recruiting extremely hard. I'm wondering whether you're seeing any tightening in the graduate recruitment into markets that might possibly lead to increased salary inflation in coming quarters?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Thanks Anthony. This is [Chandra]. First I will answer your question regards to [the margin pressure] before I pass to [inaudible] for the other question.
+Overall, the demand is quite solid. We have seen traction in different types of [builds]. First one is the outsourcing kind of builds we announced for the period in Q2 and we continued from that moment on in Q3.
+In terms of domains, we announced some successes in the [19] financial services insurance base, also in the retail segment. And apart from that, we have also seen traction in terms of projects a little bit, enterprise solution implementation work, [displaced] projects in terms of developing new systems and solutions [in architecture].
+And also traction in the [BPO] space. One is through the [inaudible]. We had to add additional policies to that platform. Those do not happen in the immediate quarter but it is something we are looking at going forward.
+Secondly, on the contracts we've foreseen, BPO definitely we are looking at adding volumes. And also [new-ish] areas like assurance [phases], infrastructure management also are gaining traction.
+If you want what I think, I think it has [inaudible] during the quarter. And as we stand here in the first [instance] with another couple of situations. Situations are we are winning new [inaudible] and are outsourcing these in order to get slightly better pricing. On the existing contracts it is stable.
+Then in terms of [inaudible] consulting in nature or [public] in nature, we are able to get similar pricing.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Anthony, this is [inaudible] here regarding the supply side. For the coming year we have wanted the company for the [campus] improvement and all the technical [scope] with the management [inaudible] at the time. And we have not seen any pressure on the standard of the entry level for recruitment this year.
+ANTHONY MILLER: That's great. Can I just reflect back at [Chandra], just what you were saying also on BPO infrastructure management. Are you able to give us an idea of what your revenues were for BPO and for infrastructure management separately please?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The BPO last financial year we had around the $20m mark. And this financial year, excluding the renewals from the full contract which we will get in Q4, excluding that, we should be in the region of $42 to $43m, start of this financial year. That's the kind of size we are talking about, 100% definitely on the existing BPO business.
+The cost structure business is fairly large. I am not sure of the numbers here, but it is in the region of close to $200m, $180 to $200m range of [inaudible].
+ANTHONY MILLER: Sorry, you said $180 to $200m annually?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, it's in that ballpark.
+ANTHONY MILLER: Right. Okay. Thanks very much indeed.
+OPERATOR: Mr. Bhuvnesh Singh from CSFB. Please go ahead sir.
+BHUVNESH SINGH, ANALYST, CSFB: Hi there. Congratulations on a good quarter. I was just trying to understand that how much of your growth was organic and how much came from specific inorganic growth. So can you give us some ideas -- some idea about [inaudible] situation and [inaudible] and how much they have contributed this quarter.
+UNIDENTIFIED COMPANY REPRESENTATIVE: The [inaudible] acquisition have contributed to a new [growth] of around [INR390m].
+BHUVNESH SINGH: And can you also share what exactly were the margins on that so that we can understand how much organic margins moved?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The margin movement, as we've said, the growth of INR393m, so we gained about 1.33% as a result of those.
+The margin of the level decline at the next level of 0.60 as a result of [inaudible] on the estimates.
+BHUVNESH SINGH: Okay. And have we already talked about ABN Amro contract and if certain, how many people have already come on board or how many are expected to come on board next quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The ABN Amro contract, as you know, has three components for us. One is the [inaudible] banking first part in Europe that is -- that has started and is in full swing. But it's predominantly [European] is that we set out underneath. The [inaudible] employed.
+The second portion is the application of maintenance contracts for the [inaudible]. And the third one is the application maintenance contract for [within]. Both of these have [comments contingent] on that. The team is just ramping up. And we continue to ramp up during the next quarter.
+The transition is going to take multiple quarters. The whole transition is happening in three ways, way one, way two, way three. And I am not in a position to give you the exact numbers because we don't give the exact ones until the [inaudible] conference.
+BHUVNESH SINGH: And for the last question, can you give me the [renewal] position at the end of the quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The sales and provision may not be set at about 83 base on account of a stable position. The account of the stable actual amount of INR26.7b, that was unbilled revenues of about INR4.4b.
+BHUVNESH SINGH: Thanks. That's really helpful.
+OPERATOR: Mr. Joseph Foresi from Janney Montgomery Scott, please go ahead sir.
+JOSEPH FORESI, ANALYST, JANNEY MONTGOMERY SCOTT: Hello. It's Jo Foresi calling on behalf of Mayank Tandon. My first question is about utilization. [Emphasis] reported yesterday that its lower utilization rate was due to having to have a higher bench due to larger projects. I notice your utilization went up. Are you seeing now larger projects that you're needing to have a larger bench? And if so, do you see your utilization rate falling?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, in fact, our utilization rate this quarter has [treatment]. If you look at the numbers, including trainees, we have moved up from 74.97% in Q2 to 75.5%. And it really is the move from 78.45% to 78.29%.
+It is -- it's important at this point in time. Going forward we are looking at this very carefully because, as [Bali] mentioned earlier in the press, we are adding people in [inaudible]. So they come with a certain implementation level. So we are making plans to improve the overall utilization maintenance [inaudible] impact at this point.
+JOSEPH FORESI: So on these larger deals are you guys factoring in that you will need a larger bench?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, I think the current bench we have is quite good. But our interest has always been to maintain the utilization market, excluding trainees, around 76 to 79%. That is the [target] we are operating.
+And if you see the last two quarters, there have been instances where we have gone just under 77%. And now we are at 78.2%. And [76%] [inaudible].
+[technical difficulty].
+[inaudible] was it okay? Did that answer your question?
+JOSEPH FORESI: Yes, that was okay. I just had two more quick questions, if I could. My second question was about your offshore mix. I know you said it improved. Do you continue -- do you think you will continue to see an improvement in the off shore mix and more revenue being done in offshore work?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think if you want [inaudible] this question with [inaudible]. If you get overall [inaudible], we have the engagement being [done in] India, on our onsite/offshore model. And we are having engagements on these of others global [inaudible] offshore models. And we have a good number of prospective [movements] as well. And that would be also taking on people in the U.K. who will be coming on board next quarter.
+[inaudible] what are the revenues for the [inaudible] agreement, keeping in mind our customer delivery. Second is the margins. The margins we plan for this [inaudible] are engagements which are allowing our sourcing contracts which are India based and [inaudible] and more allow work offshore.
+Definitely we are expecting more work offshore. In that sense, there is definitely further possibility in the product mix. But in the same time, we want to take into account other factors when we look at the [inaudible].
+PILOD VANDELERA: This is [Pilod Vandelera]. I just want to make a point, if you look at the full onsite/offshore, it is something that has evolved historically over a long period of time than in a [bipolar] world. As the industry goes global, I think we will have to work with the analyst community in defining what is offshore and what is onshore because a project that you do for a customer in the U.K. you do out of Hungary, is that really -- at this point in time it's reported as onshore. But it still is actually offshore and we have the same margin impact as you do offshore from here.
+But you have to work together as the industry goes global to try and figure out what is the right way to really track this rather than just looking for bipolar.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And until the last quarter, Global [GDC] had a few hundred people. As we are expanding and hiring in terms of the number of people, we need to look into that.
+JOSEPH FORESI: Okay. Just one last quick question, if I could. Your headcount growth, does that include acquisitions?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, the headcount growth includes the 150 people we added in estimates in Australia, and the 450 people we are [inaudible] in Chile.
+JOSEPH FORESI: Okay. Thank you.
+OPERATOR: Mr. [Manu Singh] from JP Morgan. Please go ahead sir.
+MANU SINGH, ANALYST, JP MORGAN: Yes, hi. Congratulations to the management. [inaudible] your revenue growth, I [inaudible] a little bit into the volume growth we have had, what's the kind of pricing that we have seen, and what's the [inaudible]?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Manu, the revenue [inaudible] in the past the exchange impact has been really on the international business. So international revenues, while standing at about INR28.98b, there is a compound growth of about 10.39% as we have shown.
+The [inaudible], you have looked at the impact of the foreign exchange which was about INR740m or thereabouts, which is about [6.6%] in terms of impact. And then there's overseas acquisitions and so on. Those were about 1.3 also impact.
+So if you remove all that, that's the balance of any on account of largely volume based because there is no price -- you know it has been a fairly stable price kind of factor. So this is the volume growth that we have seen as far as this particular quarter is concerned.
+MANU SINGH: Sure.
+OPERATOR: At this moment there are no further questions from Pakistan at SingTel. I would like to hand over the proceedings back to Fatima.
+OPERATOR: Thank you very much Lucy. [OPERATOR INSTRUCTIONS]. First in line, we have a question from Mr. [Anen Tenaline] of Morgan Stanley. Please go ahead sir.
+ANEN TENALINE, ANALYST, MORGAN STANLEY: Thank you. And I wish you all a happy new year. My first question was on the impact of the full Group for the next quarter and for fiscal year '07. Can you give us a run through once again what will be the impact on revenue, and should we be aware of any one-time impact on the cost side, especially for the next quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [inaudible] but there is nothing that is new at this moment in time. The revenues are kicking in and expenses that are coming at that point in time. It's not going to be ahead of that time. And there is a certain amount that we had said we would pay in order to cover the operations first. That would get based on them in this quarter -- in Q4. So that would really come in and we must be aware of the cost of discussions in terms of finalizing the [inaudible]. So there will be no surprises. Contracts. [inaudible].
+ANEN TENALINE: Okay. And just finally on the [inaudible] fund, when can we expect to see some consolidated statements? Will that be done at the end of next quarter or will it be released during the quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We are, as of now, planning on doing it only at the end of the quarter. We are engaged in some sort of thing here [inaudible] here to see what we can do in terms of giving you the impact of this inorganic growth into TCS. And that will come along with the Q4 [inaudible].
+ANEN TENALINE: Okay. Thanks a lot.
+OPERATOR: Thank you very much sir. The next question comes from the line of Mr. Mahesh Vaze of Brics Securities. Please go ahead sir.
+MAHESH VAZE, ANALYST, BRICS SECURITIES: This is something that you discussed as an answer to an earlier question and I did not quite understand it. You said that the reason why salary costs went up was these people you took on your payroll. Now, if I look at your numbers, in the first and second quarter both of which you had salary hikes. The salary cost, in absolute terms, went up sequentially by 59 crores and 122 crores. This quarter the salary costs are [1,195] crores.
+What I want to understand is, is this larger all coming from people you have taken on your payroll or you have given a second round of salary hikes to some of your employees?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, we have not given any second round of salary hikes. [inaudible] as part of last year -- the last quarter was concerned. There are two factors. Only one in terms of the additional people that have come into the organization in India as well, and then the second one is the people who have already come in outside of India.
+You know the salary, when we look at the salaries that are paid in India as well as outside of India for our own [direct to the Group] that is not very much [inaudible] from a percentage point of view. But the others [inaudible] really come in that is the [inaudible] grants and the estimates, and some of the other quantities that [inaudible] has, which is a group of people, those are the trends that we have from a [inaudible].
+MAHESH VAZE: But, [inaudible] back and the whole thing, even after this employee recruitment, the whole employee cost seems to be very high for the acquired entity. What I want to understand is, is this some sort of one-time deal which is [initiating] the picture?
+UNIDENTIFIED COMPANY REPRESENTATIVE: That does not come into the picture so far. In the quarter -- yes, no, I do not [this time]. There have been no costs from [the parts that have come in this time].
+UNIDENTIFIED COMPANY REPRESENTATIVE: There is no one-time cost that we have [implemented on the] [inaudible].
+And I comment on the [inaudible]. And also a lot of people come [inaudible] 1,251 people, and salaries are about 150 plus. [So fortunately for these new people.]
+MAHESH VAZE: So when your tax rate has come down from 16.3% to 14.6%. So what is the reason for this movement this quarter, and what tax rate should we be looking at going ahead, because it was around 16% in the first quarter, as 16.6%.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Basically the costs that we have incurred have rarely been outside India. So the profitability, to some extent, has come down on our outside operations. So our international tax has perhaps come down slightly.
+MAHESH VAZE: So that our offshore proportion of revenue has gone up. So would that mean that there has been significant decline in the onsite profitability?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No. That doesn't follow right. As far as the offshore is concerned, that was the absolute amount of profit that we make overseas obviously [confront] because the volume of activity [confronts] slightly. But that doesn't follow our growth in that [sequence].
+But all that I'm saying is that because of the additional costs that have been incurred as part of our [price] [inaudible] in terms of the global compensation, we said that we had given customers the other costs that we have incurred. Those are the ones that have resulted in the on-price profitability coming up.
+MAHESH VAZE: Okay. That's clear. Thank you.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Our next question comes from the line of Mr. Pramod Gupta of HSBC Securities.
+PRAMOD GUPTA, ANALYST, HSBC SECURITIES: Hello. Good evening everybody. I just wanted to understand about our ForEx cover situation and what has happened during the quarter. What kind of policy are we using and what have we done to keep the cover? And is there any [OCR] provision and what is the mark-to-market gain and loss position that we have [as in front].
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay. This was, as you all know, [inaudible] [one bad hand] of the quarter. And things went up and down and all these kind of things. So basically, the net result of all of that was that we had a certain loss as part of the agreements in turn.
+First, of course, given the [make up] in terms of the revenue and the way it strengthens, but in addition to that we had what we could call in terms of losses on account of [the heading]. You know the policy was we would go ahead and protect ourselves at a certain rate. And this is what we have done.
+I think from our policy point of view we sustained them in terms of management of the foreign exchange. So we had begun in a growth of about $500m in terms of options because we let them lapse and [from part of it]. And as far as forward cover is concerned, we had about $300m in terms of forward cover.
+And again, they were all around the [inaudible] mark. So we eventually had them cancelled at a certain point in time when we found that the rupee was depreciating at a fairly fast rate. So that was our [intervention] that we had done at that point in time.
+But later on, I think, we continued to see [inaudible] in the other direction, and also given that we have certain commitments from a Q4 perspective as relates to the year, the R&D [inaudible] that we reduced the whole team and came up with certain approaches that we would follow.
+But one particular thing that we would find [inaudible] to some extent on the level of about [INR45], that's what we have done. And as of now, we have about INR795m in terms of hedge provision of about $100m in the forward [double]. That's close to about INR45. And the remaining 25 is between 44 and 45, a reasonable amount around 45.5, thereabouts and so on.
+So that's why we have literally been looking at the situation on a regular basis. And we will take the call as we go along.
+Again, to repeat the point that I made earlier, our intent is to protect our -- the net inflow at a certain rate. And we look at the pricing. We look at the kind of factors that we need to have as part of the [inaudible], we have done it and continue to follow that strategy.
+PRAMOD GUPTA: And is there anything on the OCR? Is there anything as comprehensive as those? Is there any gain or loss and what is the mark-to-market position, if you can tell?
+UNIDENTIFIED COMPANY REPRESENTATIVE: On the -- yes, that was on that [inaudible] -- that's about INR100m was the gain. Yes, it was INR100m was the [current] option.
+PRAMOD GUPTA: Okay. Thanks a lot.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Our next question comes from the line of Mr. [Sheikh Hussein] with ICICI Securities.
+SHEIKH HUSSEIN, ANALYST, ICICI SECURITIES: Hi. Good evening. I just wanted to know the kind of [ratio data], I understand it seems to be slightly weak, with the number of million dollar contracts reducing. So is there something specific which is happening or is there a general slowdown is another thing which you are seeing?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, I don't think that we should read much into that. There is no slowdown. Typically what happens is that the one million dollar clients that are booking, sometimes when we get engagements of an outsourcing nature, and we also are taking a lot of project work. So we know there is project work that [individual services through], it does not have an immediate follow-on revenue. That's one reason.
+And from the one million dollar clients [for the 5m] [inaudible]. But the demand is solid and has been announced in the client wins, as with the [inaudible] wins and the [inaudible].
+SHEIKH HUSSEIN: Lastly, I just wanted to know is there any other large deal that you are working on, though you might not be able to name them, but in terms of the process, some of the significantly larger ones in terms of this number, etc, which you believe are on the market and [inaudible]?
+UNIDENTIFIED COMPANY REPRESENTATIVE: You can imagine that we are working on [inaudible].
+SHEIKH HUSSEIN: [The things you've been working on and sales like] is there something you can expect sales --
+UNIDENTIFIED COMPANY REPRESENTATIVE: There are always a number of deals going on. And as you know we are looking at total opportunities. I cannot specifically comment any -- what the deal are [today].
+SHEIKH HUSSEIN: Thanks.
+OPERATOR: Thank you very much sir. Our next question comes from the line of Mr. [Samil Kuyal], [inaudible] Securities.
+SAMIL KUYAL, ANALYST: Yes, hi gentlemen. [inaudible] can a certain rise on the progress you are making in the consulting business as well as on the set leverage solution, especially on the set leverage part because we have not been seeing any growth in this business.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, if you really look at the leverage area, this time we presented a number of deals [technical difficulty] the leverage solutions space. There has been a significant traction in terms of the [inaudible] in the banking space.
+With the acquisition of [inaudible] and the integrated product portfolio we have, [inaudible] and the other -- two other products we have, the [inaudible] except there's a lot of traction in the marketplace. We will be consolidating this and [inaudible] properly in order to give it a push. So we expect that there will be significant growth this quarter in the leverage solutions going forward and in the subsequent quarters.
+And with regard to consulting, we are in the ramp-up phase. We have now got about 350 consultants in the consulting unit. The number of engagements has grown significantly. There are [particular] clients this quarter. And [inaudible] engagements we have done this quarter. And the revenues are also -- the revenues are also increasing significantly quarter on quarter.
+But still, what is required is a significant number of additional consultants that we need to bring on board in each of the individual geographies they are operating in. In U.K. we have had a good number of consultants we have in place and we continue to hire. In the U.S. the process is going on, but we still need to ramp up.
+So I think it will be a couple more quarters before the [price] becomes potentially to the place we would like it to be.
+SAMIL KUYAL: Is there some difficulty in finding the proper consultants in the U.S. or in other geographies, or is there some other issues which are really making you not ramp up that fast?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, there is no difficulty in recruiting talent. The basic process is that one is we recruit people, the second one is we have got to go through the training, the [inaudible] and integration work, etc, so it is taking time.
+The second thing that has to be done is to consolidate all the consulting [inaudible] from [where they are] in the company, and link them under [inaudible] situation because there is a [inaudible]. Substantial work has been achieved. But nevertheless, in order to ramp up the number of consultants and integrate them, it's going to take some more time.
+But in terms of revenues, on a quarter on quarter basis, the consulting business is doing really well and we are getting premium pricing. It's just that we would like to operate in more areas than we are currently operating. Today most of the work is in the area of IT architecture, IT governance, security consulting, project consulting, and some [remainder] work in financial services.
+We want to expand that. We have recruited people in South America, in Europe, for the individual consulting practices. And they are all in the process of ramping teams.
+SAMIL KUYAL: [Fine gentlemen, thanks and] [inaudible].
+UNIDENTIFIED COMPANY REPRESENTATIVE: Thanks.
+OPERATOR: Thank you very much sir. Our next question comes from the line of Mr. [Trubit Batitalya] with UBS. Please go ahead sir. Hello, Mr. Trubit? Are you there sir? We move over to the next question. Next we take Mr. Pankaj Kapoor from ABN Amro.
+PANKAJ KAPOOR, ANALYST, ABN AMRO: Yes, hi. Congratulations on a good set of numbers. My question relates to the CapEx plan for the current year. Could you give us a sense of how much of the CapEx stands in the current quarter, and how are we on track for the full year?
+UNIDENTIFIED COMPANY REPRESENTATIVE: This time we have done about INR3.3b in terms of total additions during the period. The other two [construction] points that we are doing. So we don't [give] the numbers, would be used as part of the [inaudible] financing. We are planning for a similar kind of CapEx position as part of the next quarter.
+PANKAJ KAPOOR: Okay. So we are basically [inaudible] this quarter, and we are looking at a similar number happening for the next quarter also.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes.
+PANKAJ KAPOOR: Okay, and maybe a quick question on if you can share the number of [campus] offers that you have made within the quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: For this quarter?
+PANKAJ KAPOOR: Yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, okay. In the -- for the campus this should be on dial-up next year.
+PANKAJ KAPOOR: Yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, because this quarter there are [inaudible], and for the first nine months so we are maybe talking about [10,000] offers for the campus.
+PANKAJ KAPOOR: Okay. And you have already covered these offers, so we expect these to join early in the next [inaudible]?
+UNIDENTIFIED COMPANY REPRESENTATIVE: That's correct. [Inaudible] in June next year.
+PANKAJ KAPOOR: Okay, thank you and all the best.
+OPERATOR: Thank you very much sir. We have the next question coming up from Mr. [Surithin Bathal] of Deutsche Bank.
+SURITHIN BATHAL, ANALYST, DEUTSCHE BANK: Thanks, good evening gentlemen. I've got a couple of very quick data related questions. First, what is the volume growth of this quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: 8.2%.
+SURITHIN BATHAL: 8.2%?
+UNIDENTIFIED COMPANY REPRESENTATIVE: 8.5%.
+SURITHIN BATHAL: Okay, and second is related to this contract employee costs. That thing's gone up by something like about 65 crores on a quarter-on-quarter basis, and it's nearly double of what you spent in the first quarter. So is there a change in philosophy out there and what's really going on with this number?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, it is -- on this contract, there you are talking essentially about the business associates, is that right?
+SURITHIN BATHAL: [Associates], that's right.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Business associates, it is -- no, we said that is some amount. That is where we come from overseas locations [as also] but in addition things that we have had to do in some overseas locations. That is [inaudible], that's the [inaudible] and also in terms of our own [bandwidth] in some locations that we have taken up. [Pilod]?
+PILOD VANDELERA: There seem to be -- there have been some [inaudible] by business associates and we do agree that it went up from [inaudible] to some extent impact of [inaudible] and also about 3.3% of our revenue but this is one area [inaudible] managing to ensure that we [combat].
+SURITHIN BATHAL: Okay, so you don't actually see this rising going forward? Okay, let me rephrase that. Do you expect that the [inaudible] to mean or do you think this is a new level?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, this would not be the new level. It will come down slightly, but it won't go back to that level and India [inaudible] some of these measures have come, but I think we have somewhere around there, between these two. [Inaudible] wanted to add something.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, there are some countries where it is beneficial for the individual to sign us on a contract basis and not on a permanent [supply] basis.
+SURITHIN BATHAL: Oh, okay, so these are prime contractors in some of these places?
+UNIDENTIFIED COMPANY REPRESENTATIVE: And particularly in [inaudible] we have over 80 people who have the kind of obligation, so we are handling maybe close to 100 people. With all practical purposes they are working as an employee because local factors [inaudible].
+SURITHIN BATHAL: Okay, I got that. Okay, and then finally on the data side, if you could break out other income loss into what's your interest income for the quarter, what's the ForEx loss on mark-to-market, and what's the translation gain?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, you know we -- the connection is that [inaudible] you know we had close to INR253m in terms of gains and the evaluation, we had a loss of about INR120m and the total is a forward [inaudible] of [INR451m]. So the total ForEx loss as far as that [inaudible] is concerned was INR318m. You know you [inaudible] of that is actually also about INR40m in terms of interest and [dividend] [inaudible] total about INR80m.
+SURITHIN BATHAL: Okay, and then one final question for [Chandra] in terms of the outlook that you see panning out in January for 2006, what are the key growth areas and what are the key challenges, really?
+UNIDENTIFIED COMPANY REPRESENTATIVE: In terms of growth areas, one is the ramp-up of all the contracts that we have signed, that will be our existing contracts and we continue to see some also from our pipeline, so we continue to focus on [those] and ramp up on those contracts we have won.
+The second one is [inaudible] Solutions Practice and [inaudible] so we wouldn't be looking for project work in the Enterprise Solutions as [inaudible] were displaced by the [inaudible]. Third, on the BPO, we continue to look for contracts [inaudible], one large scheme which we announced is a ramp-up, but additionally we look for specific areas where we are in the [question], so that will be another growth opportunity if we close those deals.
+And then importantly, there will be a number of opportunities which we would foresee in all the other areas for the consulting, Assurance Services, re-engineering, [inaudible] etc. They are important engagements. They might not be engagements of multi-million dollars but they come with a slightly [higher] pricing.
+Then lastly, we would like to focus on licenses for some of our assets, [specifically] with a consolidation of the [two] integrated banking portfolios that we have. We will be looking at that, for not probably the immediate quarter, definitely for future quarters.
+SURITHIN BATHAL: Right, thank you very much and good luck gentlemen.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Next question comes from the line of Miss Mitali Ghosh with Merrill Lynch.
+MITALI GHOSH, ANALYST, MERRILL LYNCH: Yes, good evening and congratulations on the good set of numbers. My question was on the demand environment. You're comparing it to what you were seeing in about three months back when we last spoke. Fundamentally, do you feel that in terms of the pace of deals in your field cycles and the competitive environment, could you comment on any changes that you have seen?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think [inaudible] mentioned it right at the beginning. The growth momentum is continuing. We don't feel any pace of a change. I think the growth momentum is continuing. We are seeing [growth] at this point in time, and there are specific [revenues] in which we are [inaudible] especially we have a tight contribution to [inaudible], and retail, and we also see telecommunications also in America, and the Enterprise Solutions from our integration work point of view business [ingredients], quite a few are familiar [inaudible]. Those opportunities are continuing so we're really not seeing the change in demand environment.
+MITALI GHOSH: Right, and what about the competitive environment? Are you seeing -- how is that changing in terms of increased local vendor participation, etc?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, definitely it is a competitive market. All the [inaudible] are Indian companies there. There are companies who are investing in others [inaudible]. But when it comes to project work of [inaudible] depending upon the region, can be [inaudible] the competition is really -- and also there is [a way] of looking at the multi-range of strategies from [inaudible] but then it's also [familiar].
+MITALI GHOSH: Great, and just on this advance situation itself, if you were to try and figure out how many large deals are in the market of maybe more than INR50m, would you be able to put just a gross set of numbers to that?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, that is very difficult to give those numbers.
+MITALI GHOSH: Okay, okay, and the second thing I wanted to discuss was the Global Development Center that you have, if you give us an update on how those numbers have moved and how many people you have there, and also progress and possibly the [China] Center?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [Inaudible]?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes. I would also say though, in this quarter, we have approximately [1,676] employees in our GDC. This is compared to [1,370] at the end of last quarter. We have added close to 300 people in the GDC.
+MITALI GHOSH: Great, and just one last thing, the recruitment number target that you had given initially, if I recall correctly that was what, 15,500 including overseas on a net basis? Did you have a gross number for that, gross target you had in mind?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, for the first nine months abroad we have [divested] 3,857.
+MITALI GHOSH: Right. I actually had those numbers. I was just trying to see that you have a higher target now than what you had in the beginning of the year, so I was trying to compare the gross target you had at the beginning?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, it's just the same target that we had in the beginning. Last quarter also, I said that we will have an addition of roughly [2,500] in this quarter. For the Q4, we are listing that [inaudible].
+MITALI GHOSH: Okay, thanks.
+OPERATOR: Thank you very much, madam. Our next question comes from the line of Mr. IP Balakrishnan with JP Morgan. Please go ahead.
+IP BALAKRISHNAN, ANALYST, JP MORGAN: Yes, good evening sirs, this is [Monaj] from JP Morgan again. My question relates to the Europe growth. If you look at Europe, it's grown around 18% sequentially. What is specifically happening there, and do we expect the momentum to continue?
+UNIDENTIFIED COMPANY REPRESENTATIVE: If you really look at it, the European market, we announced the number of [builds] in the last quarter, although we're ramping that up. That's the primary reason. We are confident of the growth momentum in Europe will continue [inaudible]. We are continuing to see the [pressure].
+IP BALAKRISHNAN: And additionally, lastly, in terms of pricing, last quarter management maintained that you have seen increases in pricing from a new client and over a period of time you will expect pricing to move up, so how is the pricing plan looking right now, and maybe not numbers, but over the nine to 12 months, what kind of pricing plan should we expect to see? Thanks.
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think the existing contracts are fighting steady, but the new large contracts we are able to get slightly higher pricing, but again this is not [inaudible] projects as [inaudible], some of the earlier [inaudible] services, they are depending upon [inaudible] slightly senior pricing, but then, [inaudible] we can do in that type of work is something that we feel confident that it will continue.
+IP BALAKRISHNAN: Sure, thank you.
+OPERATOR: Thank you very much sir. We have a next question coming through the line of Mr. [Sudip Badulias].
+SUDIP BADULIAS, ANALYST: Hi, good evening, it's Sudip Badulias. My main question is trying to understand your overall organic growth acquisition strategy and the impact of the margins? And we know that we're going to have just in the next quarter, but I just wanted to understand it, particularly how much of this is [inaudible] structural and how much of this is, if you could call it, technical that we can explore, that we can think of getting it back? And is it a timeframe that you have in mind or some target by when you expect the margins to crawl back to a particular level which might be different from this level, or from the current level so that it might be seen as this level?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, as far as acquisition targets and acquisition things to confirm, we have a very definite plan. In fact, [inaudible] talked about the three wins that [SMS] [inaudible] revenues in fact [inaudible] so we are not really giving out very long time horizons, but still maintain or improve the margins and then make sure that they will deliver at this level, so there is no [inaudible] and I don't think that should be a main concern as part of our [inaudible]. Obviously we integrate those acquisitions in order to remain at the margin level. That's the point that I would now like to make as far as these are concerned.
+Now, the other point is that as far as other [inaudible] is concerned, I want to make the point that the synergy process has been on for quite some time. In fact, we have been doing quite a lot in terms of mining and so on, but this company is coming to us at a certain date in Q4 with effect from April 1, 2005, and you want to know about the kind of margins they had in the last couple of quarters and so on, so that is an impact that we will have for a short period of time, but we have gone and [created] our sales proposal.
+We have gone and looked at all the additional offerings that we would like to make there, and we think that even that won't really start coming in at the same margin that we are having as in all our business, so the margin is [inaudible] and I earlier mentioned about margins. What I would tell you is that as part of the -- there are two significant developments that are going to take place in Q4 and two significant developments [inaudible] that are going to be coming. Immediately there is going to be some issue there, and as part of the [contract] we are starting to [inaudible] significant on-track presence although the latest word on their big plans that we have as part of that platform is concerned. Pilod, you want to add?
+PILOD VANDELERA: Yes, I think [inaudible] in terms of directionally where we are moving, particularly to give you some input, number one, that we have done about [inaudible] that we have done in the last few months which we are in the process of integrating, and they are in the issuing phase. And we have done that rather cautiously for us [inaudible] that we have got various development centers [inaudible] on site, we need to -- we are in the process of identifying what messages we need to get, and the [inaudible].
+Again, with regard to the [inaudible] the advanced formation program will bring in sufficient [wins] over a period of time, so it will take some time for us to bring in those opportunities. [Inaudible] the new opportunities [inaudible]. Currently there is [inaudible] of lower than [inaudible] and we are working through those numbers and we will be making [inaudible], and definitely, and there are also opportunities of off-shooting on the current [inaudible] that we are having, and the third one is, there are [inaudible] businesses that are very different from sales.
+They are looking at [inaudible]. How much of that business will be a business building around those revenues or we should not be bringing on those revenues, with those types of deals, but these are immediate positions that we can take and make an impact in the outcome, so we have looked at [inaudible] and have an action plan, so that may be an immediate impact but in our [strategy] it is to be in line.
+IP BALAKRISHNAN: Okay, thanks for that, and sorry for [laboring] on this, but is it some [inaudible] that you have set out for yourselves, that by the next quarter the margins should be taken, by and large, on track, or that is too much to ask for?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, that is not too much to ask for and we can certainly address that, but [inaudible] as we have said, it is not a long fine line into one that we have. We essentially view it one quarter, two quarters type of thing and these kinds of things, but you have to deliver them fairly quickly, and that is the reason why we are paying phenomenal attention.
+For instance, [inaudible] significant manner, and firstly that is going to be delivering value relatively quickly, they are releasing the [inaudible], similarly with regard to Comicrom there are certain strategies in place. But from a new business and so on, similarly we've got strategies in place to dominate the platform and [inaudible] very quickly and some of these new projects from the cross-selling utilization improvement and all those kinds of things, and so these things cannot take a period of -- a long period of time. That much is definitely true.
+UNIDENTIFIED COMPANY REPRESENTATIVE: In fact, some of these initiatives will be taken immediately, so we're talking in terms of a few months.
+IP BALAKRISHNAN: I see. I see. One small thing, sir, in your press release you mentioned about significant wins from, let's say, having quite a few plans. When you say significant, is there a particular size attached to it that you have in mind or that is more than, say, to 50m or 100m or something of that, other when you say significant?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, when we say significant there are two or three [inaudible]. One is that if there is a large contract value we cannot [inaudible], or there is a lot of potential to grow that. There is a second one. Sometimes it is -- I don't whether you are referring to any specific one that I can answer, sometimes it is because it is so strategic from our whole future point of view, so I wouldn't -- my request to you is not to put some numbers and have it from them [inaudible].
+IP BALAKRISHNAN: I'll try not to. You had mentioned in the press release, or in the presentation that you had two clients lined up on the back of the insurance BPO acquisition. Now, do we see that the Comicrom acquisition has already started delivering results right in the first quarter? Is that the way you are looking at it or am I looking at it wrongly?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, I don't know what you are referring to.
+IP BALAKRISHNAN: Okay, well -- okay, maybe I'll take this offline, but there is a mention of two such clients on the insurance BPO side which has been -- which have been lined up.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, I think we referred to adding two clients in Chile, or two engagements not on the insurance BPO side.
+IP BALAKRISHNAN: Right.
+UNIDENTIFIED COMPANY REPRESENTATIVE: With the Comicrom relationship, and we are able to close two engagements but both of them are [inaudible] engagements, of course.
+IP BALAKRISHNAN: Right.
+UNIDENTIFIED COMPANY REPRESENTATIVE: But I don't think we mentioned anything about insurance BPO.
+IP BALAKRISHNAN: Right, and last thing is, earlier you've talked about the division of 2010. As you see today, what are the revenue gaps with the [various] portfolios that you've identified at least with [sales]? Are they immediately, let's say, in the one or two years?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, we've got them all over [inaudible]. We've said that the BPO story is falling in place with regards to the new platform, into the [verticalisation] of this platform.
+IP BALAKRISHNAN: Yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Again we are in the area of [inaudible] lot of potential growth. We are certainly [arranged] on the package and [inaudible] is for, and we are building a lot of front-ended [inaudible] whole market. More importantly, the solution integration capabilities of the [inaudible], large engagements like that will be ready for [inaudible], but the use of [knowledge] and sales of our program management capabilities [inaudible]. If we work around these dimensions in relation to this, [inaudible] the offshore model.
+IP BALAKRISHNAN: Yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: But having said that, there is still some complication of [inaudible] offshore deliveries. [Inaudible] global engagements and the delivery times [inaudible] and that's why our [network] delivery model is very crucial. So creating direction on the ground and integrating the IT, IT and [inaudible] is core, and that's why we look at building the business for the future.
+IP BALAKRISHNAN: I see. Thanks, and sorry for taking too much time.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. We have the next question coming up from [inaudible].
+UNIDENTIFIED SPEAKER: Hello, and congrats for a great quarter. This is a follow-up to a question that you answered earlier. If you were to break out revenue in terms of their impact of the rupee depreciation, and you said for acquisition it was 1.3%, could you repeat that again? I didn't quite get it.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, that's what -- I think that's the exact number in terms of the acquisition, the impact of it.
+UNIDENTIFIED SPEAKER: Yes, and the impact of the rupee or the depreciation?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The impact of the rupee and depreciation was about [inaudible] from a revenue perspective, that was 740m or [inaudible] and expenses also increased by [inaudible].
+UNIDENTIFIED SPEAKER: Okay. Yes, and this -- what has been the impact of the rupee depreciation on the margin?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The impact of the rupee depreciation overall, we have had close to about [inaudible], so it means that we've been able to draw a complete profit and loss account of that taking into account the revenue extent of the revaluation, the [inaudible] and so on. So it has been a positive one, not a negative one, and also one [inaudible].
+UNIDENTIFIED SPEAKER: Okay, so if you factor that in, the kind of margin that we are seeing in the quarter, despite the rupee depreciation, has been more or less flat? So leaving out the effect of integration of [inaudible] for next quarter, how do you see margins going forward in the next quarter especially?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, you know the thing is [inaudible] --
+UNIDENTIFIED SPEAKER: Yes, but the rupee depreciation impact would have been greater, am I right in saying that?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The impact, as part of [inaudible] for the rupee, the [inaudible] would have been a little bit -- definitely an impact, but also, don't forget that we also had a fairly big [inaudible], so there's some impact that we've had. Of course, going forward we will have to take [inaudible] but something like [inaudible] but otherwise we won't. So, you know, let's split your question into one as far as the [inaudible] is concerned, so I would say that they have been somewhat [inaudible] as far as this process is concerned, just because they are thinking that we have managed it extremely well. One should be looking at the last as one point but there is -- but then what did you do, and how did you [inaudible] and that's a very important one, so it's about [inaudible] number.
+So let us look at this question of how we are going to have the margin fixed. As I explained, the margin issue has [inaudible] and in cost of revenue, we have essentially talked about the compensation related one, especially on an ['06] level. The solution here likes that, clearly utilization is very good. We have to ensure that from a margin point of view, everything delivers to the levels that we want. We are not in a really low margin business at this moment in time.
+So there is a question of certain actions that we will have to take, but we know quite well, if we drag the projects off [inaudible], we know that we get the projects in the certain areas that we need to pay attention and so on, and we are looking at it, so to a large extent, that is a management problem upon which we should ensure that these margins pressures stay at this level.
+Now we come to a different situation that you talked about, which was very weak, [inaudible]. All that we are saying is that the [inaudible]. We are going to take some amount of time. We just wanted to alert you to some events that are going to be taking place as far as this quarter is concerned. The picture I want to leave you with concerns that we are acutely conscious of margin [negativity]. Margin [inaudible] will happen in this kind of environment in a cost management perspective and a utilization perspective on the [inaudible], you know, what kind and do we [inaudible]. We are acutely aware of that, and we will try and make sure that we maintain that.
+UNIDENTIFIED SPEAKER: And just another question, what would be the revenue and cost impact of the full integration for the next quarter alone?
+UNIDENTIFIED COMPANY REPRESENTATIVE: It's difficult to say at this point in time other than what we have disclosed so far, and the revenues that are [inaudible]. The expenses will also kick in at the same time as the revenues. They might kick in earlier than that, but there are no other costs associated as well as that is concerned other than what we have told you, so at this moment in time, it is very difficult for us to quantify significantly.
+UNIDENTIFIED SPEAKER: Right, thanks a lot and congrats on a great quarter.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Thanks.
+OPERATOR: Thank you very much, madam. The next question comes from the line of Mr. [Menaz Mistry] with [Revco City] Securities.
+MENAZ MISTRY, ANALYST, REVCO CITY SECURITIES: Yes, congrats on a very good quarter. My question stems from what would be the share of [Legal] Services across verticals? From your [BFSI], what would be the share of Legal Services, so asset leveraged solutions and integrated solutions and testing, or you can give a breakdown on the [ADM] Services?
+UNIDENTIFIED COMPANY REPRESENTATIVE: That would be, we [tried] that, but we don't give those numbers on a quarterly basis yet, so at this point, we are unable to give you the percentage of Legal Services of the overall growth, but we will definitely consider that [inaudible].
+MENAZ MISTRY: Okay, so a rough basis, say, ADM on a rough basis?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, I don't know if you have seen the presentation. It's 71.2% of the overall revenues from ADM, but then you see that the new services, some of the new services like Testing, they are also on the back, and the fact [inaudible] on the new services at this time. So it's very difficult for you to get this information, what you are looking for.
+MENAZ MISTRY: Okay, and the second question is on the [DL] front. DL is also doing some system integration business, and can you just tell me which are the geographies DL has been focusing and how it has been different from BCS system integration?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, the answer [inaudible] primarily focused on India, and their overseas business is from Indian [inaudible] solutions application maintenance and [application related]. They have got clients in the U.S. and in Europe and in a couple of countries in the [APAC] as well, a few clients. But the system integration business is largely an Indian one.
+MENAZ MISTRY: Okay, and PLS has also been doing some work on the equipment side, so are you going to look at developing that business going ahead or you will be coming out of that business, or what will be your strategy there?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The strategy very clearly is it will take [CNCS] [inaudible]. We will not be [inaudible].
+MENAZ MISTRY: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: [Inaudible] are very low and I'm not sure it's a value addition component in terms of maintenance plus certain value added services including some of the [inaudible] services. These are not just this for [inaudible] solutions. Both margin improvement and value addition is very critical and there are a lot of [inaudible]. But with CNCS there are [inaudible] to make sure that there are synergies that are brought in. [CNL] anyway is bringing [inaudible] this year, and the [inaudible] some engineering services that they are trying to offer, so those are [inaudible]. Education [settlement], there is time for that and CNCS we need to look at that and see how [inaudible].
+MENAZ MISTRY: Okay, can we understand from in this [inaudible] business of [DL], are you looking at moving towards a more software part and leaving away the hardware part or are you continuing with the same mix?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, there are certain value added services [generally] in the hardware again. Our largest customers are willing to bundle certain value added services around this hardware. That's what will excite us, plus it will mean improved software solutions as well. It will be a pure hardware [inaudible], so we are representing a hardware manufacturer [inaudible] or [CMC] but it will not be our core area of growth and we will wind that down.
+MENAZ MISTRY: Okay, thanks. Thank you very much.
+OPERATOR: Thank you very much sir. Our next question comes from the line of Mr. [Ashwin] at [Itemee].
+MR. ASHWIN, ANALYST, ITEMEE: Hi, just a small question, and most of the other questions have been already answered. Have the revenues from SMS been for the whole quarter, because if I see it last year, the revenues were 22m, so if you divide it by 4, that's 5.5m and the revenue contribution from SMS comes to somewhere around 2.7 if I take the figure that you have given from the [negotiators]. So is for the whole quarter or it's --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [Inaudible].
+MR. ASHWIN: Okay. Okay, then, thanks.
+OPERATOR: Thank you very much sir. Our next question comes from the line of Mr. [Amijal Bitkarma]. Please go ahead sir.
+AMIJAL BITKARMA, ANALYST: Good evening sir, all my questions have been answered. Just the one brief more question, year-on-year growth, volume growth sir?
+UNIDENTIFIED COMPANY REPRESENTATIVE: It's difficult to answer that question [inaudible] year-on-year.
+AMIJAL BITKARMA: Okay, thank you.
+OPERATOR: Thank you very much sir. Next in line, we have a follow-up question from Mr. Pankaj Kapoor of ABN Amro. Hello, sir? Mr. Pankaj, are you online?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Operator, find out.
+OPERATOR: We'll move to the next question sir.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, please do.
+OPERATOR: We have the next follow-up from Mr. Pramod Gupta of HSBC Securities.
+PRAMOD GUPTA: Yes, I was just noticing your consolidated Indian GAAP numbers, and I find this highly accelerated growth in the free cash flow over the last nine months [less] than the previous year nine months. Can you please tell why, despite so good numbers, that this is the case?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The difficult thing is that when you are looking at the capital expenditure plus the dividend [inaudible].
+PRAMOD GUPTA: I am defining cash flow as not cash flow from operating activities minus [inaudible] of fixed assets?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes.
+PRAMOD GUPTA: So if you look even the cash flow from operating activity, there is hardly about 10% growth there, and even if you remove the fixed assets out of that, then there is hardly actually any growth, so what has happened this year? Why is the capital -- working capital increasing so much in the first nine months? Can you give us some color on that?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, we have to get back to you but I think there is -- the calculation we need to be looking at, we really need to get back to you on that.
+PRAMOD GUPTA: Okay, thank you very much sir.
+OPERATOR: Thank you very much sir. Our next final question comes from Mr. Mahesh Vaze of Brics Securities.
+MAHESH VAZE: Yes, I just wanted to understand, regarding this inorganic consolidation, would we be consolidating [inaudible] as from January 1 onwards?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, there is no [inaudible] acquisition so for us --
+MAHESH VAZE: No, okay, will start booking, sorry?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, but when will the project revenue start kicking in will really take that. We expect that [inaudible] really to start.
+MAHESH VAZE: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: As far as [inaudible] is concerned we are expecting [inaudible] April 2005.
+MAHESH VAZE: Okay, so in the fourth quarter there will not be anything from [inaudible]?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Fourth quarter, it will come in, but then it will be -- then as of now, we have explained that [inaudible].
+MAHESH VAZE: So April 1, '05, you mean?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [Inaudible].
+MAHESH VAZE: Okay, okay, sorry, okay.
+OPERATOR: Thank you very much sir. At this moment, I would like to hand over the floor back to the TCS management for final remarks.
+KISHORE BELAI: Thank you very much. Mr. Ramadorai will now make some concluding remarks.
+MR. S RAMADORAI: Thank you so much for all of you having participated in this session. We really enjoyed the questions. I just wanted to summarize by saying that I hope we answered all the questions collectively. We did a great quarter and thanks to the management team, thanks to our customers. We look at growth across all the dimensions as we mentioned, and the employee count increased, both through the recruitment as well as through the acquisition process. We are on good grounds for a growth, and last but not least, we touched $2b in the first three quarters itself. Thank you so much.
+KISHORE BELAI: Thank you for participating on this call. If you have any further queries, please get in touch with us. Thank you, and have a good day.
+OPERATOR: Ladies and gentlemen, thank you for choosing [Amex] Conferencing Service. That concludes this conference call. Thank you for your participation. You may now disconnect your lines, thank you and have a nice evening.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2006 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2006 Voxant, Inc. (www.voxant.com) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Voxant's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Voxant so long as they provide conspicuous attribution to Thomson Financial and Voxant as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Costs; Employees; Earnings per share; Executives; Websites
+
+Business indexing term: Subject: Costs Employees Earnings per share Executives; Corporation: Tata Consultancy Services
+
+Company / organization: Name: ABN AMRO Bank; NAICS: 522110, 551111; SIC: 6020, 6712; Name: J P Morgan & Co Inc; Ticker: JPM; NAICS: 551111, 522110; DUNS: 04-525-6377; Name: Thomson Financial; NAICS: 513210, 518210, 519290
+
+Title: Q3 2006 TATA CONSULTANCY SERVICES KTD Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Pages: n/a
+
+Publication year: 2006
+
+Publication date: Jan 12, 2006
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Wire Feed
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 466952010
+
+Document URL: https://www.proquest.com/wire-feeds/q3-2006-tata-consultancy-services-ktd-earnings/docview/466952010/se-2?accountid=27562
+
+Copyright: 2006 CCBN, Inc. and FDCH e-Media, Inc.
+
+Last updated: 2024-12-04
+
+Database: ABI/INFORM Collection

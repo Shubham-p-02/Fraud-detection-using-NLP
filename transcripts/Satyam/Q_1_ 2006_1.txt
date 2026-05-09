@@ -1,0 +1,384 @@
+Q1 2006 Satyam Computer Services Limited Earnings Conference Call - Final: [1]: [1]
+
+https://www.proquest.com/newspapers/q1-2006-satyam-computer-services-limited-earnings/docview/466909729/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Good evening, ladies and gentlemen. I'm Pratibha, the moderator for this conference. Welcome to Satyam Investor Relations Conference Call. For the duration of the presentation, all participant lines will be in the listen-only mode. After the presentation, the question and answer session will be conducted. I would now like to hand over to the Satyam management. Thank you and over to Satyam.
+V. SRINIVAS, CFO, SATYAM: Thank you Pratibha. Good morning and good evening to you all and thank you for joining us to discuss our Q1 results. Joining me on this call are Raju and Ram from Satyam and Venkatesh from Nipuna.
+Before we start the discussion, I would like to draw your attention to the fact that during this call we may make certain forward-looking statements concerning our future growth prospects. Such statements involve a number of risks and uncertainties associated with our business. Please refer to our various periodic filings with SEC for the description of such risks. The Company does not undertake to update any forward-looking statements that may be made from time to time by or on behalf of the Company. I now hand over the session to Raju.
+B. RAMA RAJU, CEO, SATYAM: Thank you, Srinivas. Good evening and good morning to you and thank you for joining us on the call today. In Q1 the Company has reported a revenue of INR1,000 -- INR1443 crores, a sequential growth of 9.84% as per Indian GAAP consolidated financials. Earnings per share, at INR10.87, has grown by 23.67% sequentially. The revenue and earnings per share for Q1 have exceeded the forecasted range on the back of robust volume growth and favorable exchange rate movement during the quarter. The revenue growth has been fuelled by a 7.2% increase in volumes and higher contribution from offshore, both being critical initiatives that we focus on.
+The growth continues to be broad based across verticals and service offerings. The dispersion of growth across a large customer base is evident from the higher growth recorded across the non 10 -- top 10 customers in Q1. We added 34 new customers in this quarter. Offshore contribution continued to increase in Q1, reflecting our maturity in leveraging the global delivery model effectively to deliver enhanced value for the customers. Over the last four quarters the offshore contribution has increased by 4% and now stands at 47%.
+Consulting and enterprise business services grew sequentially by 13% in Q1. It is heartening to note that relative to our peers we have the [world] position in the challengers' quadrant by Gartner in a report published on North American ERP service providers.
+We have made rapid progress in ramping up existing customers in the past few quarters. Our relationship management focus on leveraging opportunities across prominent customer accounts is amply reflected in the sequential increase of $10m customers from 27 to 33. The number of customers with an annualized billing exceeded $5m -- exceeding $5m has also increased sequentially from 46 to 51. This reiterates our customers' increasing confidence in our ability to deliver higher business value. This was also evidenced in the active support of over 250 [sic - see documentation] CXOs and senior business leaders and business partners who participated in our Customer Summit held in Q1.
+We are encouraged by the continued expansion of addressable market for global IT service providers. This is a result of expansion in service offerings and greater of global delivery model even by industries that have traditionally been conservative. This is a pointer towards a strong pipeline of opportunities across service offerings that we can deliver to the market. A complementary trend has been our enhanced participation in projects of larger size and longer duration.
+Our focus in enhancing the leadership bandwidth has become more pronounced in the recent past with the introduction -- with the induction of a number of senior leaders from reputed global organizations. The diversity of these additions is a reflection of the opportunities being addressed by us across various sectors and regions. We shall continue to make these investments in line with the anticipated needs of our customers.
+Against this background, we are revising our annual guidance for fiscal 2007 upwards under Indian GAAP consolidated financials. Revenue growth is expected to be in the range of 29.2% to 31.2% and earnings per share is expected to grow between 27.5% to 29.5%.
+The continued positive sentiment prevalent in the industry is placing a premium on the availability of manpower with appropriate skill sets at all levels. Besides enhancing monetary benefits, we are also focused on creating an organizational environment which will help us attract and retain the best talent in the geographies that we operate in. One such initiative is the setting up of the Satyam School of Leadership to groom leaders as well as fulfill the learning needs of the associates.
+I am delighted to share with you that Satyam has been ranked as Number One -- Number Two global outsourcing vendor in a survey conducted by Brown-Wilson Group Inc. for the Black Book of Outsourcing's Top 50 Best Managed Companies, 2006.
+I now request Srinivas to discuss the financial highlights of Q1.
+V. SRINIVAS: Thank you, Raju. Our [latest] financials have been posted on the website, satyam.com. And I assume that most of you would have got an opportunity to go through the same. I will now share some highlights, however.
+The highlight of the quarter is a 24% sequential growth in EPS under consolidated Indian GAAP basis. The same was driven by the sequential revenue growth of 9.8% and was further aided by the ForEx gain of US$9.8m. The Company saw 7.2% overall volume growth and average billing rate moved up marginally compared to previous quarter.
+Net manpower addition for the parent Company was 1123, including 457 freshers. We expect the gross manpower addition for FY '07 to be between 10,000 to 12,000.
+Our parent Company's cash and bank balances increased by US$69m during the quarter. CapEx for the quarter was US$14m. CapEx for FY '07 is estimated to be around US$75m.
+Increments for the year have been finalized effective July 1 at 6% for on-site associates and at around 18% for offshore associates, both being higher compared to the last year. After factoring in these increments and charges on account of RSUs, that is restricted stock units, which we propose to give in Q3 this year, we expect consolidated margins for fiscal '07 to be around 100 basis points lower compared to fiscal '06.
+Our guidance is based on an exchange rate of INR45.84 to a U.S. dollar.
+Nipuna reported a revenue of US$7.9m and added 240 associates. Nipuna is expected to achieve revenue of US$36m in FY '07, a growth of [80%] over fiscal '06.
+Thank you and now we throw open the session for the Q&A.
+OPERATOR: Thank you very much, sir. We will now begin the Q&A interactive session. [OPERATOR INSTRUCTIONS]. First question comes from the line of Mr. Sameer with Alchemy.
+SAMEER GOYAL, ANALYST, ALCHEMY: Yes, hi. Good evening, gentlemen. The question pertains to again the margins, what you have said, that 100 bps decline. Is there any change in assumptions what you have made at the start of the year and now in terms of margin guidance?
+V. SRINIVAS: At least the assumptions obviously changed. One assumption is the rupee, for example. At that time we gave at INR44.18. Now we are giving at INR45.84. Other than that, the other major assumptions remain more or less same. For example, we are saying -- still saying that the prices are going to remain stable. And of course the other assumptions are always reflected on our revised guidance like increased top line and increase in the EPS and all that. And of course the other thing like salaries, the increments and all that, are as we guided earlier. So other than the rupee, I don't think there are any major changes from what we told you a quarter back.
+SAMEER GOYAL: But the higher EPS -- the increase in EPS guidance or revenue guidance is largely because of rupee? I mean the guidance for revenue by 3% and for EPS by 5%.
+V. SRINIVAS: No, no. EPS went up by almost 10%, 9.5%.
+SAMEER GOYAL: Yes, yes. Sorry.
+V. SRINIVAS: And 20% to 29.5. So that is a combination of both. It is not entirely because of rupee. There is also the off-site we got in Q1. That's also been factored into the guidance.
+SAMEER GOYAL: The other thing is on the attrition rates. Despite the salary hike announcement and the offer of RSU, the attrition doesn't seem to be controlled. What other steps are we taking to control that?
+B. RAMA RAJU: This is Raju here. The attrition rate in terms of annualized attrition in fact in Q1 has come down. The total number of attritions in Q1 was lower than attritions in Q4 last year. We believe that the fact that we have announced a significant increment is received well. And we have started seeing this decline. We also believe that during this year there is an opportunity for several percentage points drop in the attrition rate.
+SAMEER GOYAL: Actually the attrition rate figures for the -- it shows that we've got 19.17 [technical difficulty] current quarter.
+B. RAMA RAJU: It is on account of the fact that we report trailing 12 months that you may find the percentage to be higher. But in real terms, on an annualized basis, there is a drop.
+SAMEER GOYAL: The other question is what is leading to this shift in on/off mix. You've been reporting a fantastic improvement in offshore. What is that change?
+RAM MYNAMPATI, PRESIDENT, COMMERCIAL & HEALTHCARE, SATYAM: Yes. This is Ram Mynampati here. There was multiple factors that contribute ultimately to favorable movement towards offshore. Two or three reasons that I would like to particularly highlight. One is the maturity level at which we find ourselves in a given engagement. How much we are able to create in terms of comfort with the customer and how receptive the customer is in our desire to move as much work offshore.
+Second area is in our ability to manage fixed price engagements better.
+Third is the type of engagement that lends itself better to offshore mix that is greater than the standard offshore mix that you'd look for. I can probably share a few other reasons as well. But I would say these are the three most important reasons. And clearly we recognize that the more we do from offshore, the better it is for us, for our resource mix as well as our ability to manage margins.
+So our endeavor continues to be to do as much work as possible and practical from offshore. And that is what is paying off in terms of results that we have seen in the last four quarters.
+SAMEER GOYAL: What is the further possibility, given the current customer profile you have and the current level of engagement and maturity level, that's possible from the current level?
+RAM MYNAMPATI: Well, again, we will not be in a position to make any definitive statements about where that level would be. But our endeavor is to continue to move as much work offshore as we can. Again, I just wanted to say that there are a number of things that come to mix in determining to what extent we can move work offshore. If we have new project starts in a given quarter that are higher than the previous quarter, the contribution from on-site tends to be a little bit more. [Technical difficulty]. And similarly, depending on the type of technologies that we get engaged in, some technologies by nature would have a greater contribution from off-site. So it is very difficult to standardize and generalize what it will take to move work offshore. Or I would say that our effort continues to be to move as much work from offshore as we can.
+SAMEER GOYAL: The last question from myself. Why is the tax provision going down in this quarter?
+V. SRINIVAS: This is primarily because of increase in offshore.
+SAMEER GOYAL: And what would be the right level of tax to look forward for the year?
+V. SRINIVAS: I think it will be more or less in line with last year, maybe a little lower.
+SAMEER GOYAL: Okay, fair enough. Just one more question, okay, sir. I'm sorry for that. Your top client seems to be not performing in the last few quarters. Could you elaborate a little the reasons for that? And is there any improvement in visibility from [Dhum]?
+RAM MYNAMPATI: Well -- this is Ram. We certainly are cognizant of the contribution from various clients as well as a group of clients. Our -- as we have shared with on this earlier, our desire is to pursue opportunities and projects that ultimately are in line with our expectations, both in technology competencies as well as our ability to manage margins.
+In our effort to manage all the engagements appropriately, it is possible that there would be ups and downs in contribution from any given client or group of clients. What is more heartening for us is our ability to grow from a broader set of clients than what we have been able to do in the previous quarters. Clearly the contribution from outside of top 10 has gone up. That means there are larger set of clients that are giving us revenue today, thereby reducing the risk of exposure to only a fewer set of clients or a group of clients.
+I would look at that shift as more positive than anything alarming.
+SAMEER GOYAL: Fine. Thanks and best of luck.
+RAM MYNAMPATI: Thank you.
+OPERATOR: Thank you very much, sir. Participants are requested to kindly restrict to one question in the initial round. Next question comes from Mr. Anantha Narayan of JM Morgan Stanley.
+ANANTHA NARAYAN, ANALYST, JM MORGAN STANLEY: Thank you and good evening, everyone. Given that the subsidiary losses seem to be widening, can you just update us with what is your current target and when the key subsidiaries will break even?
+V. SRINIVAS: Anantha, this is Srinivas here. I don't know why are you saying it is widening. In fact if you look at our Q1, the subsidiaries have not really dragged down our margins per se. The EBITDA level more or less -- the BPOs standalone EBITDA and the consolidated EBITDA remain the same in absolute terms. Se we feel there is no negative impact because of the [inaudible].
+So if you put things in the context, the subsidiaries -- the impact on the overall parent Company is very marginal, as all of you are aware. On the top line they contributed roughly around 3.5 to 4%. So to that extent they will have minimal impact on the consolidated performance. Having said that, the subsidiaries on a standalone basis themselves started doing well. And again, one of the major contributors is Nipuna. So as you know, last quarter [it made] cash balance break even, it reached cash break even and it continues to do well. And we gave a guidance of 36%. So overall we expect on a year-on-year basis the subsidiaries to do well and not to drag down those margins.
+ANANTHA NARAYAN: Yes, but, Srini, my point was if we just take the aggregate revenue numbers for all the subsidiaries and take the aggregate losses, the loss of the percentage of revenue seems to have widened between last quarter and this one. And Nipuna's loss also seems to have widened in absolute terms.
+V. SRINIVAS: Yes. Nipuna, basically because of the -- this quarter -- as against the last quarter, this quarter has made a marginally higher loss. And this is primarily because of the investments for the [previous] quarters, and also the increments that we have given in the beginning of Q1. That is the primary reason. Venkatesh of Nipuna -- the CEO of Nipuna is here. Maybe I think he will be a in a better position to answer.
+VENKATESH RODDAM, CEO, NIPUNA SERVICES LTD.: I just wanted to add to what Srinivas mentioned. I think the loss contribution for this quarter is clearly attributed to the increments and incentives that have been paid during the months of April and May, as well as the staff take on which is about a net of about 250 -- 240 associates that have come on board during this quarter. And, more importantly, the infrastructure build-up on account of engagements that have been booked for revenue that will accrue in the future quarters.
+ANANTHA NARAYAN: Fine. Srini, just one final housekeeping question. What was the FAS123 charge in this quarter and what are you expecting now for the full year?
+V. SRINIVAS: 3.7m under U.S. GAAP. That is a [inaudible] fee or charge. We expect this to be anywhere between 13 to 14m.
+ANANTHA NARAYAN: Sorry. Did you say 3.7 for the quarter?
+V. SRINIVAS: Yes.
+ANANTHA NARAYAN: Thank you.
+OPERATOR: Thank you very much, sir. Next question comes from Mr. Aviral Gupta of Venus Capital.
+AVIRAL GUPTA, ANALYST, VENUS CAPITAL MANAGEMENT: [Inaudible question - microphone inaccessible].
+OPERATOR: Hello, Mr. Gupta.
+AVIRAL GUPTA: Yes. [Inaudible] that whatever salary hike you've had in the quarter two will be negated by the profitability which will be accruing in the -- in your quarter two?
+V. SRINIVAS: I am not able to hear you properly. If you want to --
+OPERATOR: Mr. Gupta, if you are on a speaker phone, please use your hand set.
+AVIRAL GUPTA: No, I'm not on the speaker phone. Would it be prudent enough to assume that whatever salary hikes you have had in the quarter two, the impact would still be negated by the fact that there may be some profitability shown by subsidiaries in quarter two?
+V. SRINIVAS: We are not giving guidance of subsidiaries for quarter two or for the year as a whole, other than yes, the revenue numbers that we have given out. Where that is the case, you can expect improved performance, not only at a top line level but also at a bottom line level.
+OPERATOR: Hello, Mr. Gupta?
+AVIRAL GUPTA: Yes, thank you, sir. Thank you. My question's answered.
+OPERATOR: Thank you very much, sir. Our next question comes from the line of Mr. Vishal Agarwal with ASK Raymond James.
+VISHAL AGARWAL, ANALYST, ASK RAYMOND JAMES: Hello. Good evening. My first question was more of a housekeeping question. The rupee/dollar assumption that you're giving, INR45.84, is that just for the next quarter or for the full year?
+V. SRINIVAS: That is for the full year.
+VISHAL AGARWAL: That question -- I basically raised the question because last quarter it was INR44.8 and now it's INR45.84. Are you comfortable with giving a assumption for the full year because of the volatility?
+V. SRINIVAS: But we need to take some exchange rate is it not, for our guidance purpose. So instead of -- for example today, the rupee is at INR46.80 or so.
+VISHAL AGARWAL: Yes.
+V. SRINIVAS: So there is a reason why what we have taken is the last quarter average on a conservative basis -- our last quarter average rate is around INR40 -- INR45.84. That is what we considered for the entire year.
+VISHAL AGARWAL: Good. My second question was more on the personnel expenses and the operating expenses level. It has gone up by about 10, 11% despite the fact that the salary hikes have not yet kicked in. Can you explain that? I understand there will be visa expenses plus the -- probably the customer summit that you had in the last quarter. But if you could give us a break up, then that would be helpful. Thank you.
+V. SRINIVAS: Yes. This is Srinivas again. The increase in the people cost is primarily because of the salaries. And as all of you are aware, we added around 3000 plus associates in Q4 of last year. And the full salary impact has not come in Q4. That has come in Q1. So that is the primary reason for the increase in the wage bill.
+VISHAL AGARWAL: Hello?
+V. SRINIVAS: Yes.
+VISHAL AGARWAL: What was the number that you gave, sir? 3400 is for --?
+V. SRINIVAS: 3000 associates we added in Q4. The full salary impact comes in this quarter.
+VISHAL AGARWAL: Okay, thank you. That's it from my side.
+OPERATOR: Thank you very much, sir. Participants are requested to kindly restrict to one question. Next in line we have a question from Mr. Prasad Deshmukh of DSP Merrill Lynch.
+PRASAD DESHMUKH, ANALYST, DSP MERRILL LYNCH: Good evening, sir. All my questions have been answered. Just one question on Nipuna. What has been the attrition in Nipuna?
+VENKATESH RODDAM: On an analyzed basis for the quarter it's -- on the voice is in the range of 70% and non-voice in the range of 20%.
+PRASAD DESHMUKH: Okay. Thanks a lot, sir.
+OPERATOR: Thank you very much, sir. Next in line we have a question from Mr. Hitesh Zaveri of Edelweiss.
+HITESH ZAVERI, ANALYST, EDELWEISS CAPITAL: Yes, hi. My question is with regard to pricing. Srinivas, what kind of pricing increments do you see in second quarter and in fact in the remainder of the year?
+V. SRINIVAS: At least in the model we have assumed flattish pricing. We have not assumed any up-tick.
+HITESH ZAVERI: Sure. But at the ground level there is some improvement that we saw in the first quarter. And do you see -- while it is not taken in your assumptions, are the trends pointing towards pricing getting improved?
+RAM MYNAMPATI: Hitesh, this is Ram Mynampati here. In general we see a fairly positive environment that we find ourselves operating in. Clearly we see signs of new customers coming in at higher than average prices. We have been successful in renegotiating some existing contracts for higher prices.
+So in general, the sentiment certainly is a little bit more positive. However, we are not in a position to make any assumptions related to how that would impact average pricing. And that was what Srinivas was alluding to when he said that we are assuming a stable pricing as far as our guidance for the year is concerned. But in the market the sentiment certainly is a bit more positive.
+HITESH ZAVERI: Sure. My other question is with regard to hiring of several senior industry people that you've taken on board in the U.S. and also in Europe. Now, in our earlier conversations you did mention that many of these people were going to be in the team that was going to be [polishing] the large deals. But I also noticed that many of the industry unit heads, etc., are also coming recently in. Could you elaborate the game plan with so many expatriates that have come into the system? And how -- what role do you see them playing in the Company's performance? Thanks.
+B. RAMA RAJU: This is Raju here. We are at a level of about a 30,000 people Company today. And we have been able to register fairly good growth. We have been winning a lot of contracts, whether they are large or small, against some of the established systems integrators.
+In this background we are preparing ourselves to establish the Company more firmly at a global level, which means that we have to accept skills across continents and across countries, integrate such skills better within the organization. That's the attempt that we have been able to -- or have been making.
+There are two most important initiatives. One, as I have stated, in the leadership level. And secondly, at a more innovation and competency-led, asset-building level as well. And we have made progress there in a similar fashion.
+So these being very important, we have been making these investments and I believe that they have started yielding the results. And we are pleased with the fact that we have won a few large deals in the past. And we expect that these initiatives will give better results going forward.
+HITESH ZAVERI: Sure, I appreciate. Thank you.
+OPERATOR: Thank you very much, sir. Next in line, we have a question from Mr. Trideep Bhattacharya with UBS.
+TRIDEEP BHATTACHARYA, ANALYST, UBS SECURITIES: Good evening, ladies and gentlemen. Congratulations on the quarter. Since the time we spoke last time in April, from a fundamental perspective in terms of the outlook of the clients in terms of ramp ups, and now that we are talking again on the earnings call, has anything changed? Has demand in your opinion accelerated, remained the same, or it has -- I don't think it's dwindled, but what's the view on that? If you could highlight.
+RAM MYNAMPATI: Well, Trideep, this is Ram. What we can say compared to three months ago is that we are able to, at least for this year, we are able to relate to our credit what we are seeing in the pipeline better. Two things that I would like to say is that the demand seems to be better than what we had anticipated at that time.
+And the second thing I would say is that the trend, as far as improved demand scenario is concerned, is fairly broad based. It's not focused on any market segment, any geography. While there are sweet spots and accelerators like Enterprise Business Solutions, that will always be there. But what we are seeing is a relatively positive demand environment, fairly broad and widespread across all the markets that we are participating in.
+TRIDEEP BHATTACHARYA: Okay. Then in that context, is it fair to assume that the dollar increase in guidance in terms of growth, which has been about 1%, is more of a conservative built-in, rather than the real effect?
+V. SRINIVAS: Read it as realistic.
+TRIDEEP BHATTACHARYA: Okay. I think the outlook on the top client has been asked. But do you know any change in the fundamental way that the top client is looking at offshoring? Do you expect it to be lower growth than previous year or should we assume the business is status quo?
+B. RAMA RAJU: I would not make many -- I would not like to make any specific comments on any one client. I think we've already said whatever we need to say in that regard. I think we should just treat every client the same. And there are a lot of market trends that influence revenue. I think we are managing every relationship in the most appropriate fashion that we need to. I would not like to say anything more than that.
+TRIDEEP BHATTACHARYA: Thank you. Best of luck.
+B. RAMA RAJU: Thanks.
+OPERATOR: Thank you very much, sir. Participants are requested to kindly restrict to one question in the initial round. Next in line we have Mr. Shekhar Singh from ICICI Securities.
+SHEKHAR SINGH, ANALYST, ICICI SECURITIES: Hello, sir, and congratulations on a very good set of numbers. I just wanted to know, in your provisions, the provision for gratuity and leave encashment, that has gone up significantly over the last quarter. It's like almost gone up by close to INR75 crores. Whereas I was going through your past five, six quarters and it generally used to increase by somewhere in the range of INR5 to INR7 crores. So can you just explain that?
+V. SRINIVAS: Yes, Shekhar, this is Srinivas here. This is primarily because of the new accounting standard 15, IAS 15. Because of that we have to make a higher provision. And also we have changed our on-site leave encashment policy. In fact till last quarter, that is Q4 -- rather at the beginning of Q4, we changed our leave encashment policy, wherein we included on-site associates as well. Earlier the leave encashment facility was available only to offshore associates. We extended it to on-site associates. So these two primary -- these two are the primary reasons for the increase in the charge.
+SHEKHAR SINGH: If I may ask you, sir, if we go forward, that is in Q2, this provisioning that should come down quite significantly?
+V. SRINIVAS: No. I think that should remain --
+SHEKHAR SINGH: No, in terms of increments. So from INR114 crores, will it be going up by INR170, INR175 crores or will it be --?
+V. SRINIVAS: No, no, no, no, no.
+SHEKHAR SINGH: Yes.
+V. SRINIVAS: No, no, no. It will not be -- next charge that came in Q1 because of basically roughly around INR34 crores.
+SHEKHAR SINGH: Okay, okay.
+V. SRINIVAS: So going forward, quarter on quarter, we can expect maybe somewhat similar numbers or maybe a little lower. It all depends on the kind of leave that accrues and all that. There are so many variables there. But whatever it is, we have factored that into -- all this into our guidance.
+SHEKHAR SINGH: Perfect, yes. Sir, lastly, if you can just touch upon how is the Enterprise Solutions market looking like? I can see that 40% revenue is from there. Because there have been some very confusing signals which are coming from that market.
+RAM MYNAMPATI: Shekhar, this is Ram. At least we are fairly upbeat and positive about the Enterprise Business Solutions practice. We are seeing two, three trends and we have shared this with the market last quarter as well. Number one, there is a fear of polarization taking place in the market in terms of how many players exist in the market, what type of segments that they -- the players operate in and who is better at doing any particular thing. And to that end there are probably two or three major players that would operate in this space.
+Number two, the organizations, that is the users of Enterprise Business Solutions ultimately, there is a greater propensity for looking at market-ready solutions to be deployed than custom-developed solutions. So there is a greater adaptation as far as Enterprise Business Solutions is concerned by organizations. That trend is clearly on the rise.
+Third is that, notwithstanding the greater service capability of any package today that is available in the market, the need to integrate and the need to customize is continuing to drive the market as far as service demand is concerned. So all the three trends put together augur well for services based on Enterprise Business Solutions. And we are, we believe, in a position to address the market trend very well.
+SHEKHAR SINGH: Thanks a lot, sir.
+OPERATOR: Thank you very much, sir. Next question comes from Mr. Surendra Goyal of SSKI Securities.
+SURENDRA GOYAL, ANALYST, SSKI SECURITIES: Yes, good evening. Could you please break down the impact of key factors like rupee depreciation, offshore increase, visa costs, etc., on margins in the quarter?
+V. SRINIVAS: Visa -- this is Srinivas here. The visa accounts for roughly around INR24 crores in this quarter.
+SURENDRA GOYAL: Okay.
+V. SRINIVAS: As against INR4 or INR5 crores in the last quarter. So there is an increase of roughly around INR18, INR19 crores quarter on quarter.
+SURENDRA GOYAL: Right. And the rupee depreciation would have contributed positively to the margins?
+V. SRINIVAS: Yes, absolutely. Roughly, on the back of the envelope, roughly for every 1% rupee depreciation, we will get 0.3% up-tick in the margins. That [inaudible] in the margin.
+SURENDRA GOYAL: Okay, fine. Thanks.
+OPERATOR: Thank you very much, sir. Next question comes from the line of Mr. Manik Taneja with Daulat Capital.
+MANIK TANEJA, ANALYST, DAULAT CAPITAL: Thanks, sir. Good evening, sir. My question is with regards to the break up of other income. Could you just elaborate that?
+V. SRINIVAS: Sorry, I -- okay, for the Q1?
+MANIK TANEJA: Yes, sir.
+V. SRINIVAS: Okay. Other income has INR45 crores of [price] fluctuation amount. And the balance is interest income.
+MANIK TANEJA: Okay. The balance is interest income?
+V. SRINIVAS: Yes.
+MANIK TANEJA: Okay, thank you.
+OPERATOR: Thank you very much, sir. Next question comes from Mr. Sandeep Shah of Motilal Oswal.
+SANDEEP SHAH, ANALYST, MOTILAL OSWAL: Yes, sir. If you look at the U.S. dollar revenue guidance for the Q2 it's around 4 to 5%. And if you just compare it with the peers, they are saying more than 5% or around 7 to 8%. And if you just link this question with the contribution which is coming from new business, it's increasing quarter on quarter now. It is 12.3% as a quarter revenue. So is that -- apart from these there are some clients who have reached to a mature level, the new top 10 clients, and that's why your revenue growth guidance is not that robust?
+RAM MYNAMPATI: Hello, this is Ram Mynampati here. We believe that the guidance that we have given is positive and robust enough and realistic enough for us to achieve. We have taken a number of factors into consideration, including the predicted growth trends for every customer and every market. What we have guided for Q2 is what we are comfortable in delivering. And we believe that is a fairly good representation of our sentiment about the business climate.
+SANDEEP SHAH: Okay. And, sir, just a second question. In case the attrition doesn't come down, are we open for a [new] round of salary hikes?
+B. RAMA RAJU: Well, that would be presumptuous at this time, when we expect things on the attrition front to improve. Let's wait and see.
+SANDEEP SHAH: Sir, any [inaudible] which level you'll be comfortable?
+B. RAMA RAJU: Our desire would be to see eventually attrition levels anywhere between, let's say, 10 and 14%.
+SANDEEP SHAH: Okay. And do you expect this to come down by this quarter end or in a sense by this year end?
+B. RAMA RAJU: No. We are not making such specific predictions at this time. But we will work towards bringing about an improvement. It goes without saying in the industry in general attrition levels have been going up. We are quite happy about the fact that last year's -- last quarter's attritions were much lower than attritions in the quarter before that. And we believe that that is a positive trend.
+SANDEEP SHAH: Okay. Thank you.
+OPERATOR: Thank you very much, sir. Next question comes from the line of Mr. Ashwin Mehta with [inaudible] Capital.
+ASHWIN MEHTA, ANALYST: Hi. Just wanted to understand, in your U.S. GAAP figures, the gross profit has actually gone down in absolute terms. What is the reason for that?
+V. SRINIVAS: Gross profit?
+ASHWIN MEHTA: Yes. The gross profit figure has gone down from 118m to 117m quarter on quarter.
+V. SRINIVAS: Yes. This is -- basically you have around 3.7m of deferred stock compensation charge --
+ASHWIN MEHTA: Okay.
+V. SRINIVAS: That has come in. So if we add that it will be 121m or so.
+ASHWIN MEHTA: Okay. Another thing - in terms of your fresher salaries, have we also decided on some hike for the next year?
+B. RAMA RAJU: The decision that we have taken was that for campus recruitees we will give a salary increase for the new recruits of 10%.
+ASHWIN MEHTA: Okay. And in terms of reducing our overall costs, have we started to experiment in terms of non-engineers? Or we are restricting ourselves to just engineers?
+B. RAMA RAJU: We are looking at a combination. We have experimented with that earlier and our results have been positive. And we are evaluating different proportions. We have yet to take a decision.
+ASHWIN MEHTA: Okay. Thanks a lot.
+OPERATOR: Thank you very much, sir. Next in line we have Mr. Pratish Krishnan from Emkay.
+PRATISH KRISHNAN, ANALYST, EMKAY SHARES: Yes, hi. This is actually on the margin guidance. Sir, if you look at the rupee assumptions taken last quarter and now the rupee has depreciated. [Inaudible] you have changed your margin guidance in terms of 100 basis points fall to maybe a slightly lower fall. Am I missing something in this?
+V. SRINIVAS: This is Srinivas here. I didn't follow the question.
+PRATISH KRISHNAN: With regard to the margin guidance and the rupee assumption you had taken earlier and the rupee has depreciated now, and the new assumption for the full year. I believe you guided a 100 basis points fall in margins even last quarter and I think the guidance remains, right? For the full year, even now?
+V. SRINIVAS: Yes, yes, yes.
+PRATISH KRISHNAN: And with the volume growth probably I would expected a further decline in margins for the full year. Maybe lower decline in margins, [inaudible] the 100 basis points probably [inaudible].
+V. SRINIVAS: Yes, yes, yes. Basically, one thing -- couple of things here. Number one, we don't know how the rupee behaves. Tomorrow the rupee may appreciate from the current levels.
+PRATISH KRISHNAN: No, but this -- with the current assumption -- with the current rupee assumption.
+V. SRINIVAS: Yes, yes, that's right, that's right. If -- let us say if the current rupee [pans out] and because of that there is some increase in the margins, I think we will be investing that back or plowing that back into our business. So to that extent what we thought is that instead of committing a higher margin because we don't know how actually the rupee behaves. So to that extent we thought that we will maintain the guidance on the margins at last quarter levels.
+PRATISH KRISHNAN: Can we consider it a conservative number that you've given?
+V. SRINIVAS: Not really. At this point in time, it is realistic. So we -- I think we're comfortable with the guidance we have given and I think we should leave it at that.
+PRATISH KRISHNAN: Okay. Secondly, in terms of the utilization figures, that's been coming down every quarter. When can we expect this to improve and what is the plan there?
+V. SRINIVAS: Utilization, yes, including trainees has come down this quarter compared to last quarter. This is primarily because of 3,000 people we added in Q4. So all of them will be undergoing training. That is the primary reason. So our endeavor is to take it up from the current levels of 71% or so to higher levels. So I think -- but as the intake continues to be high, I think to that extent we will have a limitation there. But this is one thing we internally keep track and we want to ensure that the loading factor is always high. Even today at these levels, we have industry-leading metrics on this front.
+PRATISH KRISHNAN: Okay. Thanks a lot.
+OPERATOR: Thank you very much, sir. Next in line we have Mr. Harmendra Gandhi from Brics Securities.
+HARMENDRA GANDHI, ANALYST, BRICS SECURITIES: Hi, good evening. Is it consulting and enterprise business solution where you are assuming that major incremental offshoring will happen? Because I suppose that is the more -- that contributes 40% of your revenue.
+RAM MYNAMPATI: No. We are not focusing on any one particular market segment. Whatever we have shared with you all regarding the compensation increases are average numbers. Primarily, performance is the only metric that drives [profits] increase and associate gain. That is a cost --
+HARMENDRA GANDHI: I'm talking about incremental offshoring. You talk about employees.
+RAM MYNAMPATI: Incremental offshoring, I follow you. I took it as compensation increase. No, incremental offshoring need not come from enterprise business solutions. A greater opportunity for increased offshore comes from application development and Internet actually. While there would be certainly opportunities for us to improve our offshore contribution in enterprise business solutions as well, but if you take engagements that are ADMS type or enterprise business solutions type, ADMS engagements tend to have greater contribution from offshore than enterprise solutions.
+HARMENDRA GANDHI: So can we assume that enterprise -- in the enterprise business solutions we have reached that stage where there is no further scope for offshore?
+RAM MYNAMPATI: No, I don't think we can assume any of those -- I don't think we can assume those factors would be valid. The situation is slightly dynamic in that every engagement goes through its own cycle of maturity. As and when we get into new customer situations and engagements, we have to evaluate each situation in its own right. I don't think we can generalize and draw inferences from that generalization.
+HARMENDRA GANDHI: Okay, definitely. What about Europe? Europe seems to have not grown so much as -- other peers -- if I look at other peers, Europe is driving growth for many of them.
+B. RAMA RAJU: Given the fact that we used to operate at something like 6 or 7% of our revenues coming from Europe a few years ago, we have made very good progress. We have de-risked our business from a geographical point of view quite substantially. We believe that there are opportunities for this proportion to go up. We are working towards the same.
+HARMENDRA GANDHI: For this quarter I see the Europe growth has been very less, as compared to --
+B. RAMA RAJU: No, there's only a marginal change, nothing significant.
+HARMENDRA GANDHI: Okay. Thank you.
+OPERATOR: Thank you very much, sir. Next question comes from the line of [Mr. Ranjit Chibia] with Lehman Brothers.
+RANJIT CHIBIA, ANALYST, LEHMAN BROTHERS: Hi. My question regards operating margins. I just wanted to understand a couple of things. One, if you exclude the impact of the rupee/dollar appreciation, the depreciation on a year-on-year basis, how have your operating margins trended last year versus this year?
+And, relatedly, what do you see as the controllable margin levers that you can continue to work with to address any margin decline, which I suspect is the case?
+And how long do you see these as being -- how much juice do you see in them right now?
+V. SRINIVAS: Yes. Ranjit, this is Srinivas here. I will answer your second question first.
+We have various levers. For example, we have this loading factor, for example, we talked about it. By managing this better that will definitely -- that is one lever. Then we have offshore movements of work, which happened in this quarter. So that also helps us in shoring up our margins. Then we have what we call the fixed bid project monitoring. So 40% -- roughly 38% of our revenues comes from fixed bids today. So by managing them better, that helps us in the margins.
+And the associate mix, that is by taking more and more entry-level trainee programmers into the associates mix, we can reduce our average cost of delivery. That is another big lever that is available to us.
+And of course, on top of all this, we also have SG&A, which we can always put under control, which we have done over the last few quarters. So we continue to focus on that as well. So these are various levers that are available.
+For your first question, what kind of impact it will have on the margins in the rupee depreciation, roughly around 0.6% in this quarter. From the guidance we have given, the rupee depreciated by 2%. So to that extent the impact would be 0.6% of our revenues.
+RANJIT CHIBIA: Right. But if you were to look at it over the last year and you would say okay, I'm taking out the currency impact, I just want to see -- is there a simplistic way to look at that?
+V. SRINIVAS: The same formula applies. If you look at -- if you're asking for FY '06, for example, to FY '05, rupee kind of remained stable. In fact rupee appreciated a little bit. So it would have had a negative impact on the margins marginally. More or less it is stable, INR44.83 to INR44.35, exchange rate in FY '06 and FY '05. So not much of an impact.
+RANJIT CHIBIA: Okay. Thank you.
+OPERATOR: Thank you very much, sir. At this moment, I would like to hand over the floor to April to conduct the Q&A session for participants at the international center. Thank you and over to April.
+OPERATOR: Thank you, Prathibha. [OPERATOR INSTRUCTIONS]. Your first question comes from the line of Julio Quinteros with Goldman Sachs.
+JULIO QUINTEROS, ANALYST, GOLDMAN SACHS: Good evening, guys. This question relates to the margins. Just wanted to confirm, first of all, last quarter I think you said the range was down 0 to 100. And I think today you said down 100, is that correct?
+V. SRINIVAS: No, Julio. Last quarter also, when we were talking about the yearly margin scenario, we said that around 100 basis points, is what we said.
+JULIO QUINTEROS: Okay. It wasn't a range of 0 to 100, it was around 100 points, okay.
+V. SRINIVAS: Yes, yes.
+JULIO QUINTEROS: Got it, okay. And then, on the expenses, can you do me a favor and just break up the RSUPs from the [123 RPs]? I think you said 13 to 14m for the ESOPs for the full year. And what is the RSUPs that we should be thinking about?
+V. SRINIVAS: Okay. Just to clarify, in Q1 there is no RSU charge. RSU charges starts coming from Q3. That will be roughly around $6m to $7m.
+JULIO QUINTEROS: For the quarter or for the full year?
+V. SRINIVAS: For the full year. For the full year.
+JULIO QUINTEROS: Got it. And then what about -- and that's -- okay, so and that run rate when we think about that into the next year, is that the normal run rate or does that continue to increase?
+V. SRINIVAS: No, because this year -- yes, run rate wise, yes, more or less the same. So next year it will be around $13 to $14m and after that it will taper off. In FY '09, it will be much lower; it will come down to almost $5, $6m.
+JULIO QUINTEROS: Okay, great. And then I just want to go back to a point that -- I can't remember who exactly made the point. But when we look at the reported employee attrition, it shows a trailing 12-month number of 19.62 in your investor link. But I believe the gentlemen -- one of you guys made a comment that the attrition has actually trended down in the current quarter. Can you just reconcile those two numbers for me, please?
+B. RAMA RAJU: Yes. The annualized comment I was making was that the annualized attrition has come down as compared to Q4. And the number of attritions last quarter was lower than a quarter before that. And therefore, we see a positive trend.
+JULIO QUINTEROS: Okay. And can you provide a range on what that looks like then on annualized basis versus the trailing 12-month basis?
+B. RAMA RAJU: The annualized -- in Q4 it was in excess of 20% and Q1 it was 18.2% or so. Hello?
+OPERATOR: Your next question comes from the line of Joseph Foresi with Janney Montgomery.
+JOSEPH FORESI, ANALYST, JANNEY MONTGOMERY: Hello, gentlemen. I was just wondering if you could, U.S. GAAP basis, give us some idea of what the rupee impact was and what the foreign exchange impact was. Maybe you could break that out also, that impact on earnings.
+V. SRINIVAS: The impact on U.S. GAAP -- again, when it comes to the other income, you will have a similar impact where roughly it is around -- the other income included is roughly around $11m. And on the impact on the profitability, it is kind of more or less same like Indian GAAP.
+JOSEPH FORESI: Same as Indian GAAP. $11m - do you know what that breaks out to in earnings? I can do it [inaudible] don't have a --
+V. SRINIVAS: Sorry, I didn't hear you.
+JOSEPH FORESI: Do you know what the [inaudible] do you have a rough idea what it does -- what would be the impact of that on the earnings?
+V. SRINIVAS: The other income percent?
+JOSEPH FORESI: Yes.
+V. SRINIVAS: The other income is there separately in the P&L. It will come below the EBIT.
+JOSEPH FORESI: Sure, I know where it's located. I was just wondering if you knew off the top -- if you don't know it, I can just -- I can figure it out, that's okay. I just wanted to know how many cents it added to your earnings. That's okay.
+Just, I guess, another question here. What are your thoughts on revenue and margin growth headed into maybe the next quarter and the second half of '07? Maybe just some color on those two factors.
+V. SRINIVAS: Sorry, I missed that.
+JOSEPH FORESI: I was just curious what your thoughts were on revenue growth and maybe how we should look at the revenue growth and margins in the next quarter and through the back half of '07.
+V. SRINIVAS: We gave the guidance for Q2 and also for the year. But at least for the year, we have upped the guidance -- the upper end of the guidance we increased it to 27% -- 27.2% or so is the number. 27.3%. For Q2, we gave a guidance of -- guidance range of 4.5 to 5% in the revenue.
+JOSEPH FORESI: I guess this may be switching gears in -- could you give us an update? I think you guys had said on previous calls that you were making a move to recruit more from the campuses and maybe flatten out the employee period. Just some color on that, how's that going? Is that still an initiative or --?
+B. RAMA RAJU: There are a number of initiatives to address issues around bringing grater efficiencies in the manner in which we are managing costs. And one of those is to reduce the average cost of delivery. And that is something that is being tracked very closely and we are making good progress.
+JOSEPH FORESI: So you guys are ramping up on the recruiting side, is that correct?
+B. RAMA RAJU: We have given a guidance of 10 to 12,000 gross additions during the year and net additions of 6,000 for the year.
+JOSEPH FORESI: Just one more housekeeping question. Your guidance is off the basic, correct?
+V. SRINIVAS: Yes, you're right. It is on the basic.
+JOSEPH FORESI: Okay, great. Thanks, guys.
+OPERATOR: Your next question comes from the line of Rod Bourgeois with Bernstein.
+ROD BOURGEOIS, ANALYST, SANFORD BERNSTEIN: Hi, guys. I wanted to talk about the operating margin drivers in the quarter for a second. It appears your U.S. GAAP operating margin declined about 1.7 percentage points sequentially. I was hoping you could just quantify exactly what the FX benefit was to the operating margin.
+And then also if you could outline what the negative drivers of the margin decline were in the quarter, that would be very helpful.
+V. SRINIVAS: The primary reason for the decline in the operating margin is the salary increases. This is primarily because of, as I was mentioning earlier, the impact of the 3,000 people addition that we made in Q4. That impact has come full. That is one.
+And the second one is -- which I talked about the leave encashment provision which we have to make. That's roughly around $6m or so. That has also impacted this thing. And also we have the [inaudible] compensation charge of roughly around $3.7m, which gets distributed between the G&A and the cost of revenue. So these are the various things which went into the cost of revenue.
+ROD BOURGEOIS: Okay. And then the operating margin impact of foreign exchange. Can you just clarify what the positive benefit of that was and the sequential change in your operating margin?
+V. SRINIVAS: Yes, that is roughly around 0.6%.
+ROD BOURGEOIS: 0.6%, okay. Great. And then, as you move into Q2 on a similar note, then in the September quarter, what sequential decline in operating margin will occur because of the salary hikes that will largely kick into gear in the September quarter?
+V. SRINIVAS: Yes. Well, as a policy we are not giving guidance for the quarter. Our guidance at the operating margin level, we state that the year on -- at the yearly level. So FY '07, we are saying that at the EBIT level the margins will decline by roughly around 100 basis points. So that is what we are talking about. Other than that, quarter-on-quarter we will not be able to guide.
+ROD BOURGEOIS: Okay, great. And just on a quick separate note. Your ERP business is very weighted towards SAP. And I was wondering if there was any shift occurring in demand from SAP towards Oracle or some other aspect of the ERP business. Or is your mix within that ERP business staying roughly similar to the past?
+RAM MYNAMPATI: Rod, this is Ram. I don't know whether -- first of all, we're not sharing the distribution of SAP versus non-SAP in our ERP business. But I would like to think that there is a fairly even distribution of revenue across multiple ERP packages. I don't know whether it's fair to say that they are skewed towards SAP more than any other package. If you look at the account numbers, we have an equal number of people operating in each of the practices, SAP and Oracle and many other ERP packages. I'm not so sure whether I would support being us too much in favor of SAP only. It's fairly evenly distributed across multiple product lines at this point
+ROD BOURGEOIS: And has that changed in the last year, if you look at where you were in terms of your mix a year ago versus today?
+RAM MYNAMPATI: It has changed somewhat but that also keeps pace with the market changes. In general, the greater the strength of a given package in a particular business line, the greater the opportunities for services. And to the extent that we are able to win more opportunities in those service lines, there would be a shift. And certainly the shift would take place, if not quarter by quarter, at least on a yearly basis. But there's nothing that we need to read into it, as long as the aggregated ERP practice is [inaudible], which we are fairly positive about at this stage.
+ROD BOURGEOIS: And then, Ram, just on a related note. In the last couple of quarters the ERP business kind of grew in line with the rest of the Company. Are you expecting the ERP business to be an above corporate average grower for the full year fiscal '07?
+RAM MYNAMPATI: Again, we would not be in a position to guide any particular line of business, Rod. I'm sure you can appreciate that. Last couple of quarters are the exceptions, actually. Previous quarters we have seen ERP business grow faster than the Company business. This quarter, we have seen ERP business grow faster than the Company business.
+We clearly are seen as one of the leaders in the market. Satyam's name is probably in the top of the mind recall for many of the ERP solutions. We are hopeful that that would give us the accelerated growth in the market. But we would not want to focus only on ERP business as the growth. There are downstream revenue opportunities coming out of ERP and there are cross-sell opportunities coming out of ERP. I think we need to look at the whole picture rather than focus on one market segment, Rod.
+ROD BOURGEOIS: Thanks, Ram, and good luck with that.
+RAM MYNAMPATI: Thank you.
+OPERATOR: Your next question comes from the line of James Friedman with Susquehanna.
+JAMES FRIEDMAN, ANALYST, SUSQUEHANNA: Hi, it's Jamie Friedman at Susquehanna in New York. With regard to the operating margin assumption decline of 100 basis points for the fiscal year, I was wondering how we should contemplate the impact of Nipuna. I know that you've described it as breakeven, but do you have any updated thoughts with regard to the trends at Nipuna?
+V. SRINIVAS: This is Srinivas here. We are not basically giving guidance subsidiary wise. What technically -- what basically I'm saying is that the impact of subsidiaries on our margins is going to be very, very minimal. When compared to last year - that is FY '06, FY '07 - the impact of subsidiaries is going to be very minimal. And the operating level impact will have a positive impact.
+JAMES FRIEDMAN: Okay. And then, with regard to the U.S. GAAP, Srinivas, on the other income of [15.7m], that was much higher than when we were internally modeling. Could you help us decompose why that was so high in other income?
+V. SRINIVAS: That includes around $9.8m of ForEx gain. If we exclude that, then the balance reflects the interest income.
+JAMES FRIEDMAN: Okay. And then, finally, maybe this question is best for Ram. But we were wondering about the duration of some of the contracts. It seems like you had done very well in the consulting business in the fiscal Q1. It was up 10% sequentially. How should we think about the duration of that? Is that short term in nature? Will it need to be replaced in the back half of the year? Or does it inform the application development maintenance work that you also do?
+RAM MYNAMPATI: Well, first of all, any [inaudible] including consulting tends to have a lifecycle of its own. While a consulting engagement comes to an end, it gets replaced by other consulting opportunities. But more important is that we are hopeful and the reality is very much in line with that, is that every consulting engagement leads to downstream revenue opportunities of different types. Sometimes it is application maintenance; sometimes it's ERP implementation, whatever.
+So, to us, we cannot really predict the sustainability of any revenue stream across a quarter or two. What we need to do is look at whether a given line of business is contributing to the overall growth of the organization. Sometimes, as I said, it's downstream revenue, sometimes it is cross-sell opportunities. Sometimes, it is building upon what we are able to deliver as value. So it's very difficult to predict any kind of sustainability to any revenue stream. As I said, we would not be in a position to do that.
+JAMES FRIEDMAN: Okay, thank you very much.
+OPERATOR: Your next question comes from the line of Alan Hellawell with Lehman Brothers.
+ALAN HELLAWELL, ANALYST, LEHMAN BROTHERS: Yes, congratulations, gentlemen. Just one maybe broad question. There seems to be further encouraging evidence of penetration of larger accounts. Can you give us a little more color behind that? What key organizational initiatives have you taken and maybe -- or to state it another way, what are you offering a large account this year that same time last year you would not have been able to offer?
+B. RAMA RAJU: Quite some time ago, we have created what we refer to as a strategic deals group to particularly focus on large deals. And that group has operated in a very focused fashion. And we believe that that has certainly helped. We have not only closed a few sizeable deals but we have a fair amount in the pipeline.
+ALAN HELLAWELL: Okay, I'm sorry. Is that the end of your response?
+RAM MYNAMPATI: Yes. Well, let me just add to what Raju said. Not only have we focused on pursuing opportunities that are larger in size and longer in duration, if you look at the value proposition that ultimately we offer to the market today, there are two types.
+One is a value proposition that relates to total accountability and ownership to delivering a broader set of services. So to that end, we are playing the role of -- we are continuing to play the role of a systems integrator, where a customer is looking to a partner to take accountability to deliver business value according to a specific set of SLAs or whatever.
+Second is that, when we talk about large deals, we're not only talking about a specific service offering. We are talking about integrated solutions. To that end, we would be in a unique position to put together, from among all the service offerings that are available within the organization as well as outside, the most integrated value that we can put together that would benefit the customer.
+To that end, large deals tend to be a go-to-market strategy for more than one service offering. Sometimes it is infrastructure management; sometimes it is engineering services; sometimes it is enterprise applications; sometimes it is BPO. So what it would offer to us is a fairly unique opportunity of integrating all the services that we have brought to a certain level of maturity and relate to the right business value that we are able to deliver to the customer.
+So what we offer today, number one is a capability to integrate all the services into specific business solutions. Number two is the capability to take end-to-end responsibility and accountability to deliver to the set of SLAs. Those are the things that we are focusing on maturing, in addition to having a dedicated focus and a go-to-market strategy to pursue opportunities of that kind.
+ALAN HELLAWELL: I appreciate that. Could I just ask you? Being as general as you want, can you characterize the services that you've brought into play in one of the more recent large contracts, just to get a flavor of what horizontals you're bundling together, etc? Can you give me an example?
+RAM MYNAMPATI: Sure. Without naming a customer specifically, I would say the three different service offerings that we have been able to put together included ADMS, enterprise applications and IMS, infrastructure management. So we are able to not only provide services on the infrastructure management side, enterprise application maintenance side, as well as ancillary integrate applications. But, more importantly, we are able to work with the client in identifying a roadmap of what solutions that we can deliver in an integrated fashion, while taking individual accountability for each of those services.
+ALAN HELLAWELL: Okay. And my last, very short question, oftentimes when you move into a new market that is dominated by incumbents, the value proposition is the first step you take. You offer a better value per dollar, and then you start building around it with follow-on services. What do you feel or what do you know to be the kind of discount on services that you're able to offer at this early stage relative to the other guys?
+RAM MYNAMPATI: Well, again, it's very difficult to, number one, generalize, and number two, quantify those kinds of things. Ultimately it is no longer measured in a tactical, cost per service basis. I think the customers today are looking increasingly to the total cost take-out, and that tends to be spread over a much longer period, and it tends to be much more integrated and complex than the tactical cost per dollar that we think goes into the service.
+Even if we offer the same service for a few dollars less, to the extent that the total cost of managing that service is better for the customer, it is unlikely that we would be able to convince the customer of the value prop. So the value proposition consists of a number of things - competency, price, the ability to deliver and, more importantly, the time period within which we are able to convince the customer. I don't know that we can be any more specific than that, other than to say it is customer specific and situation specific as far as value prop is concerned.
+ALAN HELLAWELL: That very much paints the picture. Thank you very much.
+RAM MYNAMPATI: Thank you.
+OPERATOR: Your next question comes from the line of Anthony Miller with Arete Research.
+ANTHONY MILLER, ANALYST, ARETE RESEARCH: Yes, thanks, gentlemen. I need some clarification, please, both on the margin issue and also on campus recruitment. On margins, I'm struggling here, particularly looking at your gross margin. If you look at in U.S. GAAP it seems that you've dropped about 300 basis points of gross margin, sequentially. Even if you put back the share-based payment, that comes to about 200 basis points light, and that's in a very positive environment.
+You've already talked about the pricing was up, the utilization is about steady, offshore is up. All the main leaders are going in the right direction. Now, I take on board that you've brought on more people in the fourth quarter, but there again, so have all the other players. When I look at, for example, Wipro, who like you have not yet given your salary -- given salary hikes, their gross margin was up 300 basis points in the first quarter. And even if I look at you this time last year, first quarter '06, your gross margin was up about 140 basis points. I really can't understand why there was such a hit on your gross margin in the first quarter. Can you help me on that, please?
+V. SRINIVAS: Yes. This is Srinivas here clarifying. This includes the stock-based charge under FAS123R of 3.7m. This was not there in the last quarter.
+ANTHONY MILLER: No, but even accounting for that, that still brings the margin drop to about 200 basis points instead of 300. It's not that significant.
+V. SRINIVAS: Yes. Then why I am talking about $6m of provisions we made.
+ANTHONY MILLER: Okay.
+V. SRINIVAS: In the compensation, towards the leave encashment that is an additional provision that came this time because of the accounting standard change in India. So that is another $6m. So if you take these two things into account, they explain predominantly the change. But I was also mentioning about the 3,000 people who we have recruited in Q4. Most of them joined in March. Their salary -- full salary impact is felt in Q1, whereas in Q4 when we're making quarter-on-quarter comparisons, the salary that we would have given in Q4 will be much lower. So these are basically the reasons for the cash flow revenue going up.
+ANTHONY MILLER: Okay. I'll take that offline with you, because even adding in those two items, I get basically flat gross margins, whereas what I would have expected was gross margin uplift because of all the other factors. But I won't take time on the call for that.
+My second question was just a bit on clarity on campus recruitment. Can you give us an idea, please, on this current recruitment cycle, how many universities -- how many universities and colleges you've already attended, how many more you have to go, how many offers you've made, what's been the acceptance rate, and what is your anticipated fresher mix this year, please? I know it sounds like a long list.
+V. SRINIVAS: We have not been giving such a detailed information as that. It goes without saying that we are trying to access talent from many institutions for [inaudible], and this is looking across the [inaudible]. Suffice it to say that we are tapping the opportunity to get the best talent in.
+ANTHONY MILLER: But can I -- sorry to interrupt. Can I at least ask, then, do you feel compared to this time last year that you are being more successful in recruiting freshers, or is it the same, or less successful, both in terms of finding the right people and them accepting?
+B. RAMA RAJU: We have never set any challenge about being able to recruit people at the entry level as such, and we continue to get the right kind of people that meet our requirements. And in that sense, the challenges have been greater when it comes to lesser recruitment than entry level recruitment. And of late, we have -- for example last quarter, the proportion of our entry level people has been higher, and we expect that this trend matched at one or two quarters the entry level of recruitment to be at a higher level than at lesser levels.
+But in terms of attracting quality people, in spite of the environment being very competitive, we have not had challenges that we could not effectively address.
+ANTHONY MILLER: Okay. All right, then, thanks very much indeed.
+V. SRINIVAS: Anthony, before you sign off, one more important last element that has gone in this quarter is the [inaudible] expenditure. I think quarter-on-quarter this has been increasing around [5.5m] or so, [4.5m, 4 to 5.5m]. At the last quarter it was 1m. So quarter-on-quarter, there was an increase of roughly around $400m.
+ANTHONY MILLER: Yes, I'm sorry, I didn't hear what -- what was that cost alluding -- referring to?
+V. SRINIVAS: These are visa expenditures. Visa -- for applying to visas here, [inaudible] visas.
+ANTHONY MILLER: Oh, sorry.
+V. SRINIVAS: For the entire yearly requirement, we have applied now in this quarter so we will take the hit in this quarter. There will be more in the rest of investment, because these visas we will be using up over the next 12 to 18 months.
+ANTHONY MILLER: Yes, indeed. In fact, one of your competitors has done exactly the same. That's great. I'll catch up with you afterwards offline, if I may.
+V. SRINIVAS: Sure, sure, most welcome.
+ANTHONY MILLER: Thanks very much.
+OPERATOR: Your next question comes from the line of Ashish Thadani with Gilford Securities.
+ASHISH THADANI, ANALYST, GILFORD SECURITIES INC: Yes, good evening, very nice quarter. I just wanted to focus on the ForEx issue. You had a gain of 9.8m net below the operating line in this quarter. It seems that you're getting help when you don't really need it from ForEx. The objective of a hedging program, I guess, is to generate a gain when the rupee is strong and vice versa, but that does not appear to be the case. How should we think about this issue, especially in an environment of rupee strength? Is it going to come back and hurt you?
+V. SRINIVAS: Yes. Ashish, Srinivas here. Yes, this quarter [inaudible] from the cash statement, we have been given this gain of around 14 -- $13.7m because of ForEx transactions, and other income includes 4.9m [inaudible] because of the hedging losses. So net/net it was $11.8m because of the ForEx.
+Yes, it is very difficult for us to completely seal ourselves from the vagaries of the ForEx movement, but [inaudible] a balanced strategy wherein we will be equally equipped whether rupee appreciates or depreciates.
+What I'm saying here is we have taken a policy to cover 50% of our dollar inflows in the next 12 months, and we are taking hedging steps. So to an extent the risk [inaudible] is the rupee. When the rupee depreciates we will not be gaining much. At the same time, when the rupee appreciates, also we will not be hurt that much. So that break is evenly spread. So to an extent, I think we're doing our best under [inaudible].
+ASHISH THADANI: Okay, and the 60 basis points impact in this quarter was above the line, right?
+V. SRINIVAS: Yes.
+ASHISH THADANI: Okay. And then just one other question. Your revenue performance in the quarter was ahead of guidance which you provided three months ago. And it appears that this may have come from -- possibly from new clients, which was above normal in terms of contribution to total revenue. Was this indeed the case? Was it across one or two clients or was it more broad-based?
+RAM MYNAMPATI: Ashish, this is Ram. It's certainly broad-based. But clearly the contribution is better from new clients, as you can see. The contribution from new clients is up this quarter, but it's not yet [inaudible] broad-based.
+ASHISH THADANI: Thank you very much. Good luck.
+RAM MYNAMPATI: Thank you.
+OPERATOR: Your next question comes from the line of Bhuvnesh Singh with Credit Suisse.
+BHUVNESH SINGH, ANALYST, CREDIT SUISSE FIRST BOSTON: Hi, sir, I just wanted to understand your margin guidance. Like you said, that the key reason why you're not increasing your margin guidance is because you're not sure of rupee/dollar. But what if that rupee/dollar stays at the level that it is? Then in that case will you have higher margins or -- what I'm trying to say, is there a degree of conservatism built in your guidance, or why has margin guidance not changed probably?
+V. SRINIVAS: Well, Bhuvnesh, it's what I was mentioning, that should rupee depreciate further, below the level predicted in the guidance, I think we will be [listening] and plowing it back into the divisions. That is one limited opportunity we have.
+BHUVNESH SINGH: Okay. You are doing the same thing in your revenue guidance, if I look at the revenue numbers. Probably all the increase in guidance can be explained by the shift between rupee/dollar and rupee/pound or euro. So it does not even take into account extra volume growth that you have had in this quarter. Is there some reason behind that or -- I'm not able to figure out that, why is that the case?
+B. RAMA RAJU: No, I think -- I think [inaudible].
+V. SRINIVAS: No, this is whatever improvement in performance is not getting reflected is in on the guidance for the year at the bottom-line level.
+B. RAMA RAJU: Is that your question, Bhuvnesh?
+BHUVNESH SINGH: What I am trying to say is that if I take your full guidance and the new guidance on top line, on revenues, all the change can be explained just by the shift in currency, rupee/dollars and rupee/euro. So while this quarter we have had something like 4% extra volume growth compared to what we guided initially. So why haven't we changed our full year guidance by more than the impact of currency?
+V. SRINIVAS: No, no, no, no. That is not correct. There is definitely rupee impact. If you're talking about the bottom line, I think the question answer is to look at the U.S. GAAP guidance. There are items that reflect the current situation wherein we increased our [bottom] from 26 to 27.3. So that 1.3 is entirely because of the dollar growth versus rupee, what [inaudible] you're saying, out of that roughly 1.3% is because of the business or the up-tick we are seeing in Q1 that's already in the bag. And the balance is because of the rupee. So it is a combination. It is not that the entire increase is because of the rupee.
+BHUVNESH SINGH: So, on that, [have you built the] change in rupee/euro aspect, because the euro has appreciated much more strongly than dollars?
+V. SRINIVAS: Yes, it has appreciated more than 9% while dollars appreciated by around 3.4%. Well, what it was [inaudible] it's an average of all the currencies.
+BHUVNESH SINGH: Okay, so I'll maybe take it offline to understand that better. Thanks a lot.
+V. SRINIVAS: Yes.
+OPERATOR: At this moment, there are no further questions from participants here. I would like to hand over the proceedings back to Pratibha.
+OPERATOR: Thank you very much, April. At this moment, I would like to hand over the floor back to the Satyam management for final remarks.
+V. SRINIVAS: Well, thank you, Pratibha. I would like to take this opportunity to thank every one of you for joining us and actually participating on the call. If you have any further questions, please do contact us. And if you want further information on the results for this quarter, they have been posted on our website, satyam.com. Please do visit us. You have an Investors link, and also all of the accounts are already included there. Please do look into it. And if you have any questions, please get in touch with our Investor Relations team. Thank you once again.
+OPERATOR: Ladies and gentlemen, thank you for choosing Webex Conferencing Service. That concludes this conference call. Thank you for your participation. You may now disconnect your lines. Thank you and goodnight.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2006 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2006 Voxant, Inc. (www.voxant.com) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Voxant's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Voxant so long as they provide conspicuous attribution to Thomson Financial and Voxant as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Customer services; Leadership; Foreign exchange rates; Earnings per share
+
+Business indexing term: Subject: Customer services Leadership Foreign exchange rates Earnings per share
+
+Company / organization: Name: Lehman Brothers Holdings Inc; NAICS : 523150, 551112; Name: Thomson Financial; NAICS: 513210, 518210, 519290
+
+Title: Q1 2006 Satyam Computer Services Limited Earnings Conference Call - Final: [1 ] :   [1 ]
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Pages: n/a
+
+Publication year: 2006
+
+Publication date: Jul 21, 2006
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 466909729
+
+Document URL: https://www.proquest.com/newspapers/q1-2006-satyam-computer-services-limited-earnings/docview/466909729/se-2?accountid=27562
+
+Copyright: 2006 CCBN, Inc. and FDCH e-Media, Inc.
+
+Last updated: 2024-12-04
+
+Database: ABI/INFORM Collection

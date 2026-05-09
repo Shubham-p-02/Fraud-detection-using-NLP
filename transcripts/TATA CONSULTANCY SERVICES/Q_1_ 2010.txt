@@ -1,0 +1,276 @@
+Q1 2010/11 TATA CONSULTANCY SERVICES LTD Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q1-2010-11-tata-consultancy-services-ltd-earnings/docview/733638640/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Ladies and gentlemen, good day, and welcome to the TCS earnings conference call. This is Rochelle, the Chorus Call conference operator. Please note that for the duration of this presentation all participant lines will be in the listen-only mode and the conference is being recorded.
+After the presentation there will be an opportunity for you to ask questions. (Operator Instructions). At this time I would like to turn the conference over to Mr. Kedar Shirali, Director of Investor Relations at TSC. Thank you, and over to you, Mr. Shirali.
+KEDAR SHIRALI, DIRECTOR, IR, TCS LTD.: Thanks, Rochelle. Good evening, and welcome, everyone. Thank you for joining us today to discuss TCS's financial results for the first quarter of fiscal year 2011 that ended June 30, 2010. This call is being webcast through our website and an archive, including the transcript, will be available on the site for the duration of this quarter. The financial statements, results, presentation and press releases are all available on our website.
+Our leadership team is here today to discuss, today's -- this quarter's results. We have with us today Mr. N. Chandrasekaran, Chief Executive Officer and Managing Director.
+N. CHANDRASEKARAN, CEO AND MD, TCS LTD: Hello, everyone.
+KEDAR SHIRALI: Mr. S. Mahalingam, Chief Financial Officer and Executive Director.
+S. MAHALINGAM, CFO AND EXECUTIVE DIRECTOR, TCS LTD: Hello.
+KEDAR SHIRALI: Mr. Phiroz A. Vandrevala, Head of Global Corporate Affairs and Executive Director.
+PHIROZ VANDREVALA, HEAD, GLOBAL CORPORATE AFFAIRS AND EXECUTIVE DIRECTOR, TCS LTD: Hello, everybody.
+KEDAR SHIRALI: And Mr. Ajoy Mukherjee, Head of Global Human Resources.
+AJOY MUKHERJEE, HEAD, GLOBAL HUMAN RESOURCES, TCS LTD: Hi, everyone.
+KEDAR SHIRALI: As usual, Chandra and Maha will give us a brief overview of the Company's performance and that will be followed by a Q&A session. As you are aware, we do not provide specific revenue or earnings guidance and anything said on this call which reflects our outlook for the future, or which can be construed as a forward-looking statement, must be reviewed in conjunction with the risks that the Company faces. We have outlined these risks in the second slide of the results presentation emailed to you, and which is also available on our website. With that, I'd like to turn the call over to Chandra to begin the proceedings.
+N. CHANDRASEKARAN: Thank you, Kedar. Good morning, good afternoon and good evening, everyone. I'm very pleased to report that we have had a quarter of an all around outperformance. This is a quarter in which we have delivered a volume of over 8%, 8.1%, and a rupee return on revenue of 6.2% and a constant currency revenue of 7.3%.
+From the historical point of view in absolute numbers, this has been the best quarter since September 2008 and, in terms of constant currency, is the best quarter since September 2007. And this result has come about in a very holistic manner. All our industry segments have done very well.
+In the past few quarters we saw the BFS segment leading the growth. In this quarter BFS has done extremely well. However, there are other industry segments who have done very well as well, and some who have done better than BFS segment. At least three industry segments have delivered double-digit growth.
+From a geography point of view the growth has come from all markets. In terms of constant currency, again we have grown all the geographies. US, Canada, Latin America, Europe; both Continental and UK; Middle East, India, Asia Pacific all have delivered growth. However, the growth has been led by both the US and Asia Pacific in this quarter.
+In terms of the deals that we signed, we've signed 10 large deals and all of the deals are in the non-BFS segment; a couple of deals each from Manufacturing and Hi-Tech industries, and then a deal each in various segments like Retail, Life Sciences & Healthcare, etc.
+At the beginning of the quarter, very clearly, we knew that there is a significant headwind in terms of margin from the salary increase perspective that only got compounded by the euro and sterling, causing another headwind. Our teams, both the business teams and the finance teams, have done an incredible job of managing these headwinds and deliver an operating margin of about 27.15%, just 36 basis points below the last quarter -- sequential quarter.
+In terms of employees, we added a significant number of employees, and considering the demand environment we're going to increase the target from a gross of 30,000 to a gross of 40,000 at this point.
+As for the BANCS product, it has done extremely well this quarter. Eight of the implementations have gone live and we signed 13 new deals, which are very good.
+About the deal pipeline, it is very robust, and, again, we have a good number of deals in all markets across industry segments. I would at least specify there are [13] important deals going on, one-third of which are coming out of discretionary spend-critical projects.
+From the overall environment point of view I'm very well aware, and we, as the management team, are fully cognizant of the macroeconomic conditions, which is very dynamic at this point in time. But our bottom-up data indicates that the momentum is good, the pipeline is good and we are seeing signs of discretionary spending with the type of deals that we are participating in. So there is this disconnect between the macro situation and the bottom-up data. I will just leave it at that.
+But we remain very positive and we remain closely engaged with our clients, and look forward to good coming months. With those opening remarks I will pass it on to Maha to provide a little more color on the financials, and later on we'll be happy to take any detailed questions.
+S. MAHALINGAM: Thanks, Chandra. So let me begin by repeating the headline numbers. We posted a revenue of INR82.173b, or 8,217 crores, which is a growth of 6.2% Q-on-Q and 14% year-on-year. In constant currency we grew by 7.3% quarter on quarter. In dollar terms there was a cross-currency impact of 86 basis points negative this quarter, resulting in the reported revenue of $1.794b; that's a sequential growth of 6.4% and 21.2% on a year-on-year basis.
+The breakup of quarterly revenue growth on INR terms is, volume growth is plus 8.1%; exchange is negative 1.09%; pricing is negative 0.32%; effort mix, that is shifting from onsite to -- from offshore to onsite, there is a negative 0.48%; total 6.2%.
+Moving on to costs, if I -- you will -- you might recall from last year's -- last quarter's call that we implemented across-the-board wage increases that went into effect at the start of this financial year. We were able to mitigate the resulting margin impact almost entirely through a combination of three things; better operational leverage through holding many of the non-employee costs at about the same absolute level; this is what I have been saying; the second one is some offshore shift; and the third one is better collections due to which we could reverse some past provisioning for bad debts.
+That is how we were able to hold the operating margin more or less steady at 27.15% even in a quarter with the severest of margin headwind, suffering only 36 basis points' sequential decline, that too mainly because of currency volatility.
+The impact of different levers on the operating margin are as follows; currency minus 32 basis points; impact of wage hike minus 215 basis points; offshore shift plus 15 basis points; rate productivity improvement plus 57 basis points; SG&A efficiencies plus 139 basis points. Other income was lower this quarter due to net foreign exchange loss of INR472m, compared to the gains last quarter. Our tax rate also went up this quarter to 19.1%, giving us a net margin of 22.45%. Our DSO for the quarter was 77 days. Cash and liquid funds stood at INR95.2b.
+In summary, we matched the strong market-leading growth we posted this quarter with an equally strong, robust defense that took a steep wage hike and adverse currency movement in its stride. That speaks of the resilience of our financial model and its ability to deliver in bad times and good.
+With that, we can open the lines for questions.
+KEDAR SHIRALI: Rochelle?
+OPERATOR: Thank you very much. (Operator Instructions). Our first question is from the line of Balaji Prasad of Goldman Sachs. Please go ahead.
+BALAJI PRASAD, ANALYST, GOLDMAN SACHS: Thank you. Hi. Good evening, gentlemen. Congratulations on a good set of results. My first question was on your UK growth. This has been quite impressive, at 5.5%, despite the pressure on the pound. Do you see that coming, the negotiation with PADA? And any kind of pullback from BP affecting this? And to what extent could this be affected?
+N. CHANDRASEKARAN: So as far as the PADA contract is concerned, I think the government is doing the diligence and we are not, at this point in time, aware of any decision where the contract -- any negative decision towards the contract. We are in good discussion with the client and the project is going on as per schedule, and we have a very good contract, but any decision on the PADA contract I don't think will have a negative impact on our performance.
+BALAJI PRASAD: Okay, that's good to know. Also on BP, have you seen or have you [been seeing] any kind of pullback in projects that you're doing for them that this could reduce in size?
+N. CHANDRASEKARAN: No. Neither of these relationships are a cause of concern from our point of view but, at any case, at this point in time I don't envisage any negative impact to our performance because of these contracts.
+BALAJI PRASAD: Okay, that's wonderful. Secondly, can you just give us your collective impressions that you're having when you're discussing pricing with clients globally? Also, what kind -- how receptive have they been to any kind of pricing increase going forward? What are your thoughts on that?
+N. CHANDRASEKARAN: I think we have said repeatedly in the last three, four months that the pricing environment as far as we are concerned is stable and we are looking to maintain the pricing environment in the immediate quarters. And there is definitely a demand pickup, and so I expect the pricing to go up in the later part of the year.
+BALAJI PRASAD: Okay, great. Any insight that you can provide on how this has been quite stable at your end while your peers are going through some pricing pressure? We've seen recently one of your peers have warned about a decline in pricing. Any particular insights that you can share with us?
+N. CHANDRASEKARAN: No, not really. I can only say about us, and I think the pricing environment is stable from our point of view, and we hope to maintain that in the immediate quarters.
+BALAJI PRASAD: Okay, thank you so much for your time. Good luck for the rest of the year.
+OPERATOR: Thank you, Mr. Prasad. Our next question is from the line of Edward Caso of Wells Fargo Securities. Please go ahead.
+EDWARD CASO, ANALYST, WELLS FARGO SECURITIES: Hi, good evening. I was wondering if you could talk a little bit about your Business Process Outsourcing business, particularly now that you've gone a little bit more than a year since the Citi acquisition. And have you been able to leverage that? Any thoughts on current pace of business and so forth?
+N. CHANDRASEKARAN: I think the Business Process Outsourcing business is doing well. In fact, both the prices, the momentum on the BPO have picked up even from the Financial Services clients. We have been able to leverage the Citi deal and we have won more than five clients in the Financial Services segment, where we are continuing to ramp up. And the Citi acquisition per se is ahead of the business plan at this point in time. On the last five quarters' -- last six quarters' performance it is ahead of the business plan.
+EDWARD CASO: Are you seeing any change in the pace of either interest level or contracts actually being signed? Are your -- is the sales cycle starting to finally shorten a little bit or is this fear of a double-dip recession extending them again?
+N. CHANDRASEKARAN: See, the sales cycle for BPO is always long and it will continue to be long. Indeed, it's always a long sales cycle for BPO. I don't want to say long and short. BPO's sales cycle takes a little bit more time than the IT sales cycle in general, and that is the trend we are witnessing. As I said, we are aware of the macro environment and are carefully watching, but we are not seeing any impact of that in our sales cycle or in the delivery cycles or in the ramp-ups.
+EDWARD CASO: My last question revolves around employee attrition, which clearly has stepped up for TCS in this quarter, as well as for some of your competitors. And we read about significant poaching, as, often, some of the tier two didn't have any bench. We're wondering what steps you're taking to offset that. And has the initial flurry of poaching eased at all, or is the poaching still very high?
+S. MAHALINGAM: Okay, see, from attrition point of view we have -- it's gone up to about 13.1% at this point in time compared to last quarter, which was at 11.8%, and there are a couple of reasons for that. One is the seasonal part which is -- this is the time some of the people leave for higher studies, so usually, quarter one, the attrition is higher as compared to the remaining quarters in the financial year.
+The second one is this is the time when we complete our appraisal process and we also announced our increments. So as a result that led to some amount of attrition as a result of that. And the third one, of course, which is industry-growth related and if there is a growth it's bound to reflect on the attrition.
+But as far as the overall focus is concerned, for us, is on retention, so we are -- we have different schemes, different initiatives to -- for retaining our employees and we have been able to retain our critical talent so, that we have been able to do pretty successfully going.
+And as far as poaching is concerned, it depends, companies, for example, we will not go ahead and poach people deliberately from others. It depends on the kind of need that we have and the talent that is available in the market, so it's at that level.
+N. CHANDRASEKARAN: But, having said that, retention -- employee retention is a key initiative in the Company at this point in time.
+S. MAHALINGAM: Yes.
+EDWARD CASO: Great, thank you very much.
+OPERATOR: Thank you, Mr. Caso. Ladies and gentlemen, before we take the next question we'd like to request participants to limit their questions to one during the initial round of questions and answers; there are several participants waiting for their turn.
+Our next question is from the line of Joseph Foresi of Janney Montgomery Scott. Please go ahead.
+JEFF ROSSETTI, ANALYST, JANNEY MONTGOMERY SCOTT: Hello, this is Jeff Rossetti calling on behalf of Joseph Foresi. I just wanted to follow up on the question regarding attrition. Could you -- you mentioned that the gross hiring guidance was increased to 40,000 from 30,000. Is there a certain amount attributed to increased attrition and a certain amount attributed to expected growth?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think the gross hiring increase that we have done it is primarily being driven by the demand growth that we see.
+JEFF ROSSETTI: Okay, so not too much related to the -- on the attrition side?
+N. CHANDRASEKARAN: No.
+JEFF ROSSETTI: And on Continental Europe I know you mentioned that there was a constant currency growth for all geographies, but could you maybe discuss what kind of demand you're seeing within Continental Europe and how that has changed in the last month or two?
+N. CHANDRASEKARAN: Of all markets the Continental Europe market has had the slowest growth in this quarter. The demand environment in Continental Europe is good, but the sales cycle in Continental Europe also tends to be a little longer. We expect that it'll get better from here. For example, in this quarter we have had a constant currency growth of about 1.2% in Continental growth and we expect things to get better from here.
+JEFF ROSSETTI: Okay. Thank you very much, and congratulations on the quarter.
+OPERATOR: Thank you, Mr. Foresi. Our next question is from the line of Anthony Miller of TechMarketView. Please go ahead.
+ANTHONY MILLER, ANALYST, TECHMARKETVIEW: Yes, I'd like to just clarify a bit more about the European scene. You just said that the constant currency growth in Continental Europe was 1.2%. Can you just give what the UK constant currency growth was in comparison, please?
+N. CHANDRASEKARAN: 5.1%.
+ANTHONY MILLER: That was, sorry, 5.1%? Okay. Because you -- sorry, yes. So you said that even though Continental Europe was 1.2% you felt confident that things will get better from here. What is it that gives you that confidence?
+N. CHANDRASEKARAN: Just based on the conversations we have with clients and the engagements we are pursuing.
+ANTHONY MILLER: Okay. And, just finally, you also mentioned that you had a number of BANCS deals; you signed 13 new BANCS deals in the quarter. Can you say which geographies those were in and what the sort of specific applications they were?
+N. CHANDRASEKARAN: They are well distributed across the globe. And there are four or five core banking deals, there are deals in the insurance sector, there are deals in the market infrastructure and custody area.
+ANTHONY MILLER: Okay, thanks very much indeed.
+OPERATOR: Thank you, Mr. Miller. Our next question is from the line of Mitali Ghosh of Bank of America Merrill Lynch. Please go ahead.
+MITALI GHOSH, ANALYST, BANK OF AMERICA MERRILL LYNCH: Yes, hi. Good evening and congratulations on a great quarter. Chandra, if you could just give us some color on the trends in the Banking vertical, because last few quarters we've seen strong growth led by more general integrations-related work. I just wanted to understand is that leveling off.
+Also, I thought you mentioned that there were no new BFS deals in the large deals that you signed this quarter so, again, just trying to understand what sort of demand you're seeing there.
+And, finally, if you could share what the constant currency growth was for the Banking vertical this quarter.
+N. CHANDRASEKARAN: The constant growth rate for banking vertical is 6.5% this quarter and, Banking vertical, the demand environment continues to be good. And it is not that we are not signing the banking deals. There were a number of deals we have signed in the banks' product-related deals. In terms of pure IT services we are pursuing a good number of deals in the Banking and Financial Services vertical.
+In fact, of all the deals that we are pursuing I would say that Banking and Financial Services has more number of deals than other sectors. So I would say that the outlook for Banking and Financial Service and Insurance sector looks good.
+MITALI GHOSH: Just as a follow up to that, if you could give us some color in terms of what is the kind of demand you're seeing from the banks, in terms of nature of projects, now that probably integration work is more or less getting completed.
+N. CHANDRASEKARAN: We are seeing some transformation deals; deals in the area of compliance, deals in the area of re-platforming. When I say re-platforming, changing from legacy to (inaudible) application that is interest in terms of analytics. And there are also deals coming in within [more] infrastructure management space so -- and then there are deals in the BPO space from the Financial Services sector so I think the type of deals very (inaudible).
+MITALI GHOSH: Okay, thanks, that's very helpful. And overall on the pipeline you mentioned that the specialty products is a large chunk. How has that changed over the last three months? Has the proportion in the pipeline actually moved up? Also, if you could comment on what is the mix in the pipeline from new customers, maybe perhaps first-time offshorers, and from existing outsourcing deals coming up for re-bid.
+N. CHANDRASEKARAN: Okay. In terms of the pipeline, definitely the deals from discretionary spend proportion of that in the pipeline has gone up. In fact, three quarters -- last three quarters until the previous quarter we have said that the most of the deals are non-discretionary point of nature, efficiency-related in nature, but we are seeing deals coming out of the discretionary spend in the pipeline. Clearly, that is a positive that I'm happy to report this quarter.
+Then, from the point of view of the existing versus new clients, I think it's a good healthy mix. Most of the deals that I am talking about are either new clients or clients where we have a smaller percent and we are having an opportunity to increase our percent but -- although there are also deals with the existing customers that we are pursuing. I don't know whether I answered your question or did you have anything else.
+MITALI GHOSH: Yes, just on -- is there a large chunk coming from existing deals where you're perhaps gaining share from incumbents?
+N. CHANDRASEKARAN: Whenever there is a deal that is in the area of efficiency or taking cost out there will always be incumbents, okay, so those type of deals always face incumbents plus new providers. But the discretionary spend deals are probably -- are all new projects where we are competing.
+MITALI GHOSH: Thanks. Just one last question on pricing. I heard your comments earlier. I just wanted to understand what is the risk of volume discount perhaps kicking in as some of the older renegotiations -- as a result of some of the older renegotiations in the past few quarters.
+N. CHANDRASEKARAN: Mitali, I think all I would say is that we believe we can maintain the pricing at the current levels.
+MITALI GHOSH: Okay, that's very helpful. Thank you.
+OPERATOR: Thank you, Miss. Ghosh. Our next question is from the line of Sandeep Shah of ICICI Securities. Please go ahead.
+SANDEEP SHAH, ANALYST, ICICI SECURITIES: Yes, just on the attrition, if we look at this quarter the percentage of three-year -- more than three year of experience has moved up by almost 300 basis points. Is it fair to say that we are realizing attrition more towards less than three years' experience, fact?
+N. CHANDRASEKARAN: I think the way to look at that is also there has been significant lateral adds this quarter. And our HR team has done a stupendous job of meeting the volume growth demand by ensuring that we've hired a large number of people and provide the right mix to the engagements so that, to some extent, will have a distraction.
+And also in this quarter, traditionally -- though I don't have the exact number to give you on the call, traditionally in the first quarter we have people who have been -- who have joined for one or two years quitting for higher studies, and that adds to the attrition. So a portion of that that you see is due to that. So these are the two explanations I can give you. And obviously if you want more data you can contact Ajoy later on and he will happily share.
+SANDEEP SHAH: No, this is helpful. Second, in terms of the new deals which are coming, are they coming at a higher than the Company average billing rate?
+N. CHANDRASEKARAN: Why don't you -- why don't we just leave it at the fact that the pricing is going to be maintained and we are looking at an upward bias at the end of the quarter.
+SANDEEP SHAH: Okay, okay. And just, Maha --
+N. CHANDRASEKARAN: At the end of the year.
+SANDEEP SHAH: Okay. And, Maha, just on the hedging, can you give us a color in terms of the outstanding old covers and any new covers taken for the coming quarter or for the quarter beyond Q2 FY '11?
+S. MAHALINGAM: They are well written about, standing of the old covers. This quarter we will have something like $75m of old cover which was taken at, I think, INR42.13; that'll come back. And then the balance remaining is something like $30m over a period of time. So then it'll all be over.
+And as far as the current hedges are concerned, we took some hedges for Q2 and something more a little later, but they're all reasonably small. We have outstanding hedge of about $455m.
+SANDEEP SHAH: Okay, okay. And any color in terms of the average strike rate for these --?
+S. MAHALINGAM: For those ones they are combination of dollar and euro and so on. As far as the dollar is concerned, the best strike is about INR46.33.
+SANDEEP SHAH: Okay, okay. And just, Maha, in terms of the margin, in the coming quarter we may have a headwind to promotion, as well as there could be a normalization of the provision for doubtful debt. So I'm not asking for a guidance but just in terms of a direction of the margin. Do you believe it's sustainable in the coming quarter?
+S. MAHALINGAM: As I have said, our intent -- we've always said we don't give guidance. But our intent is that it should be around the 27% mark. You have correctly put it, the wage increase comes in two places for us, April to June, we have got the increments, and July to September, we have got the promotions, and therefore it will kick in. So that is a headwind that we have. We are also in a growth phase in data, etc. and Ajoy has said, there is a big recruitment program that is going on. And therefore, there are going to be additional employee costs that are coming in.
+And as you may have noticed, and so on, we have also not cut down on some of the sales related costs, and so on. Some of the costs have gone up. Quite a lot of the costs we have controlled. So these are there. But in a growth environment, we believe with the liquid cost control measures and the productivity improvements and so on, we will be able to take on these headwinds.
+SANDEEP SHAH: Okay. So we still maintain the internal target of 27% EBIT margin for the full year.
+S. MAHALINGAM: Oh no. No guidance. No guidance at all. These are all aspirational statements. And I just want to also add that when I said, we will be able to take on -- I'm not saying that we will be able to take on. So we will -- you know the direction of the (inaudible). The typical quarter, where we have had a 215 basis point issue with this wage hike, we have still managed to restrict the decline to 36 basis points.
+SANDEEP SHAH: Okay. Thanks, and congrats once again on a good set of results.
+OPERATOR: Thank you, Mr. Shah. Our next question is from the line of Nitin Padmanabhan of Indiabulls Securities. Please go ahead.
+NITIN PADMANABHAN, ANALYST, INDIABULLS SECURITIES: Yes, hi. Thanks for taking my question. The telco vertical seems to have grown pretty well this quarter. What are the trends there and how do you see that, going forward?
+N. CHANDRASEKARAN: The telco vertical has done well. But you should also note that the telco vertical had the biggest fall over the last few quarters. So it's coming off that and it has shown good growth. And I think my plan is good. Our ramp-ups are good, so positive good growth. But I'm not going to give you a number.
+NITIN PADMANABHAN: Sure. And with reference to constant currency for manufacturing, how did it look?
+N. CHANDRASEKARAN: Manufacturing on a constant currency basis delivered close to 4%, 390 basis points.
+NITIN PADMANABHAN: Sure. Perfect, thank you.
+OPERATOR: Thank you, Mr. Padmanabhan. Our next question is from the line of Diviya Nagarajan of UBS. Please go ahead.
+DIVIYA NAGARAJAN, ANALYST, UBS: Hi. Congrats on a good set of numbers. Just a couple of questions. I think we've seen -- we seem to have seen a good revival in some of your troubled sectors, notably manufacturing and telecom. What do you think has driven this revival? And how sustainable do you think this will be, going forward?
+N. CHANDRASEKARAN: I think, as I have said, we are happy that these verticals have come back. But you know the macro situation can [hurt] these verticals. That's only a macroeconomic effect. But as we see today, the data points we have, we are positive of growth in these verticals. The pipeline is good. And we are having good conversations with clients. But these are verticals which are susceptible to the macroeconomic situations. We just need to watch that. But it looks good at this point.
+DIVIYA NAGARAJAN: My second question relates to the strength of this overall recovery. We seem to have been surprised, quarter after quarter, by the kind of volume growth of the large [caps] such as you also have reported. My question is, is this -- should we view this as the beginning of another wave of offshoring where you will continue to gain market share at a much faster pace than expected. And if that's happening, where do you think that the new pockets of penetration are opening up for you?
+N. CHANDRASEKARAN: We're going to wait for one more quarter at least before commenting on this.
+DIVIYA NAGARAJAN: Sure, thanks. And Mahal, a bookkeeping question. Could you split your other income into ForEx and the others, please.
+S. MAHALINGAM: Other income, it's about INR47 crores in terms of the losses. And the balance is really the treasury income.
+DIVIYA NAGARAJAN: Thanks. And once again, a great quarter and all the best.
+OPERATOR: Thank you, Ms. Nagarajan. (Operator Instructions). Our next question is from the line of Vihang Naik of MF Global. Please go ahead. Mr. Vihang Naik, your line has been un-muted. Please go ahead with your question.
+VIHANG NAIK, ANALYST, MF GLOBAL: Yes, am I audible?
+OPERATOR: Yes, you are. Please go ahead.
+VIHANG NAIK: Yes, congrats on a great quarter. My questions were on the enterprise vertical. What has been the constant currency growth there?
+S. MAHALINGAM: The enterprise solutions constant currency growth is 4%. But the business -- if we separate between enterprise solutions and business [solutions], actually both should be looked at together. [Business solutions] constant currency growth is 4.5%. Enterprise solutions is 4%.
+VIHANG NAIK: Right. In last quarter we had a slight decline in enterprise. In this quarter it has grown slower than probably your other verticals. And you have said that discretionary -- signs of discretionary pickup are visible. What's our expectation overall from this particular service line, as such.
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think -- please see what I say in context. From a point where we did not see any discretionary spending, we are seeing signs of discretionary spending. And we are [bidding] these engagements, winning these engagements, then deliver these engagements, then book revenues. So you are going to see a dramatic shift in the next quarter or so. But the momentum is good. It's going to increase from here.
+VIHANG NAIK: Right, that was helpful. And secondly, on your lateral hires, we've seen almost two consecutive quarters of very strong lateral addition, more than 5,000 employees each quarter. Has our focus on lateral addition increased? And if so, what are the demand-led moves that have made us increase our focus on lateral additions as such?
+N. CHANDRASEKARAN: If you look at the lateral addition part, yes, normally in Q1 -- this is the first quarter -- the lateral addition is higher because the trainees start joining in towards the end of Q1 or early Q2 onwards. But as for our overall (inaudible) we are very conscious of that and we are going to maintain that parameter.
+VIHANG NAIK: Okay. That's it for me. Thanks.
+OPERATOR: Thank you, Mr. Nike. Our next question is from the line of Pinku Pappan of Nomura Securities. Please go ahead.
+PINKU PAPPAN, ANALYST, NOMURA SECURITIES: Thanks for taking the question and congrats on a great quarter. My question is really on UK, which verticals there are you seeing increased momentum or strength?
+N. CHANDRASEKARAN: I think it's pretty broad based, at this point.
+PINKU PAPPAN: Okay, so across the board. And in terms of discretionary spending, in any particular vertical that you're seeing a spot or higher rate increase in terms of client interest?
+UNIDENTIFIED COMPANY REPRESENTATIVE: BFS, definitely. I think there are four or five verticals I can mention, BFS, retail, consumer goods. Then we have travel verticals. We are seeing utilities, so we're seeing interest starting to pick in a variety of verticals. But again, although the proportion is small. So we just need to wait for this to pick up momentum.
+PINKU PAPPAN: You had a good quarter for infrastructure services. Is this coming from like standalone deals or are they part of combining together deals?
+N. CHANDRASEKARAN: Many of our deals are full services deals, but there are also deals which are standalone.
+PINKU PAPPAN: So in those standalone deals, have you actually won share from some [MMC] players or is it coming off new players?
+N. CHANDRASEKARAN: In all the deals, we have won share from MMC players.
+PINKU PAPPAN: Okay, thank you. Thanks a lot and congrats again.
+OPERATOR: Thank you. Our next question is from the line of [Ravika Moven] of IFCI. Please go ahead.
+RAVIKA MOVEN, ANALYST, IFCI: Hi. Greetings. Congratulations on the set of numbers. Most of my questions have been answered. I just wanted to get some sense on [emerging] verticals that you spoke about, most of verticals as you said have grown more than the (inaudible) verticals. If I'm reading numbers correctly, there has been almost a double-digit growth in most of your verticals. Is that right?
+N. CHANDRASEKARAN: A double-digit growth in most, I would love that. I would love that situation. But it's not true. I think on an actual currency basis, there are four verticals which are double-digit. On a constant currency basis, there are three verticals which are double digit. And one is very close to double digit.
+RAVIKA MOVEN: Okay, great. So what is your sense of going forward for all these emerging verticals which are being strong right now for you in the (inaudible) line? Energy particularly. Does this pertain to a particular sort of service line that you are engaging to or a particular geography that you're looking right now for all these emerging verticals?
+N. CHANDRASEKARAN: See, the fact that all these verticals are coming broad-based and across verticals clearly indicates that it is not one-off or it is not client driven. As long as the overall macro situation does not result in a serious impact, which we are not seeing now, but should something happen, then that's the concern we should have. But apart from that, I think these are verticals in which we are beginning to see growth. And there are opportunities.
+RAVIKA MOVEN: Okay, great. So thanks a lot. Congrats on the result. And thank you, sir.
+OPERATOR: Thank you, Ms. Moven. Our next question is from the line of Harit Shah of Karvy Stockbroking. Please go ahead.
+HARIT SHAH, ANALYST, KARVY STOCKBROKING: Thanks. All of my questions have been answered. Just one bookkeeping question. So your taxes, of course, were -- as expected, have gone up quite steeply in this particular. You would expect it to remain at this level, at around 19% for the full year?
+S. MAHALINGAM: Yes, we expect it around this level, 18%, 19%. It will be somewhere around this level.
+HARIT SHAH: Any indication of what it is likely to be next year, post-STTI?
+S. MAHALINGAM: We had said that here that it would be around 22% -- maybe it could be in the range of 22% to 24%.
+HARIT SHAH: All right. And just one clarification, you had said that the pricing had an impact of about 0.32% on your revenue growth. Was that correct or is it negative.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Negative 32 basis points.
+HARIT SHAH: Negative. And for the -- in terms of the EBIT, it's negative 57 basis points. Is that right?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Which one?
+HARIT SHAH: In terms of your --
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, correct.
+HARIT SHAH: Okay, great. So thanks a lot and the best of luck. Thank you.
+OPERATOR: Thank you, Mr. Shah. Our next question is from the line of Shashi Bhushan of Prabhudas Liladhar. Please go ahead.
+SHASHI BHUSHAN, ANALYST, PRABHUDAS LILADHAR: Thanks for taking my question. I want to ask about salary hike. The entire effect of salary hike has not been reflected in this quarter. So what is the impact going to be in the next quarter?
+N. CHANDRASEKARAN: (inaudible) in the quarter.
+SHASHI BHUSHAN: Sorry, the promotion that we --
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay. The promotion cost is the one that is not reflected. But otherwise the wage increase is reflected in the previous quarter.
+SHASHI BHUSHAN: So what would be the impact of promotion?
+S. MAHALINGAM: We had said earlier that wage increments would have an impact of 10%. And overall impact is going to be 13%, including promotions.
+SHASHI BHUSHAN: Thank you. And also we have successfully [brought] our SG&A over the first one year by around 400 basis points. So are we looking for further rationalizing G&A cost and bringing it down?
+S. MAHALINGAM: No, there is no rationalization per se of -- there is a lot of cost management that really takes place. And I think we had initially set a target of 19. We are doing somewhat better than that. And it will probably be around this level.
+SHASHI BHUSHAN: Okay, thanks. That's all for my session. And congrats, once again, for a good quarter.
+OPERATOR: Thank you, Mr. Shashi Bhushan. Our next question is from the line of Rachael Stormonth of NelsonHall. Please go ahead.
+RACHAEL STORMONTH, ANALYST, NELSONHALL: Thank you. Good evening, gentlemen, and congratulations on a very strong quarter. I've two questions, very brief ones. One is on your utilization rates, getting up towards 83% including trainees. To what extent are you comfortable with this? Can you give us any sense of how you see it, going forward?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, the utilization rate, if you look at it, excluding trainees, is 82.6%. And normally we said that the utilization rate is pretty high. And we are going to increase our recruitment. And that is what we are doing. We have increased our recruitment target also, from 30,000 to 40,000. So that's what is going on. And including trainees, you can see that it's still at 74.8%. And usually we like that to be somewhere around -- it depends at the time when the trainees come in, that they go through training and then they get deployed. So it varies from 72% to 76%, somewhere in that range, including trainees.
+RACHAEL STORMONTH: Okay, thank you. And following on -- there were questions earlier on about Continental Europe. And you sound very bullish about your pipeline in Continental Europe, which is interesting. Could you give us some flavor, please, in terms of which sectors, which industries, what services, and even what region your pipeline is particularly strong?
+N. CHANDRASEKARAN: I want to correct this, I want to make sure that I' rightly depicted. I did not sound bullish. I did not sound negative. I was not negative. And I said that Continental Europe has the lowest growth rate of all markets at this point in time. We had a 1.2% constant currency growth. From here, I expect to grow further. And we are seeing opportunities in the BFS segment, in the manufacturing segment, utilities segment, pharmaceutical segment. In all these areas, we are definitely seeing opportunities. As I said, I really can't comment on the macro situation. That is there for all of us to see. But from our flow point of view, discussion point of view, I think it's going to get better from here.
+RACHAEL STORMONTH: And can you give us some indication as to the types of services that you're currently in discussion with, with clients?
+N. CHANDRASEKARAN: Typically, IT-related services and some of the new projects, in terms of discretionary spend projects.
+RACHAEL STORMONTH: Okay. Thank you very much.
+OPERATOR: Thank you, Ms. Stormonth. Our next question is from the line of [Binesh Kumar] of (inaudible). Please go ahead.
+BINESH KUMAR, ANALYST: Hello. Good evening, sir. Hello.
+N. CHANDRASEKARAN: Yes, yes, please.
+BINESH KUMAR: Can you give me the margins breakup, sir, which you said earlier? How much is impact of base salary and bonus (inaudible) base salary, currency and all?
+S. MAHALINGAM: The impact of our wage hike was 215 basis points negative. Currency, 32 basis point negative. Offshore shift, 15 basis points positive. Rate productivity improvement, 57 basis positive. SG&A efficiencies, 139 basis points positive.
+BINESH KUMAR: Thanks a lot. Very good quarter. Thanks.
+OPERATOR: Thank you, Mr. Kumar. Our next question is from the line of [Hardik Shah] of (inaudible). Please go ahead.
+HARDIK SHAH, ANALYST: Good evening, sir. And congratulations on the good numbers. What is your -- what are the visa costs in first quarter, sir?
+S. MAHALINGAM: We don't give out the visa costs and so on. But we have accounted for all of that in our figures.
+HARDIK SHAH: And there won't be any further visa costs in second quarter, sir?
+S. MAHALINGAM: The visa costs come in as we apply for visas.
+UNIDENTIFIED COMPANY REPRESENTATIVE: (Multiple speakers) not only visas, other market, so we don't --
+HARDIK SHAH: And so second question. What was the impact of higher number of working days on volume growth in this quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think actually there is no significant impact. That's not the way you should look at it.
+HARDIK SHAH: Okay, sir. Thanks a lot. And that's all I have, sir.
+OPERATOR: Thank you, Mr. Shah. Our next question is from the line of [Michel Desailles] of Centrum Broking. Please go ahead.
+MICHEL DESAILLES, ANALYST, CENTRUM BROKING: Hi. I just had a question with regards to your manufacturing and your retail vertical. We saw de-growth of around 5% from a growth of 3.1% in the previous quarter. I was just wanting to get a fair understanding as to how many of these verticals were probably having clients which were high in exposure to Europe.
+S. MAHALINGAM: You saw a de-growth where? Where did you see a de-growth?
+MICHEL DESAILLES: In manufacturing.
+N. CHANDRASEKARAN: You have not seen, manufacturing, there is no de-growth. Manufacturing, on a constant currency basis has grown 3.9%.
+MICHEL DESAILLES: Okay.
+N. CHANDRASEKARAN: Retail and distribution has grown 9.1% on a constant currency basis.
+MICHEL DESAILLES: On a constant currency basis, right. I'm talking a reported basis, so this --
+N. CHANDRASEKARAN: On a reported basis also, they have not de-grown. Manufacturing has grown 1.2% on a reported basis. Retail has grown 7.1%.
+MICHEL DESAILLES: Okay. So going forward, do you see trends of manufacturing picking up again? Or are you expecting a flattish growth going forward, as well?
+N. CHANDRASEKARAN: I think, as I said, I expect to see growth from here. But some verticals will grow faster. Some verticals will grow slower. But I think in these verticals, we expect to see growth.
+MICHEL DESAILLES: And one more question, related to your tax rate. I missed it, what you said for FY '12. You are expecting the tax rate to be at what percentage?
+UNIDENTIFIED COMPANY REPRESENTATIVE: 22% to 24%.
+MICHEL DESAILLES: All right. That will be all. Thanks, gentlemen.
+OPERATOR: Thank you, Mr. Desailles. Our next question is from Nitin Padmanabhan of Indiabulls Securities. Please go ahead.
+NITIN PADMANABHAN: Yes, hi. Despite having strong growth, we continue to have some amount of offshore shift. Do you think that's sustainable when growth continues to be strong, or we could have some proportion moving onsite going forward?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We continue to drive the offshore program but we'll have to see, (inaudible) the offer. We call it global shore now because we are also growing in other markets. So that initiative we'll continue to pursue. But obviously the (inaudible) this quarter has been pretty small, compared to what we have been able to achieve last year.
+NITIN PADMANABHAN: But when we grow at a fast pace, isn't it right that offshore -- pushing it offshore, getting the proportion higher would be a little difficult? Would that be fair?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The total number you see is not for the new clients. When you are going in some clients off-site, you are going in some other clients offshore.
+NITIN PADMANABHAN: Sure, fair enough. Thank you.
+OPERATOR: Thank you, Mr. Padmanabhan. Our next question is from the line of Harit Shah of Karvy Stockbroking. Please go ahead.
+HARIT SHAH: Yes, thanks for the question -- taking my question. Can you give some details about the (inaudible)? You said that the first million policies are going to go online from April [sales].). So any kind of details on this front?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We will make an announcement next week. We (inaudible) figures. But you will see an announcement next week.
+N. CHANDRASEKARAN: Yes. Basically we are going live on the (inaudible) policies. There will be an announcement next week.
+HARIT SHAH: Okay, thank you, sir.
+OPERATOR: Thank you, Mr. Shah. Our last question is from the line of Dipesh Mehta of Khandwala Securities. Please go ahead.
+DIPESH MEHTA, ANALYST, KHANDWALA SECURITIES: I just want some detail about our consulting business because this is the only segment which appears to be showing some mutedness. So the kind of deal what we are forcing and taking right now (inaudible) there. So what kind of demand do we see for consulting kind of SME.
+N. CHANDRASEKARAN: Pardon? What kind of --
+DIPESH MEHTA: Global consulting?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think consulting seems to be good at this point in time. At the discretionary area, we expect there will be more opportunities. But I think overall the mood is good in consulting. But actually it is not growing in numbers yet. But I think as the environment picks up on the discretionary spend, I think we'll see more opportunities.
+DIPESH MEHTA: And any specific vertical or geography you can give us where we see stronger demand than other geographies?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Definitely, as I've said, Europe and UK including, is lagging behind compared to US. And the emerging markets, Asia Pacific and other markets in the emerging region will show a good growth.
+DIPESH MEHTA: Okay, thanks.
+OPERATOR: Thank you, Mr. Mehta. Ladies and gentlemen, with that, I'll hand the conference over to Mr. Kedar Shirali and the management to add closing comments. Please go ahead.
+N. CHANDRASEKARAN: I want to thank all of you for joining the FY '11 Q1 earnings call. To sum up, I would just say that it has been a good quarter. And our metrics across the board, on the revenue side, volume side, pricing side, margin side, are all very satisfactory. I think we have a good base for the year. And the customer portfolio has done very well. If you see the mix across the $1m, $5m, $10m, $20m, $50m customer, they're all nicely moving up. And we see a healthy pipeline.
+We are looking good to add additional employee targets that we have. Overall, we look positive, despite the fact that we have a macro-environment which is very, very dynamic. We'll continue to be very watchful as far as the environment is concerned. And should there be any course corrections we need to take, we will take them. Thank you all. See you next quarter.
+OPERATOR: Thank you very much, gentlemen of the management team. Ladies and gentlemen, thank you for choosing the Chorus Call Conferencing facility.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2010 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2010 Roll Call, Inc. ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Roll Call's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Roll Call so long as they provide conspicuous attribution to Thomson Financial and Roll Call as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Chief executive officers; Employees; Wages & salaries; Teams; Websites; Offshore; Onsite
+
+Business indexing term: Subject: Chief executive officers Employees Wages & salaries
+
+Company / organization: Name: TCS; NAICS: 513322, 511210; Name: Thomson Financial; NAICS: 513210, 518210, 519290
+
+Title: Q1 2010/11 TATA CONSULTANCY SERVICES LTD Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2010
+
+Publication date: Jul 15, 2010
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Wire Feed
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 733638640
+
+Document URL: https://www.proquest.com/wire-feeds/q1-2010-11-tata-consultancy-services-ltd-earnings/docview/733638640/se-2?accountid=27562
+
+Copyright: 2010 CCBN, Inc. and Roll Call, Inc.
+
+Last updated: 2024-12-04
+
+Database: ABI/INFORM Collection

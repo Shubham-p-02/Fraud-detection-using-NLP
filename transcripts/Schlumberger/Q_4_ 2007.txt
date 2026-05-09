@@ -1,0 +1,319 @@
+Q4 2007 Schlumberger Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q4-2007-schlumberger-earnings-conference-call/docview/466233619/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Ladies and gentlemen, thank you very much for standing by. Welcome to the Schlumberger earnings conference call. At this time all participant's lines are in a listen only mode. Later there will be an opportunity for questions with instructions given at that time. (OPERATOR INSTRUCTIONS). As a reminder today's conference call is being recorded. We'll now turn the call over to your host, Vice President of Investor Relations, Malcolm Theobald. Please go ahead.
+MALCOLM THEOBALD, VP IR, SCHLUMBERGER: Thank you, Rod. Welcome to today's fourth quarter and full year 2007 results conference call for Schlumberger Limited. Before we begin today's call, I'd like to review the logistics and agenda. Some of the information in today's call may include forward-looking statements as well as non-GAAP financial measures. A detailed disclaimer and other important information are included in the FAQ document which is available on our website or upon request.
+For today's agenda, Simon Ayat, Chief Financial Officer, will begin with commentary on the financial results. And then Andrew Gould, our Chairman and Chief Executive Officer, will provide an overview of the fourth quarter and full year activity and outlook. Finally we'll take questions from the audience. And now, Simon Ayat will discuss the financials.
+SIMON AYAT, EVP, CFO, SCHLUMBERGER: Thank you, Malcolm. Ladies and gentlemen, good morning and thank you for participating in this conference call. Fourth quarter net income was $1.11 per share excluding a $0.01 gain from the sale of four older rigs in Russia, up $0.02 sequentially and $0.19 above the same quarter of last year. Oil field services Q4 activity goals was strong at 6.2% sequentially helped by Artificial Lift and completions product sales. In addition, there was increased third party revenue on IPM projects. WesternGeco reported very strong multi-client sales; however this was offset by the seasonal drop in the high margin marine activity due to vessel transits and drydocks. Oil field services generated $1.5 billion in pre-tax operating income, up $30 million from the third quarter, but margins declined by 116 basis points to 28.2%. By area, oil field services highlights were as follows: My comments are on a sequential basis.
+North America pre-tax margin declined 151 basis points to 25.4%, due to continued erosion of pressure pumping stimulation pricing in the U.S. land market and weather related operational restrictions in the Rockies. This was partly compensated by increased activity in Canada and a better quarter in the Gulf of Mexico, with a gradual return of drilling rigs after last quarter's hurricane season. Latin America pre-tax margin was 158 basis points lower, to reach 22.1%. Activity on margins improved in all geomarkets with the exception of the Mexico/Central America geomarket where revenue increased by the impact of the flooding in Mexico, project start up cost and increased third party revenue negatively impacted the overall Latin America margins.
+For ECA, the Europe/CIS/Africa area, the pre-tax margin declined 130 basis points to 27.9%. As Russia exhibited the seasonal slowdown at the beginning of the Winter season of offshore Sakhalin. The strong activity was reported in the North Sea, Caspian and Continental Europe geomarkets. Middle East Asia pre-tax margin increased by $36 million but in percentage terms declined by 65 basis points to 35%. Improvements were recorded in the Arabian geomarket with higher equipment sales and overall increased activity in both Saudi Arabia and Kuwait.
+The India geomarket benefited from strong deepwater exploration activity and in Asia, improvement in the China/Japan/Korea were offset by declines in the Thailand/Vietnam geomarket on reduced exploration. WesternGeco pre-tax income was $272 million, with a sequential drop in margin by 452 basis points to 34.1%. Marine activity and margins dropped as a result of the seasonal repositioning of the three with increased transit time and drydocks. The reduction in marine margins could not be compensated by the surge in multi-client sales.
+Now, turning to Schlumberger as a whole, the effective tax rate was 20.4%, slightly lower than last quarter, reflecting continued shift in activity from North America to the rest of the world. In 2008, we expect the effective tax rate to remain in the low 20s; however, there may be some quarterly volatility due to the geographic mix of activity. The earnings for the quarter included $33 million of expenses relating to stock-based compensation costs, in line with the previous quarter. We expect this expense for the full year 2008 to be approximately $108 million, a $44 million increase over 2007.
+At year-end, net debt was $1.9 billion, significant liquidity events during the quarter included $557 million for the stock buyback program, $984 million for CapEx including multi-client, and $699 million for the Eastern Echo transaction. CapEx, excluding $65 million of multi-client service capitalized, was $919 million for the quarter reaching $2.9 billion for total year 2007. CapEx for 2008 is expected to be $3.8 billion, including $2.9 billion for oil field services and $870 million for WesternGeco, of which $365 million is for the vessels acquired through the Eastern Echo transactions.
+During the quarter, we bought back 5.8 million shares for $557 million at an average price of $95.65. This brings the total share buyback under the 40 million shares repurchase program announced in April '06 to 29.9 million shares for $2.2 billion at an average price of $72.53 per share. The Board of Directors approved a 20% dividend increase representing a quarterly dividend of $0.21 per share, reflecting positive long term outlook. And now, I turn the conference over to Andrew.
+ANDREW GOULD, CHAIRMAN, CEO, SCHLUMBERGER: Thank you, Simon. Good morning, everybody. Schlumberger revenues in 2007 grew by 21%, driven by strong demand for oil field services, particularly in the overseas areas where year on year growth reached 31% in Middle East and Asia, 30% in Europe, CIS, Africa, 29% in Latin America. By contrast, North America remained essentially flat with 2006. All technology showed double digit improvement with drilling & measurements, well testing and integrated project management recording the highest overall growth rates. In the fourth quarter, strong sequential growth contributed significantly to this overall performance; however the quarter's results were impacted by a number of events that resulted in less than satisfactory margins.
+These included: Less favorable oil field services revenue mix, with lower pricing and well stimulation related activities on land in the United States. A number of exceptional and seasonal weather effects in the U.S, Mexico, the North Sea, and Russia, the expensing of significant stock up costs associated with the IPM Mesozoic Alliance projects in Mexico, where the second half of 2007 saw Integrated Project Management mobilize and start 17 drilling rigs within the scope of these projects, and increased marine utilization of the WesternGeco fleet through vessel transit and drydock inspections, but over weighed a sequential 83% increase in multi-client sales; however, with the exception of the pricing for well stimulation-related activities on land in the U.S., these events were largely seasonal and do not reflect any change in the underlying trends.
+Looking at the quarter in more detail, the sequential growth of 3% in North America was lead by the Canada geomarket when increased demand for well services and wireline technologies, activity partially recovered from the hurricane season in the U.S. Gulf Coast, with higher demand for wireline, well testing and well services activities and SIS product sales were higher across the North America area. However, this largely positive performance was offset by continuing price erosion in well stimulation related activities in U.S. land geomarkets as well as by seasonal land access constraints in the West and lower activity in Alaska.
+In Latin America, sequential growth reached 9% overall, and was seen in all geomarkets, primarily driven by IPM activities in Mexico and Central America, Peru, Columbia, Ecuador and Venezuela, Trinidad and Tobago. Increased demand for well testing technologies and higher artificial lift and completion systems product sales in Latin America South together with increased artificial lift and completion system product sales in Mexico/Central America and Peru, Columbia and Ecuador contributed to these results.
+In Europe, CIS and Africa, a sequential growth of 4% was driven by the North Sea geomarket with increased demand for wireline and well services technologies, together with higher artificial lift systems and SIS product sales. Greater demand for drilling and measurements in the Caspian geomarket, increased sales of artificial lift in North Russia, and high demand for drilling measurements, well services and well testing in Continental Europe contributed to growth. Performance was partially offset by the usual seasonal slowdown in Sakhalin and continuing subdued activity in Nigeria.
+The Middle East/ Asia area recorded double digit sequential growth of 10%, as the Arabian geomarket saw high demand for drilling & measurements and wireline services as well as higher completions and artificial lift systems at SIS product sales. Sequential growth was also driven by higher demand for exploration related Drilling & measurements technologies and artificial lift systems in Qatar. Increased demand for drilling and measurements and well testing services in Japan , China, Japan, Korea, and higher deepwater exploration driven demand for wireline, drilling & measurements technologies together with SIS product sales in India.
+Among oil field services technologies, both well services and completion systems made significant progress during the quarter. New well services technologies, including members of the contact family of stage fracturing and completion services penetrated further into a number of key markets with a broad range of efficient and effective stimulation services. In North America, StimMAP and AbrasiFRAC technologies saw greater interest and activity where there was speculative abilities to place fracturing treatments more accurately and to treat all productive sands in a single operation lead to increased production at lower cost. AbrasiFRAC technology was also deployed in Saudi Arabia for Saudi Aramco, where coil tubing was used to apply the treatment in a natural gas well to result in an increase of production 10 fold. Elsewhere in Saudi Arabia, stage frac technology was evaluated on two natural gas wells, where improved production rates and increased estimates of ultimate recovery lead to plans for further deployment in future horizontal gas wells.
+Completion systems secured a significant contract for the Reslink Resflow passive inflow completion technology in addition to increased sales in the quarter. This award followed tests by Saudi Aramco in both sandstone and carbonate reservoirs but showed excellent correlation between the production logging program and simulations developed by Saudi Aramco and Schlumberger. This success came just 12 months after the acquisition of Reslink by Schlumberger.
+At WesternGeco, full year 2007 revenues increased 20% over 2006, while pre-tax operating income grew by 31%. Q-Technology revenues reached $1.14 billion, up 57% versus 2006. Overall, vessel utilization for the full year was 93%. The fourth quarter results however were hit by the seasonal effects of vessel transits and drydocks, which lead to lower overall vessel utilization and which was significant enough to out weigh the exceedingly strong sequential increase in multi-client sales, which were up 83%. The strength of the seismic market, particularly in marine, lead us to review our long term plans for the fleet, and this lead to our acquisition of Eastern Echo during the quarter. The six high performance vessels on order are for high capacity and are ideally suited to the exploration and development markets of the future. Our plans are to equip all six vessels with Q-Systems as the boats become available in 2009 and beyond.
+In another acquisition, we acquired an additional 5.5% in Framo Engineering taking our holding to a majority of 52.75%. A Norwegian based company, Framo providing multi-phased booster pumps, flow metering equipment, and swivel stack systems, and is an important component to subsea engineering projects. Shorter term growth presents a more complex picture than the immediate past. Natural gas drilling in North America is not expected to vary greatly in the absence of any severe winter weather in the remaining two months. High utilization of the existing offshore rig fleet worldwide and limited new builds entering the market during the year will not only limit growth but will also make activity vulnerable to rig operating efficiency; however growth in land activity outside North America will remain strong. While seismic exploration services worldwide will remain in high demand, both on land and offshore as the industry gears up for the expanding exploration cycle.
+Within this context, technology that assists our customer s in mitigating risk and exploration and development projects, increasing recovery factors, and improving operational efficiency will remain at a premium. In the longer term, however, current levels of drilling are increasingly insufficient to meaningfully slow decline rates, improve reservoir recovery or add sufficient new production capacity. The explosion in exploration licenses awarded in the last three years, the continued expansion of the number of new offshore rigs being ordered for delivery through and beyond the end of the decade, and the industry wide as well as our own plans to increase both CapEx and research and development spend are clear indicators of future growth. It is our view that only a global economic recession that lowers demand can flatten this trend. In line with this positive outlook, I'm pleased to announce the Board of Directors has increased the quarterly dividend for the fourth consecutive year, and I will now hand the call back to
+MALCOLM THEOBALD: Thank you, Andrew. Rod, we will now open the call for questions.
+OPERATOR: (OPERATOR INSTRUCTIONS). Our first question will come from the line of Bill Herbert with Simmons. Please go ahead.
+BILL HERBERT, ANALYST, SIMMONS: Thanks, good morning.
+ANDREW GOULD: Good morning, Bill.
+BILL HERBERT: Andrew, let's start with seismic here and on the one hand , the rhetoric and the message with respect to seismic in terms of visibility of revenue growth and customer demand being exceedingly bland, is encouraging. On the other hand, one would have expected that backlog would have been stronger quarter on quarter and I'm just curious as to whats going on on that
+ANDREW GOULD: Why is your assumption, why is your assumption that backlog was weaker, Bill?
+BILL HERBERT: Well it was flat, wasn't it?
+ANDREW GOULD: Marine?
+BILL HERBERT: Yes.
+ANDREW GOULD: Was down.
+BILL HERBERT: No, no, but overall, backlog at $1.2 billion --
+ANDREW GOULD: Okay, sorry sorry sorry. No, well, it's about the same as it was last year. And it depends what your bidding tactic is. If you look at the number of inquiries to bid, there is no decline factors in increase.
+BILL HERBERT: Okay.
+ANDREW GOULD: Are you following me, Bill? In other words, some people decide to bid first and some people decide to bid later.
+BILL HERBERT: Right, that I understand. Maybe asking the question differently, what percentage of your fleet is basically contracted into 2008?
+ANDREW GOULD: At this point?
+BILL HERBERT: Yes.
+ANDREW GOULD: The available vessel months is probably still available or booked vessel months is about 60%, availability is about 40.
+BILL HERBERT: Okay, switching gears to North America, Andrew, was the preponderance of the weakness quarter on quarter with regard to margins attributable to pressure pumping pricing?
+ANDREW GOULD: Yes.
+BILL HERBERT: Okay, and then going forward, if one assumes that and no doubt a sort of difficult question to answer, but I'm going to try it anyway in terms of asking it, assuming flattish drilling conditions in North America, relative to Q4 margins , what is a reasonable expectation for the evolution of margins as they unfold in
+ANDREW GOULD: Well, I think that's a very difficult question to answer because we now probably have a reasonable outlook on what our portfolio is.
+BILL HERBERT: Right.
+ANDREW GOULD: We're flat out at lower prices and think for it's a question of how much operational efficiency and reasonable cost savings you can generate, but I don't, all I will say is I don't think you'll see another precipitous decline, I'll probably regret this. I don't think you'll see another precipitous decline from now on.
+BILL HERBERT: Okay so with regard to the evolution of your cost cutting and right sizing of the business is that pretty much behind you?
+ANDREW GOULD: Yes.
+BILL HERBERT: Okay, thank you very much Andrew.
+OPERATOR: Next we will go to the line of Michael LaMotte with JPMorgan. Please go ahead.
+MICHAEL LAMOTTE, ANALYST, JPMORGAN: Thanks, and good morning.
+ANDREW GOULD: Good morning, Michael.
+MICHAEL LAMOTTE: Andrew, for the Eastern hemisphere, margins were down, I understand mobilization issues and Mexico impacting Latin America. I guess first question is two parts. A) is there mobilization issues in the Eastern hemisphere markets in Q4 and B) how should we think about mobilization impacting margins as we go into Q1 and '08?
+ANDREW GOULD: Well, I think that the bulk of the, I don't think you should call it mobilization. It's start-up costs.
+MICHAEL LAMOTTE: Okay.
+ANDREW GOULD: Rather than mobilization, Michael. I think that the bulk of it was in Mexico, though we did also start up some projects in Russia. But on the scale of things they were tiny compared to Mexico. And in going forward, yes, we still have rigs to mobilize in Mexico in Q1. We haven't quite finished mobilizing those projects so there will be some much less of a degree I think of start up cost in the first quarter.
+MICHAEL LAMOTTE: Okay, so much more consistent with what we've seen before in Mexico?
+ANDREW GOULD: Yes.
+MICHAEL LAMOTTE: Okay, and then secondly, Andrew, if I think about the interpretations that are likely to come out of this conference call, perhaps you could maybe mitigate some of that concern and give us a bottom line of what you think the key takeaways should be?
+ANDREW GOULD: Well, I think the key take away is that as of today, worldwide, 93% of the jackups are utilized, 97% of the semi- submersibles are utilized and 100% of the drill ships are utilized, and the actual additions this year relative to the size of the total fleet are tiny, which means that offshore activity will be extremely vulnerable to rig moves, any drydocking, anything that impacts the operational efficiency of the fleet, and therefore as I've put in the comment, the scope to grow offshore in '08 is relatively limited. The scope to grow onshore is still fairly unlimited but as we all know, mobilizing projects onshore takes a long time. You only have to look at the delays we've seen in some of the Eastern hemisphere countries. In the last year to realize that the extent to which activity is going to increase is going to be good but it's not going to be great. North America, I really don't think I have to make anymore comments about.
+MICHAEL LAMOTTE: Yes.
+ANDREW GOULD: And then finally, if you look at the number of exploration licenses that have been let out in the last three years all around the world, you have to believe that seismic is going to be very strong again. So overall, I see 2008 as a transition year into a cycle which is going to be dominated offshore because I don't know whether you follow the numbers but the number of offshore rigs on order in the last quarter of this year increased by 14, so you have this huge wave of 160 offshore rigs for delivery from now through 2011, so this, Michael, for me is a transition year.
+MICHAEL LAMOTTE: Okay. How about technology penetration in '08?
+ANDREW GOULD: Well, actually, I think that the strongest element of our portfolio in 2008 which uses a little bit of everything that we do is going to be IPM.
+MICHAEL LAMOTTE: Okay.
+ANDREW GOULD: And then the classic technologies will still, I think, in everything to do with DD, MWD, LWD continue to be very strong, and wireline will shift gradually towards more exploration, and well services will wait for a recovery in the U.S.
+MICHAEL LAMOTTE: Great. Thanks, Andrew.
+OPERATOR: Next we will go to the line of Ole Slorer with Morgan Stanley. Please go ahead. Your line is open.
+OLE SLORER, ANALYST, MORGAN STANLEY: Thank you very much. Just a follow-up on the last question, IPM becoming a driver in 2008. Does that mean that there will be some margin pressure, given that IPM tends to have a lot of third party revenues booked, clearly good for cash flow but as we model margins, maybe it should be a little bit lower?
+ANDREW GOULD: Yeah, actually, Ole, we're going to do a study on that in the first quarter and decide how we disclose it to you, because as you rightly point out, as IPM grows it becomes a significant portion, and if you remember once before, we did actually tell you what revenues were at that level, so let us do a study and if we think that it's really material information, we will make a disclosure.
+OLE SLORER: Okay, and it would be helpful, I think. Also, looking at your CapEx for the oil field in 06, it was 50% up in '07, it grew by half that and in'08 you're guiding to about half that growth again. Does that sort of reflect that your business is becoming more mature or is it a low point in is 13% really sustainable to justify that kind of growth?
+ANDREW GOULD: I think that there was an awful lot of catch up in the previous few years, and actually, seismic is increasing hugely and it will be even higher in '09 and the other segments is quite difficult to sort of make a balance at this point in time, but there could be a reacceleration in '09.
+OLE SLORER: Okay, makes sense and on the offshore rigs coming in, we do see quite a bit of a number of jackups coming in, floaters might be a little delayed, but still any assumptions on market share loss with any caution on the effects of these rigs?
+ANDREW GOULD: Well, I mean, a lot of these rigs don't have requests yet ,
+OLE SLORER: Well assume that they will go to where the rates are, so I don't think they'll be sitting in the bay when they're getting 180,000, 70,000 per jackup.
+ANDREW GOULD: Well they won't get 180 or 70,000 per jackups. A lot of our customers are waiting for them to be idle to tender. I don't see why you're talking about loss of market share though.
+OLE SLORER: Well, Brazil for example, in the directional drilling I was wondering --
+ANDREW GOULD: It's on contract.
+OLE SLORER: Okay, well thank you very much.
+OPERATOR: Next we'll go to the line of Kurt Hallead with RBC Capital Markets. Please go ahead.
+KURT HALLEAD, ANALYST, RBC CAPITAL MARKETS: Great, good morning, thank you. Andrew, a question I have for you is you're parsing through your comments here as you talk about the complex near term, you obviously give one potential negative on North America, negative on North America, potential negative on offshore and then two positives. Do you think in aggregate, those positives completely offset the negatives or is there a little bit more risk on the negative side?
+ANDREW GOULD: I think I'm trying to say that I still think that in the, while there will be extremely healthy growth outside North America, there is still a slight assumption that it's going to, maybe I'm wrong but a lot of people are assuming that it's going to be a bit better than I think in 2008. It's specifically a 2008 event.
+KURT HALLEAD: Okay, and then getting some kind of feedback from certain investors and clients about a perception of the margins peaking for your business, I think predicated on your outlook for exploration and technology, how would you counteract that argument that your margins have kind of peaked and they might not improve from here?
+ANDREW GOULD: Well, I think as I would say that if the purely demand-led pricing has leaked, but as the cycle moves more towards exploration, complex offshore developments there is no reason why we shouldn't see our margins reassert themselves.
+KURT HALLEAD: Okay, thank you.
+OPERATOR: Thank you. Next we'll go to the line of Dan Pickering with Tudor and Pickering. Please go ahead. Your line is open.
+DAN PICKERING, ANALYST, TUDOR & PICKERING: Good morning, Andrew.
+ANDREW GOULD: Hi, Dan.
+DAN PICKERING: Would like to focus on your commentary in the Press Release and I think you've said it several times here today, shorter term growth presents a more complex picture. Does that mean that you think for the next couple of quarters we're actually slower sequentially and if that's the case, does that, is that a domestic or an international or a seismic commentary or is it some combination?
+ANDREW GOULD: Sorry by slower you mean negative, Dan?
+DAN PICKERING: Yes, that's correct.
+ANDREW GOULD: The only risk of negative is still in North America. Internationally, the growth will be there, but it may be a bit slower than some people are assuming.
+DAN PICKERING: I guess my take away from the call is basically, you feel expectations are a little high and so I mean over/under for revenue growth internationally is 15% year-over-year, something like that?
+ANDREW GOULD: Well, I just think there are some people out there, not everybody, whose expectations for international growth are a little too bullish, Dan.
+DAN PICKERING: Okay. I would anticipate that's going to change after this call. I guess the other question I have is as we look at --
+ANDREW GOULD: Sorry, can I just say 2008, international growth 2008, and then people need to go back to the offshore story in 2009.
+DAN PICKERING: I'm with you, okay. And then as it relates to North America, I'll follow-up with Malcolm just to try and understand the numbers but I want to hear you say it. The other businesses, if we looked at wireline or directional or LWD et cetera, any softness in pricing or activity in those businesses or share for you guys?
+ANDREW GOULD: So, there is a little, so I'm limiting my comments to land, okay?
+DAN PICKERING: Yes.
+ANDREW GOULD: I'm not talking about offshore Gulf of Mexico.
+DAN PICKERING: Okay.
+ANDREW GOULD: There is minimal price weakness, when I say minimal, it's compared to well services in wireline and everything else is growing very nicely.
+DAN PICKERING: All right, thank you.
+OPERATOR: Thank you. Next we'll go to the line of Geoff Kieburtz with Citigroup. Please go ahead.
+GEOFF KIEBURTZ, ANALYST, CITIGROUP: Thanks, good morning.
+ANDREW GOULD: Good morning, Geoff.
+GEOFF KIEBURTZ: Maybe I wrote it down wrong, Andrew, but I seem to remember from last quarter's conference call that you said something along the lines of international growth in '08 will be at least as great as it was in '07. Are you revising that or was I just wrong?
+ANDREW GOULD: I don't think I ever said that, Geoff. We'll have to look at the transcript, but if I did, I'm surprised. It may have been limited, I would have made it in the context of certain markets but not in every market.
+GEOFF KIEBURTZ: Okay. So as we look at what we now know to be the international growth in '07, it is expected to be overall somewhat slower in 08?
+ANDREW GOULD: '08 will be slower than '07 in international markets overall, yes.
+GEOFF KIEBURTZ: And your comment on North America not having another are precipitous drop, was that a margin or a revenue comment?
+ANDREW GOULD: Margin.
+GEOFF KIEBURTZ: Okay, and could you just share kind of how you're thinking about the somewhat obviously increased risk of a U.S. recession? Your comment at the end of the press release is one that you've made before about global economic recession. How are you thinking about that in the context of managing Schlumberger?
+ANDREW GOULD: Okay, so our planning assumption is that the famous coupling will not take place, at least this year, and therefore, any drop in OECD demand for oil and gas will be more than offset or will be countered by the increase in India, China or the Middle East to a point that it will not affect the oil price to a level where our customers will seriously curtail their plans.
+GEOFF KIEBURTZ: Okay, so you don't put a very high risk probability on that scenario for '08?
+ANDREW GOULD: On the U.S. Recession, personally, I think we're there.
+GEOFF KIEBURTZ: Yes.
+ANDREW GOULD: On the coupling with Asia and the Middle East, I just somehow don't think so.
+GEOFF KIEBURTZ: Okay. Thanks very much.
+OPERATOR: Next we'll go to the line of Ken Sill with Credit Suisse. Please go ahead. Your line is open.
+KEN SILL, ANALYST, CREDIT SUISSE: Thank you. Good morning, Andrew.
+ANDREW GOULD: Hi, Ken.
+KEN SILL: You guys are so careful with your outlook comments and us simple minded sell-siders are very focused on numbers, so obviously, international growth is still good, not as good as last year but it was really predominant last year, but we're still talking in the teens for overall international growth for '08, is that fair?
+ANDREW GOULD: That would be a reasonable assumption.
+KEN SILL: Okay and then I guess the big question is margin assumptions or incremental margin assumptions, right? So when you say that some people seem to be a little bit too bullish on their expectations, I guess what I'm reading into is theres some guys on consensus that seem to be a bit high, one of those came down this week, but are you concerned with overall expectations reflected in estimates and stock prices or just for the people that are kind of outliers right now?
+ANDREW GOULD: Well, I'm not, you know, --
+KEN SILL: You don't give specific guidance, I know that.
+ANDREW GOULD: I am concerned that generally, the assumption on the level of international top line growth is too high.
+KEN SILL: Okay.
+ANDREW GOULD: And you just said it, it's no longer what it is in '07. It's coming down to somewhere in the teens. And that I think is a fair assumption. So does that mean there will be degradation in overseas margins? I don't really think so. We obviously won't have the same capacity for incremental margins that we had at 30% growth when you're in the teens.
+KEN SILL: So when you're looking at I guess overall margins in 08, if you look at international margins, you would expect those margins to be at least kind of where they were this year or do you think they will actually be better in '08?
+ANDREW GOULD: You're going too far, Ken. I mean, I think, I'm not going to give specific margin guidance either, but I don't think there's any reason to assume that we can't maintain the margins we had in '07.
+KEN SILL: And that, we've already asked about IPM.
+ANDREW GOULD: Yes.
+KEN SILL: I guess the one specific question I've got and then I'll give up is obviously, in seismic, huge margin swings based on vessel utilization.
+ANDREW GOULD: Yes.
+KEN SILL: On your mobilization and down time.
+ANDREW GOULD: Yes.
+KEN SILL: Is there, because margins swung from 32% to 38% or whatever they're doing, is there kind of an average margin that you guys think or could you possibly give us a little bit better guidance in the future?
+ANDREW GOULD: Well, it's very difficult because it's almost impossible to understand what the margin is going to be until you know the nature of the multi-client sales you've made in the quarter.
+KEN SILL: Yes, okay.
+ANDREW GOULD: It's not so much marine. I mean marine when you have transit or drydocks, you get hurt badly because you can't cut costs for the two weeks you're in the try dock or wherever it happens to be but the thing that really you are unable to predict is the swing in multi-client margins given the age of the elements of the portfolio, you might or might not serve in any one quarter.
+KEN SILL: Yeah, so over all WesternGeco should expect nice growth and more dramatic in '09 as you put your vessels and is it fair to say that pricing in seismic is actually still improving?
+ANDREW GOULD: Marine seismic pricing is still very buoyant, yes.
+KEN SILL: So in line with the margin you're talking about everywhere else we shouldn't expect a degradation and possibly better but who knows? Wait to see what happens with with multi-client?
+ANDREW GOULD: Right.
+KEN SILL: Okay, well, my view based on your comments this quarter versus last quarter is you're actually fairly confident about where things are going and seem a little bit bearish on North America. Am I reading that correctly?
+ANDREW GOULD: Well, I think I'm going to repeat this again. I think expectations on international growth were too high and I think North America, I'm not saying the market is turning around but we have better visibility on '08 than I had in the last quarter and it's going to stabilize somewhat.
+KEN SILL: Okay, thank you very much.
+OPERATOR: Next we'll go to the line of Dan Pickering with Tudor Pickering. Please go ahead.
+DAN PICKERING: Hi, guys, back again. Andrew, just want to clarify. You've talked a lot about expectations for growth. Has the actual international outlook deteriorated in the last two or three months?
+ANDREW GOULD: Sorry, wait a minute, Dan. You'll have to qualify that by telling me what period are you talking about?
+DAN PICKERING: Okay, so you're saying 2008 expectations are too high.
+ANDREW GOULD: Internationally.
+DAN PICKERING: Internationally.
+ANDREW GOULD: Yes.
+DAN PICKERING: And the question I'm asking is: From your perspective, have those markets for 2008, have they changed to the downside in the last couple of months? In other words --
+ANDREW GOULD: From my perspective, no. There's no change whatsoever.
+DAN PICKERING: So we've got a Wall Street expectations issue. We do not have a business is getting worse issue?
+ANDREW GOULD: Absolutely.
+DAN PICKERING: Okay. All right, and then final question, seismic, the vessel moves, I guess I was a little surprised because in Q2, we moved a lot of things around, we had a lot of down time, and then we hear about it again here in Q4 and did some markets soften up so we had to move?
+ANDREW GOULD: No, Dan, there is a Summer market and a Winter market. The Summer market is a very high priced market in the North fleet and the Winter market is a lower priced market in the coast of Africa in the Mediterranean, et cetera, So you get vessel transits in the second quarter of vessels moving up to the North Sea and then the third quarter an this year in the fourth quarter because everyone stayed in the North Sea as long as they could, you get the reverse.
+DAN PICKERING: Yes, okay. All right, thank you.
+OPERATOR: Thank you. Next we'll go to the line of Brad Handler with Wachovia Capital Markets. Please go ahead.
+BRAD HANDLER, ANALYST, WACHOVIA: Thanks, good morning. A couple of different things coming back to some of the same questions but just if you could help us understand in the U.S. stimulation market, presumably the pricing has rolled over with respect to contracts and that process would apply to more of your customer base in perhaps Q1 and Q2 so there's additional pricing pressure that's offset perhaps by cost efficiencies and volume. Is that the right way to think about the stable outlook that you're presenting?
+ANDREW GOULD: Yeah, I think when I say we know more about North America in 2008, I'm saying that because we rolled over a fairly high percentage of our contracts already. Therefore, we have a better visibility of where we're going, and as you point out, the risks that remain are the prices at which we renew contracts that have not been renewed and the efficiency of our cost of containment measures.
+BRAD HANDLER: Okay fair enough. Just as a follow-up to that, just curious about what pressure on recently renewed contracts you may be experiencing from your clients just coming back saying I hear pricing is continuing to drop and what else can you do for me? Have you found any reopening like that?
+ANDREW GOULD: Well, yes. There's always some but it's not huge at this point in time.
+BRAD HANDLER: Okay, all right, that's helpful. Switching gears, just interesting, maybe I just missed this but interesting comment about the relationship with TGS NOPEC on that one client service. Could you give us a little color on how that came to pass and whether the partnership is something we might look for in the future?
+ANDREW GOULD: Well I think the partnership will be opportunistic in as much as if we have a common interest in investing in a survey we'll do it together. I think you have to, I don't know how you follow the seismic business, but TGS has had some issues in a proposed merger and they probably badly needed some boat capacity.
+BRAD HANDLER: Okay, so that was that so you're presenting it as they may have reached out to you? Is that how they always run --
+ANDREW GOULD: It was an opportunity for both parties to get it done.
+BRAD HANDLER: Got you. Okay, that's helpful, thank you.
+OPERATOR: Next we'll move to the line of David Becker with Banc of America Securities. Please go ahead.
+DAVID BECKER, ANALYST, BANC OF AMERICA SECURITIES: Thanks. Just wanted to touch base on international margins. You said they were somewhat stable or expecting to be somewhat stable going forward but in the fourth quarter we did see them trending down by incremental margins they were going to be a little bit lower. Just what are the dynamics that allow margins to be stable in the international markets in '08?
+ANDREW GOULD: Well, I actually didn't say they would be stable. But I tried to point out that the events in the fourth quarter that affected international margins were largely either seasonally weather related or related to the mobilization or start up costs with IPM projects and therefore, with the exception of U.S. land pressure pumping was somewhat exceptional in nature, so the question that I was asked earlier is on revenue growth that is considerably lower than 2007, can you maintain margins, and overseas and generally, I said " Yes".
+DAVID BECKER: Understood. And then just on the Gulf of Mexico, was the weakness that we're seeing weather related in the fourth quarter completely recovered in the third quarter, rather was that completely recovered in the fourth quarter?
+ANDREW GOULD: No. Only the rigs only got really back to work at the scale they were before the third quarter in December.
+DAVID BECKER: So essentially from upside from fourth quarter level?
+ANDREW GOULD: Not huge in the Gulf of Mexico in '08 but there is some, yes.
+DAVID BECKER: Okay, thank you.
+OPERATOR: Next we'll move to the line of Mike Urban with Deutsche Bank. Please go ahead. Your line is open.
+MIKE URBAN, ANALYST, DEUTSCHE BANK: Thanks, good morning. I know you're sick of talking about it at this point, but yet another question on North America. You've been somewhat negative for quite a while now and that's obviously turned out to be correct and now seeing some stability, but maybe reading too much into your comments as people often do, but what you seem to have kind of taken out of there is kind of a longer term bullishness with respect to activity levels driven by decline rates out there. Do you think we've, just by your actions at least, I'm wondering if you think we've maybe turned the corner or created some kind of base level of production or maybe it's your concern about recession but just wondering if that has changed.
+ANDREW GOULD: Sorry are you talking specifically about North American gas?
+MIKE URBAN: North American gas, yes.
+ANDREW GOULD: I think we're at a level that can probably sustain the current level of production for some time. So I don't think that's the case in Canada, so I think that '08 is a plateau year. I can not say that I'm optimistic on '09 yet because as you know, so much depends on storage, how much LNG gets diverted to the U.S. this year, et cetera, but I think the rig count, it is at a level where it can sustain the base level of production we have.
+MIKE URBAN: So, okay. So flat to be absolutely clear, flat rig count in the U.S, sustained production?
+ANDREW GOULD: Yeah.
+MIKE URBAN: Okay, that's all for me. The rest of my questions were answered, thank you.
+OPERATOR: Thank you, next we'll move to the line of David Anderson with UBS. Please go ahead. Your line is open.
+DAVID ANDERSON, ANALYST, UBS: Thank you, good morning. A question on your Russian business. According to our analysts over there, they're projecting the major producers to increase spending by about 17% in '08 and moderating a bit in '09 and as a larger service company in Russia, just like to get your views on spending growth particularly how you see that trending over the next couple of years?
+ANDREW GOULD: I think that to fulfill their ambition of increasing production 2% a year, I find that figure a little low. The 17%.
+DAVID ANDERSON: Now --
+ANDREW GOULD: So I would anticipate that if they maintain their objective of increasing oil production by 2% a year, they will spend more.
+DAVID ANDERSON: Now, how linked to you think that is to the tax regime on the upstream company? My understanding is that the tax regime is pretty onerous over there so they aren't really incentivized too much, what do you think the likelihood of that changing is and do you think that's kind of the key to opening that market up a little bit further for you guys?
+ANDREW GOULD: Yes, I think that the Russian oil industry is just as sensitive to tax as anybody else and they have this profit, this tax on everything about $28 a barrel and I think that the government will, if it, I think the government authority understands that if it needs people to invest more it has to raise that ceiling and I suspect it will get raised.
+DAVID ANDERSON: Die think that's an '08 proposition? Is that impacted by the election?
+ANDREW GOULD: I'm not an expert on Russian politics but I think people understand that it will happen.
+DAVID ANDERSON: Okay, and different subject, you talked about a $5 billion backlog in IPM work. Considering that probably most of that is in Latin America, I assume you're already shifting capital down to the market like you mentioned the start up cost. Just wondering if the Tupi discovery changes your plans, I guess will you be shifting even more capital down to the market in advance of expected higher activity levels in that region ?
+ANDREW GOULD: Well I think the Tupi discovery is not an IPM prospect but in terms of the overall level of activity in Brazil, I suspect that given the delivery of new rigs, it's far more '09 phenomenon than '08 phenomenon.
+DAVID ANDERSON: Okay but you will be shifting more capital down there though?
+ANDREW GOULD: Oh, yes. Absolutely.
+DAVID ANDERSON: That's all for me, thank you.
+OPERATOR: Thank you, next we'll go to the line of Jim Crandell with Lehman Brothers. Please go ahead.
+JIM CRANDELL, ANALYST, LEHMAN BROTHERS: Good morning, Andrew.
+ANDREW GOULD: Good morning, Jim.
+JIM CRANDELL: Couple questions. First of all, Andrew, follow-up on the internationally impede spending outlook and I'm relating it back to my survey, but it shows growth in international spending of 16%, if you look at past years where you had a very high oil price environment, typically beginning of the year, budgets get revised upwards , so it seems to me we could be looking at a year of international spending growth, let's just say of 20% plus like we saw in 2007. I believe on the last call, you said that you would think that your revenues internationally would grow faster than the rate of international E&P spending
+ANDREW GOULD: The only distinction I would place on that, Jim, is whether that spending is on land or offshore.
+JIM CRANDELL: Yes.
+ANDREW GOULD: And to the extent that it is more, if it was offshore, I would have no hesitation whatsoever in saying we will grow faster than the spend, but I fear a lot of it is on land in 2008. Where as you know, our revenue or the service intensity per rig is not the same.
+JIM CRANDELL: Would you be disappointed if at the end of the year looking at your revenue growth internationally and it was in the teens if your three major competitors on average all showed meaningfully higher international revenue growth? Now granted they're coming from smaller bases and I understand that, but do you think that it's possible that you may grow at a meaningfully lower level than your three major competitors internationally? I would be very very disappointed.
+ANDREW GOULD: Okay, that's good to hear. I would hope you would be. To just switching gears, to a strategic question, would you be interested buying relatively new U.S. stimulation equipment on a reasonably sizeable basis and either moving that equipment internationally or consolidating it into your domestic fleet? Well, I mean a lot of the equipment has been built in the U.S. It's not going to go international because it's not suitable, but no, I suspect for international we would build our own. Small amounts of equipment that might become available in the U.S. in distressed circumstances we would certainly look at and I stress small.
+JIM CRANDELL: Okay, good. And my final question is certain of your competition is alleging on recently very large IPM contracts in Mexico that you have been bidding very aggressively, much less than on prior phases of that same contract and presumably lower margins because they're now certainly more interested in bidding on IPM work in that market. Comments on that?
+ANDREW GOULD: Well, I would suspect I know exactly what bid you're talking about, and I would just remind them that we have had an infrastructure in place for 10 years and therefore, our cost of operation is probably much very different from theirs.
+JIM CRANDELL: How about the relationship if I'm pronouncing it right, [Shiconkipack] 3 but relative to 2 which is comparable size did your something bidding like $250 million less on the entire project.
+ANDREW GOULD: To my knowledge, there's no outstanding bid on [Shiconkipack] at this point in time.
+JIM CRANDELL: Okay, that's what I had, thanks.
+OPERATOR: Thank you. Next we'll go to the line of Robin Shoemaker with Bear Stearns. Please go ahead.
+ROBIN SHOEMAKER, ANALYST, BEAR STEARNS: Thank you, just a couple of quick questions. Just I know you're going to do a study on the IPM issue and can you just remind us now on on your IPM projects, the range of revenues that come from third party, which might be as low as X percent and as high as Y percent just to give us a little bit of a sense there as what that number --
+ANDREW GOULD: I would say that it could be all the way from 10% to 50%.
+ROBIN SHOEMAKER: Oh, okay. All right --
+ANDREW GOULD: We don't necessarily own the rigs we use and there for, we contract rigs from drilling contractors and therefore obviously the whole rig rate would fall into third party revenue, when we bill it to the customer.
+ROBIN SHOEMAKER: Sure, and Integrated Project Management as a percentage of your international revenue, where kind of are we now looking at this year?
+ANDREW GOULD: I haven't actually calculated it for 2008 but we're somewhere in between 10 and 15% I would say.
+ROBIN SHOEMAKER: Okay, just --
+ANDREW GOULD: In the Schlumberger services.
+ROBIN SHOEMAKER: Okay, and one further question, on Eastern Echo as you acquired six vessels and we saw your rationale reasoning for expanding the fleet, when you looked at the total seismic vessel expansion, Eastern Echo plus others, did you come to the conclusion that there were not enough vessels overall being built to meet demand or how does that work out in terms of the total expansion of the seismic vessel fleet given that we have found ourselves in the past with over capacity in this arena.
+ANDREW GOULD: Actually, we evaluated all of the potential acquisition candidates in the seismic field and there are two elements here. One is the number of vessels and the other is the time to market and our calculation assumed the price we've paid for Eastern Echo, the price to complete the vessels, and the availability of them would mean that the financial returns would be very satisfactory. So we weren't actually thinking in terms of total market. We we thring in terms of how we could expand our own fleet.
+ROBIN SHOEMAKER: Okay, and the total market size you expect to grow?
+ANDREW GOULD: We are more and more confident that there will be no issues with marine utilization in 2009 or 2010, and certainly, I think the large players, ourselves and PGS and CDG, all have enough 20 year old vessels to mitigate the situation if that turned out not to be true.
+ROBIN SHOEMAKER: Okay. Thank you.
+OPERATOR: Thank you. Next we'll move to the line of Michael LaMotte with JPMorgan. Please go ahead.
+MICHAEL LAMOTTE: Thanks, Andrew. Quick follow-up. I just want to make sure that there's clarity on sort of this revenue and margin talk for '08. Clearly, on the international side, talking somewhere in the teens for revenue growth. On the issue of margin, I think when people think growth in IPM or higher IPM mix, we think lower margin. That's not what you're saying; correct? Year on year?
+ANDREW GOULD: No, what I'm saying, Michael, is that the degree of third party revenue that we have from the IPM contracts is growing. Therefore, we're going to do an exercise to look at whether or not we disclose that to you every quarter in such a way that you can assume that has a lower margin than the Schlumberger services and there for you can make some adjustment. I mean, I'm assuming that the Schlumberger services, be they to IPM or anybody else, we can produce satisfactory margins in 2008 compared to 2007.
+MICHAEL LAMOTTE: Okay, and so when we think of midteens --
+ANDREW GOULD: Overseas sorry.
+MICHAEL LAMOTTE: So when we think of teens revenue growth, would that be including or excluding IPM?
+ANDREW GOULD: It will be including IPM.
+MICHAEL LAMOTTE: Lastly, with the decelerated growth in international and capacity growth on a part of, a lot of your competitors in those Markets, are you concerned at all about capacity over shoot in this year of transition of 08?
+ANDREW GOULD: I think that because as I tried to point out in the third quarter, capacity overshoots will be in local Markets and not general. That's why actually, it's one of the reasons I use the word complex.
+MICHAEL LAMOTTE: Very good. In other words market intelligence is going to be very important in 2008.
+ANDREW GOULD: Okay. Thank you.
+OPERATOR: Next we'll move to the line of Bill Sanchez with Howard Weil. Please go ahead.
+BILL SANCHEZ, ANALYST, HOWARD WEIL: Thanks, my questions were answered.
+OPERATOR: Thank you. We'll next move to the line of Rob MacKenzie with FBR.
+ROB MACKENZIE, ANALYST, FRIEDMAN, BILLINGS, RAMSEY: Thank you. Andrew, a couple quick follow-up questions from before. In the press release you mentioned a three year wireline logging contract for Petrobras. Can you give us a feel for how much of their future business that encompasses?
+ANDREW GOULD: I hate getting into these discussions of individual contracts, but it's one of the largest contracts we ever signed.
+ROB MACKENZIE: And so with Tupi in mind that would imply it represents a fairly large share of their future business?
+ANDREW GOULD: Well, yes. I mean, I think the size of Schlumberger is such that it's not any one contract in any one country that's going to move the needle for you guys but in as much as there is a big expansion of Petrobras's offshore rig commitments in 2009, yes it will turn out to be a very big contract. And it may or may not be Tupi, it may be other fields. I'm not aware of what their drilling plan is.
+ROB MACKENZIE: Okay, fair enough, and then another service you guys recently introduced or have been doing some jobs with is the StimMAP service, realtime frac monitoring.
+ANDREW GOULD: Yes.
+ROB MACKENZIE: That's got to be fairly small so far, but in an important play. Can you give us a feel for the growth potential of that technology and perhaps even leading to market share gains in stimulation for you guys?
+ANDREW GOULD: Well I think so you're quite right to point out that the moment we have actually not a great deal of capability to do it realtime, because the difference here is the fact that you're doing it in realtime and there r for, you can have people monitoring the frac propagation and changing the job as they frac, so it's more I think in a function now in 2008 of how many crews we can field to do that, and I know there's a substantial increase but it's coming off quite a lower number, so and will it improve the quality of what we do there for allow us to capture market, yes, I suspect it will.
+ROB MACKENZIE: Okay, and then the last question before I turn it back is coming back to the TGS NOPEC joint venture in the Gulf of Mexico?
+ANDREW GOULD: Yes.
+ROB MACKENZIE: You guys are contributing the vessels, the Q-Technology, what is TGS bringing to the table? I'm a little bit unclear on that.
+ANDREW GOULD: Well TGS is bringing to the table the fact they had a great deal of pre-committment from customers for this survey and the fact that they have a much larger sales force than we do and it's as I'm said, it's opportunistic. It makes sense to do it. You shouldn't read anymore into it than that.
+ROB MACKENZIE: Okay, thank you.
+OPERATOR: Thank you. The last question we'll have time for comes from the line of Kevin Simpson with Miller Tabak. Please go ahead. Your line is open.
+KEVIN SIMPSON, ANALYST, MILLER TABAK: Thanks, and I'll try to be quick. Andrew, I was a little surprised at maybe the extent of your implied start up expenses on the two Mexican contracts. With IPM getting larger, is that something that we're going to need to factor in when we make our quarterly assessments?
+ANDREW GOULD: Well, I think that if it's in a new area as the Mesozoic and Alliance contracts are because they're in South Mexico and not in the North, and we mobilized the 17 large drilling rigs. They aren't small, in six months and you can assume there are going to be start up costs.
+KEVIN SIMPSON: Okay --
+ANDREW GOULD: One other project you should assume some degree of start up cost, particularly if it's in an area where we're not already working.
+KEVIN SIMPSON: Okay, and then second, the seismic kind of quarterly earnings pattern, this is the first time in awhile that the Q4 was below Q3. Is that likely to be the pattern going forward with marine becoming so important now relative to multi-client or is this just --
+ANDREW GOULD: It's quite difficult to tell because as I said earlier what happened this year was a lot of the North Sea, the North Sea boats which normally move in Q3 actually moved in Q4. So I can't, I wouldn't be able, I can't give you an honest answer on that now. What we will do, I think, is give you better information going forward when we know about drydocks and transiting. But we were caught by su price by these late moves this year.
+KEVIN SIMPSON: Okay and then I guess one last thing, which you probably won't answer but on the contracts that you signed for stimulation in the U.S, '08 versus '07, is pricing down in the double digits?
+ANDREW GOULD: Yes. The low double digits.
+KEVIN SIMPSON: Okay.
+ANDREW GOULD: Just scratching the double digit.
+KEVIN SIMPSON: Thanks a lot. That's it for me.
+MALCOLM THEOBALD: Okay, on behalf of the Schlumberger Management team I would like to thank you for participating in today's call. Rod will now provide the closing comments.
+OPERATOR: Ladies and gentlemen, you may access -- this conference will be available for replay beginning today at 2:15 p.m. Eastern standard time continuing through Friday, the 15th of February at midnight. You may access the executive playback service or via the internet at SLB.Com/IRwebcast. For the AT&T executive Webcast service or excuse me, the AT&T executive dial in service dial 1-800-475-6701 or from international locations dial 320-365-3844 and enter the access code 899456. So for the replay service you'll access the internet at SLB .Com/IRWebcast or at 1-800-475-6701 or internationally 320-365-844 and then enter the access code 899456. That does conclude the call for today. Thank you for your participation and for using the AT&T executive teleconference service. You may now disconnect.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2008 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2008 Voxant, Inc. (www.voxant.com) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Voxant's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Voxant so long as they provide conspicuous attribution to Thomson Financial and Voxant as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Dividends; Project management; Tax rates; Sales; Chief executive officers; Securities buybacks; Earnings per share; Oil fields; Seasons
+
+Business indexing term: Subject: Dividends Project management Tax rates Sales Chief executive officers Securities buybacks Earnings per share
+
+Company / organization: Name: Thomson Financial; NAICS: 513210, 518210, 519290; Name: SLB Ltd; NAICS: 213111, 213112, 334419, 334513, 513210, 541512
+
+Title: Q4 2007 Schlumberger Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2008
+
+Publication date: Jan 18, 2008
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Wire Feed
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 466233619
+
+Document URL: https: //www.proquest.com/wire-feeds/q4-2007-schlumberger-earnings-conference-call/docview/466233619/se-2?accountid=27562
+
+Copyright: 2008 CCBN, Inc. and FDCH e-Media, Inc.
+
+Last updated: 2026-02-10
+
+Database: ABI/INFORM Collection

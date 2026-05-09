@@ -1,0 +1,291 @@
+Q4 2006 TATA CONSULTANCY SERVICES LTD Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q4-2006-tata-consultancy-services-ltd-earnings/docview/466285348/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Good evening, ladies and gentlemen. I am Pratibha, the moderator for this conference. Welcome to the TCS conference call.
+[OPERATOR INSTRUCTIONS]
+I would now like to hand over to the TCS management. Thank you and over to TCS.
+DAVID NELSON, HEAD OF GLOBAL INVESTOR RELATIONS, TATA CONSULTANCY SERVICES: Thank you. Good evening and good morning. Welcome, everyone. And thank you for joining us on the TCS earnings call for quarter four and for the fiscal year 2007. I am David Nelson, Head of Global Investor Relations. Please note that this call is being webcast through our website, which is www.tcs.com. And an archive, including transcript, will be available on the site for the duration of the quarter.
+The financial statements, results presentation, and press release are also available on our website. Our leadership team is present on this call to discuss our results. We have with us Mr. Ramadorai, Chief Executive Officer and Managing Director.
+SUBRAMANIAN RAMADORAI, CEO AND MANAGING DIRECTOR, TATA CONSULTANCY SERVICES: Good evening, everyone.
+DAVID NELSON: Mr. Mahalingam, Chief Financial Officer.
+SETURAMAN MAHALINGAM, CFO, TATA CONSULTANCY SERVICES: Good evening.
+DAVID NELSON: We also have our three Executive Vice Presidents, Mr. Chandrasekaran, Head of Global Sales and Operations.
+N. CHANDRASEKARAN, HEAD OF GLOBAL SALES AND OPERATIONS, TATA CONSULTANCY SERVICES: Good evening, and good morning.
+DAVID NELSON: Mr. Padmanabhan, Head of Global Human Resources.
+SHAMALA PADMANABHAN, HEAD OF GLOBAL HUMAN RESOURCES, TATA CONSULTANCY SERVICES: Hello, everyone.
+DAVID NELSON: And Mr. Phiroz Vandrevala, Head of Global Corporate Affairs.
+PHIROZ VANDREVALA, HEAD OF GLOBAL CORPORATE AFFAIRS, TATA CONSULTANCY SERVICES: Hi, everyone.
+DAVID NELSON: Mr. Ramadorai and Mr. Mahalingam will begin with a brief overview of the company's performance, followed by the Q&A session. As you are aware, TCS does not provide specific revenue and earnings guidance. Furthermore, anything said on this call, which reflects our outlook for the future, which can be construed as a forward-looking statement, must be viewed in conjunction with the risks that the company faces. These risks are outlined on the second slide of our results presentation.
+With that, I would like to turn the call over to Mr. Ramadorai.
+SUBRAMANIAN RAMADORAI: Thank you, David. And let me a few moments to describe the overall performance of the company for the year 2006-2007, as well as for the quarter. This has been a standout year for TCS. We have very clearly demonstrated industry leadership and excellence in execution. Where we need to provide it, we have provided our customers with certainty in running and transforming their business.
+The full year revenues, we clocked around $4.3 billion and an operating income of $1.1 billion, and essentially a 41% year-on-year growth which is very important. TCS North America and TCS Europe have crossed the US$2 billion and $1 billion in terms of revenues, Europe being $1 billion and North American being $2 billion. In terms of our quarter four revenues, that is the January through March '07, there were revenues of $1.2 billion, driven by a quarter-on-quarter growth rate of 8% in dollar terms, is extremely heartening.
+We are seeing for the 2007-2008 a good ramp up on our existing deals which we have won, and a good demand environment across the geographies. More importantly, demand for our technology-led solutions from our global customers. I think the strength of our business models in terms of an integrated, full-services player and a global network delivery model, enables us to address very complex engagements, win large complex global engagements which we can deliver out of our global network delivery centers.
+Last year, namely the 06/07, the strength of this model helped us to close 12 $50-million plus deals across all the major markets. And we have managed our operations very well with regard to a strong financial management. And despite the constant gyration of the Indian currency, we have done very well. We added 32,000 professionals at a gross level. And our retention has been the highest in the industry. And we will answer any questions. Overall, the attrition on a global basis was 11.3%.
+With regard to the branding campaign, which we started this year, that's what we want our customers to know us about, and what we stand for in terms of our customers' experience in certainty and in information technology. We are building the TCS brand globally and better communicate our commitment to the customers and prospects.
+Just four years ago, in 2003, we were the first Indian IT company to cross the $1-billion revenue mark. We doubled our revenues in 2005. And once again, we have replicated that in 2007 by crossing US$4 billion in terms of revenue. Our business model, to sum up, is primed for profitable growth. And there's no dearth of opportunities out there.
+I'll hand over to Mr. Mahalingam, our Chief Financial Officer.
+SETURAMAN MAHALINGAM: Thank you, Ram. At the close of the 2007 financial year, we have, as you have heard from Ram, and I'm sure you've accessed our website, we have delivered again very strong financial results. We are now the first head for India, headquartered IT services company to exceed $4 billion in revenue, after-tax profits of nearly $1 billion. This continued strong growth reflects the strength of customer demand for our services. Ram has already indicated that we have witnessed an increasing acceptance of our strategy to provide our clients with comprehensive and integrated portfolio of services delivered over a global delivery network.
+For the full year, as you I'm sure have seen, our revenue has reached $4.3 billion, a 41% increase over FY 2006. For the quarter, revenue has grown sequentially 8% in U.S. dollar terms and 6% in rupee terms. Since I know that I'll get a lot of questions on the details of the revenue, let me provide the following breakdown.
+Our revenue went up by 5.88% over Q3. And this has come about as a result of volume growth of 6.42%, pricing growth of 89 basis points, improvement in mix and productivity of 44 basis points, and of course the exchange difference has had a negative effect of 1.87% which has resulted into a 5.88% growth. As we've always repeated, our goal is not just to grow but also growth in sustainable profitability. Despite the challenging environment, the significant cost pressure that we have seen on volatile currency market, our results have demonstrated this capability.
+Let me walk you through the details of the items that have affected Q4 margins, because there's been largely one. As you know, we exited Q3 with an operating margin of 26.07%. And there has been a negative foreign exchange impact of [57] basis points in our margin. But in spite of that, we have improved the [inaudible] in a marginal manner which has resulted in the Q4 operating margin of 25.59%.
+On a year-to-year basis, we have run several successive programs that control cost and expense. Non-employee SG&A has shown an improvement of 102 basis points year on year. This increase in the SG&A employee cost is related to building an international delivery network. And as you know we continue to build critical mass in our network. And we would anticipate that this cost would decline as a percentage of revenue over time.
+In summary, operating margins for 2007 steadily improved through a combination of several levers that we have talked about throughout the year. We exited the year with a quarterly margin of 25.59%. For those of you who might notice, this is exactly the margin that we had for the full year of last year. And certainly, this is significantly higher than a year ago margin for the same quarter of 24.08%. So we are exiting this quarter with a much higher margin, which will enable us to apply many levers in spite of the wage increase that we will have.
+Net income, the quarterly net margins have improved both sequentially and year-over-year. Q4 2007 was 22.78% versus Q3 2007 of 32.73% and Q4 2006 of 21.37%. I would like to highlight that over a full year, net margin improved to 22.16% over 21.77% a year ago.
+We have significant momentum heading into FY 2008, a strong demand environment, our strong book of business, and our significantly improved competitive positioning will continue to drive very strong growth. We'll continue to focus on all the operational and financial [drivers], and essentially anticipate that even in the face of significant challenges, our strong financial and operational management will enable us to maintain margins in approximately the same ballpark as FY 2007. Thank you.
+DAVID NELSON: With that, we'll open up the call to questions.
+OPERATOR: Thank you, very much, sir. At this moment, I would like to hand over the floor to Cynthia to conduct the Q&A session for participants at the international bridge. This will be followed by Q&A session for India participants. Thank you, and over to Cynthia.
+OPERATOR: Thank you, Pratibha. We will now begin the Q&A session for participants connected to the WebEx international bridge.
+[OPERATOR INSTRUCTIONS]
+Your first question comes from Joseph Foresi, Janney Montgomery Scott.
+JOSEPH FORESI, ANALYST, JANNEY MONTGOMERY SCOTT: Hi, guys. And nice work finishing off the year here. My first question is it looks like growth is a little bit slower this quarter in North America, also in application development, maintenance, and financial services. Any color on that? Are you seeing any slowdown on the spend in North America?
+N. CHANDRASEKARAN: This is Chandra. Thank you for the question. That's not true. Fundamentally, all that's happening is that from a financial services point of view, I want you to look at the annual numbers. In FY06, we had a 41.2% on our total revenues of $2.97 billion. And this year, we've ended the year at 42.2% of $4.3 billion. That's about $1.8 billion. So we've gone from $1.2 billion to $1.8 billion.
+So the financial services sector has grown 50% year on year. And the fluctuation that we see in the quarter is pretty much related to some large engagements coming to an end and some new ones starting and so on, so forth. It is not in lieu with any slowdown. Our large financial services clients in North America are growing. And the traction is good.
+Then coming to the North America per se, by and large, the North American market is strong for us. And all of our existing clients are buying new services from us. And we are also having an excellent client acquisition going. The only thing I would say is that since most of our large clients are North America based, any of the movement of work towards offshore to India or elsewhere is predominantly happening from the North American clients.
+I would like to even say that even though you don't see specific movement of offshore towards India this quarter, that does not mean that some clients are not moved. What has happened is that some of the North American clients have moved work offshore. And some [of that is], we have moved, work onsite primarily because we are taking on transition [inaudible] engagements. But the momentum is good.
+JOSEPH FORESI: Sure. Thanks. And my second question here is sort of around headcount. Any initial headcount guidance for fiscal '08? And how are you seeing the labor environment?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [Inaudible-highly accented language] the [campus] for this year, we are [inaudible]. And the campus offers which we made last year will be joining us in June. Overall, last year, we added totally about 32,000 people, just about 32,000 people, of which about 18% was outside India.
+JOSEPH FORESI: And so, is there an initial gross hiring guidance for this year, or --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, we -- as a rule we don't give any guidance. So, we're not talking about what the total amount that we will hire this year.
+JOSEPH FORESI: Okay. Just to --
+UNIDENTIFIED COMPANY REPRESENTATIVE: Just to answer your question, sir, it will be in addition to what we announced as 32,000 last year, it'll be more than that for sure. We are currently in the final stages of planning 12,000 offers of that more than 32,000 that's already been made.
+JOSEPH FORESI: Okay. Great. Thanks, guys. And my last question here is just around the pricing environment. Any color on the pricing environment? And maybe if you can give us just a little bit more color on sort of what you see heading into fiscal '08 overall? Thanks, guys.
+UNIDENTIFIED COMPANY REPRESENTATIVE: With regard to pricing, the environment is very encouraging. And the demand is high. And we are continuing to see the kind of pricing that we mentioned in the last quarter. That is about 3% to 5% on existing contracts coming up for renewal. And we're seeing much higher, more in the 5% to 10% range, for new contracts. And that trend continues.
+JOSEPH FORESI: Okay. And then maybe if you guys could just provide a little bit of guidance, and just how you see the environment shaking out in '08, maybe some areas of growth? Thanks.
+UNIDENTIFIED COMPANY REPRESENTATIVE: If you're asking about areas of growth, I think we're growing in all markets. And all of our full services are growing. If you really see the services lines in the presentation, what you will find is that all of the services are nicely growing.
+And whether it's BPO or infrastructure, consulting, even these four services which we introduced in the last 24 months, BPO, global consulting, infrastructure, and assurance, they alone contribute 18% of our revenues. This number used to be 10% last year. So these four services have grown 80%. That's approximately -- work out to something in the range of US$800 million.
+JOSEPH FORESI: Great. Thanks, guys.
+OPERATOR: Your next question comes from Trip Chowdhry with Global Equities Research.
+TRIP CHOWDHRY, ANALYST, GLOBAL EQUITIES RESEARCH: Congratulations on a very good all-around performance. I have a couple of questions. First, is regarding the competitive environment. Are you seeing any visible difference in your competitive engagements in North America, versus Europe and APAC?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think each of these markets have different players. So if you're asking about the kind of competition that we face, I can tell you that Europe has European players, who compete with us lot more in Europe, not in the U.S. But overall in terms of deals, it very much depends on the type of the deals rather than the market. If it's more application outsourcing and enterprise application, we face certain type of competition. If it's an infrastructure deal, the competition is different. If it is a core banking deal, the competition is different.
+TRIP CHOWDHRY: And also regarding the core banking business, you have your own product. I think it's called Bank One or something like that.
+UNIDENTIFIED COMPANY REPRESENTATIVE: It's called BANCS, yes.
+TRIP CHOWDHRY: I was wondering, is that product competing, say, with i-Flex or Finacle? And do you have any specific goals in terms of how you are going to go to market across the globe? And lastly, how do you price it versus, say, something which is a licensed software company?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The financial services product is pretty important business for TCS. And we have a portfolio of products across the segment, commercial banking, wholesale banking, investment banking, brokerage, clearing and depositories and wealth management, asset management, etc. And this year, we signed up 51 deals for our financial services products, and it contributes to almost close to $100 million; it's about $98 million -- I'm sorry, $120 million would be the revenue for this fiscal year for the financial services products.
+And we have set up a separate unit within the company, a separate business unit, which is focusing on the financial services product. And they will be aggressively going to the market. But in terms of how we recognize revenues, I think we consider -- we do percentage-of-completion method for both license and [inaudible-highly accented language] put together.
+OPERATOR: [OPERATOR INSTRUCIONS]
+Your next question comes from Moshe Katri of Cowen and Company.
+MOSHE KATRI, ANALYST, COWEN AND COMPANY: Thanks. Nice quarter. Looking into fiscal '08, and I know that you don't provide guidance, but maybe you can talk about your comfort levels in terms of being able to maintain your current EBIT margin. That's number one. And then also in that respect, can you talk a bit about the expected increases in comp during fiscal '08 as well? Thanks.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Can you repeat that Moshe? That question, we couldn't hear that very well.
+MOSHE KATRI: Sorry. Talk a bit about your comfort in terms of your ability to maintain your EBIT margins, i.e. your operating margins, in fiscal '08. And then also in that respect, maybe you can talk about the different levers in the model. And then maybe you can talk a bit about the expected increase in compensation in fiscal '08, especially for [Freshers] and then in general. Thanks.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay. The first thing is we are entering FY08 with a much better margin in Q4 of FY07. So that means, that we can certainly take some amount of wage increase without really affecting the margin, or which will bring us to the margin. And the additional one, we have --sometimes, what we are doing at this time is a few things.
+One is, we have begun a number of initiatives overseas -- whether it is in terms of the centers in various -- the global network delivery management, or in terms of the subsidiaries and so on. Many of them have started producing [inaudible]. And that'll be one lever which we will crank a little more, because the benefit in terms of their performance is definitely going to be a reflection as far as FY08 is concerned.
+The second one, at the beginning of this year, we had said that we would move towards more work being shifted offshore to India. And as you can see, we have shifted close to 3.1% to offshore to India. That's another lever that we'll continue. We believe we still have some way to go as far as that lever is concerned.
+Third, Chandra has already talked about pricing. And the pricing situation is not any different from what we have been articulating in the last couple of quarters, which is the new contracts coming in at a certain higher level as well as old contracts being renegotiated. And some of the contracts, although we have renegotiated, their effective start date for us in the renegotiated terms is really starting from April of this year. And in some cases, it's July of this year and so on. So that lever is certainly there.
+We began the year with an effective thing to control the SG&A cost, and that would still continue. We believe that our increased base offers us more possibility for leveraging those. So, there are a number of things that we have put together as we developed the plan, whether it is in terms of pricing, whether it is in terms of productivity improvement, whether it is in terms of getting the fuller benefit as a result of many of these major initiatives that we have started a year back, and whether it is in terms of cost control and so on that we are bringing it.
+So the impact of rate increase, we expect, is going to be very similar to the impact that we had last year, because the Indian salary, essentially, we are expecting it to grow by 12% to 15%. As far as the overseas is concerned, it is going to be between 3% and 5%. And it is exactly the same as last year. So the impact is going to be more or less the same. And we have worked up this kind of a detailed plan to meet that impact. And that's what gives us confidence that we should be able to meet the goal.
+There is one additional thing that we have done. And that is on the foreign exchange management. Essentially, we had put together a strategy earlier of ensuring that we are able to protect our realization at a certain rate. And so, we have gone in for forward options and so on. We had budgeted certain costs in terms of premiums when it comes to options.
+And I think that strategy seems to work extremely well in the volatile kind of situations. And with that, I think that strategy is also something that we will continue to practice. And overall, these are the things that give us confidence that we should be able to maintain the market.
+OPERATOR: Your next question comes from Julio Quinteros with Goldman Sachs.
+JULIO QUINTEROS, ANALYST, GOLDMAN SACHS: Thanks. This question is actually for Mah. Can you go through the other drivers for margins, though, as you look at fiscal year 2008? I didn't hear you mention some of the large clients. And then also the impact of recent acquisitions, how do we think about those impacting fiscal year 2008?
+SETURAMAN MAHALINGAM: As far as the large accounts are concerned, they are in a major sense the negative impact if at all, are behind us -- where we had to go ahead and start something and so on. And everything that we are doing at this moment in time, maybe in the initial stages that could be a certain increase in onsite, because we are essentially going through a process of knowledge transition in many of those kinds of activities. And then the real benefit in terms of offshore push happens a little later.
+But, so long as we can have a certain number of large clients, and it doesn't really expand, the hockey stick effect, we will be in a position to handle extremely well. And we have learned that. And we have been practicing that. So, I really don't see very much later on. And Chandra can elaborate on that.
+And the other one, in terms of acquisitions. Again, if you are to look at the major acquisitions, whether it was FNS, as you know, it has delivered. In fact, there are improvements that have taken place on the revenue coming from FNS, as well as in terms of realization and so on. And it has been a very beneficial one, or the one that we have done in Chile.
+As far as the Tata Infotech is concerned, I think it's more or less playing out exactly as you said. We have gone ahead and revised some of the rates. We have pushed a lot for offshoring, increasing utilization, all those things that we have talked about.
+And [inaudible] is one where we had said initially that we would have single-digit margin as we build the complete transformation as we start getting -- and that will continue. And I think that process is on. And we are also looking at some of the contracts that we can get additionally there. I think, we feel that the decision that we had taken at that time is essentially paying off.
+The last one we had done, which is really what we acquired in Switzerland, earlier Chandra and Ram had talked about the product strategy getting into place and banking. And I think from our perspective, it is very critical that we took complete hold over it in order that we could go ahead and start the product division of our own within the organization. And we expect that we will be in a position to enhance the number of licenses, as well as have a much bigger play in that kind of a market.
+So beyond these, I can't really get into the specifics. But we go by each initiative. We go by the strategy that we have formulated in respect of each of that. And it all depends on execution after that. And we have been, as you can appreciate, reasonably certain as to the experience that we have generated at that.
+OPERATOR: Your next question comes from James Friedman with Susquehanna.
+JAMES FRIEDMAN, ANALYST, SUSQUEHANNA: Hi. Thank you. As a follow up to that prior question, I was just wondering what -- in order to keep your operating margin flat for this fiscal year, what would offshore split have to go to as a percentage of revenue? It's 41.3%, and it's grown nicely over the course of the year, but what kind of rate would it have to get to, to contemplate a flat operating margin for the year?
+UNIDENTIFIED COMPANY REPRESENTATIVE: You know, it is difficult to play with only one scenario. If you ask me, I would turn around and say that if I have to take care of something like 2.3% or 2.4% impact that these salaries would have, then we could go ahead and shift those. But you don't work on just one alternative alone. I mean there is, there are a few others that you will have to -- and you play with a number of scenarios and so on. But certainly, our play is not just the offshore of India, but also getting into various other locations and so on. And I'll let Chandra elaborate on that.
+N. CHANDRASEKARAN: Yes, I think overall there are a number of levers that we're playing with, and they're all working extremely well. And while we will continue to move work offshore, we also appreciate that we are taking on large engagements. And those engagements will go through transition. And so there will be a movement of people onsite to do this kind of work. So that will always happen.
+So we just need to keep watching closely. And the combination of pricing, plus the kind of service that we provide, plus the offshore movement, all those things will have to be correctly managed. At this point in time, all I will say is that the situation is very good. And we see a good opportunity to move additional work offshore, not only in the current work that we're doing, but also the cross selling into existing large accounts.
+Someone asked about the large accounts. Each of our large accounts are getting larger. And that's the best way to do business, because we're able to cross sell with minimal sales cost, and especially if we are able to fill infrastructure services, the whole game is about [too much] management of infrastructure. So as we cross sell infrastructure management, our assurance, our BPO, they're going to be highly offer intensive so that it's a very strong opportunity to increase the revenue from offshore.
+OPERATOR: At this moment, I would like to hand the proceedings back to our India moderator, Pratibha. Please go ahead.
+OPERATOR: Thank you very much, Cynthia. We will now begin the Q&A interactive session for participants connected to WebEx India.
+[OPERATOR INSTRUCTIONS]
+First question comes from the line of Mr. Surendra Goyal with Citigroup.
+SURENDRA GOYAL, ANALYST, CITIGROUP: Yes, hi. Good evening. In the [UL] GAAP numbers, employee cost in the cost of revenue line increased by only 1.5% despite a good addition in the number of employees. Any particular reason for the same?
+UNIDENTIFIED COMPANY REPRESENTATIVE: You're talking about the quarterly figure, are you? Are you talking about the quarterly figure?
+SURENDRA GOYAL: I'm talking about the quarterly figure.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay. No, it reflects the current state, I don't know what else I can answer as far as that is concerned.
+SURENDRA GOYAL: Okay. Secondly, on the BFSI revenues, they were almost flat on a Q-on-Q basis. Do you expect the growth in BFSI to revert to company levels going forward?
+UNIDENTIFIED COMPANY REPRESENTATIVE: All I will say is that a couple of points I want to make. One is that BFSI segment is not experiencing any slowdown at all. On an annual basis, if you really look at it, we've gone from $1.2 billion to $1.8 billion. And all of our clients are growing. And it'll continue to grow. But definitely there are other verticals which we are simultaneously growing, whether it's telecom, or whether it is retail, or whether it is pharma, all those verticals are growing. So what will be the percentage as far as overall revenues is difficult to say, but it is ballpark continuing to remain in around 42 -- 42, 43 [inaudible]. That's all I can tell you.
+SURENDRA GOYAL: Okay. Thanks a lot.
+OPERATOR: Thank you very much, sir. Next question comes from the line of Mr. Sandeep Shah with Motilal Oswal.
+SANDEEP SHAH, ANALYST, MOTILAL OSWAL: Yes, if we just look at the total revenue growth excluding the domestic business in the actual U.S. dollar terms, the international revenue has just grown by 6%. And if you just leave that, assuming that as our top line just from the international business, then our growth in the international revenue, excluding top line is just 4.8%. So can you a little bit elaborate why the international business growth is one of the lowest in the last four quarters?
+UNIDENTIFIED COMPANY REPRESENTATIVE: All that I can say is that it is essentially building on a fairly big growth, big baseline. The second one is, you would appreciate that there are many new projects that we have -- a large contract and so on that we have initiated. And we believe that the momentum is extremely strong for a good growth in the coming quarter. It is not a slowdown.
+SANDEEP SHAH: But can you give us the volume growth figure within the international business?
+UNIDENTIFIED COMPANY REPRESENTATIVE: If you take the volume growth, it has grown by over 5%, 5.24%. And --
+UNIDENTIFIED COMPANY REPRESENTATIVE: Actually, 5.8% is the volume growth. And 1.33% is the pricing plus productivity growth. And there is currency -- these are overall figures. And then, there is a currency negative impact that you have to factor on top of it.
+SANDEEP SHAH: Okay. I just want the volume growth within the --
+UNIDENTIFIED COMPANY REPRESENTATIVE: You want international? I'm sorry.
+SANDEEP SHAH: Yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: You want volume international?
+SANDEEP SHAH: Yes, volume growth within the international business and [inaudible] prices.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay. International rose by 0.24%. As far as the -- you know, and overall, we had a growth about 4.1%, as you have essentially seen. The rest has been fairly contributed by the exchange rate as well as of course the positive effect as a result of the prior pricing.
+SANDEEP SHAH: Okay. And just on the business of -- the ADM business which has been higher as a percentage of the revenue, most of the growth has been driven by the non-ADM business. So is this a quarterly aberration, or some slowdown in the development part of the business?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, this is -- you are essentially looking at the quarterly figure at this point.
+SANDEEP SHAH: Yes, yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And there is absolutely nothing. And what happens in many of these cases, is that you start from major initiatives and so on, and major projects. And some of them, certainly many of them were [I believe] are the very deals that Chandra had talked about, whether it was infrastructure management or assurance, and so on. So there has been a slight change because of that. There is absolutely no slowdown as far as ADM is concerned.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, I'd just like to clarify because you asked a lot of data. So I just want to give you the correct figures for everyone's benefit.
+SANDEEP SHAH: Thanks.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Overall this quarter, we had a volume growth of 6.42%.
+SANDEEP SHAH: Yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And then pricing was 89 basis points. And productivity is about 44 basis points, totally pricing and productivity contributing to 1.33%. And then, we have a negative impact of 1.87% due to ForEx.
+SANDEEP SHAH: Right.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And then net effect is that we got a growth of 5.88%.
+SANDEEP SHAH: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: I am not able to split it between international and domestic. If you want it, I just need to work on it and get back to you.
+SANDEEP SHAH: Okay. But as we said earlier 5.24% is the volume growth within the international business.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, [5.24%].
+SANDEEP SHAH: [Inaudible] as you said that the growth in some of North America has been driven by higher offshore. So, I just wanted to know whether the volume growth has been higher than the absolute dollar revenue growth.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, as I said, it is 6.42% overall and 5.24% for the international business from a volume point of view.
+SANDEEP SHAH: Thank you.
+OPERATOR: Thank you very much, sir. Next question comes from the line of [Ms. Natalie Kosh] with DSP Merrill Lynch.
+NATALIE KOSH, ANALYST, DSP MERRILL LYNCH: Hi. Good evening. Could you comment on and give us some color on the deal pipeline, particularly your large deal pipeline that you have got into, and how that spans out across geographies and your [designed] services? Also, maybe are there any deals which sort of leverage your whole group or your recent banking product and acquisitions?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We have at least ten deals which are more than $50 million [inaudible-highly accented language], the qualified ones. And then these deals vary in size. Some are $50 million. Some are $100 million plus and so on. And typically, the deals leverage at least two or three offerings. It could be application services and infrastructure. It could be BPO and infrastructure, or application and BPO.
+Apart from this, we are also pursuing deals which leverages our [inaudible-highly accented language] infrastructure. At least a couple of deals there we are pursuing. Apart from this, we are also pursuing deals which leverage the financial services product portfolio. We are not only seeing it as leveraging the BANCS product [inaudible-highly accented language]. We are consolidating all the products because we have solutions that cross the banking and financial services spectrum. And we are pursuing a number of deals leveraging that. So, there are three kinds of deals. I hope I have given you [inaudible].
+NATALIE KOSH: Yes, thanks. And second question is just on margins, if you could help us understand what is the kind -- when you hope to maintain margins this coming year, what is the kind of rupee assumption that you have in mind? And also, what is the assumption on utilization?
+UNIDENTIFIED COMPANY REPRESENTATIVE: As far as the rupee assumption is concerned, as I've said, it's becoming very, very difficult. And we have taken into account certain factors. We think that if we can protect it around 43.50 or a little higher for this year, we would have done a good job. And therefore, we have adopted a strategy from an exchange management front. And we will keep monitoring that.
+It is extremely difficult now to say that it is going to be 43 -- 43.50 and so on, because as you know today, it is at an extremely appreciated position, and there it will even slide backwards and so on [inaudible] that we have to face. So we really will have to be looking at what kind of initiatives that we can take from an exchange management front which is what we have done.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Natalie, on the utilization side, we are looking at [77%] to 79%.
+NATALIE KOSH: This is excluding [inaudible]?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes.
+NATALIE KOSH: Okay. Thanks a lot.
+OPERATOR: Thank you very much, ma'am. Next question comes from the line of [Mr. Sangum] with India Independent.
+MR. SANGUM, ANALYST, INDIA INDEPENDENT: Yes, good evening. My question is on the large client, your $50-million client. This quarter[Inaudible] 14 as against 15 last year. Do we connect to any of your large deals [inaudible] or transition [phase]? Or, how do we read into this?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, I think it's because one of our clients, which is a financial services client, has sold a part of the business. And that has become a new client for us. So, one client has been split into two. So, now they've become two financial services clients. So because of that, that revenue has come down below [50%] of $50 million, actually marginally down. And it'll be back up again.
+MR. SANGUM: Okay. And the second one is on how do you see the impact of this subprime thing, etc. on the large financial banks or whatever because Citibank is impacted? Do you see more and more offshoring coming from Citibank the way they've been indicating in the press over the last --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: There are two comments. One is, there is no impact for us because of this. But with respect to any specific clients, I can't give you details. But I can tell you overall --
+MR. SANGUM: Big opportunity for you coming in?
+UNIDENTIFIED COMPANY REPRESENTATIVE: All the financial services clients are ramping up. And I would say there's a good opportunity.
+MR. SANGUM: Okay. Thank you.
+OPERATOR: Thank you, very much, sir. Next question comes from the line of Mr. [Jumet Olora] with Everest Group.
+JUMET OLORA, ANALYST, EVEREST GROUP: Hi. In fact, it's Jumet Olora, spelled with a J. Thanks. I just had a quick question on the number of active clients versus -- as well as new clients. So there's been a decline in both of these as compared to the previous FY. And I just wanted to see -- just wanted to get your comments on that.
+UNIDENTIFIED COMPANY REPRESENTATIVE: What happens is that apart from serving annual declines, TCS also takes a number of large-scale [inaudible-highly accented language] engagements which may be one-off engagements. It could be a governmental project. Or it could be a company going through a major transformation program, while we may take on [inaudible] project. That's what it indicates. It does not indicate any churn in our plan base. We've had a very healthy growth with all the key relationships that we have.
+JUMET OLORA: Okay. And just if I were to add quickly, are you comfortable with the current mix of time and material kind of contracts, versus fixed price, fixed-time contracts?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Absolutely. We have always maintained every quarter on this point that we look at somewhere between [42%] of our revenues coming from fixed price. That's the bandwidth we have. And we have very strong processes, strong project-management skills, program-management skills and vendor-management skills, to be able to handle large-scale based projects. And we have done this successfully. So, we think we will maintain in this manner.
+JUMET OLORA: Okay. Thanks a lot.
+OPERATOR: Thank you, very much, sir. Next question comes from the line of Mr. Chainani with Macquarie Securities.
+MR. CHAINANI, ANALYST, MACQUARIE SECURITIES: I think my questions have been answered. Thanks a lot.
+OPERATOR: Thank you, very much, sir. Next question comes from the line of Mr. [Depenshah] with [Cotech Securities].
+UNIDENTIFIED PARTICIPANT: Yes, a couple of questions have been answered. Just one bookkeeping question, what can we expect the tax rate to be in the next year?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The tax rate will continue to be at the same level. We don't see any change because there is no major STP or anything which is getting out of the [inaudible] at this time.
+UNIDENTIFIED PARTICIPANT: Okay. Thanks, very much, and all the best.
+OPERATOR: Thank you, very much, sir. Next in line, we have a question from Mr. Harmendra Gandhi with Bric Securities.
+HARMENDRA GANDHI, ANALYST, BRIC SECURITIES: Hello, sir. Good evening. On year-to-year business, how should we take the volume growth -- from FY06 to FY07, how should we take the spread between the volume growth, pricing hikes and productivity? And when you say productivity, what kind of productivity is this? And how sustainable is this?
+UNIDENTIFIED COMPANY REPRESENTATIVE: There are a couple of points I think you should take the -- for the last question, you should take the pricing growth to be 0.89% for activities more coming from execution improvements because of [inaudible] in express engagements. Overall, I think we've given you the pricing growth numbers for last year, for last quarter and this quarter. And also the previous quarters, I think you need to put it together. I don't have it handy.
+HARMENDRA GANDHI: We can't get a consolidated number from you?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We can [give it]. But I don't have it handy.
+UNIDENTIFIED COMPANY REPRESENTATIVE: We have been releasing figures every quarter. So it's just a question of taking it out.
+HARMENDRA GANDHI: This pricing productivity comes from improvements and productivity improvements in fixed-price contract, and is it --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Like last time, we had said that we had something close to about 4.37% improvement, we said 2% came from straight pricing environment. And the balance came from the direct price. The reason I'm saying that is because when you take a turnkey contract, you quote at a higher price and so on. That becomes difficult to just quantify it as a pricing improvement. So that's why we said --
+UNIDENTIFIED COMPANY REPRESENTATIVE: But also on fixed price projects, if you are able to get higher offshore leverage, that goes to the productivity.
+HARMENDRA GANDHI: Okay. And --
+UNIDENTIFIED COMPANY REPRESENTATIVE: But the number of levers you have, and very difficult to [list all] levers. But essentially, by effectively managing our contracts, we can get some productivity gain. And we can't say whether it will be repeated every quarter. Sometimes contracts lend themselves for a productivity gain. But our goal is to ensure that we deliver the fixed price contract within budget as for [originally] planned. And sometimes we will be able to get additional productivity.
+HARMENDRA GANDHI: Okay. So on a non-fixed price part, what is the component of business exchange? And what is the percentage due to price hikes?
+UNIDENTIFIED COMPANY REPRESENTATIVE: It's all price hikes.
+HARMENDRA GANDHI: It's all price -- it's not because of business exchange that this improvement in pricing may come?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, no. It's all pricing.
+HARMENDRA GANDHI: Okay. Thanks a lot.
+OPERATOR: Thank you, very much, sir. Next question comes from the line of [Mr. Kunal Sangroy] with Edelweiss Securities.
+KUNAL SANGROY, ANALYST, EDELWEISS SECURITIES: Yes, hi. Congrats on a good quarter. My question pertains to the depreciation. We've seen depreciation quarter on quarter increasing by about 23%. Could I know the reason as to why this happened?
+UNIDENTIFIED COMPANY REPRESENTATIVE: This year, we have brought in a number of facilities, both from a physical infrastructure area as well as technology perspective. And that is the reason why the depreciation has been going up. As you know, we have talked about fairly high capital expenditure spending and so on. And we have kept up with that.
+KUNAL SANGROY: And could I get the number for--what was the CapEx that you're looking for in FY08?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We will give that figure. At the moment, we have not released it. But we'll certainly come up with it fairly soon.
+KUNAL SANGROY: Yes. Okay. Thanks a lot.
+OPERATOR: Thank you very much, sir. Next in line, we have a question from [Mr. Vivek Stingler] with Standard Chartered.
+VIVEK STINGLER, ANALYST, STANDARD CHARTERED: Hi. Just a couple of questions--first is your offshore-onsite mix. If you look at the makeup, basically, most of the improvement has come in the second quarter. But after that, the offshore mix has more or less stabilized around that 41% level. What kind of number would you be looking at or would be comfortable in, say, for the entire fiscal year '08?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think here the answer is multiple. Number one is that the improvement happened last quarter also. And it's directly a function of new contracts coming in as well. I can only tell you that it'll continue to move towards offshore. There is still a lot of headroom for us to move offshore, which we'll continue to do. The second point is that our GDC mix also is growing. We really see--
+VIVEK STINGLER: Right.
+UNIDENTIFIED COMPANY REPRESENTATIVE: --growing. And we are trying -- as the GDCs are gaining scale, we are trying to insure that the profitability in those GDCs economies of scale and all those things which are good discipline and all the best practices we have learned in India are getting deep rooted in this market. So there're two bullet points I would like to give you. One is the margin improvement on the way we execute the projects in GDC will continue to improve.
+VIVEK STINGLER: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: The second one is that in percentage terms, the workforce offshore will continue to increase definitely. But --
+VIVEK STINGLER: But it's going to remain more or less the same going forward, or --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: It'll improve from here, definitely improve from here.
+VIVEK STINGLER: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Probably not -- you can't expect one percentage point a quarter or something like that.
+VIVEK STINGLER: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: But it'll be a few basis points. A few tenths of basis points every quarter --
+VIVEK STINGLER: Right.
+UNIDENTIFIED COMPANY REPRESENTATIVE: -- is a good scenario.
+VIVEK STINGLER: Okay. And just one more question on the accretion rate. This quarter was a little bit higher than what it's been in the last three quarters. Any specific reason for the same?
+UNIDENTIFIED COMPANY REPRESENTATIVE: If you take it on the last 12 months basis, and overall the Company's accretion is around 11.3%.
+VIVEK STINGLER: Right.
+UNIDENTIFIED COMPANY REPRESENTATIVE: There are two groups. One is the BPO. It's just about 20.2%.
+VIVEK STINGLER: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And the entire IT business is at [10.6%].
+VIVEK STINGLER: Okay. Yes. Thank you, very much, sir.
+OPERATOR: Thank you, very much, sir. Next in line, we have a question from Mr. Manish Bhandari with ING Investment Management.
+MANISH BHANDARI, ANALYST, ING INVESTMENT MANAGEMENT: Hi, everybody. My question is regarding the medium-term outlook on the IT [inaudible question - highly accented language] in India. And just doing a backdrop of this, we have got the global majors who have reached a critical size in our -- or are reaching a critical size on the Indian IT industries. So their cost structures is also getting aligned to the Indian IT players. So is this a medium term - does this pose a significant challenge in terms of your ability to get the deals of the competitors which are much more aligned to your cost structure? How would you react to that?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think the cost structure is just one part of it with regard to when you do a global delivery or when you do an India-based delivery. Cost is not the only criteria anymore. It's the execution capability and your ability to successfully demonstrate the business value through your differentiators. If we have done successfully a number of projects, and the clients [inaudible] even in our experience, certainty adds, it's the reflection of the confidence of the ability to deliver through competencies and the capabilities we have built.
+So sustaining our delivery excellence is going to be the core of any value creation. And we had to be focused on that. Yes, competitors coming here will be a lot more about India and our global delivery. And we have a fair chance of winning some of those deals through our execution excellence.
+MANISH BHANDARI: Okay. And my second question is about your emphasis on the CMC, how much you anticipate in terms of [cultivated] business [inaudible] and CMC could have put together and what direction on what will be the size of business we could see in future.
+UNIDENTIFIED COMPANY REPRESENTATIVE: CMC has gone through an enormous amount of shift in terms of getting out of the low-margin hardware business. Their focus is very clearly on memory systems plus some of the domain competencies in [inaudible] IT-enabled services, education, and training. The combined go-to-market strategies will touch some of the transportation and public sector, namely garment type of business, as well as within the [inaudible] systems base itself.
+The margin improvements will continue to drive within CMC with the right mix of domestic and international business and try and go to market in the areas that I just articulated. To us, we have fairly aggressive plans of synergizing and growing the CMC business on its own as well as along with TCS. It will not be only the domestic business. But it'll also be a combination of international and domestic business. More in the IT-enabled services area, which we are currently executing as some of the projects for global majors.
+MANISH BHANDARI: Just lastly one, in conference calls CMC mentioned that you are looking at collaborative, joint-marketing efforts on the infrastructure management. So is there any strategy where large deals will be passed on to CMC or maybe you could correct me?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Well, we leverage CMC in multiple areas. Definitely, infrastructure is one of them. There have been a couple of BPO contracts where CMC is bringing in strong capability in terms of digitization. There is also areas where we collaborate in terms of product implementation. We've been implementing our financial services product solutions with their people and so on. So there are multiple opportunities in all these three areas that we're looking at. As of today, CMC does participate in some infrastructure deals, largely [inaudible].
+UNIDENTIFIED COMPANY REPRESENTATIVE: In addition to CMC, we'll also have VSNL in some of the situations. It's a combination of TCS plus CMC plus VSNL which gives us enormous end-to-end competencies.
+MANISH BHANDARI: Thanks a lot.
+OPERATOR: Thank you, very much, sir. Next in line, we have a question from [Mr. Pangesh Kapur] with ABN Amro.
+PANGESH KAPUR, ANALYST, ABN AMRO: Yes, hi, sir. My question is on the subsidiaries. Can you just take us how the profitable [team-rated] subsidiaries have been? And also on the GDCs, how are each of them faring up? And when you mentioned onsite salary hikes of 3% to 5%, does that cover the GDCs also?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, as far as each of these subsidiaries are concerned, they are going on the lines that we had expected, whether it is SMS or TCS [inaudible] BPO [inaudible]. So beyond that, we [inaudible] exactly how they have tracked, but certainly you know about the assignments that SMS has started, and also details of it; I mean, the Chile one has been progressing very well. And [inaudible] has had one year of successful operation. We're also doing [inaudible] with the transformation system. So it is producing along the right kind of line.
+The other question was?
+PANGESH KAPUR: Other question was on the salary hikes of 3% to 5% that you mentioned for onsite staff, does it cover the GDCs in place also? Or do we have a different hike for them?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, this covers all the people who were on non-India payroll.
+PANGESH KAPUR: Okay. And Paddy, could you give a sense on last year we expected for about 30,000 gross adds for this year, a comparable number what you have in mind for '08.
+SHAMALA PADMANABHAN: No, this year, we are planning not to give any predictions on the people count. We will--so far, we have hired 12,000 from the campus.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And Ram has already said that it is going to be higher than the previous year. So we're not reducing that.
+PANGESH KAPUR: Okay. Fair enough. Thanks.
+OPERATOR: Thank you, very much, sir. Next question comes from the line of [inaudible].
+UNIDENTIFIED PARTICIPANT: Hello.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes.
+UNIDENTIFIED PARTICIPANT: Yes, hi. Good evening. My question is more of a bookkeeping nature. I just want to understand that last quarter towards the end we exited from [Sydell]. So does the other income component --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes.
+UNIDENTIFIED PARTICIPANT: So could you just give the breakup of that amount and obviously the tax impact also from that stake sale?
+UNIDENTIFIED COMPANY REPRESENTATIVE: You know, if we have -- but we're not releasing the individual -- the amount at which we have sold and so on. So that'll be difficult. But still, a substantial part of it is affected.
+UNIDENTIFIED PARTICIPANT: Okay. And so obviously tax also goes up because of the stake sale.
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, I think you really already have the figures as far as what we had sold it for.
+UNIDENTIFIED PARTICIPANT: Okay. Thank you, very much.
+OPERATOR: Thank you very much, sir. At this moment, I would like to hand over the floor back to the TCS management for final remarks.
+DAVID NELSON: Okay. Thank you. Mr. Ramadorai will make a few concluding remarks.
+SUBRAMANIAN RAMADORAI: Yes, all I wanted to say was thank you for joining us on this call. We have closed the 2007 financial year. 2006-2007 is a very, very strong growth over the year, crossing the $4 billion in revenue on a global basis. The margins we brought to the beginning of the year levels which we very clearly articulated, as well as the operational efficiencies through very rigorous process discipline and a data-driven organization.
+We definitely have a strong momentum going forward in terms of number of deals which are getting ramped up as well as the number of [inaudible] professionals we have recruited from the campuses already. A combination of our integrated, full-services model, a global network delivery capability, and our ability to ramp up through some of these engagements which we have won, through a combination of services which we'll offer gives us the confidence that we will do very well in the coming year going forward. Thank you so much for joining us on this call.
+DAVID NELSON: Okay. Thank you again for participating in the call. If you have any additional questions, please contact Investor Relations. Thank you, and good night.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Thank you.
+OPERATOR: Ladies and gentlemen, thank you for choosing WebEx Conferencing Service. That concludes this conference call. Thank you for your participation. You may now disconnect your lines. Thank you, and good night.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2007 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2007 Voxant, Inc. (www.voxant.com) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Voxant's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Voxant so long as they provide conspicuous attribution to Thomson Financial and Voxant as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Chief financial officers; Customers; Chief executive officers; Corporate profits; Profitability; Websites; Business models
+
+Business indexing term: Subject: Chief financial officers Customers Chief executive officers Corporate profits Profitability Business models; Corporation: Tata Consultancy Services
+
+Company / organization: Name: Tata Consultancy Services; NAICS: 513210; Name: Thomson Financial; NAICS: 513210, 518210, 519290
+
+Title: Q4 2006 TATA CONSULTANCY SERVICES LTD Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2007
+
+Publication date: Apr 16, 2007
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Wire Feed
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 466285348
+
+Document URL: https://www.proquest.com/wire-feeds/q4-2006-tata-consultancy-services-ltd-earnings/docview/466285348/se-2?accountid=27562
+
+Copyright: 2007 CCBN, Inc. and FDCH e-Media, Inc.
+
+Last updated: 2024-12-04
+
+Database: ABI/INFORM Collection

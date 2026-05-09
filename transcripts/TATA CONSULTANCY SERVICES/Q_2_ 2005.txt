@@ -1,0 +1,405 @@
+Q2 2005 TATA CONSULTANCY SERVICES KTD Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q2-2005-tata-consultancy-services-ktd-earnings/docview/465921164/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Welcome to the TCS earnings call. [OPERATOR INSTRUCTIONS]. I would now like to hand over to Mr. [Arjen Mesakia], Head of Investor Relations of TATA Consultancy Services. Thank you, and over to Mr. Mesakia.
+ARJEN MESAKIA, HEAD OF INVESTOR RELATIONS, TATA CONSULTANCY SERVICES LTD: Thank you [Paciba]. Good morning to our friends in the U.S. Good afternoon to our friends in Europe. And a very good evening to our friends in the Far East and India.
+I warmly welcome all of you to the third analyst call of TATA Consultancy Services. As you all know we've announced our results for the fourth quarter and the full year, ended March 31, 2005.
+It is my privilege to introduce the leadership team of TCS and all of our participants in the executive conference room in our corporate office in Bombay. Mr. S Ramadorai is our Chief Executive Officer and Managing Director.
+MR. S RAMADORAI, CEO AND MANAGING DIRECTOR, TATA CONSULTANCY SERVICES LTD: Good afternoon. Good morning. Good evening everyone.
+ARJEN MESAKIA: Mr. S Mahalingam, our Chief Financial Officer.
+MR. S MAHALINGAM, CFO, TATA CONSULTANCY SERVICES LTD: Hello, and good morning, good afternoon and good evening.
+ARJEN MESAKIA: Three executive vice presidents, Mr. N Chandrasekaran, Head of Global Operations.
+MR. N CHANDRASEKARAN, HEAD OF GLOBAL OPERATIONS, TATA CONSULTANCY SERVICES LTD: Hello everybody.
+ARJEN MESAKIA: Mr. S Padmanabhan, Head of Global Human Department.
+MR. S PADMANABHAN, HEAD OF GLOBAL HUMAN RESOURCE DEVELOPMENT, TATA CONSULTANCY SERVICES LTD: Hello everyone.
+ARJEN MESAKIA: And Mr. Phiroz Vandrevala, Head of Global Corporate Affairs.
+PHIROZ VANDREVALA, HEAD OF GLOBAL CORPORATE AFFAIRS, TATA CONSULTANCY SERVICES LTD: Hi there.
+ARJEN MESAKIA: We begin this call with an overview of the fourth quarter and the full year [indiscernible]. And we will then move on to take questions and answers.
+[Mr. Ramadorai] will conclude the discussions with a brief summary at the end of the call.
+We will have a query session and we request all of you to kindly restrict yourselves to 1 question each so that we allow each and everyone to participate and clarify what it was they needed to clarify.
+The [indiscernible] slide on your webcast, over the phone is also available over the Internet. And this can be accessed on the [indiscernible] on website for the rest of the quarter. The part of the presentation has been uploaded on the website.
+Please note that we are not giving any guidance. And before I request Mr. Ramadorai to speak, I have a small but important duty to [go along], which is to remind all of you that anything we say on this call and which reflects our [thought] in the future, or can be construed as a forward-looking statement must be read in conjunction with the [indiscernible] basis. The full statement of this is available on the disclaimer slide in the presentation which is there on the website.
+Also, please note that this call is being recorded.
+I now request Mr. Ramadorai to comment on [indiscernible]. Thank you.
+MR. S RAMADORAI: Thank you [Arjen]. First, let me start by saying that this year, 2004/2005 has been a very, very important milestone and a historical year for TCS.
+In terms of the overall 12 month period starting from April 1 to March 31 2005, we have done exceptionally well with the sales figure crossing U.S.$2.24b, which is the first Indian IT Services company to cross this $2b milestone, that took just 2 years from year 2002/2003.
+In terms of net profits, we have crossed $0.5b. Again, a very, very important milestone which is again historical and also doubling in 2 years.
+Overall, on a year-to-year basis, the revenue has grown by 36.57%. And the net profit has grown by 37.81%. We have always said India's business is extremely important for TCS. And between us and [CNC], we have crossed the 1000 crores landmark, which is again very, very important for us.
+In terms of the [indiscernible] [ourselves], this went down very well in August. We were written as the best India deal in 2004/2005 by Asia Money. And the IT of the year by Finance Asia.
+In terms of our employee wellbeing, we are registered as the best employer in India, and [it looks that way]. And CNBC-TV18, and the best IT employer in India by [Data Quest].
+Also, as we went through the quality movement, we went through a quality IT [movement] assessment. And we were assessed along all the quality models to a single assessment extending over a period of several months at level 5. We also had the coveted GRD quality award, in addition to many other awards during the period.
+When we completed the IPO and we had 1 or 2 reserves, we declared an interim dividend of 300%. Quarter 3 we declared an interim dividend of 350%. And Korea probably closed above, say, at the board meeting, decided to give a [message] another than 500%. Making a total of 1150% over the course of the year.
+The Company has also announced cash positive after the IPO has been done.
+Now, the number of clients [indiscernible], my colleagues will walk you through it when there are questions on that. But I just want to put some fundamental factors that need to be understood and that were part of this quarter.
+We had a hedging policy, and also we have seen the exchange movements during the course of this quarter. And [most] of the dollar, the pound and the euro vis a vis the rupee, the rupee has appreciated during this quarter. While the overall -- for the year, the exchange gain has been [burst], maximum negative impact has been in quarter 4. And that is the quarter January, February, March.
+This was due to the currency fluctuation which are, [any questions] are proposed to our CFO [indiscernible], is as high as about 185 crores compared to the previous quarter.
+With regards to the EVA for the year, we achieved an EVA of 660 crores, which is a 30% growth. And let me add to that how we have done. 660 crores at the India operation, [1660] crores of EVA and 30% growth.
+During the IT road shows and the subsequent meeting with the analysts and investors, we received feedback in terms of a lag of EVA payment to be corrected. Essentially, what we were doing was, as we completed the financial year, the EVA payout happened in the next year and the accounting also took place during the next financial year, this was seen as a [lag] of delivery at the board level.
+And we decided to incorporate this addition by providing an additional 102 crores in this quarter itself over and above the budgeted EVA payment of INR300, 325 crores. So the entire impact of this 102 crores has been provided for in this quarter.
+So the quarter impact of the currency volatility, plus the EVA [like] correction is to the extent of INR287 crores in this quarter, compared to the quarter 3. So this must be understood very clearly before we look at the financials or the line items of the financials.
+We also said that -- and we were asked a number of questions, that dependency on [G] needs to be consciously reduced. And this quarter alone the reduction in G revenue is $8m, in North America, reducing the G revenue as a percentage of our international revenues to 13.96% from the earlier 14 plus. Almost a 1% drop.
+[BMC], which we published the results yesterday, in spite of a top-line growth, we had to make some provisions for the international plans as part of our good corporate governance because of the organizational restructuring and stoppage of work at the client's end. This, as a part of our consolidation, has had a negative impact of about [13] crores in our overall profits.
+Now, having said this, I would like to assure the investors that we have a business momentum across all the geographies, and invest in verticals and see a healthy pipeline. And the Company during the [indiscernible] subsequent interactions with our general structure, has repeatedly stated that the Company takes a long-term view of 12 months. 36 months or 16 months in its planning horizons. And delivers long-term sustainable value over these period. And will not be guided by the quarterly guidance, and influences which are bound to have an impact on the Company's assessment.
+So overall, on a year-to-year basis, we have done a revenue growth of 36.5%. And a net profit growth of 37.81%. And I would like to thank all of our employees and investors for having their faith and trust in the Company.
+I would like to hand over to Arjen for us to conduct through the questions and answers. Thank you very much.
+ARJEN MESAKIA: Thank you sir. May we begin to take the questions and answers now?
+OPERATOR: Sure sir. At this moment I would like to hand over the floor to [Veina] to conduct the Q&A for participants connected to the [Simtel] bridge. After that we will have a question and answer session for participants connected to India. [OPERATOR INSTRUCTIONS]. Thank you, and over to Veina.
+OPERATOR: Thank you Paciba. [OPERATOR INSTRUCTIONS]. At this moment there are no questions from participants at Simtel. I would like to hand over the proceedings back to Paciba. Over to you Paciba.
+OPERATOR: Thank you very much Veina. [OPERATOR INSTRUCTIONS]. First in line we have Mr. [Amit Corana] from [Ilen Assets].
+AMIT CORANA, ANALYST, ILEN ASSETS: Hello?
+OPERATOR: Please go ahead sir.
+AMIT CORANA: Yes, what percent [indiscernible] how you are going to project it for the next year [indiscernible].
+UNIDENTIFIED COMPANY REPRESENTATIVE: So far we have not announced the salary hike for employees. We would like to announce it to the employees before giving the details outside.
+AMIT CORANA: Okay. Give me the sales number as to what could be fair [indiscernible] double-digit number or it's going to be high single digit. That would be really helpful to comment for the next year projections.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Last year we had raised it by 10%. Industry projections this year are around 13 to 15%.
+AMIT CORANA: Alright. Thank you very much and all the best.
+OPERATOR: Thank you very much sir. Next in line we have Mr. [Mahish Welvay] from [Reed] Securities.
+MAHISH WELVAY, ANALYST, REED SECURITIES: Yes, before my question I have a small request. The details of [coupon] on the website almost grew in half after the result was announced. Now we are a $2b company in IT services - the biggest in India. And it does not really do good [core] image. I hope that the extent on the details would be put in in time. Okay.
+My question is regarding your EVA base compensation. Now, the civil compensation is something that is quite common in the industry. And we saw when [indiscernible] announce that the compensation actually came down because the quarter was not [particularly] strong.
+In your case the quarter has not been that strong. There has been profitability pressure but the [views] have not grown. Still there is an EVA base compensation of 102 crores for the quarter. I just wanted to understand how exactly this works.
+MR. S MAHALINGAM: This quarter [inaudible] the year's performances both in terms of revenue, as well as in terms of profit after taking this charge is then [overtaken].
+MAHISH WELVAY: Mr. Mahalingam, just for my understanding, say see last year's numbers included something over 3 [indiscernible] of EVA base compensation from the previous year. That is [504]. Okay. So I would -- do you see the number would be similar, like around 400 crores or so? But you have provided for 100 crores only.
+MR. S MAHALINGAM: No. What we [indiscernible], you have to look at it in this fashion. The total incentives payment on the basis of EVA that has been created this year is 437 crores. That is the maximum charge I can take in this year because that is aligned to whatever we have to pay -- whatever we have to take as [standard] here. So 437. There was a shortfall in terms of 102 crores for that. So that's literally provided for.
+What this means in real terms is that going forwards, every year, we would be taking the charge [indiscernible] on the basis of the EVA that has been created that year. That means we have aligning EVA and incentives at the same time.
+MAHISH WELVAY: So [indiscernible] there's no carry-over from [FIO].
+MR. S MAHALINGAM: There's no carry-over at all.
+MAHISH WELVAY: Okay. Thanks a lot and on the [indiscernible].
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Next in line we have Mr. [Pankrich Perko] from ABN Amro.
+PANKRICH PERKO, ANALYST, ABN AMRO: Yes, hi. My questions regards to the business environment in terms of what you have spoken about, [vis a vis] that Group lines have gone from [re-obstructing] and have to stop work. So is it something that goes across TCS also?
+Are you seeing some plans [going] to this program to the restructuring. And that has impacted the decisions making? And are there any compliance or [SOX] anti-money laundering, that sort of things which are impacting the vision seen by clients on IT outsourcing?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Hello Pankrich. We refer to the environment, the environment is quite positive. The [info] is quite good. And there is a good momentum in terms of outsourcing as well as in terms of project work and application-related work and all other areas.
+We are not seeing any particular slow down with respect to any [sensibility] in that [street]. With respect to banking and financial services, [indiscernible] yes, there is a lot of compliance [accuracies] that are being carried out by customers. But that does not -- has stopped any work with respect to what we are doing for them. So from our perspective there is no specific slowdown in this sector.
+PANKRICH PERKO: What do you think would be in terms of for the client, specific [indiscernible] which the [TMC] has reported. Are you seeing something similar or do you see any instances like that for TCS client base also?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, the [TMC] situation, there are 2 specific plans. They have taken [a hit]. And [indiscernible] is very specific to their 2 international clients. From TCS' point of view, that is -- I think that is planned for. And we have made useful positions based on the current market conditions.
+PANKRICH PERKO: So in terms of the growth dollar terms, which [indiscernible] was 2.5% this quarter, what would you have to put this to, any specific reason? Or was it more an economic phenomenon?
+MR. S MAHALINGAM: If you take the year-on-year goals, what we have projected to achieve in terms of revenue and profits, we achieved those numbers in -- for the full year '04/'05.
+And specifically with respect to the Q4, in dollar terms, the growth is, of course, 2.3%. And that is largely due to some of the contracts going respective [indiscernible] [$8m] this quarter. And that's also response for some [positive] points. So those have to be taken into account.
+PANKRICH PERKO: Just a last question on EVA. Going forward from '06 onwards, are we going to account it on a quarterly basis, like for every quarter the [EBIT] and the [indiscernible] will be accounted for the quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We will -- in any case we will always be taking these variable amount of charges every quarter. And we will try and distribute that over the year -- evenly distribute it. But, of course, there's always -- there's always the possibility that at the end of the year we need to completely re-do the calculations to see whether there is [indiscernible] payments.
+So the investment has really happened in the third -- fourth quarter. But this result could be of the [size] that we have taken this year.
+PANKRICH PERKO: Okay. Thanks a lot.
+OPERATOR: [OPERATOR INSTRUCTIONS]. Next in line we have [indiscernible] from JP Morgan.
+MANUEL CHINGLER, ANALYST, JP MORGAN: Yes, hello. This is [Manuel Chingler] from JP Morgan. Sir, I just wanted to know 1 on the hiring side. What are you plans for the coming year? Can you comment on that?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Manuel, so far we have made [indiscernible] [6,380] [indiscernible]. They will be [signing] starting in the month of June.
+If you look at the last year's [signings], we had a net addition of 1,800 people, of which [30%] was from the [campus]. And we have a similar trend this year.
+MANUEL CHINGLER: Okay. The second thing is we talked about doing a very good [F505]. We have grown revenues at a good 25% base. Having said that, if I look at some of your peer group, a couple of other companies have grown much faster than us, which clearly means the gap between us and some of the other companies is closing down. And particularly for this quarter our growth has been pretty weak.
+I just want to understand if management is happy with this kind of growth, with some of our large peer group are going faster than us? And if not, what are we doing to change that?
+MR. S RAMADORAI: I think the overall growth of 26.5% on our base is certainly very creditable. Having said that, if there is any reason for us to grow beyond the 26% we will certainly look at that.
+Where's that growth going to come from? We have very clearly said that. We are really focusing on the 6 dimensions. 1 is with regard to the IT services. And IT services across all the geographies and industrial verticals.
+Second one is the IT-enabled services of [BPO], predominantly under transaction [indiscernible], which is integrated into the TCS operations.
+Third 1 is on the infrastructure services. And fourth is on the consulting. And lastly the package-enabled services [indiscernible] past.
+So the whole object is to focus and point the Company towards limiting the assets, in addition to some of the alliances which will be enabling the drivers into the marketplace itself.
+If there is a market opportunity, and in Europe we have grown much faster. For example, in Asia-Pacific we are growing, Europe and America we are growing. And we will be focusing on those markets where growth opportunities are much more than what we have achieved in the past.
+Hard selling is another [advantage] we are addressing in our client base, and the value [NGM] rich program which we talked about is something we will focus on during this year.
+Essentially growth will be the critical thing. And growth and profitability will be the other driving factor. Offshore [indiscernible] is going to be very critical for us to meet the bottom line impact. And customers do want that. And finally we will be looking at some of the other [indiscernible] organic growth during the course of this year.
+So essentially we do recognize that as a leader we are driving things and we are [growing] faster. And the management is fully committed to that.
+MANUEL CHINGLER: Sure. Sure. Thanks a lot for that. Just 1 very last question --
+ARJEN MESAKIA: Can we please come back to you later?
+MANUEL CHINGLER: Sure. Sure. No problem. Thanks.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Coming up next is a question from Mr. [Aman Temerein] of Morgan Stanley.
+AMAN TEMEREIN, ANALYST, MORGAN STANLEY: Thank you. And good evening everyone. Could you give a few more details and comment on the acquisition you announced today?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The acquisition we announced today is in Sweden [indiscernible] acquisition, I would call it rather consolidation. It is an [ATV] which is a marketing entity in Sweden where there is an external partner who is having [indiscernible]. And they represent us in Sweden.
+They have been representing us for the last 6 years or so. And as part of our [IT] activity -- or as part of the consolidation, 1 of the things we did was to consolidate all these [print] amounts. And this is something that took time because [indiscernible] was involved. And it's a small entity. And now [PCF Sweden] will [uphold] this entity and we will represent ourselves in Sweden on our own.
+Do you need any other specific details [Aman]?
+AMAN TEMEREIN: No, so basically the understanding is it's too small to be even -- to matter in the actual financials.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Absolutely.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Having understood the market in Sweden, we felt that direct marketing [and so to] intermediate is the best thing. So we are taking back what we put in and are taking complete ownership of that entity, mainly a marketing and sale entity.
+AMAN TEMEREIN: Thanks a lot and good luck.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Next in line we have Mr. [Ripan Kari] from Citigroup.
+RIPAN KARI, ANALYST, CITIGROUP: Yes. Hello. I just wanted to know more about the slow-down in revenue growth, if you can elaborate more. [G] is like only a 1% contribution. What were the reasons and when will you see this actually coming?
+UNIDENTIFIED COMPANY REPRESENTATIVE: In terms of G, I think if you look at the last 3 quarters we have been more or less dropping in each quarter by a percentage. So the factor is going to hit [not from] recurring $8m is something we anticipated in the early quarter and that we have taken account in our plans.
+As I said before, we had projected certain revenues and profit targets for this year. And on an annual basis [indiscernible].
+RIPAN KARI: Sorry to interrupt you there? Do you mean to say you left some business on the table just because the targets were met?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [indiscernible] [not as a sales case]. I wouldn't. The point is that the G business already is very large. And we are also moving work in the G business offshore. So G also [indiscernible] this is going to be also improving. That is all the reasons why.
+It's not clearly all drop in business. Some of them -- the 2 factors that have contributed, 1 is because a certain portion of the business is done offshore. And certain businesses we [lost] because [indiscernible] face at which the [theme] [indiscernible] we participate.
+So the resource people are working on that and have been put onto other contacts.
+RIPAN KARI: Last quarter for management I'd say that would see a 1% total shift to its offshore. But that has not happened. And if the slow down in revenues is because of a shift to offshore margins, what do you think could affect that?
+UNIDENTIFIED COMPANY REPRESENTATIVE: That is true. In general we are working on a model of certainly at least 1% offshore because our [onset] of [mix] like to move [indiscernible] offshore. So that is the intent. But at the same time, in this quarter, we also won a couple of contracts when [indiscernible] was going on.
+So while the offshore work transition is happening, there is also a ramp-up happening on a couple of other contracts -- contracts currently [indiscernible] going on. You see the impact of that in the subsequent quarters.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And I just want to add that we don't want the direction at the moment to move offshore. But, as we said last quarter, we moved by 2.5% in one quarter. And we said that was because last year [inaudible].
+OPERATOR: Hello sir?
+RIPAN KARI: Yes, I'm here.
+OPERATOR: Mr. Kari, are you still online sir? Do we have the TCS management online?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, we are online.
+OPERATOR: Yes sir.
+UNIDENTIFIED COMPANY REPRESENTATIVE: What was [indiscernible] to Kari?
+ARJEN MESAKIA: If it's not clear can we repeat that answer?
+RIPAN KARI: Yes please. We lost you in between.
+UNIDENTIFIED COMPANY REPRESENTATIVE: What I was saying is that directionally we want to move towards more offshore. But that doesn't mean that every quarter there will be 1%, because if you see the last quarter it was 2.5% that we have done.
+And obviously the turn up was not realized from 1 quarter, but due to their first [indiscernible] in previous quarters and so on. So it will be moving in that direction.
+But I think that every quarter 1% I don't think would be an appropriate part because that doesn't capture the essence of the environment that we are in.
+RIPAN KARI: Thank you sir.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Next in line we have Mr. [Trebit] from UBS.
+MR. TREBIT, ANALYST, UBS: Yes, hi. Good evening gentlemen. Can you hear me?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes.
+MR. TREBIT: My question is on the [indiscernible] of a net profit of 611 crores. And after making the adjustments the number -- the net profit number being similar to that of the last quarter, which is 709 crores. First of all, I read it wrong. I am not seeing this in the numbers that you have given.
+MR. S MAHALINGAM: Okay. Let me just do a quick calculation as part of your concerns.
+You see we started -- you know by last quarter we had 709 crores. And we had -- against that we had 409 crores in terms of forward cover -- 110 crores. In addition to that there were certain exchange collection and reevaluation related -- related expenses -- losses. For instance, it will be booked and [INR45] has been collected, and the [INR44] that we have lost that we need to book at the time we collected.
+If we are not market to market in which case if we were market to market we would have taken less and adjusted the balance later. So that was the amount of close to [indiscernible] crores, as a matter of fact.
+Now, here, so this is 1 set of figures that I want you to keep in mind. Another set of figures is that [indiscernible], we have eventually, starting with, I think, about 469 crores or so as far as Q4 is concerned. And we have had against a gain of 109, we have had a rather [10.71] crores.
+And so I would like to add to the 469 crores. Yes. And 464.88 crores you add 10.71. Then, in this quarter, we had a loss of 28.98, as a result of collection and devaluation.
+This quarter was a funny quarter in the sense that there was an effect in the same manner against all currencies. Rupee, the euro, dollar [situation] against euro and so on. South African rand has depreciated quite a lot. All kinds of things. And we have presented many geographies and so on.
+So we have a loss of 28.98 crores in this quarter, against a loss of [14.38] crores of the same thing the previous quarter. So basically if I have to add up these numbers of 464.88, [37.71], plus 28.98. I get 404.57.
+And to that we have got to be adding another 102 crores additional charge that we have taken. And that is another [4.89]. But you know that is as part of an extraordinary gain that we had as a result of acquisition and [indiscernible] and so on.
+So the total amount comes to 611.46.
+MR. TREBIT: Great.
+MR. S MAHALINGAM: Sorry, if I were to work backwards from the Q4 results, of 464.88, I [back] the [4.8] backwards [indiscernible]in the capital [indiscernible]EVA . And then that means I get [467]. Then I apply all these extenuated also additional charges that I took as a result of EVA payments, I come to 611 crores.
+And similarly, if I were to look at the figure of Q3, starting from 709.33, using the forward exchange code of 110.48. And then also removing that selection and re-evaluation of 15.58. I would get about 615, 614.33 crores. So basically we are saying that, if you compare it to your slides.
+And there will be a lot of operational pressures -- [indiscernible] pressures during the quarter. From the sense that this quarter we had our [BMC] provision to be made. We also took certain other provisions within the organization and so on. And I would say that these normal matter keep going because of global [indiscernible].
+MR. TREBIT: Right, when you look at them next year, 2005/06, and look at the situation you are seeing, you are not witnessing any kind of turnaround. Do you think that in this particular quarter your [EXP] growth is deferred on completion on the expense part that it will come back in subsequent quarters. How do you think something like this is going to continue in subsequent quarters - the growth that we are seeing in [none-G] [indiscernible].
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, I think that we are quite positive on the opportunities. And there is a good disclose. And we are [indiscernible] for next year based on all these opportunities. So there is no specific case that we are seeing that we have not planned for.
+MR. TREBIT: Thanks, and best of luck.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Next in line we have Mr. [Nick Constochi] from [Coda] Securities.
+NICK CONSTOCHI, ANALYST, CODA SECURITIES: Yes, a couple of questions I had were answered. But just some [indiscernible] questions I just wanted to know this. First of all, this collection and evaluation losses which you said was over [28] crores, are they reflected in there? Are they in [comparant] or are they reduced on the revenues first of all?
+UNIDENTIFIED COMPANY REPRESENTATIVE: They are reflected in the other income comparables.
+NICK CONSTOCHI: Okay. And I just wanted -- 1 last thing was that are you giving -- would it be possible for us to have a break-up of the margins relating to the domestic business as well as the international business?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Sorry, could you repeat that? I couldn't hear.
+NICK CONSTOCHI: Is it possible for us know what are the margins like in the international business as well as in the domestic business, which is over [1100] crores this year?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We are not giving that.
+NICK CONSTOCHI: Okay. And any data on what were the product revenues in this quarter, as compared to the previous quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Profit revenue from an India perspective was of the order of about 62 crores from TCS Ltd only. And as far as [BMC] was concerned, I really have to --
+UNIDENTIFIED COMPANY REPRESENTATIVE: Is it a part of the business that you are talking about is [indiscernible] production and the submissions based on that, or are you talking about the third-party product distribution?
+NICK CONSTOCHI: No. All including -- including everything.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay. This TCS started [indiscernible] [solutions], as you can see in the presentation, has gone up to 3.2% I think from the last quarter.
+NICK CONSTOCHI: Okay. Thanks very much.
+OPERATOR: Thank you very much sir. Next in line we have a question from Miss [Natalie Gross] of Merrill Lynch.
+NATALIE GROSS, ANALYST, MERRILL LYNCH: I really wanted to understand this quarter -- the quarter 1 [indiscernible]. And if you could just take us through the reasons for delayed ramp in some of your clients. If there are any trends in that. What sort of things you think resulted in that. And secondly also the pricing dynamics that you saw during the quarter.
+UNIDENTIFIED COMPANY REPRESENTATIVE: The late -- the late ramp up --
+UNIDENTIFIED COMPANY REPRESENTATIVE: There is no delayed ramp up except that some of the contracts are new rather -- there are 2 factors. 1 is the [indiscernible] and starting to get itself [fix] in 2 weeks. That for us is a delay. But it just saves so much time.
+The second 1 is that some of them are having ambition that is going on at this stage. And they have become the [indiscernible] state operations [indiscernible] quarters.
+NATALIE GROSS: Can you comment on the pricing trends that you are seeing from new and existing clients?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Our pricing is pretty much stable. We are seeing the same low pricing for all the applications, also [indiscernible] contracts. And we continue to see our high-value solutions where we can differentiate some [indiscernible]. Otherwise it is stable pricing.
+NATALIE GROSS: If I may, on your growth from the top 10 accounts, it's difficult to really get the number for the quarter than to give a last [inaudible]. But if you could to the extent of -- excluding [GE], how the rest of your top 10 accounts have grown this quarter, were there any trends of finding [indiscernible] moving to China? Or any such trends that you are seeing for your larger accounts?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The larger accounts, most of the volume is still in India. There are 2 things that are happening. All the top 10 accounts. And in GE we have a lot of information that I believe we have talked about.
+You take all the other customers, [indiscernible] they are moving more to a [soft shot]. Some of those are conserving their targets for us to improve the -- improve the offshore mix.
+And also if you see the percentage we have given you, the top 10 positive planned contribution for this quarter compared to last quarter. Last quarter was 51.8%. And this quarter is 50.49%.
+You know the [indiscernible] drop in GE. So if you play that, you are pretty much the contribution remains from the remaining 9 customers more or less the same. And you also have to see that some [indiscernible] movement in these accounts. And that revenue is compensated by additional [expense]. Cross-selling is the key thing that we use in this [inaudible].
+NATALIE GROSS: Are you saying that the entire GE account is reflected within the top 10?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Of course.
+NATALIE GROSS: Okay. Thanks. Thank you very much.
+OPERATOR: Thank you very much ma'am. [OPERATOR INSTRUCTIONS]. Next in line we have a question from Mr. Shakar Singh of [ICI] Securities.
+SHAKAR SINGH, ANALYST, ICI SECURITIES: Yes, hi sir. I just wanted to get your views on this margin drop which has happened this quarter vis a vis the previous quarter because, say, rupee/dollar appreciation this quarter is lower -- lower than it was last quarter. Utilization is flat. And onshore/offshore revenue mix is more-or-less flat. And what exactly can explain the drop in margins this quarter. And possibly do you guide the margin which happened in the previous quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: If you really look at this figure at constant revenue, as far as this quarter is concerned, it has more or less remained the same as the last quarter.
+So it's really all the drop in margin has really happened as a result of 2 things. 1 is the SG&A expenses, and the manner in which the other [indiscernible] has factored. But the operating margin and the SG&A that has resulted in some changes.
+In SG&A there are a number of components. And the employee cost has gone up. In fact, it has gone up from INR2.09b to INR2.39b. So there has been a jump of about 30 -- 300m or thereabouts in the employee costs.
+And the ramp up here, if you have flat revenues and your costs according obviously to margin is going to be coming down. So the rest of the additional ramp up that we have [indiscernible], that we have taken -- the expense is connected with that as well -- as that generates.
+In addition to that, the [pattern] [indiscernible] went up from [114.4m to 425.49m]. Part of this is essentially due to the [BMC] provisions of close to 150m of [indiscernible] as far as this quarter was concerned. So that really came in.
+And then, of course, there is a decrease in depreciation from 100.3m [indiscernible]. And so [are dollars]. These are the variety of factors. But the simple way to understand it is that the revenue remaining flat, any additional -- normal additional expenses obviously has [been].
+SHAKAR SINGH: Okay. So can you -- related to the flat revenues, I was going through your presentation. And on slide 23 actually you mention the progression of clients and various billing [buckets], with clients moving from $1m to 5, 5 to 10, 10 to 20 and so on.
+And there seems to be a pretty strong provision of clients across [million billing buckets]. But if you look at the dollar revenue increase, that is just the 3%. So how do you explain this discrepancy between the client provision data and the actual increase in revenues?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think also when you talk about the planned movement, we have to see what is the sum total. While there is a healthy [indiscernible] in terms of the client bases increasing, we also have to see what is the individual interest between the clients and operational group.
+For example, the $10m plan, what does it mean for us, what [indiscernible] fourth quarter and the beginning of this quarter. A $20m plan, what does it mean for us in the [billing] this quarter. Their [values] completed in 1 client. And was there a new [indiscernible] factor in another client?
+I think it's too simplistic just to go by the movement of plans [and first plans], and measure quarterly the [indiscernible] based on that. All I would say is the massive [team assisted] to take from this chart is that we are increasing the portfolio for our clients in each of the buckets. And each of them provide a great long-term potential for us.
+SHAKAR SINGH: And if I may just ask 1 last question, [indiscernible] right to explain that the EVA -- total EVA of last year was to be paid this year -- you pay this year. In addition to that the EVA bonus -- EVA, like a bonus, it was to be paid next year for the performance this year. That also you have paid this year? Am I right in my understanding of this?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No. No. Just think of it that the total [start] [you see us], based on the EVA that we have created of 427 crores, we have taken it this year. So there is no -- so that means that [we are] bottom line.
+Now where does this 102 -- what is this 102 crores? This is mainly -- another way of thinking is that over a period of time this has been the lag factor. For instance, there was 1 year in 2000/2001 when we did not cut anything to that year because we had provided in the previous year. So we essentially paid what we did provide for that year to be carried forward to the next year. In a sense that would be that 100 crores is really coming. So that's what we are thinking about.
+SHAKAR SINGH: Okay. Thanks a lot sir.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Next in line we have a question from [Mr. Ashish] of [INSF].
+MR. ASHISH, ANALYST, INSF: Yes. My question is regarding in the cost of revenue you see this -- a little bit [indiscernible] expenses have increased. What's the reason for that?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, it could present also expenses have increased from 1.16b to 1.58/59b. And this is -- this was already provided -- essentially application-wide business of [BMC]. BMC is in a big -- systems integration. [indiscernible] have gone ahead but applied a [conference] and software for installation. So this is a [council] which it passes.
+And typically, Q4 is a period when there is a phenomenal amount of activity in this area in India, especially among the government and so on. So actually, if you were to [investigate] it, for [CNC] it's more from INR890m to INR1.083b. That was a sense.
+Even within TCS there is [whole] from 272m to 498m. Again this was because of the third-party software [indiscernible] that we have in India, where we have essentially acting as distributors for [Oracle] and so on. So all those expenses also come in there.
+MR. ASHISH: And just some housekeeping, what's the CapEx spend going forward?
+UNIDENTIFIED COMPANY REPRESENTATIVE: What's the CapEx spend also going forward? We have not made that announcement. We will do that shortly.
+MR. ASHISH: Thanks.
+OPERATOR: Thank you very much sir. Next in line we have a question from Mr. [Pamindar Goen] of [SSTI] Securities.
+PAMINDAR GOEN, ANALYST, SSTI SECURITIES: Good evening. My question is again on the top line for the quarter. Is the top line in line with what you would have anticipated at the beginning of the quarter? [indiscernible] division, could you explain the reasons for the same?
+UNIDENTIFIED COMPANY REPRESENTATIVE: As far as the -- at the beginning of the quarter confirm the top line -- we intentionally monitor it on dollar -- dollar or local currency vase. And in some of the geographies we have suddenly gone ahead and made all the revenue predictions.
+But we had in some -- in many of the year we managed to have [indiscernible] in some type of [indiscernible] and so on. So that is the monitoring that we do.
+The second one is the calculation to rupees, which is [indiscernible] the exchange rate and so on. That part, of course, is extremely difficult to monitor or predict, that we have independent and external and [indiscernible] and so on.
+To answer your question, I think [indiscernible] talk about serious ramp up that we have, we are looking at, in some cases we might start up a full ramp up as far as this quarter is concerned, and so on. So those are the factors that have contributed.
+There maybe 1 or 2 contracts in each that can ramp up a little more than we could [appear]. But by and large I think it is in line with the overall prediction.
+PAMINDAR GOEN: Okay. And [indiscernible] was talking on the dollar number only. And since [Friday] it would be roughly at 3% volume growth as well. So also is this what you would anticipate at the beginning of the quarter? That's what I wanted to understand.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, if I understand your question, you are asking us about pricing being stable at the beginning of the quarter.
+PAMINDAR GOEN: No, what I am trying to understand is has anything changed in the quarter. Where are you anticipating something more in the quarter? And in fact it has not really happened that way, very nearly even for the same. That's what I'm trying to understand.
+UNIDENTIFIED COMPANY REPRESENTATIVE: The -- you are talking about the Q4?
+PAMINDAR GOEN: Q4, yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: We had 1 or 2 contracts in which the ramp ups could have been more. For example, the [Images] contract. Images contract was supposed to ramp up during the end part of Q3 and Q4. In a significant way that ramp up has not happened.
+So like this there are a couple of contracts in which the ramp ups could have been faster. And those things have got further delayed. But apart from that there is no major surprise in terms of losing an account or specific customer going down [indiscernible], or anything like that. That is not at all.
+PAMINDAR GOEN: Yes, because we were looking at the growth, one gets the feeling that the entire growth is in the -- a big part of the growth is in the domestic business. International business not really much has happened in this quarter. Is that a correct assessment?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Not really, I think -- as you see in certain markets in the international business, especially Europe and the U.K., have grown. And in the U.S. I said we compensated for the drop in revenues. So that has affected the growth in some directions and India has grown marginally.
+But actually if you at the India growth, it seems to have grown in top line. But you have to take [indiscernible] from the [bottom line] there.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, and the growth in India is not [indiscernible] -- percentage terms it is [alright] because it is a smaller business. But actually we have been growing in many parts of the world, including the U.K. and in Europe.
+PAMINDAR GOEN: Okay. Thanks a lot.
+OPERATOR: Thank you very much sir. [OPERATOR INSTRUCTIONS]. Coming up next is a question from Mr. [Raho Deban] of Deutsche Bank.
+RAHO DEBAN, ANALYST, DEUTSCHE BANK: Could you still just comment more on the margin? You said that [previous conference] they can [indiscernible] increase. So there seems to be a recurring expense. What is the sustainable margin? Are you comfortable with this margin?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The margin is -- the margin is -- you see the thing is -- 1 of the comments I have made was obviously the opinions remain [slightly] at the expense of [indiscernible]. So that way we have to make sure that the alignment of capacity would be gross [indiscernible]. And the gross [indiscernible] impact.
+So there are many variations -- many examples as far as the [number] is concerned. But the [year], what you have to note is that last year we recruited 1,000. We did not recruit 1,000 people because we didn't think it was going to be in business. So there is definitely a potential.
+And I think both [departments], as I have emphasized, that the employers [price out] as far as India is concerned. There is a need for clarity in EPS. And there is a need for the interest expenses to be [incurred]. There shouldn't be affecting [indiscernible] in terms of our quarter.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And also you may add a couple of points. 1 is that we also hired more people in this before. A group that is [salvage] of, I think the [indiscernible] extra. And the margins we are looking at, both in terms of the decisions, a little bit also the [indiscernible].
+RAHO DEBAN: And from the revenue perspective -- revenue point of view -- point, do you think that the ramp up did not happen how you expected? Does that mean the next year or next few quarters would be much, much higher growth in revenues?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We don't give guidance, as you know already. But, that said, there are some contracts which the ramp ups have got delayed. And that's the [indiscernible].
+RAHO DEBAN: Okay. And the last 1 on the EVA side, you have made the [102] additional provision. They are not - shows. I know this, but the rest of the 427 crores where does this lie in this accounts?
+ARJEN MESAKIA: No the total is 427, but that means 325 plus 102. 102 is the US-GAAP. Would you like to look at the US-GAAP or Indian GAAP? I presume you would like to look at the US-GAAP?
+UNIDENTIFIED PARTICIPANT: The US-GAAP then.
+ARJEN MESAKIA: US-GAAP. As far as US-GAAP is concerned, we have 1 line immediately coming after net income [inaudible], and that is where you have got this INR1.02b. [Saying that], the remaining 335 offsetting the inconstant revenue and the [indiscernible].
+UNIDENTIFIED PARTICIPANT: That's distributed.
+ARJEN MESAKIA: That is [indiscernible]
+UNIDENTIFIED PARTICIPANT: Okay, and is it possible to give a breakdown of the 427 in -- for the employees more than 10 years of exper -- more than 10 years in the Company and between 5 to 10, or something like that?
+ARJEN MESAKIA: Then I'll be giving you the complete performance [inaudible] --
+UNIDENTIFIED PARTICIPANT: I just thought I'd ask. Thank you, sir.
+OPERATOR: Thank you very much, sir. At this moment I would like to hand over the floor to [Dinem, the standard procuring session] for participants connected to the [Sentel] Bridge. Thank you and over to Dinem.
+OPERATOR: Thank you, [Paciba]. We will again begin the Q&A session for participants connected to the Sentel Bridge. [OPERATOR INSTRUCTIONS].
+UNIDENTIFIED COMPANY REPRESENTATIVE: [indiscernible] any more questions please?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Are they connected or is there a technology problem?
+OPERATOR: The question we have is from Joseph Vafi from U.S.A.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay please go ahead.
+JOSEPH VAFI, ANALYST, JEFFERIES & CO.: Yes, good evening gentlemen. Thank you for taking my call. I was wondering if you could go through again some of the reasons why the GE revenue was down in the quarter a little bit.
+UNIDENTIFIED COMPANY REPRESENTATIVE: May I request you to introduce yourself? We did not catch your name please.
+JOSEPH VAFI: Joseph Vafi from Jefferies & Company in the United States.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Thank you. Hello Joseph. These revenues have the following characteristic - number 1, these are very large account products and the volume [indiscernible] very high. And there are 2 aspects primarily, 1 is that the [GE books], and the [news issued] to more and more offshore. There are certain accounts where they're even trying to achieve [indiscernible] plus [offer a new range], so there is a significant ramp-up offshore moving the work from on-site.
+The second thing is when the new contracts or new projects that are currently [recruiting or somebody is indiscernible] and that is by negotiation. So some deals we take and some deals, if it's not viable we don't take. So these are the 2 primary factors that aid or drive the [indiscernible] to offshore, and as a result there is a drop in revenue. Or B, the contract is -- contractually we have -- we are not winning it for the reasons I explained.
+So by and large the volume is good. We still are the largest [indiscernible] and we have a significant part of the business in [political GE] accounts. We can [indiscernible].
+JOSEPH VAFI: Okay, that's helpful. And then maybe 1 follow-up. I know that the exchange rate has something to with - obviously with affecting your top-line growth. Maybe if you could tell us the overall volume growth versus the overall revenue growth, and what the divergence is there? It might give us a better idea of the volume growth versus the impact from the rupee on the top-line.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, the volume [indiscernible] growth was approximately 3%, which was essentially not realized because of the exchange rate appreciation [inaudible].
+UNIDENTIFIED COMPANY REPRESENTATIVE: Last quarter they booked all our revenues roughly at the rate of, to the dollar, 44.47, and this part of the - our average is [40.5b].
+JOSEPH VAFI: Okay, and then would you expect GE then to continue to be flat to slightly down moving forward then?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [The world] due to offshore the ranges there may be a slight drop in the [indiscernible] quarters, but what -- 1 good thing is that we have a complete stability, so every single opportunity and what is the revenue [needed to count this] quarterly plan? No surprises. You, for example, asked the next quarter [indiscernible] who is the stability of the contracts we are working on, and the revenues are going to make [in them]. So it's completely [indiscernible].
+JOSEPH VAFI: Thank you very much.
+OPERATOR: Next on line we have a question from Mr. [Nicholas Allen] in the U.K. Go ahead, sir.
+NICHOLAS ALLEN, ANALYST: Hello there, I missed the very first few minutes of the conference call so if I've asked something you've been asked before, please forgive me. Just -- I know you don't really like doing guidance, but can you say anything about your -- the outlook for the [indiscernible] business for the year going forward?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think the only thing that we can say is that the [indiscernible] is positive and there is a good growth momentum, and we see good [de-flow]. That's 1 thing I would like to say.
+NICHOLAS ALLEN: And did I understand that you say that the [fall] of 36.5% or 36% revenue growth we saw last year was a sort of plausible number going forwards?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We don't give specific number guidance.
+NICHOLAS ALLEN: Right. Thank you.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Thank you.
+OPERATOR: Thank you, and next on line we have a question from Mr. [Batik Gupta]. Go ahead, sir.
+BATIK GUPTA, ANALYST: Is that me? Hello.
+OPERATOR: Hello sir, go ahead please.
+UNIDENTIFIED COMPANY REPRESENTATIVE: [indiscernible] Go ahead, please.
+BATIK GUPTA: Sure. Thanks a lot. I just had a couple of questions or rather the main question is actually on the revenue, but I just wanted to get an understanding on the revenue slowdown. It seems like you had a slowdown in the GE business and you are also indicating that you had some problems in the NHS contract. From what we're hearing from some other vendors seems like the NHS contract problems met with this for longer than just 1 quarter. Do you expect this - that the revenues from this contract will start ramping up in the coming quarters?
+And also as a follow-up after that revenue-related question, have you seen any slowdown of any kind in your BFSI segment in any way? And any kind of - any other --? I think [I need] the slowdown in your overall growth went forward in the next [1 to Q2]?
+ARJEN MESAKIA: [So] specifically on the NHS contract, what I would like to say is that the results were wrong. I'll just spend a minute in explaining it. Basically the way we are involved in this, we are involved in the [solicit] side of the NHS contract and the -- for each of the regions [indiscernible] there is a [4] products [or customentation] or the products configuration and implementation that's been done by the [core product vendor] under the [Regulations Act]. So until that is completed our work volumes, although they are in [order very] in doing [part of the indiscernible] work, and also buildings [indiscernible] work, our volume ramps up once that -- the products vendors work is completed. And since that is getting delayed our ramp-up is getting delayed. That is the story on NHS.
+I am coming to the [indiscernible]. We are not strategically any [indiscernible] trend [indicated] by this event. That way we are seeing a slowdown in growth in the BFSI segment. We are seeing pipeline or building the existing BFSI accounts as [indiscernible] in some of the other BFSI accounts.
+BATIK GUPTA: Okay, and also in the Manufacturing segment it seems like the [part of the] decline, is that all because of GE or is that some other account also over there?
+ARJEN MESAKIA: [So you see the indiscernible] with charge. The Manufacturing segment has moved from [13% to 18.16%], and on a yearly-yearly basis this is 19.29%. Again while there is a -- GE is a big Manufacturing account, it is under vertical [indiscernible] we have really achieved a good sort of clients. We have a large number of clients and [indiscernible] clients are also ramping up, so there is good news on marginal impacts after the GE contract [indiscernible] going down, affecting the Manufacturing segment but there are also a lot of clients in that segment. So I wouldn't put out a number.
+BATIK GUPTA: Okay thank you very much.
+OPERATOR: Thank you, sir. Next question we have is from [Mr. Sharma] in Singapore. Go ahead, sir.
+MR. SHARMA, ANALYST: Hello. In terms of future ramp-ups and [inaudible], could you comment by what [inaudible] - where are you seeing [abroad]? Do you have good visibility next year? And also are you building any large deals into your project plans and what are the chances of a [sizable] --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Mr. Sharma, you want [from me indiscernible] may have, please?
+MR. SHARMA: [A growth]?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [indiscernible]
+UNIDENTIFIED COMPANY REPRESENTATIVE: Hello, sorry your question. Hello Mr. Sharma. We have seen growth in several accounts - obviously accounts belonging to [indiscernible] segments, but this is [indiscernible] or all the Manufacturing accounts or for the other sectors like the Pharma and Retail accounts, we have seen growth in all these accounts, and in terms of [indiscernible] we have seen growth in account implementation work. As you [learned] about the assets that we are having are also leveraged and are [indiscernible] for our [indiscernible] also we are seeing pipeline. So specifically I cannot single out 1 particular segment as being more effective than some of the others, although I will say that there is no specific growth in any of these verticals.
+And with regard to the large deals, I mean obviously I cannot give you specifics about any large deals that we are foreseeing or any plans [to give] information.
+MR. SHARMA: That said, do you expect [inaudible] --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Pardon me?
+MR. SHARMA: Are you expecting [to see] some of these large deals in the current year?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [inaudible]
+UNIDENTIFIED COMPANY REPRESENTATIVE: We expect large deals [during] the quarter is what we should be [saying].
+MR. SHARMA: Okay.
+UNIDENTIFIED COMPANY REPRESENTATIVE: But you know we can't comment on the [decision] cycles and we can't comment on any specific deals that we are foreseeing.
+MR. SHARMA: [Okay].
+UNIDENTIFIED COMPANY REPRESENTATIVE: And all the large deals are obviously you know run for [indiscernible months].
+UNIDENTIFIED COMPANY REPRESENTATIVE: And [indiscernible] cycle is longer because they manage [properties] longer than it's [worth].
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, specifically [as the size the deal] becomes larger the valuation [indiscernible] takes longer, so the predictability whether it will happen in that quarter or not is not the way to look at it, and that's why we keep saying that in this -- in that the long term view has to be taken and that the all round growth in a year, including top-line and bottom-line must be looked at. That's the way we [factor], including technology changes, which is [indiscernible] 24 to 36 months. I think we must look at both [appreciations] and value the Company on the basis of its long terms sustainability and value creation.
+MR. SHARMA: Just 1 last question on the [indiscernible]. I notice the category which is Others [inaudible] gone up from 7% in Q1 to [inaudible] per cent] in [Q4].
+UNIDENTIFIED COMPANY REPRESENTATIVE: You think we -- you are talking in terms of Others costs which has gone up from INR2.45b to INR2.4b, right? [inaudible]
+MR. SHARMA: [Yes] that's correct.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, that's [indiscernible RPO] you know as this movement of [4.7] or [17] basis points and that has happened. That isn't really anything unusual as far as this quarter is concerned in that movement. There are all kinds of expenses, not just [capital income of] marketing and then promotion and commission [lend] - it will be all kinds of things. [inaudible]
+MR. SHARMA: Thanks a lot.
+UNIDENTIFIED COMPANY REPRESENTATIVE: [inaudible]
+OPERATOR: Thank you, sir. Next question we have is from Mr. Julio in the United States of America.
+JULIO QUINTEROS, ANALYST, GOLDMAN SACHS: Hello, it's Julio Quinteros from Goldman Sachs. 1 quick question with regards to the non-GE accounts. Can you just walk us through the growth of the non-GE accounts if you strip out the declined [indiscernible], specifically give us some clarity on exactly how fast they grew or just a little bit more color on those accounts please? Thank you.
+UNIDENTIFIED COMPANY REPRESENTATIVE: We largely don't share the [indiscernible] specific growth [relation]. This is something that we talk about because of the high concentration and the [chance] for specific details. But if you really look at the top 10 accounts we do give the contribution of the top [1] accounts [top accounts] and top 10 accounts and how they have moved between last quarter to this quarter, and so that's from last year to this year - you can see.
+But the other point I would make I say -- made earlier is that the top 10 accounts specifically of candidates that we look at moving more of our work offshore. So the [on-take] offshore makes - because of their volume and because of the stability of the relationship [and our indiscernible] portfolio, we try and [indiscernible] for moving more work offshore. So any growth, additional growth, has to compensate for the [indiscernible] --
+JULIO QUINTEROS: So, what you are referring to specifically then is just the normal price volume paradox in some of these larger accounts? Is that correct?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Right.
+JULIO QUINTEROS: Okay, and then the other question that I had related to the large accounts, and without going into specifics on the accounts, can you just give us a sense on your success with cross-selling increased penetration and wallet-share relative to your competitors?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [See] the cross-selling is a very, very important initiative for us. We have a very good mapping of all the top accounts, of only the top 10 accounts and a large number of top accounts, and [while we are turning] and where are the opportunities [indiscernible] and I'm sure that is a focus area for the Company. So it's not only in terms of [our offering Retail]. For example, following application [support] program, then turning [indiscernible] services, but for [indiscernible] services, and the application for [indiscernible] itself. But you also have [indiscernible], value engines, BPO, adds, critical area for [grabbing] opportunities to do these accounts.
+JULIO QUINTEROS: Okay, thank you very much.
+OPERATOR: Thank you, sir. Next on line we have Mr. Mike Dillon from the U.K. Go ahead, sir.
+MICK DILLON, ANALYST, ARETE RESEARCH: Hello, it's Mick Dillon from Arete here. I just wanted to ask a question around attrition. [indiscernible] attrition in [indiscernible] low than your peers is still rising. Can you give us a feel for when you believe that that will stabilize, or indeed turn down as we have seen at your nearest rival last week?
+UNIDENTIFIED COMPANY REPRESENTATIVE: [You see] when we began the year we expected an attrition of between 7 and 8% based on a variety of factors, and we finished the year [indiscernible 38%] advance. But the market pressures are increasing. Definitely there was special -- some compensation. We have to ensure that we sustain this kind if attrition and not go beyond it.
+MICK DILLON: So in order to sustain -- this is an attrition level that you're comfortable with, that you would not want to see attrition creeping up any higher? Given that, I assume that you expect a lot higher wage pressure this year than in the past?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The wage pressure has been there for the last 2 or 3 years. It has [indiscernible] each year it's shipped from 1 technology area to another technology. For example, last year there was pressure on [indiscernible] on certain [indiscernible] like [SFE, the Adams indiscernible], just things like that. But the year prior to that we had pressure on [indiscernible] in the 3 to 5 year experience time. So every year there is a different kind of pressure and this year also we are still seeing, but I don't believe pressure on 3 to 5 year experienced people with the [indiscernible]. [indiscernible] we have special, but we know that still [bears in expenses] for the high-performing people with that type of [thing].
+MICK DILLON: Okay thank you.
+OPERATOR: Thank you sir. Next on line we have [Mr. Bopenesting] from Singapore. Go ahead, sir.
+MR. BOPENESTING, ANALYST: Hello sir. Thank you for taking my question. I don't understand your [indiscernible]. We were talking [indiscernible] - just a very [solid quarter] --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I didn't hear the question [inaudible] --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay. Usually the [bank] of people that we have made offers in the Campus, they will join us around June after they have [inaudible] completed. So you will find that people who join us in June, July, August, that is the time when utilization starts dropping. Okay? Because they go through 60 days training programs, and then they become available for engagement in [indiscernible]. So you will find that there is a quarter, around the third quarter, when the utilization comes [below it], which is September, October, around that time station.
+MR. BOPENESTING: And also can you give me some contracts or numbers for the quarter please?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We normally maintain the business [associated] - that we've found that around 8% of a [total] workforce.
+MR. BOPENESTING: Thanks [then].
+OPERATOR: Thank you, sir. Next on line we have [Mr. Reith Follower] in the U.S.A. Go ahead, sir.
+REITH FOLLOWER, ANALYST: Thank you. Good evening, gentlemen. I want to understand a little bit better on the SG&A expense side, and how it relates to your margin. Were expenses sort of built up in the quarter, anticipating a revenue ramp that didn't occur and now we'll start to see those -- that expense level flatten out? Or are we going to continue to see SG&A expenses pick up and the margin level we should expect from the Company are more like mid-20's rather than high-20's operating margins?
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, I -- we think that we are sure as far as this quarter is concerned is, in terms of flat revenues, the expenses have gone up, But if you were to look at the year as a whole which we have shown you, as far as the SG&A expenses are concerned, it was -- it had actually moved down from 20.28% to 18.84% this year. So there has been an improvement but it's a [indiscernible] because there's a flat [indiscernible] that is you are [eventually] seeing a change in SG&A expense.
+It is not as though we are ramping up a very big capacity in the hope of getting business in the next [1] and then being able to tell us that - no, it just has - it is [indiscernible] to say -- there are a number of [indiscernible] where the SG&A has gone up, 1 is in the [bandnet] provision, the other we talked about - the INR150m provision that was made by the [PMC]. But you [have not reflected] that. That is an increase in depreciation because in Q4 there were certain asset practices and so on that led to an increase in depreciation which was last year.
+The other [exprasa] cost also went up slightly and so on, and then a [indiscernible] cost moved up from 8.13% of revenue to 9.25% of revenue. So the overall extra additional expense has means of the order of about, I think, INR16m [indiscernible] -- I mean in terms of [millions rupees as sold], obviously [indiscernible] big because it's not significant over a number of factors, and you will not be -- revenues did not go up. Obviously the [indiscernible] of -- have increased disproportionately, but we don't expect [those] kind of things to continue and we certainly don't expect that our margin will drop substantially.
+REITH FOLLOWER: Okay thank you.
+OPERATOR: Thank you, sir. Next on line we have is [Mr. Mortia Cattry} from U.S.A. Go ahead please.
+MORTIA CATTRY, ANALYST: Hello there, Mortia Cattry for [Manchester Cowen]. Just a -- this is a follow-up to Julio's question, and maybe just trying to clarify a couple of things. Obviously your revenue growth this quarter was impacted by some, maybe some 1-time factors. You mentioned GE, things that you're disengaging from specific - maybe engagements there. There's NHS, there's ramp-up delays and a couple of contracts. Is there any way to isolate all these factors and try to get a normalized growth for volumes during the quarter?
+And then obviously maybe you can comment also on that. I'm looking at your year-over-year revenue growth comparisons as well. Thanks.
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think it's a fair point [that you come] to do that, and that's [Muhar] mentioned the overall volume growth this quarter in dollar terms would be about 3%. And so that would be the number that we can give. In the [indiscernible] quarter that would be really difficult to give.
+MORTIA CATTRY: Okay, and you realize why we're asking that question? We are trying to understand whether we have some fundamental issues here in terms of growth versus some -- 1 quarter or maybe 2 quarter's specific issues.
+UNIDENTIFIED COMPANY REPRESENTATIVE: I fully understand that is why you're trying to give [me] that [indiscernible] by explaining to you what -- about the trend we are seeing and this is what we are seeing.
+MORTIA CATTRY: Thanks.
+OPERATOR: [Dinem?]
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes [inaudible].
+OPERATOR: Okay, can you still take another question, sir?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Okay we'll take 1 last question please.
+OPERATOR: Right then let's see who has the last question.
+OPERATOR: Yes, thank you Paciba. Next on line I have from Mayan Candon in U.S.A. Go ahead, sir.
+MAYAN CANDON, ANALYST, JANNEY MONTGOMERY SCOTT: Thank you, it's [Mayan Candon] from Janney Montgomery Scott. I had a question around pricing, and I know you don't give specific [grades] but could you talk about pricing on new deals versus on renegotiations of legacy contracts? And also if you could repeat the number that you mentioned early in your call about the number of offers you've given to pressures on Campuses?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Yes, I'll take the question on offers to the Campus. We have made [6,384] offers at the Campus during the year, and as I said in the previous question this -- they will join us [back] in the month of June, and it was [indiscernible] to be 4 months.
+MAYAN CANDON: And the question around pricing please?
+UNIDENTIFIED COMPANY REPRESENTATIVE: In terms of pricing, as we said the pricing is quite stable in the market, but actually there are 3 types - [price] 1 is the existing contract [indiscernible]; second 1 is new contracts that are volume-related; and the third 1 is not volume-related, but it's more [expense] engagements or engagements that we're offering [on something, some interest]. And the growth [indiscernible] based on a particular situation and based on the particular offering, we will be able to charge a little higher. But in the other 2 situations the pricing is holding up and it is stable.
+MAYAN CANDON: Would you say pricing on new deals would be up 4 to 6% like some of your peers have said, or is that high or low relative to what you're seeing in the market?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I wouldn't be able to say that the new deals it is a little higher or [indiscernible] the market. It depends on the volume, etc. But another type of [series], sometimes in areas like packaged [indiscernible] services, etc. we will be able to see a little higher pricing. But by and large I would say that the pricing is stable.
+MAYAN CANDON: And just finally on the trends drifting across Europe and the U.S. --?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The -- [still] in Europe, the kind of volumes that you see in the U.S. you still don't see in Europe. [inaudible]. So the European deals are -- the customers are trying out some [indiscernible] products are going on, and in some situations slightly large contracts are coming up from the [indiscernible]. But still the kind of volumes that you are seeing in the U.S., not [indiscernible] in Europe.
+MAYAN CANDON: Thank you.
+OPERATOR: Thank you, sir. Now I will hand over the proceedings back to [Paciba]. Over to you, Paciba.
+OPERATOR: Thank you very much, Dinem. At this moment I would like to hand over the floor back to Mr. Arjen Mesakia for final remarks.
+ARJEN MESAKIA: Thank you, everyone. [indiscernible] Now [Mr. Ramadorai], would you like to wind up the proceedings?
+MR. S RAMADORAI: Thank you, Arjen, and thank you all of you who are taking the time to be on this call today from all over the world. Like I started by saying that we have reached a landmark in the history of this Company by closing on $2.24b and a profitability of $0.5b, which is a very, very important milestone for the Company as well as for the Indian IT industry.
+Also I want to reiterate the final words I gave with regard to the Company taking a long term view and a long term sustainable value. That's how we have been in business for the last 26 years, and the 12 months is the way we [indiscernible] on a consistent basis. And then the R&D investments, the kind of capabilities -- we are creating competencies we are building, and with an attrition as low as 8% we have the capabilities to [indiscernible] our value to our global customers.
+We will be focusing on value creation and accordingly getting the value, and by getting the [actual] leverage at [indiscernible] and try to get some add-ins on an ongoing basis.
+We again thank you for putting the trust in this Company and its management, and we will look forward to interacting with you in the near future, either on a one-on-one basis or during the Analyst Meetings or during some of the Roadshows [indiscernible] Roadshows. Thank you very much and we look forward to meeting you again.
+OPERATOR: [OPERATOR INSTRUCTIONS].
+[CCBN reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES CCBN ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. Copyright 2005, CCBN, Inc. All Rights Reserved.]
+[Copyright: Content copyright 2005 CCBN, Inc. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2005 FDCH e-Media, Inc. (f/k/a Federal Document Clearing House, Inc.) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon CCBN's or FDCH e-Media's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from CCBN and FDCH e-Media so long as they provide conspicuous attribution to CCBN and FDCH e-Media as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Chief financial officers; Chief executive officers; Corporate profits; Websites
+
+Business indexing term: Subject: Chief financial officers Chief executive officers Corporate profits; Corporation: General Electric Co
+
+Company / organization: Name: Tata Consultancy Services; NAICS: 513210; Name: General Electric Co; Ticker: GE; NAICS: 332510, 333611, 334290, 334512, 334519; SIC: 3743, 3546, 3511, 3630, 3612; DUNS: 00-136-7960
+
+Title: Q2 2005 TATA CONSULTANCY SERVICES KTD Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Pages: n/a
+
+Publication year: 2005
+
+Publication date: Apr 19, 2005
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Wire Feed
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 465921164
+
+Document URL: https://www.proquest.com/wire-feeds/q2-2005-tata-consultancy-services-ktd-earnings/docview/465921164/se-2?accountid=27562
+
+Copyright: 2005 CCBN, Inc. and FDCH e-Media, Inc.
+
+Last updated: 2024-12-04
+
+Database: ABI/INFORM Collection

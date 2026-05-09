@@ -1,0 +1,284 @@
+Q1 & Q2 2010/11 Satyam Computer Services Limited Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q1-q2-2010-11-satyam-computer-services-limited/docview/817721080/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Ladies and gentlemen, good day and welcome to the Mahindra Satyam earnings conference call for the quarter ended June 30, 2010 and September 30, 2010. As a reminder, for the duration of this conference, all participant lines will be in the listen-only mode. There will be an opportunity for you to ask questions at the end of today's presentation. (Operator Instructions). Please note that this conference is being recorded.
+At this time, I would like to hand the conference over to Mr. Vineet Nayyar from Mahindra Satyam. Thank you and over to you, sir.
+VINEET NAYYAR, CHAIRMAN, MAHINDRA SATYAM: Good morning, good evening, ladies and gentlemen. I have a great pleasure in welcoming you to this much -- to this earning call. In many ways, it's a very important milestone in MSat's transformer -- transformation journey, for with the filing of the accounts for quarter one and quarter two, we are now current in terms of our financials, insofar as Mahindra Satyam is concerned.
+We have had a challenging journey so far and it is far from over. We are looking at this, and as I've said earlier, as a three-year transformation process, with the first year being FY'10, where we were entirely focused in the act of survival. We were gravely injured and the issue was whether we will be able to survive or not. Mercifully, that question has been answered unequivocally.
+The current year is a year when we will start investing in the core, which should help us a great deal as we move into the third year, which will be about leveraging our capabilities for growth. Till now we have been successful in stabilizing the Company after a period of revenue decline. This small but -- this is a small but important step in our journey and is a tribute to the untiring efforts of my associates and the unflagging confidence of our customers.
+Now coming to the numbers. Our consolidated revenues for Q1 and Q2 were INR1,248 crores and INR1,242 crores respectively. In other words, the revenue was flat.
+EBITDA for Q1 was around INR114 crores with an EBITDA margin of 9.1% and Q2, around INR65 crores with an EBITDA margin of 5.2%. The reason for the fall in EBITDA was the salary hike we had given out in Q2 and in order to retract and retain talent pool in our Company.
+Our net profit after tax was INR98 crores and INR23 crores respectively for Q1 and Q2.
+What the numbers do not depict is the mix of positives and negatives as we have seen. The positives clearly are that we have stabilized. That the revenue we now are earning, we can say with an element of confidence will continue as is. The negative is that there are certain operating levers which have not been utilized fully and that also for very good reasons.
+A fairly high number of orders, renewals from existing customers have contributed a great deal to our current stability. The fact that we now are up to date on financials, as I said, will definitely improve our ability to invite to and participate in larger opportunities.
+On the employees front, confidence has been restored and attrition, relatively high -- though relatively high at 25% continues to trend downward [reducing] our capability and confidence to manage growth. In fact, if we were to look at it, I think we are marginally lower than what is the industry's trend rate in attrition.
+On the cost front, our substantial cost reduction initiatives have largely taken their desired shape. We have taken conscious decision to preserve our core competencies and mid-level leadership despite adverse effect impact on margins. Looking ahead, substantial improvement in margin will come primarily through revenue growth.
+We are fully cognizant of the fact that we have to surmount multiple challenges in order to convert this first sign into a trend. We have been adding customers, but the scale and size of these wins understandably does not make up for the severe customer attrition that we experienced last year. Our investment to win back lost customers has seen initial successes, but will take a few quarters to reach its optimal potential.
+We're continuing to invest in our sales expansion and expand market reach. One-third of the sales force has been dedicated to hunting new logos and this should yield measurable results in due course. Clearly, the journey has just run half its course and in ensuing months it's about sharpening our focus and efforts to achieve greater yield and top line growth. We seek your continued support as we progress further in the journey.
+Net-net, folks, I would say that though the results are somewhat flat for the last two quarters, I feel good about it, the reason being fairly straightforward. We see that finally the downward trend has come to a stop. We have -- we are now poised because of our financials being current, to go and seek new business. We recognize that new business takes time to secure as also to grow. But I think we have reached that region of our journey.
+Now, folks, I will throw the floor open to the questions.
+OPERATOR: Sir, would you like to begin with the question and answer session?
+VINEET NAYYAR: Yes, please.
+OPERATOR: Thank you. Ladies and gentlemen, we will now begin with the question and answer session. (Operator Instructions). The first question is from the line of Diviya Nagarajan from UBS. Please go ahead.
+DIVIYA NAGARAJAN, ANALYST, UBS: Hi. A couple of questions. One, we've clearly seen revenue begin to stabilize for the last three quarters. But our costs seem to have gone up considerably on the employee front. Could you give us a sense on what are the driving factors of this? How would you split this between your attrition-related costs and how would you split that into wage hikes for the first half please?
+C.P. GURNANI, CEO, MAHINDRA SATYAM: Diviya, this is C.P. Gurnani. And on this call with me today we have Durga Shankar, who is our CFO; Hari, who is our Head of Personnel and Marketing. We have Rakesh Soni and we have ASM. Also Atul Kanwar, who is the President of the Company, who's dialed in from US. So I just wanted everybody to be quickly introduced as the management team. And Chief Strategy Officer, Vijay Anand is also here.
+Diviya, coming back to your questions, I think if I were to classify it, I would actually say, yes, the costs have gone up. And it's fundamentally on two accounts. Number one is the salary hike and number two is that on continuing to focus on the core competencies of the Company, because we do realize that our differentiator in the marketplace is clearly around our service offering and we wanted to invest.
+So there are a few things like, for example, our Design & Engineering group has invested a lot in doing the prototypes around design to build so that we can participate in our global sourcing in a much bigger way. Similarly, our Business Intelligence & Analytics group, which already had a asset in iDecisions, now it is basically taking it even a step further and building it for various verticals. Again the assumption is that the market needs for business intelligence and analytics is very, very high and if we convert our model from an FT basis to an asset base, it is going to be a lot more acceptable to the market.
+So I would not say, attrition to us is a cost, but we've been living with that cost even because of voluntary attrition or involuntary attrition. And we have not had a spike in that in the recent times.
+DIVIYA NAGARAJAN: CP, thanks for that. But could you just quantify your wage hikes that have come in the first half in terms of percentage hikes? And also if you could give us a number on the attrition figure please.
+C.P. GURNANI: Durga, do you want to -- Durga, please.
+S. DURGA SHANKAR, CFO, MAHINDRA SATYAM: Yes. The absolute personnel (technical difficulty) is INR867 crores was the cost for the Q1. It became INR913 crores and the policy hike was -- the incentive hikes was about 3% or so onsite and around 15% offshore and averaging around between 10% to 11%. So does that answer your question?
+DIVIYA NAGARAJAN: Yes. And the attrition number please?
+C.P. GURNANI: Hari.
+T. HARI, CHIEF PEOPLE OFFICER & CHIEF MARKETING OFFICER, MAHINDRA SATYAM: We are at about 25%. This is Hari. We have an attrition that's at about 25% as of now.
+DIVIYA NAGARAJAN: And this is on a LTM basis or is it annualized for the quarter?
+T. HARI: Yes, it's annualized for the quarter.
+DIVIYA NAGARAJAN: Right. My second question to you, maybe, Hari, you can answer this better, is how -- what would be your market, go to market strategy for supply? I think clearly I think the challenge for us in this kind of environment where supply is quite tight is getting high quality people without having to commensurately pay them much higher than the market. So what are you putting in place in order to ensure that your attrition comes back under control and your wage costs as percentage of revenue also start coming back into more manageable levels?
+T. HARI: Yes. So I think we should probably kind of view it from two or three different perspectives here. In terms of the capability that the organization brings to the table, one, of course, recognizes that our traditional strength in the Enterprise Business Solutions space and Engineering space, continues to be a fairly interesting draw for what we refer to as lateral hires.
+From an entry level perspective, I think we are going with a combined image, if I may use the term, of the Mahindra Group and Tech Mahindra for all of our hiring purposes. And we have -- in the last few months that we went out hiring, we haven't had any issues at all in terms of engineering hires that we require.
+If I look at it from the point of view of management institutions, I think the story of being a part of the resurrection, of being part of an organization which is doing a turnaround has definitely had a draw. We had almost 87% joining ratio from premium Ivy League colleges in the last batch that we hired.
+So I would say that today our supply chain is definitely under stress, because everybody is on a hiring mode. But I would say that the past baggage or whatever has happened is definitely not bringing us down. And the strength of EBS and Engineering continue to be our primary selling point. And I am sure that once we have the eventual merger of Tech Mahindra and Mahindra Satyam, the story on mobility and the differentiator around that would be a big draw.
+So I would say that at this stage we are dealing with it fairly well, but I also acknowledge that the market is under pressure because of the hiring mode in the industry.
+DIVIYA NAGARAJAN: Sure. One last question, I don't want to hog the rest of the call. But where do you think you are in terms of your target goals for margin performance? And can you give us some sense of where do you expect your margins to end by the end of the year?
+S. DURGA SHANKAR: As a policy, we and Mahindra Group does not give any guidance. So that's a difficult question to answer.
+VINEET NAYYAR: Other than saying that we feel that the current margins which we have are not adequate and that it will be our endeavor for the next two years to bring them up to industry's level. And this is something which we feel confident we'll be able to achieve going forward.
+T. HARI: Can I add one --
+C.P. GURNANI: Yes.
+T. HARI: I'll just add a point to -- this is Hari again. I know you did bring up the issue of wage costs as a percentage of revenue and whether that's something that we will need to deal with. The answer is we would like to upfront state that we consciously, at the cost of having a slightly adverse impact on the margins, we consciously retained some of the key capability in our critical competencies and in the mid-level leadership bandwidth.
+Now the clear understanding is that this should enable us to sustain the growth. And as we scale up our ability to expand the leadership bandwidth or the competencies, it's not going to put additional pressures. So clearly we are, at this point of time, I would say structured for growth and you should probably be assured that the cost is not something that will continue to grow.
+DIVIYA NAGARAJAN: Sure. Thanks and all the best, guys.
+VINEET NAYYAR: Thanks. And if I may say so to the coordinator of this call, let's do one question per person and then we can come around again, if necessary.
+OPERATOR: Sure, sir. The next question is from the line of Nitin Padmanabhan from Indiabulls Securities. Please go ahead.
+NITIN PADMANABHAN, ANALYST, INDIABULLS SECURITIES: Yes, hi. Thanks for taking my question. With regard to revenues, when do you see -- although it's stabilized this time around -- when do you see the existing clients really ramping up? All the new logos are in, but when do existing clients start ramping up?
+C.P. GURNANI: Nitin, I'll direct this question to Atul. Atul?
+ATUL KANWAR, PRESIDENT, MAHINDRA SATYAM: Nitin, we're already starting to see existing customers starting to ramp up. The key element is that we've got embargos that went off at the end of the announcement of results on September 29 for the previous years. And so now we are working actively with a range of our existing customers to get into a bigger piece of the business that they're doing. So that's one.
+I expect that this would really scale up over the next two quarters very significantly because fundamentally we've retained these customers as well as we are being able to participate more actively in their future budgets in the preplanning stage.
+NITIN PADMANABHAN: So ideally over the next two quarters, we should ideally see some sort of an uptick in terms of existing client revenues?
+ATUL KANWAR: I think the one other parameter that you may want to keep in mind is that the renewals that we've had for existing lines of business that we retain with them, have been very, very high. So in a way of speaking, it is demonstrating some kind of a preference as well as continuity from our perspective.
+The challenge that was there in terms of how do you scale business has been removed with being current. And so we're definitely hoping next two quarters we will see a growth as far as that is concerned.
+NITIN PADMANABHAN: Sure, thank you. I'll come for a follow up.
+OPERATOR: Thank you. The next question is from the line of Pranav Tendulkar from BRIC Securities. Please go ahead.
+PRANAV TENDULKAR, ANALYST, BRICS SECURITIES: Yes, hi. Congratulations for getting the financials. I had a question about the pricing. And are you facing any challenges or any margin pressures, with respect to new clients as compared to the competition, or as compared to the standard pricing?
+C.P. GURNANI: Atul, my guess is you'll want to answer this in continuation.
+ATUL KANWAR: Yes, absolutely. There are two scenarios. You're asking specifically in the case of new customers.
+PRANAV TENDULKAR: Correct.
+ATUL KANWAR: All the new wins that we've been getting are fundamentally around differentiation as well as new initiatives that we've taken across. So this is not really in extensively competitive price margin pressure kind of thing. It's very competitive kind of deals based on capability. So on these kind of deals, you're not facing that adverse a pricing pressure, but there is investments that are involved to be able to get them off the ground earlier.
+So in initial quarters, you will see some amount of expense happening to the margin on the deal is fairly consistent with what the industry is getting overall. So does that answer what you're looking for?
+PRANAV TENDULKAR: And about the existing clients?
+ATUL KANWAR: In the existing customers, there is no straight answer because as contracts come up for renewals and as the contracts -- more and more contracts with the competitive scenario and depending on the scenario, there will be changes that happen from time to time. In certain categories, we're moving up the value chain, so in which case we get additional pricing elements. In certain categories, where they are commodity kind of services, where other people are trying to also get into, there would be some competitive pressure.
+So net-net as far as existing customers are concerned, we've seen the bottoming already in terms of margins and other things. So we're only seeing upwards and our new deals, like I said is differentiation oriented, so we are definitely seeing some better hope.
+PRANAV TENDULKAR: Okay, sir. Thank you.
+OPERATOR: Thank you. The next question is from the line of Anurag Purohit from Alchemy. Please go ahead.
+ANURAG PUROHIT, ANALYST, ALCHEMY SHARE & STOCK BROKERS: Good evening to management and thanks for taking my question. I have a question regarding the SG&A expenses, which are currently almost close to 21% of revenues. If we compare that to FY'10, we don't see any material improvement in either Q1 or Q2. So it would be great if you could break down SG&A between S&M and G&A and your outlook on that line item going forward.
+C.P. GURNANI: Anurag, you -- sorry, go ahead, Vineet.
+VINEET NAYYAR: Anurag, you are seeing two contrary movements here on SG&A. On one hand, we have tried to rationalize expenses. On the other hand, you have seen a decline in revenue. So consequently, the SG&A appears to be high.
+It's good news and bad news. The bad news is it's high at this point of time. The good news is it gives us an operating lever to improve as we go further.
+If you also wanted to know precise numbers, I will ask Durga to give them.
+S. DURGA SHANKAR: And also I would add to what Vineet was saying. If you look at in some of the categories, there has been substantial reduction and the benefit of restructuring of rental spaces which was done in F'10, you do really see it in Q1 and Q2. In March 2010, it was INR160 crores, was the rental cost. Now in H1 it is around INR63 crores or so. So you do see substantial reduction in such costs, so it's not correct to say that it is high. It is high only because the revenue has fallen compared to the F'10 revenue. That is the reason.
+ANURAG PUROHIT: I understand that. But it would be great if you could break down between the actual S&M expenses and the G&A expenses.
+S. DURGA SHANKAR: Yes, what we can do is that we will give a broader level of analysis on the expenses. At this point in time in the call, I'll give you some broad parameters and then probably we can take the rest of it off the line.
+ANURAG PUROHIT: Sure.
+S. DURGA SHANKAR: (inaudible) expenses for first quarter is INR34 crores and second quarter it's INR48 crores. Rent, as I said, INR32 crores and INR31 crores. In power and fuel, INR12 crores and it remains almost the same. And travel, INR54 crores and INR58 crores. So these are about the major (technical difficulty) that we have incurred. And on the other -- further analysis on this probably we can take it offline.
+ANURAG PUROHIT: Sure. Thanks a lot and all the best.
+OPERATOR: Thank you. The next question is from the line of Sujit Parab from ENAM Securities. Please go ahead.
+SUJIT PARAB, ANALYST, ENAM SECURITIES: Yes, good evening to the management team. Just a couple of questions. One is I would like to know the number of active client count as of September end.
+And secondly, broadly for the revenues, can you just give us a picture on what are the verticals and services where you are seeing some growth or stability and which are the ones which are really dragging the growth at this stage.
+C.P. GURNANI: Atul.
+ATUL KANWAR: Yes. Sujit, as far as the active client count is concerned, we've done reclassification that we've shared, this time, wherein we're saying that active clients will be the ones which are giving us a run rate of minimum $250,000 in the year. So 91% of our revenue now is coming from close to about 100 of our top customers.
+The total headcount -- the total count of customers, active at this point of time, which are giving more than 250K is roughly 217, it is, in fact, 217.
+SUJIT PARAB: Yes, thanks.
+ATUL KANWAR: Does that answer, Sujit?
+SUJIT PARAB: Yes, thanks.
+ATUL KANWAR: You asked -- the second question was about verticals in terms of where we are seeing traction and where we are not seeing so much of traction. The ones where major traction is being seen are manufacturing, our digital convergence, that is the telecom, media and entertainment sector. Where we are not seeing so much of traction from verticals perspective is healthcare and life sciences. And we are starting to see early signs of scale up in terms of banking and financial services.
+SUJIT PARAB: And even if you could do the same for services as well.
+ATUL KANWAR: On the services side, we -- the key element still continues to be our Enterprise Business Services, which is around SAP, Oracle and business intelligence. That continues to be a big element. We are also seeing traction on the Infrastructure Management services, the IMS services and the Engineering services areas. So these three are the ones where we are seeing extensive action.
+As far as the other two lines are concerned which are to do with BPO and our traditional mainframe related and application development and maintenance lines, there we are seeing a little limited action compared to the earlier one.
+SUJIT PARAB: Yes, thanks. That answers my questions.
+OPERATOR: Thank you. The next question is from the line of [Dinesh Mehta from Indus Investing]. Please go ahead.
+DINESH MEHTA, ANALYST, INDUS INVESTING: Good evening. This is regarding your employee stock options. Do you see it as a potential tool to contain retention and to get long-term commitment from employees? Thanks.
+T. HARI: This is Hari. And I would think that's definitely something that we will continue to leverage as a program. Whether that's something that we would do in the immediate future, I may not be able to really comment. But you may want to know that we have actually covered a significant part of the mid-level leadership and senior leadership as part of the stock options a few months back.
+We will continue to look at that in the coming months and it will be guided by how we perform and what kind of co-opt or co-ownership that we can bring in there.
+DINESH MEHTA: Thank you.
+OPERATOR: Thank you. The next question is from the line of Madhu Babu from Systematix Shares. Please go ahead.
+MADHU BABU, ANALYST, SYSTEMATIX SHARES: Sir, regarding the new deals which we are bidding, what is the ticket size of the deals and could you talk about the nature of RFPs for which we are responding.
+C.P. GURNANI: I think, Madhu, we covered this during the first conference that most of our relationships that we are beginning with most of them are, we make an entry and we grow the business. We are not finding -- we have not been in front of the large deals or the loud bang deals. And I guess it's fairly understandable, because we were outside the peripheral vision of most of the large outsourcing deals. And now only when we have become current and I shared with the press that we conducted two analyst meets, one in Boston and one in London on October 21 and October 18, last month.
+And overall I can only say here that feedback has been positive, A, on the overall leadership team. Number two, the feedback was very, very positive on our skills in Infrastructure Management, Engineering Services and the core BPO capability and more important is on the leveraging of our alliance partnership and go to market with SAP, Oracle, Microsoft, Pega, salesforce.com, Document. So overall, the way the ecosystem has come together, I think it is being -- we are still now coming back into the large deals.
+MADHU BABU: And just one more question, sir. Effective tax rate, what is the effective tax rate to be modeled for FY'11 and '12?
+S. DURGA SHANKAR: I wouldn't like to hazard a guess on or give any guidance on what's going to be the tax rate going forward. But I would only say that the tax rate will be guided on the following parameters. One it is dependent on the revenue from overseas operations. Essentially, in Indian operations we do have some tax covers. But overseas profits, that's what will be -- our tax rate will be mainly driven by that. So other than that, I don't want to put a percentage to what exactly will the tax rate going forward.
+MADHU BABU: Okay, sir. Thanks.
+OPERATOR: Thank you. The next question is from the line of Pratish Krishnan from Bank of America. Please go ahead.
+PRATISH KRISHNAN, ANALYST, BANK OF AMERICA: Yes, thanks. This is on the margins. Maybe you can just highlight what are the key operating levers that you have for margin expansion?
+VINEET NAYYAR: Clearly, I mean increasing utilization, bringing down SG&A, these are the two levers which we have available going forward. But you may well ask why is our utilization low? I think CP has already answered this question, that we want to keep the core competencies alive even if they are not fully loaded at this point of time. So hopefully what will make the change is more revenue coming in.
+PRATISH KRISHNAN: And where would utilization be today? Sorry.
+VINEET NAYYAR: Pardon?
+PRATISH KRISHNAN: No, I was asking where would utilization numbers be today?
+VINEET NAYYAR: They are about 71%.
+PRATISH KRISHNAN: Okay.
+OPERATOR: Mr. Krishnan, do you have any more questions?
+PRATISH KRISHNAN: Yes, one. In terms of the infra management space, how large is this space for you?
+T. HARI: Can you repeat this question again please? Sorry there was --
+PRATISH KRISHNAN: In terms of the infra management services, how significant is the infra management revenue today?
+T. HARI: IMS. About 1,800 people are there today in the infrastructure management space across the globe.
+PRATISH KRISHNAN: Sure, yes. Thanks a lot.
+OPERATOR: Thank you. The next question is from the line of Dipesh Mehta from SBI Cap Securities. Please go ahead.
+DIPESH MEHTA, ANALYST, SBI CAP SECURITIES: Yes. I need the client numbers, what you said active, is 217 or 270. That is first, the clarification.
+Second, I need headcount number, closing headcount number.
+And the break up for taxes and what would be the current portion of the taxes.
+And comment about DSO because we have seen increase this quarter, Q2. Thanks.
+VINEET NAYYAR: This will be answered between Hari and --
+S. DURGA SHANKAR: On the first the answer is 217.
+DIPESH MEHTA: Okay, thanks.
+S. DURGA SHANKAR: The model that Atul was mentioning, the revised model, 217.
+T. HARI: Yes. And the closing number of people in our account is 28,068 as of end September.
+DIPESH MEHTA: Consolidated?
+T. HARI: Yes.
+VINEET NAYYAR: And on the tax.
+S. DURGA SHANKAR: Yes and on the DSO we are currently around 100 days or so, slightly (inaudible) 100 days.
+DIPESH MEHTA: So any comment on that would be very helpful. How we would like to address that issue going forward, or we expect that to be a bit longer considering the recent past?
+S. DURGA SHANKAR: Yes, certainly this would be brought down but as you know this amount also includes certain amount of unbilled revenues also. So as and when -- and on fixed bid projects also, as and when some of the projects' milestones are achieved it will be billable and collectible, certainly we should expect to see a reduction in the number of days going forward.
+DIPESH MEHTA: And last about tax break up?
+S. DURGA SHANKAR: Tax, I thought I had already answered. What I had said was as far as the tax rate goes, it's essentially driven by --
+DIPESH MEHTA: No, I want break up in current and deferred what would be the amount, or something -- current would be helpful only.
+S. DURGA SHANKAR: Yes. The tax information is already published, but anything more we will certainly contact you separately and give you the details.
+DIPESH MEHTA: Okay, thanks.
+OPERATOR: Thank you. The next question is from the line of Sandeep Shah from ICICI Securities. Please go ahead.
+SANDEEP SHAH, ANALYST, ICICI SECURITIES: Yes, sir. If you look at our utilization at 71% we are not materially far away from the industry standard, but if you look at our EBITDA margin of close to around 5% to 6%, it seems materially lower. So this difference is more to do with our material difference in our billing rate, or our revenue model is more onsite centric right now?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think again when you look at the operating levers and when you look at the numbers you would also look at the direct employee costs are much higher than the rest of the industry. And the basic reason is the last two years the firm had never hired the entry level graduates. So we do have a situation where our pyramid needs to be widened. And there is, as we have all shared with you, that our focus was on stabilizing. We wanted to make sure our customers continue to get the level of engagement from the level of people that they were dealing with. We are now broadening the pyramid, and you would see that over the next three quarters that operating lever is being utilized effectively.
+SANDEEP SHAH: And just on the revenue mix can you give us some color in terms of offshore and the onsite revenue mix?
+S. DURGA SHANKAR: Yes. If you take H1 as a whole it's offshore around 42% and balance is onsite.
+SANDEEP SHAH: Okay, okay. And just further to this on the margins, I think on the non-employee cost we said that there has been some kind of leverage which has happened. But if we annualize the Q1 and Q2 non-employee cost, we come to an annual figure which is similar to FY '10 reported. So it seems that there is no major cost efficiency achieved despite the rent costs going down?
+VINEET NAYYAR: Again, the assumption which we have been working on is that the revenues will grow. So you don't want to incapacitate the Company in terms of people. And that is why -- you're right, it is high, and it should be lower. But our working assumption is or our strategy, or our tactic whatever you call it, is that as the revenues grow this percentage will come down. And these are good employees, great employees and we don't want to lose them at this point of time for securing the temporary satisfaction of lower -- higher margin.
+SANDEEP SHAH: Okay, okay. And one should assume this depreciation may go up going forward because of the strategy of moving from a rental to own premises?
+VINEET NAYYAR: Certainly.
+SANDEEP SHAH: Okay, okay. Thanks.
+OPERATOR: Thank you. The next question is from the line of [Robert Rodericks] an individual investor. Please go ahead.
+ROBERT RODERICKS, PRIVATE INVESTOR: Yes, thank you for taking my call as a lay person and an investor I'm sure that others are interested as well in knowing the names of the new clients that you've taken on and any information in terms of dollar amounts or any information in general about new clients.
+VINEET NAYYAR: I'm sorry, sir, but essentially there is a client confidentiality.
+ROBERT RODERICKS: Okay.
+VINEET NAYYAR: And until and unless we are specifically permitted by the client, we are not allowed to disclose names.
+ROBERT RODERICKS: Understood. Thank you for taking my call.
+VINEET NAYYAR: Not at all, sir.
+OPERATOR: Mr. Rodericks, do you have any more questions.
+ROBERT RODERICKS: No, I don't. But I thank you for taking my call.
+OPERATOR: Thank you. The next question is from the line of Sangam Iyer from Alpha Advisors. Please go ahead.
+SANGAM IYER, ANALYST, ALPHA ADVISORS: Yes. Thank you for taking my call. So my question is pertaining to the personnel cost that witnessed around INR50 crores odd increment this quarter. Could you give us a break up in terms what was the fixed bonus component in it and what would be the recurring component?
+S. DURGA SHANKAR: Variable.
+SANGAM IYER: Variable and fixed component over here.
+T. HARI: Well, you see, organizationally if you would look at it, the variable component would be about 7% of the total wage cost. And I would say whatever we did would have had a proportionate impact. We truly haven't done any remarkable changes in this year on the fixed versus variable ratio.
+SANGAM IYER: Okay, okay. And sir, we have been talking about moving from rented space to our own space, and hence depreciation was expected to increase. But if we see Q2 or Q1, the depreciation is actually down, if I'm not wrong.
+S. DURGA SHANKAR: Yes. The reason is that while the strategy is on and the places are under construction, only when it is fully capitalized you would see the depreciation starting to come.
+SANGAM IYER: But the reason for a steep fall in depreciation from Q1 to Q2 around INR16 crores, INR17 crores?
+S. DURGA SHANKAR: As you would see that one, the rate of depreciation on the major assets which is computers, which is steeper. And then there was no great recruitment which was taking place for some part of the year when there was a fall. And we were also in the mode of [PPP] at the beginning of the year and that there is no addition. Once there is no capital addition, you would see that only the depreciation starting to hit, that's what you see. And even now, as Hari was mentioning, our attrition and additions are more or less equal. So there's no great capital addition at this point in time, which is capitalized, taking place.
+SANGAM IYER: I have one more question if I may. Your offshore onsite mix in Q1 how was it?
+S. DURGA SHANKAR: More or less both the quarters are the same. It is 42% in Q1 and 41% in Q2.
+VINEET NAYYAR: That's the offshore component.
+SANGAM IYER: Yes. So then I mean the steep rise in the tax rate I was actually trying to figure that out, considering that earlier in the call you had mentioned that depending on the onsite revenue the tax rate would be more or less determined. And if we look at the tax rate during the quarter it is pretty high compared to the last quarter. So that's why it would be very helpful if you could actually give us some clarity on that.
+S. DURGA SHANKAR: So see what we should understand here is that as far as the Indian operations go we still have tax covers. And so we are quite insulated at this point in time as far as Indian profits. But when it comes to overseas profits, in some of the places we are in the tax bracket and full tax bracket. So that is one thing which drives up the taxation part of it. And as you know, US taxation rate is around 40%. So that's one.
+Second point is that depreciation cover that we have is more in domestic than in overseas. So that's also another reason why the taxable profit itself is on the higher side as far as overseas goes. And that has resulted in a slightly higher taxation rate as you have commented.
+SANGAM IYER: Okay sir. Thank you.
+OPERATOR: Thank you. The next question is from the line of Anthony Miller from TechMarketView. Please go ahead.
+ANTHONY MILLER, ANALYST, TECHMARKETVIEW: Yes. Hello, gentlemen. I guess for the benefit of those of us in faraway lands, can you please remind us what the integration timetable is and therefore when we might start to see operating metrics out again?
+VINEET NAYYAR: In terms of the integration timetable, it is a complex process which takes a fair amount of time. Initial spadework will start immediately because by Indian standards we are current only today because all the financials are now updated. And normally I would expect that it will take about a year. And in many ways it depends on the speed with which the courts move, which is we will have to go to the court of Andhra Pradesh in Hyderabad and we will have to go to the Maharashtra for the -- which is relevant for Tech Mahindra. So it is tough to give any indication of time because judicial process can be somewhat slow in India. But if I were to go by measures or standards which were obtained by other companies seeking similar integration, I would say 12 months is a fair period to go by.
+ANTHONY MILLER: Okay. In which case could you give us a little bit of insight then on the current proportion of your revenues that you're getting from the Europe area, say for these couple of quarters just gone?
+VINEET NAYYAR: It's around 28% C.P.?
+C.P. GURNANI: It's about 26%.
+S. DURGA SHANKAR: 26%.
+VINEET NAYYAR: 26%, I beg your pardon.
+ANTHONY MILLER: And what proportion of that would be from the UK?
+S. DURGA SHANKAR: That probably it's around slightly less than a fourth of that.
+UNIDENTIFIED COMPANY REPRESENTATIVE: No, no, no it would be higher than that.
+(Multiple speakers).
+UNIDENTIFIED COMPANY REPRESENTATIVE: It would be half our -- almost 14%, 15% yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: 10%.
+UNIDENTIFIED COMPANY REPRESENTATIVE: 10% okay. It's 10% of our total revenues and Europe was 26% so you can work out the arithmetic.
+ANTHONY MILLER: Okay. And by the way are any of your -- how many of your top ten clients are based in Europe?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Top ten European -- of top ten clients. Can you give us a minute?
+ANTHONY MILLER: Yes.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And we will come back to it while we take the other question.
+ANTHONY MILLER: Yes that's fine. Thank you very much indeed.
+OPERATOR: Thank you. The next question is from the line of Jaykumar Joshi from Equirus Securities. Please go ahead.
+JAYKUMAR JOSHI, ANALYST, EQUIRUS SECURITIES: Yes, hi. Thank you for taking my question. I would like to know what is the headcount of the BPO right now.
+T. HARI: 2,500.
+VINEET NAYYAR: Around 2,500.
+JAYKUMAR JOSHI: Okay. Thank you so much. That's it from my side.
+OPERATOR: Thank you. The next question is from the line of Anurag Purohit from Alchemy. Please go ahead.
+ANURAG PUROHIT: Yes. Thanks for taking my question again. I just wanted to get more color on why our onsite revenue contribution is still much higher than the industry standard? Is it because of the services mix or some other reason?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think, Anurag, you not only asked the question, but helped me answer it also. Anurag, our practices are built around the enterprise business solutions and many of these practices tend to have a higher onsite percentage.
+ANURAG PUROHIT: Okay. So how much would enterprise packages contribute to our revenues?
+UNIDENTIFIED COMPANY REPRESENTATIVE: We are currently not sharing the revenue mix, but I can only tell you that it is the most significant part of our practice.
+ANURAG PUROHIT: Sure. And just a bookkeeping question, there's a reduction in investments line item on balance sheet. Is it the market investments or it's related to subsidiary investments?
+S. DURGA SHANKAR: If you're talking about the standalone, generally the investments that we had are of two kinds. One is investment in mutual funds and another is subsidiaries. But sometimes in the mutual funds it is -- it gets divested and moves to cash and bank balances from -- so that is the type of movement which you see, and no offloading.
+ANURAG PUROHIT: Okay, fine. Thanks and all the best.
+UNIDENTIFIED COMPANY REPRESENTATIVE: To the gentleman who asked --
+T. HARI: Anthony Miller.
+UNIDENTIFIED COMPANY REPRESENTATIVE: Anthony, your answer is in the top ten from Europe is only one. Next question.
+OPERATOR: Thank you. The next question is from the line of Ashwin Mehta from Nomura. Please go ahead.
+ASHWIN MEHTA, ANALYST, NOMURA: Sir, what are we looking at in terms of CapEx for this year given that we are planning to shift to our own premises in most of the cases?
+VINEET NAYYAR: I think Ashwin -- Durga, go ahead.
+S. DURGA SHANKAR: Yes. We have CapEx plans in three of our places. And the total budget is around -- total budget, is around INR400 crores or so, of which we have already spent somewhere near about INR75 crores. And this will get phased out in the next two years, the balance will happen in the next year to year and a half.
+ASHWIN MEHTA: Okay. Thanks a lot. Most of my other questions have been answered thanks.
+OPERATOR: Thank you.
+UNIDENTIFIED COMPANY REPRESENTATIVE: And now just two more questions please and rest we will happy to answer on mail at any time.
+OPERATOR: Thank you. The next question is from the line of Sandeep Muthangi from IIFL. Please go ahead.
+SANDEEP MUTHANGI, ANALYST, IIFL: Hi, good evening. Thanks for taking my question. I was just wondering, because you've mentioned you've given stock options to middle and senior management, did you also give the salary hikes in the quarter to them which were on par with the industry?
+T. HARI: Yes, that's right. In fact, this is Hari again, whenever we do these compensation restructuring, we take into account some of the comparative players both from India and the MNCs operating in India. So one could very confidently state that we are very competitive on our compensation.
+SANDEEP MUTHANGI: Yes. So in addition to the salary hikes there were the stock options, am I right on that?
+T. HARI: That is right. When we issued the stock options a few months back it was in addition to whatever people had at that point in time. And whatever we do going forward it's always in addition to whatever are the revisions that are normally done, because we issue stock options obviously at the market price.
+SANDEEP MUTHANGI: Right, right. Yes, that's incidentally my next question because the stock options were issued at market price and the current price is less than that. What is your view going forward? Is there any chance that you might have to revisit the price at which you've issued or something like that?
+T. HARI: I don't think that we would -- we normally take a long term view on these issues. So we do believe that there is an inherent value and confident that we should be able to -- our performance should be able to reflect the way the stock has performed. So we don't normally tend to get influenced by temporary blips that do go through. So to answer your question more precisely, I don't think we restructure it based on ongoing market realities.
+SANDEEP MUTHANGI: Okay thanks. And just one last question. As you were highlighting that many of the new contracts would initially entail lesser margins because of the way the contracts are structured, and also I believe hiring may pick up before the pyramid efficiencies will kick in, is it a fair assumption to think that margins have not yet bottomed out?
+UNIDENTIFIED COMPANY REPRESENTATIVE: Again, I think that this is an hypothesis. I would not say that it is necessarily the management's view, because there is some initial investment in core technology and competency. But since we are not doing any big bang projects, I would not say that we are making an investment to execute a project. So I don't know where this hypothesis is coming from. But in general I would say is that the management's effort is to start focusing on growth and some of the core investments should start paying us. And one is that improving on some of our operating metrics and a little bit of a higher growth will yield a little better results.
+SANDEEP MUTHANGI: Okay. Thanks a lot. That's it.
+OPERATOR: Thank you. The last question is from the line of Anurag Dhanwantri from Porter Orlin. Please go ahead.
+ANURAG DHANWANTRI, ANALYST, PORTER ORLIN: Hi. You spoke about integration of Tech Mahindra and Mahindra Satyam earlier. Can you talk about what happens with the ADR, because Tech Mahindra has no ADR outstanding? And in case Tech Mahindra acquires Mahindra Satyam would you make a cash payout for the ADR holders or how are you guys thinking about that?
+VINEET NAYYAR: This is a precise issue which is currently engaging our consultant on this purpose and as soon as we come to a determination we will share it with everyone at an appropriate time.
+ANURAG DHANWANTRI: Okay. And are you able to say right now whether the acquisition or the merger would be Tech Mahindra acquiring Mahindra Satyam or would it be Mahindra Satyam acquiring Tech Mahindra?
+VINEET NAYYAR: It's a million dollar question.
+ANURAG DHANWANTRI: Okay, thanks a lot. Really appreciate it.
+VINEET NAYYAR: Okay. Thank you, folks. This is Vineet Nayyar once again. Thank you ever so much for joining this call. As I said earlier and I will repeat, that we are somewhere at the midpoint of our transformation journey. I do believe and we all have great hopes in Mahindra Satyam, both because of our clients who have kept their faith with us, and outstanding personnel and outstanding people who man this Company. But we would require patience. It would take -- this transformation journey would take at least the same time -- will take at least another year, year and a half. So once again I will ask you for patience. And I do believe that this Company will get to parameters and indices which other companies have, other good companies in IT have. Thank you ever so much and have a nice day.
+OPERATOR: Thank you, gentlemen of the management. Ladies and gentlemen, on behalf of Mahindra Satyam that concludes this conference call. Thank you for joining us and you may now disconnect your lines.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2010 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2010 Roll Call, Inc. ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Roll Call's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Roll Call so long as they provide conspicuous attribution to Thomson Financial and Roll Call as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Core competencies; Customers; Costs; Business intelligence; Earnings; Wages & salaries
+
+Business indexing term: Subject: Core competencies Customers Costs Business intelligence Earnings Wages & salaries; Corporation: UBS AG
+
+Company / organization: Name: Thomson Financial; NAICS: 513210, 518210, 519290
+
+Title: Q1 & Q2 2010/11 Satyam Computer Services Limited Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2010
+
+Publication date: Nov 15, 2010
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 817721080
+
+Document URL: https://www.proquest.com/newspapers/q1-q2-2010-11-satyam-computer-services-limited/docview/817721080/se-2?accountid=27562
+
+Copyright: 2010 CCBN, Inc. and Roll Call, Inc.
+
+Last updated: 2024-12-04
+
+Database: ABI/INFORM Collection

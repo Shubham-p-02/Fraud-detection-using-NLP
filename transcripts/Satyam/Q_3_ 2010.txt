@@ -1,0 +1,267 @@
+Q3 2010/11 Satyam Computer Services Limited Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q3-2010-11-satyam-computer-services-limited/docview/854123852/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Ladies and gentlemen, good day and welcome to the Mahindra Satyam earnings conference call for the quarter ended December 31, 2010. As a reminder, for the duration of this conference all participant lines will be in the listen-only mode. There will be an opportunity for you to ask questions at the end of today's presentation. (Operator Instructions). Please note that this conference is being recorded.
+At this time I would like to hand the conference over to Ms. Anomitra Bhattacharya from Mahindra Satyam. Thank you and over to you.
+ANOMITRA BHATTACHARYA, IR, SATYAM COMPUTER SERVICES LIMITED: Thank you, Melissa. Good morning and good evening to all the participants on the call. I'm Anomitra from MSat IR and it is my pleasure to welcome you all to our Q3 FY '11 earnings conference call.
+We have with us today Mr. Vineet Nayyar, Chairman, Mahindra Satyam; Mr. Gurnani, our CEO; S. Durga Shankar, our CFO; Mr. Rakesh Soni, our COO; Atul Kunwar, President, Global Operations; Vijayanand Vadrevu, Head, Strategic Initiatives; A.S. Murty, our CTO; Vijay Rangineni who heads MSat BPO; and Hari T., our Chief People and Chief Marketing Officer from the management team.
+Before I hand over this conference I would like to remind you that we do not provide any revenue or earnings guidance. Anything discussed on this call which reflects our outlook for the future, or which can be construed as a forward-looking statement, must be viewed in conjunction with the risks that the Company faces. We have outlined these risks in our results press release dated February 14, 2011, which is available on our Company website, mahindra.com. I now hand over the conference to Vineet for his opening remarks.
+VINEET NAYYAR, CHAIRMAN, SATYAM COMPUTER SERVICES LIMITED: Good morning, good evening, ladies and gentlemen. It gives me great pleasure in welcoming you to this earning call.
+So here we are with the fifth set of numbers in the span of less than four months. As you would be aware, we came out with FY '09 and FY '10 results in September and Q1 and Q2 results in mid November, so it has been quite a hectic period and, clearly, our Finance department has been in an overdrive. In fact, I would be remiss if I did not applaud the efforts made by this department and all the employees who have been working more than overtime in the last few months.
+Our first steps towards normalization are now visible to our stakeholders. Our progress has been gradual, but assured, and we would look at the next few quarters to further consolidate the gains we have made so far.
+Coming to the Q3 FY '11 performance, I must say that we are directionally on the right path and have turned in, according to our judgment, a decent performance. The consolidated revenues for Q3 were around INR1,280 crores and a quarter-on-quarter growth of around 3%. EBITDA before exceptional items for Q3 is INR82 crores, with an EBITDA margin of 6.4%.
+I would like to highlight that our exceptional items this quarter is primarily due to an extraordinary provision of INR53 crores towards impairment in the value of our subsidiaries arising out of commitments made during the previous management's time. Net profits before exceptional were INR112 crores, which is a growth of over [250%] quarter on quarter. And the corresponding number after exceptional items was around INR59 crores, a growth of a little over 150%.
+Our business performance this quarter was primarily driven by growth in Europe, while US and the Rest of the World was flattish. Our strategy of consolidating our portfolio of customers, which we mentioned last quarter, has started to pay initial dividends. Our growth from our tail accounts has been strong, which indicates our measures towards nurturing and mining of these has borne fruit this quarter. From vertical perspective, Manufacturing, BFSI and Health Care grew higher than Company's average.
+OPERATOR: Excuse me, this is the operator. We've lost the line from Mr. Nayyar. Please stay on line while we connect him.
+Thank you for choosing Chorus Call. The conference will begin shortly. Please continue to hold. Please go ahead, sir.
+VINEET NAYYAR: Ladies and gentlemen, I must apologize that there was a telephonic interruption and I was lost. So I don't quite recognize where I lost, but let me start from where I believe we were disconnected. I was just starting on our quarter three FY '11 performance, so if there is a bit of repetition you will forgive me.
+Coming to the quarter three FY '11 performance, I must say that we are directionally on the right path and have turned in a creditable performance. The consolidated revenues for quarter three were around INR1,280 crores, a decent q-on-q growth of about 3%. And EBITDA before exceptional items for Q3 is INR82 crores, which translates into an EBITDA margin of 6.4%.
+I would like to highlight that our exceptional items this quarter primarily are due to an extraordinary provision of INR53 crores towards impairment in value of our subsidiaries. This was a result of certain contractual obligations made by the Company by the previous management.
+Net profits before exceptional were INR112 crores, a growth of two and half times quarter on quarter and the corresponding number after exceptional was around INR59 crores, a growth of about 150%.
+Our business performance this quarter was primarily driven by growth in US -- I beg your pardon, growth in Europe, while US and Rest of the World was flattish. Our strategy of consolidating our portfolio of customers, which we mentioned last quarter, has started to pay initial dividends. Our growth from our tail accounts has been strong, which indicates our measures towards nurturing and mining of these accounts have borne fruit this quarter. From vertical perspective, Manufacturing, BFSI and Health Care grew higher than Company's average.
+On the manpower front we added 764 people, taking the total to around 28,800. Attrition has come down to 25% level and seems to be stabilizing there. We believe this is still high but, hopefully, it will come down further as more and more engineers become available from various campuses.
+Our investment in sales agents across geographies continue and we have seen some employees who had left the Company coming back and rejoining us. Looking ahead the challenges continue, but in a lot of ways we are encouraged by the journey so far.
+When the new management came into the Company it had set up a trajectory for itself. Looking back, we find that we are more or less on the gradient we had selected for ourselves and I believe we will take another 18 months to two years to come to the industry's level. The synergy initiatives between Group companies Tech and Mahindra Group is on track and you would only see this strengthening in the period ahead. With increased confidence in the Company we are witnessing traction in RFP participation. Our endeavor is to see this growth momentum persist.
+With these comments I'll throw the floor open for questions, which my management team and I would be happy to respond to. Thank you once again for joining us in this call.
+OPERATOR: Thank you. Ladies and gentlemen, we will now begin with the question and answer session. (Operator Instructions). We have the first question from the line of Dipen Shah from Kotak Securities. Please go ahead.
+DIPEN SHAH, ANALYST, KOTAK SECURITIES: Yes, I just had a couple of questions. First of all, in terms of the revenue growth if you could just split up the business into the volume growth and how are you seeing the realization trending ahead? That's the first part.
+S. DURGA SHANKAR, CFO, SATYAM COMPUTER SERVICES LIMITED: The volume growth is around 2.5% for this quarter between Q2 and Q3 and, realizations, the pricing part of it, is more or less stable.
+DIPEN SHAH: Okay. And if you can just give us some more metrics in terms of how's the top client and the top-10 clients contributing to the revenue, and how many $1m accounts or $10m accounts you have, if you can just break it up for us, please.
+S. DURGA SHANKAR: Yes. The main growth this time had come from the top 50 and, out of the 3%, the top 50 increased by about 1%. And $1m, we increased more than $1m from 118 to 121, and greater than $5m increased by one, and greater than $10m increased by three.
+DIPEN SHAH: Okay. So how many $5m and $10m accounts you have?
+S. DURGA SHANKAR: We have -- more than $5m last quarter was 44; this time it's 45. This is active customers.
+DIPEN SHAH: Yes, okay. Okay. And just lastly if you can just give us some more color on how's the success in terms of getting into large accounts. And are the clients viewing you more positively, or how has the response been? If you can just throw some more light on that.
+VINEET NAYYAR: Atul, would you take it?
+ATUL KUNWAR, PRESIDENT, GLOBAL OPERATIONS, SATYAM COMPUTER SERVICES LIMITED: Yes. As far as the larger deals are concerned, we're already starting to participate. You do know that we came up with our results and made them current only in November 15 so, post that, we've seen a flurry of activity in terms of getting invited to a range of places. In other places where we're contesting, our position has got strengthened. So we continue to be invited by large customers across verticals to be able to participate.
+And the other part of the good news is also that a lot of customers who in the past had decided to move away, this is in the 2009 timeline, have also started making a comeback and opening up the doors for us to participate. So we do not see a negative at all. In fact, it's all positive at this stage.
+DIPEN SHAH: Okay. Thank you very much and all the best.
+OPERATOR: Thank you. The next question is from the line of Pankaj Kapoor from Standard Chartered. Please go ahead.
+PANKAJ KAPOOR, ANALYST, STANDARD CHARTERED: Hi, sir. I just want to understand on the margin front, has there been any change in the constituents at a gross margin level and at the -- or the operating margin level, because I see the employee costs being relatively flat despite the strong hiring, whereas, in the operating and administrative expenses seems to be a very significant jump?
+S. DURGA SHANKAR: When you look at personnel expenses, personnel expenses excluding sub-con was INR914 crores, INR913.6 crores for September, and in December it is INR909 crores. Sub-con expenses which come under other expenses in clause 41, that's about INR48 crores in September; it's INR58 crores in December. So, overall, as a percentage if you look at it to the revenue, both personnel and sub-con expenses taken together have reduced from 78% to 76%.
+PANKAJ KAPOOR: Okay. And any sense on the tax rate, what happened in this quarter and the outlook going forward?
+S. DURGA SHANKAR: As far as the tax is concerned, as we said last time, we have -- we normally do it on a yearly basis, estimate for the year, look at the regions and look at which are the countries where the tax comes and, accordingly, make a provision for it. This time because of -- there is a reduction in taxation. I would say about INR10 crores to INR13 crores were the sort of excess provided on the international tax front last time and that's why you see that this time there is a reduction. And there is also an additional factor of MAT which has come into play and that also has been provided for, so you see a total number of INR16 crores.
+PANKAJ KAPOOR: Okay. And, lastly, I was wondering if you're going back to the customers now and you are seeing a traction as far as your -- even the earlier customers coming in. How has been their responses on any -- or any pricing renegotiations? Are you seeing any pick up over there?
+ATUL KUNWAR: This is Atul. Just to respond on to that one, in the recent negotiations, actually, we are seeing the scenario where it has become more realistic and people are actually in the process of acknowledging that, as the expertise has increased, there will be differential, positive higher rates of -- that they would be willing to look at. Also the kind of business that we do, we do a fairly significant portion wherein we combine the entire model. So it's not just onsite, offshore and P&M, but it's really about fixed price outcomes etc. So net-net the realizations in these kind of scenarios do provide for an upside.
+PANKAJ KAPOOR: Okay. But is there any kind of a recognition that our pricing may be a bit more differential than what the other players might be having, and the clients are willing to help you to bridge that gap, in terms of giving you maybe slightly higher pricing hikes?
+ATUL KUNWAR: Well, we're getting increases, if that's the question that you're asking for. And you've said that bridging the gap is the assumption that our pricing is significantly lower than competition. Is that where you're coming from?
+PANKAJ KAPOOR: Yes. The reported number seems to be a little lower than the peer groups. I was wondering that is there any kind of acknowledgement of that at the clients' side also.
+ATUL KUNWAR: I think the geographies where we operate on are -- one is emerging markets and the other one would be developed. In both these markets there are differential pricings that really work across. And in both scenarios our pricing is pretty much aligned to the market pricing that you will see across those two if you look at them separately. The difference could be what you're seeing possibly is because of the mix and we do a significant portion of our business in the emerging markets also.
+PANKAJ KAPOOR: Fair enough. Thank you and all the best.
+OPERATOR: Thank you. The next question is from the line of Pratish Krishnan from Bank of America Merrill Lynch. Please go ahead.
+PRATISH KRISHNAN, ANALYST, BANK OF AMERICA MERRILL LYNCH: Yes, thanks. This is on your SG&A. This quarter we see a 250 basis-point jump in the SG&A expenses on a sequential basis. Maybe if you can just split that into what led to that increase? And is this the new level that we should be looking at?
+S. DURGA SHANKAR: Yes. First, I'll give you some broad-level details on that. On the other expenses, if you look at rent, there is hardly any change. It was INR31 crores for September; it's around the same number for December. And travel and conveyance was INR58 crores and this time it is INR56 crores, so there is a marginal reduction there.
+Marketing expenses have gone up a bit. This is because of overhang of FIFA marketing as well as there were also other marketing expenses which increased. So there is a marginal increase that you find there. Repairs and maintenance moved from INR16 crores to INR22 crores. This is because of one of our software licenses which we currently paid for, which was there from April onwards, so to that extent that related to that. Legal and professional was INR32 crores; that went up to INR40 crores. This is mainly project-related expenditure. And that accounts for the maximum -- the major heads.
+PRATISH KRISHNAN: Sure, I understand the legal end. Is that a recurring kind of thing, or is it one-off?
+S. DURGA SHANKAR: This legal and professional what we are talking of are not related to class action or other type of legal that we see. That is classified under exceptional expenses. What we are seeing here is, as I said, project-related expenditure as well as we may be paying professional expenses for recruitment, especially on-site recruitment, those type of things are classified here and, to that extent, that's to be considered as recurring.
+PRATISH KRISHNAN: Sure, fine. And, secondly, you have mentioned that Europe did very well for you. Any particular verticals which showed growth in European market?
+S. DURGA SHANKAR: Yes, it is Manufacturing and BFSI. These two have shown good results this time.
+PRATISH KRISHNAN: Okay, fine. Yes, thanks a lot. Yes.
+OPERATOR: Thank you. (Operator Instructions). The next question is from the line of Sandeep Agarwal from Antique Stockbroking. Please go ahead.
+SANDEEP AGARWAL, ANALYST, ANTIQUE STOCKBROKING: Yes, good evening to the management team and congratulations once again on reassuring the (inaudible) and get [INR1.2b] plus on the revenue side. Just a couple of questions, first, on the utilization part, what was the utilization on ex-trainees and including trainees, if you can throw some light on that?
+And, secondly, I just wanted to know what was the on-site contribution and off-site contribution.
+And, thirdly, I also wanted to know how you're going to control the attrition, as it is very high. It is very high as of now, so I think there must be some steps with the HR, I would have thought.
+S. DURGA SHANKAR: Okay. Utilization went up, last time. We said last quarter 71%; this time it is 73.5%. And what was your second question?
+SANDEEP AGARWAL: I wanted to know utilization rate including trainee and excluding trainee, both.
+S. DURGA SHANKAR: Yes. It is actually -- we don't have that many trainees in this particular quarter, so that's not a material number. No, it doesn't make a material change.
+SANDEEP AGARWAL: Okay.
+S. DURGA SHANKAR: What was your next question?
+SANDEEP AGARWAL: Off-site and on-site break up of revenue.
+S. DURGA SHANKAR: Yes. On-site and offshore break up, offshore last quarter was 42%, this time it is 41% and the corresponding impact comes on the on-site.
+SANDEEP AGARWAL: Yes. And third question was on the attrition rate.
+HARI T., CHIEF MARKETING OFFICER & CHIEF PEOPLE OFFICER, SATYAM COMPUTER SERVICES LIMITED: Sorry, what was the question on the attrition?
+SANDEEP AGARWAL: I just wanted to know what are the steps you are taking going forward to contain attrition.
+HARI T.: Okay, yes. So in the past few months what we have been attempting is to try and provide an opportunity to the people to decide on their career choices actually. Rotation, therefore, has been given a very high level of attention and that has helped us to make sure that those who are feeling fatigued or seek a career change within the organization have been provided.
+Among other aspects include what I would term as softer issues, such as enabling learning, for example, for on-site associates is another step that has been done which, traditionally, has been neglected. Especially in the last two years we have had to underplay that.
+The third one that has been brought into play is we have created an environment where we are telling people that and our systems are enabling younger leaders to surface in the organization. So we have some programs called the Global Leadership Cadre, the Shadow Board, some action-learning projects etc., where we are surfacing pretty young leaders from within the organization and then providing them greater visibility and a faster career track. So these are on the softer side. Apart from that, we continue to contemplate monetary changes as required by the market.
+SANDEEP AGARWAL: Thank you.
+OPERATOR: Thank you. The next question is from the line of Ashwin Mehta from Nomura. Please go ahead.
+ASHWIN MEHTA, ANALYST, NOMURA: Yes, sir. If you can give us a sense in terms of how our geographical distribution is in terms of revenues.
+S. DURGA SHANKAR: Geographical, yes. Europe we mentioned it went up 26% to 30%; APAC 13%, stays same; and Americas 55% to 52%, though, in absolute terms, at 138m, it remained the same.
+ASHWIN MEHTA: Okay. And, secondly, when we say that the journey is going to take another one and a half to two years, what do we mean in terms of growth, margins and profitability when we are talking about the same?
+VINEET NAYYAR: We are looking at our peers and we believe that that is what our objective is and that is what we would be aiming to achieve. Whether we succeed or not is something which only time will tell.
+ASHWIN MEHTA: Okay, okay. And, thirdly, in terms of taxation going into FY '12, what are we looking at?
+S. DURGA SHANKAR: Going into FY '12 it's a bit difficult to estimate because we'll have to make assumptions about whether the DCPI renewal will come or not. I think if we want to talk about Q4, I would suggest that the benchmark should be the nine-month rate.
+ASHWIN MEHTA: Okay. Okay, thank you. Thanks a lot.
+OPERATOR: Thank you. The next question is from the line of Madhu Babu from Systematix Shares. Please go ahead.
+MADHU BABU, ANALYST, SYSTEMATIX SHARES: Sir, which are the geographies which are showing strong growth? Is incremental growth being driven by emerging markets?
+S. DURGA SHANKAR: There we have already mentioned it is -- I already talked about America and Europe as well as APAC. The balance is India, which is -- it moved from 5% to 3% and Rest of the World improved by about some 1% to 2%.
+MADHU BABU: Sir, between the service lines which are the services which are seeing increased traction? And the outlook on the service line per sector.
+S. DURGA SHANKAR: In absolute number terms that is something which we have not been communicating so far, so you should kindly bear with us on that.
+MADHU BABU: Okay, sir. Thanks.
+OPERATOR: Thank you. The next question is from the line of Nitin Padmanabhan from Indiabulls Securities. Please go ahead.
+NITIN PADMANABHAN, ANALYST, INDIABULLS SECURITIES: Hi, thanks for taking my question. Sir, I just wanted a sense in terms of, if you look at the dollar number this quarter, what would that be and what kind of growth would that be?
+S. DURGA SHANKAR: In terms of dollar on consolidated results that, last quarter was $272m, this quarter is $284m and that growth rate is 4.3%.
+NITIN PADMANABHAN: Sir, if you look at it, you mentioned that volume growth was 2.5%. So the remaining would be because of the on-site shift this quarter?
+S. DURGA SHANKAR: That's right.
+NITIN PADMANABHAN: And that was the net increase in realization that drove the quarter?
+S. DURGA SHANKAR: Yes, that's another reason.
+NITIN PADMANABHAN: Right. Anything else that you could give in terms of some qualitative view in terms of whether the kind of growth that we're seeing this quarter is really sustainable, in a sense? Or any sense you could give in terms of pipelines or whatever that could give a sense in terms of how the quarterly run rates could look like?
+VINEET NAYYAR: If you look at it in perspective, by our measure it's a good growth rate, but by industry standard it is not spectacular. So I don't see sustainance (sic) of this kind of a growth rate an issue.
+NITIN PADMANABHAN: Sure. And with regards to any sort of timeline that you have for the merger, anything that could shorten the timeline, anything that could lengthen the timeline?
+VINEET NAYYAR: We have been stating for a long time that it is our intention to merge and that will further strengthen the logic of this acquisition so far as Tech Mahindra is concerned. The timing is yet not determined, so please bear with us. And as and when we can decide to initiate the process we will make a public announcement.
+NITIN PADMANABHAN: Sure, fair enough. Thank you very much, all the best.
+OPERATOR: Thank you. The next question is from the line of Abhishek Shindadkar from ICICI Securities. Please go ahead.
+ABHISHEK SHINDADKAR, ANALYST, ICICI SECURITIES: Hi, thanks for taking my question, just a couple of questions on the balance sheet metrics. Can you give us the receivables and the unbilled revenues' number for last quarter and this quarter?
+S. DURGA SHANKAR: Yes, I'll give it to you. I would give you the DSO part of it. Including unbilled revenue between Q2 to Q3, it remained flat at 106.
+ABHISHEK SHINDADKAR: Okay, thanks. And, separately, can you give us what is our operating -- hedging policy for the firm and what are the outstanding hedges?
+S. DURGA SHANKAR: Yes. Our policy is to hedge up to 24 months on a maximum and the current book is about $386m.
+ABHISHEK SHINDADKAR: And the rate for the rupee?
+S. DURGA SHANKAR: Our strike rate is at INR46.9 currently.
+ABHISHEK SHINDADKAR: Okay, thanks. And, lastly, when does the management think that they will be able to provide the operating metrics along with the earnings on a quarterly basis?
+S. DURGA SHANKAR: At this point in time, whatever we are sharing we have been able to do because we have been doing many manual workarounds. And we feel confident as we go along the next quarter and the next we will -- you'll see that coming out.
+ABHISHEK SHINDADKAR: Thanks and all the best.
+OPERATOR: Thank you. The next question is from the line of Ankit Pandey from SBI Cap Securities. Please go ahead.
+ANKIT PANDEY, ANALYST, SBI CAP SECURITIES: A question about -- you mentioned the fact that you see some employees rejoining. So did you have some special schemes there, like some other companies did at various points of time, and also some clients returning? Again, is there any special arrangement or any special offers there?
+HARI T.: Sure. On the issue of the employees rejoining, we have a couple of programs which were going. One was we have an alumni program called 'Remember'. It's also written as 'Re-member' to come back, so to speak. And that program has brought forth approximately about 600 people over the last 12 months.
+ANKIT PANDEY: Okay.
+HARI T.: In addition to that, I think we are very proud and pleased to have Sriram Papani who has joined us in the last few days, really, to come in to head the Enterprise Business Solutions Group. He used to lead the Enterprise Applications area in the past and then left us to go to an MNC for a brief period of time. So we have been able to bring him back into the organization. And we are at this point of time in conversation with at least two other senior leaders who intend to return. So, yes, there have been associate referral programs and initiatives that have helped us to get people back and we continue to focus on that in a big way.
+ANKIT PANDEY: All right. And about the clients returning?
+HARI T.: I'm going to pass it to Atul.
+ATUL KUNWAR: Yes, on the clients I think the key elements is really linked to our capability and our previous track record. And there was a period where there were challenges from that point of view because of financials and other things to really reinstate us back. With those impediments out of the way and the good experience that they've had with us in the past, and clearly-demonstrated capability in areas like Enterprise Business Solutions, Mobility and Enterprises, as well as in areas as basic as Testing, we're being invited to more and more of these scenarios. It did help, of course, and we had to make a special effort to keep in contact with those customers, so that's really the story there.
+ANKIT PANDEY: All right, okay, and a couple of more questions. One would be active customer accounts. Right now it is at 217. I believe -- what was the number, may I know, in the last quarter?
+ATUL KUNWAR: 214.
+ANKIT PANDEY: Pardon me.
+ATUL KUNWAR: 214.
+ANKIT PANDEY: 214, all right. Okay, marginally up.
+ATUL KUNWAR: The fact is we made more than $1m.
+ANKIT PANDEY: All right. And also you had more growth in Europe than in other areas. That's a little bit of a surprise. Can you focus -- can you tell me something more about which industry verticals and which service lines are seeing some traction here?
+ATUL KUNWAR: From a service line perspective and all the verticals that you're really looking at, the ones that are making a big difference for us are the Manufacturing and Banking and Financial Services. The third vertical which has retained its label as being almost stable is what we call Digital Convergence. So those are the three ones that are contributing a significant part of our revenue overall.
+Now, coming to the specific question of Europe and why we're seeing this growth, you're all familiar with the fact that in Europe, in certain areas, especially in geographies of -- that are Germanic as well as Nordic, have shown a very clear increase in terms of Manufacturing-related performance. And that's something that we've been able to participate in also.
+And from a Financial Services perspective there is restructuring that has happened across in the recent past, which has enabled us to become preferred partners for a range of the financial institutions that operate in Europe. So those are the two things that have driven this growth in Europe primarily.
+ANKIT PANDEY: All right. Any idea or -- and can you give me a number on what is the percentage of the number of clients in Europe?
+ATUL KUNWAR: We don't disclose that specifically at this stage, so I would not be able to talk about that.
+ANKIT PANDEY: All right, okay, then. That's it from me. Thank you.
+OPERATOR: Thank you. The next question is from the line of Sangam Iyer from Alfaccurate Advisers. Please go ahead. Mr. Sangam Iyer, your line has been un-muted. Please go ahead with your question.
+SANGAM IYER, ANALYST, ALFACCURATE ADVISORS: Hello, yes. Actually, I just wanted to get a sense of the DSO days. I just -- my call got dropped off at that time. Hello?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The call got dropped off.
+S. DURGA SHANKAR: About DSO you wanted to know. It is 106; the same.
+SANGAM IYER: 106 days, okay. Sir, on the other income front this quarter we have seen a strong jump in the other income. Can you give us some details on the cash balances?
+S. DURGA SHANKAR: Cash balances including mutual fund investments totaled INR3,000 crores.
+SANGAM IYER: And what was it last quarter, sir?
+S. DURGA SHANKAR: Last quarter it was INR2,900 crores.
+SANGAM IYER: Sir, could you give some more light in terms of what led to the strong jump in the other income, other than the ForEx part of it?
+S. DURGA SHANKAR: Yes, the other income mainly consists of, one, our interest on our own surplus fund investments, and the second thing is profit on sale of mutual fund investment that was a re-jigging of portfolio which we did to take advantage of the higher fixed deposit interest rates. So when you get out of mutual fund investments that gives you a profit. Those two are the major items of other income revenue.
+SANGAM IYER: Okay. So the current yields that we are looking at would be approximately around 7% going forward?
+S. DURGA SHANKAR: No, we are looking at in excess of -- it is between 8% and 9%.
+SANGAM IYER: 8% to 9%, okay, great, sir. Thanks a lot.
+OPERATOR: Thank you. The next question is from the line of Sandeep Shah from RBS Equities. Please go ahead.
+SANDEEP SHAH, ANALYST, RBS EQUITIES: Yes, sir. Just the question relates to the other expenditure, operating expenditure, as this quarter it has moved up. So do you expect with the growth coming back this cost efficiency, or the leverage on the cost is likely to come back on the operating expenditure?
+S. DURGA SHANKAR: Yes, I did go into item by item. If you look at some of the expenses, yes, there is leverage and some there may not be much of a leverage. Especially things like rent, there is a possibility of reducing further as we go along, once our own premises comes up and there is some more restructuring. So there we can expect, once capitalization happens, some element. But there are some other type of expenditures within that other expenses which may actually move in line with revenue. So you will have to make your judgment based on the composition that I gave you.
+SANDEEP SHAH: Okay. Sir, just again a follow up to the treasury. I think if we look at the yield in this quarter it is as high as 11% so -- because the average -- and I guess that the escrow account balance is not earning any yield. So in that scenario I think you are seeing this 11% you are looking going forward to close to 8% to 9%.
+S. DURGA SHANKAR: I think you are -- as I mentioned, there are two types of incomes -- major incomes, which I mentioned. One is interest on fixed deposits, which accrues regularly whether we realize it or not. There is another element which I told you, which is where mutual fund investment profit that happens only when you re-jig the portfolio or when you exit. That amount has been substantial and for this quarter it has been INR23 crores.
+SANDEEP SHAH: Okay.
+S. DURGA SHANKAR: Last quarter it was INR6 crores.
+SANDEEP SHAH: Okay. And just the last thing is, as Vineet said that the sustainability of the growth rates may not be a challenge, so this we are looking only for the coming one or two quarters, or we are just saying for the year CY '12 or FY 2012 -- CY '11 or FY 2012 as a whole?
+S. DURGA SHANKAR: You're talking about which growth rate overall?
+SANDEEP SHAH: The q-on-q growth rates which Vineet has said are sustainable.
+VINEET NAYYAR: Well, what I've said really is that our trajectory, our objective is to reach the industry standards. And to that extent we have made some steps forward, but yet we are significantly lower than what the industry level is. Going forward it is our objective to reach the average industry level and, therefore, the current growth rate, I suspect, has to be sustainable, otherwise we won't reach the objective we have set for ourselves. And we have a fair confidence that we will reach those objectives.
+SANDEEP SHAH: Okay, thanks.
+OPERATOR: Thank you. The next question is from the line of Hardik Shah from K.R. Choksey. Please go ahead.
+HARDIK SHAH, ANALYST, K.R. CHOKSEY: A very good evening, management. Sir, what is the utilization level we are targeting going forward? Will it be higher than 73.5%, or you're targeting lower than that going forward?
+S. DURGA SHANKAR: 73.5%, but going forward what it will be.
+UNIDENTIFIED COMPANY REPRESENTATIVE: We're expecting that the utilization rates will go up in the coming quarter and we should be able to sustain ourselves at utilization levels of around 75% or so.
+HARDIK SHAH: Second question. What is the percentage of your employees having less than two years' experience?
+HARI T.: We will probably have to do a quick check on that. We can come back to you separately. We've made a note of that.
+HARDIK SHAH: Sure, sir. And, sir, third question, sir, what is the campus hiring you are targeting in FY '12?
+HARI T.: What is the campus hiring?
+HARDIK SHAH: Yes, sir.
+HARI T.: Okay. So we're looking at for the next year approximately about 3,000, 3,500 people to be brought in. And we are -- at this point of time we have short listed about 90 campuses across the country from where we are hiring and that process has currently concluded about 45% or 50% of the requirement so far.
+HARDIK SHAH: And, sir, the final question. Sir, what will be your freshers' and lateral hiring target in FY '12?
+HARI T.: We really won't be able to give any specific directions to that extent, but you should probably know that the entry-level hiring which I talked about is definitely something that we're investing in. Lateral is something that we will do more on a need basis, but at this stage we may not be able to give you a specific direction on that.
+HARDIK SHAH: Okay, sir. Thank you, that's it from my side.
+HARI T.: I appreciate that, thank you.
+OPERATOR: Thank you. The next question is from the line of Parag Mehta from Barclays Capital. Please go ahead.
+PARAG MEHTA, ANALYST, BARCLAYS CAPITAL: Thanks a lot for taking the question. Essentially, in terms of the segmental breakdown that we see, you segmented IT Services and BPO, within IT Services which are the key segments that you've seen a lot of participation as far as RFPs are concerned? If you can break it up between Infrastructure Managed Services or Testing and etc. So that's the first question.
+The second question is around the BPO business. I see that the BPO business on a quarter -- annualized run rate -- revenue run rate is more so flattish. So is there -- what is the view on the BPO business and the strategy around the same?
+ATUL KUNWAR: This is Atul. As far as the business element that we're talking about including these kind of services, clearly, the largest portion of our services are what we call Enterprise Business Solutions. This includes things like ERP, integration of solutions for customers across different platforms and so on and so forth, also the (inaudible). So the solutions are a key element of our business composition. Infrastructure-related services growth is the other one where we have seen major traction at this point of time. So those are the two which are really guiding any enhancements that we're talking about at this point of time.
+Your second question was on BPO, right? On BPO there is a particular trajectory that we have put into play and you should see some action and results on that fairly soon in the next couple of quarters. Our BPO story really is around building solutions which are platform-centric and can be replicable, so some interesting ones have been in play. And we have also had some initial transition and knowledge transfer things that are happening at this point of time. And we should see the benefits of that coming forward.
+PARAG MEHTA: Wonderful, thank you.
+OPERATOR: Thank you. The next question is from the line of Pinku Pappan from Nomura. Please go ahead.
+PINKU PAPPAN, ANALYST, NOMURA: Good evening. Thanks for taking my questions. Can you tell us whether the personnel costs include your sales and marketing personnel costs too?
+S. DURGA SHANKAR: Yes, it includes.
+PINKU PAPPAN: Okay. And my second question is can you give us the headcount of your -- of the BPO division?
+UNIDENTIFIED COMPANY REPRESENTATIVE: It is 2,305 for the end of third quarter.
+PINKU PAPPAN: How much was it in the last quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: The quarter before was 2,217.
+PINKU PAPPAN: All right. Thank you very much.
+OPERATOR: Thank you. The next question is from the line of Shweta Malik from Marwadi Shares and Finance. Please go ahead.
+SHWETA MALIK, ANALYST, MARWADI SHARES & FINANCE: Hello, sir. Thank you for taking my questions.
+OPERATOR: Ms. Malik, I'm sorry to interrupt. We cannot hear you clearly.
+SHWETA MALIK: Yes. Is that audible?
+OPERATOR: Yes, please go ahead.
+SHWETA MALIK: Yes, my first question is regarding the kind of -- I just wanted to have a sense on the number of deals that we have won in the quarter and what was the size. And also if you can give just a feedback as in what kind of deals that are coming up going forward and which service lines have been getting the major traction.
+VINEET NAYYAR: Atul, you want to talk about the deals?
+ATUL KUNWAR: Let me address the second element first in terms of the kind of deals and which areas are we seeing deals. Our deals that we are seeing across are fundamentally around Manufacturing, Banking and Financial Services and what we call Digital Convergence. We're also seeing a resurgence in the Retail and Travel Logistics segment for us. So that's on a global-picture basis.
+From a services line perspective it continues to be around Enterprise Business Solutions and Infrastructure Management Services. Those are the ones that are key drivers at this point of time, besides the traditional Application Development and Maintenance Services that we continue to support in a big way.
+Your other question was in terms of what size of deals?
+SHWETA MALIK: Yes.
+ATUL KUNWAR: We are participating in size of -- the deals that we're participating are really very fairly extensively, but if you were to ask me about the areas where we're seeing traction that would be deals in the range of between $30m to $100m. That's where we're seeing the maximum kind of traction at this point of time.
+SHWETA MALIK: Okay, sir. And can I have a break up in terms of the fresher to lateral addition in this quarter?
+ATUL KUNWAR: Can you just repeat that? Sorry, we didn't follow that.
+SHWETA MALIK: Yes. I just wanted to have a break up of fresher to lateral addition in the quarter.
+ATUL KUNWAR: Hari, could you handle that?
+HARI T.: Yes. See again --
+SHWETA MALIK: Hello.
+HARI T.: Mostly this quarter the Q3 has been laterals. I think most of our fresher intake happened during Q1 and Q2 and there is a small number that's expected in this current Q4. But the Q3 quarter has been mostly laterals; it's almost as high as about 80%.
+SHWETA MALIK: Okay. And, sir, what is the current debt position and what would be the CapEx spend going forward?
+S. DURGA SHANKAR: We don't have significant debt on our balance sheet. It is around INR31 crores at the end of the quarter. And the CapEx for the next six months or so will take somewhere around INR200 crores.
+SHWETA MALIK: Okay, sir. And just a last question, I just missed out on the repairs and maintenance. How has that cost gone up from the September to December quarter?
+UNIDENTIFIED COMPANY REPRESENTATIVE: I think one of the important constituents of repairs and maintenance war was the software that we had bought for use for one of our clients. And this software was bought for the period commencing on (inaudible), so the payment for this software was paid in the last quarter and that expense [was being posted] in the third quarter.
+SHWETA MALIK: Okay. Okay, sir, that was really helpful. Thank you so much.
+OPERATOR: Thank you. (Operator Instructions). The next question is from the line of Ashwin Mehta from Nomura. Please go ahead.
+ASHWIN MEHTA: Sir, I just had one question. In terms of -- what are we looking at in terms of using our cash? We have an excess of INR3,000 crores. Are there any particular purposes that we are looking, like applying this cash to come up to the growth rates of the peer group?
+ATUL KUNWAR: Vineet?
+VINEET NAYYAR: We have a significant amount of cash and, as and when non-organic opportunities arise, we will look at that to give a further impetus to the growth we're having. Other than that, at this point of time we have no particular use for planned for it, other than the fact that it gives us a good feeling that we have significant cash resources to bank on and use them whenever an opportunity comes up.
+ASHWIN MEHTA: Okay, thanks a lot.
+OPERATOR: Thank you. Ladies and gentlemen, that was the last question. I would now like to hand the floor back to the management for closing comments. Please go ahead.
+VINEET NAYYAR: Folks, thank you very much in participating in this call. Your interest and your analytical questions keeps us on our toes and we hope that we will continue to dialogue like this going forward.
+As I said in the opening remarks, we have reasons to be satisfied with the progress so far made. And to that I would add that the largest -- the major contribution in this progress has been the tenacity and the resilience of our employees who, despite incredible challenges, have kept an optimistic spirit and diligent capability and diligent hard work.
+I would also like to make one tiny announcement. Durga, who has been in many ways the backbone of all the efforts which we have made, especially in terms of in the financial area, has decided to revert back to Mahindra & Mahindra, which is the parent of his parent organization.
+He is being replaced by Vasant Krishnan, an equally competent professional also from Mahindra & Mahindra. Vasant has considerable experience in managing finances. He has worked in the areas of private equity. He has worked in mergers and acquisitions. He has worked as the CFO for a Mahindra company and he has also worked in real estate. He brings a rich experience and an insightful mind and we hope that he will continue in the outstanding tradition set up by Durga.
+With that, I would like to close the meeting, thanking you once again for your participation and for your interest. Have a nice day, ladies and gentlemen.
+OPERATOR: Thank you, gentlemen of the management. Ladies and gentlemen, on behalf of Mahindra Satyam that concludes this conference call. Thank you for joining us and you may now disconnect your lines.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2011 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2011 Roll Call, Inc. ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Roll Call's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Roll Call so long as they provide conspicuous attribution to Thomson Financial and Roll Call as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Corporate profits; Earnings
+
+Business indexing term: Subject: Corporate profits Earnings
+
+Company / organization: Name: Thomson Financial; NAICS: 513210, 518210, 519290
+
+Title: Q3 2010/11 Satyam Computer Servic es Limited Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2011
+
+Publication date: Feb 14, 2011
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 854123852
+
+Document URL: https://www.proquest.com/newspapers/q3-2010-11-satyam-computer-services-limited/docview/854123852/se-2?accountid=27562
+
+Copyright: 2011 CCBN, Inc. and Roll Call, Inc.
+
+Last updated: 2024-12-04
+
+Database: ABI/INFORM Collection

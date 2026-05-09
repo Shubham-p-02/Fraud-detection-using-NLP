@@ -1,0 +1,237 @@
+Q4 2010 Satyam Computer Services Limited Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q4-2010-satyam-computer-services-limited-earnings/docview/757664327/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Ladies and gentlemen, good morning, good afternoon, good evening and welcome to the Mahindra Satyam earnings conference call for the year ended March 31, 2009 and March 31, 2010. As a reminder, for the duration of this conference, all participants' lines will be in the listen-only mode. There will be an opportunity for you to ask questions at the end of today's presentation. (Operator Instructions). Please note that this conference is being recorded. At this time, I would like to hand the conference over to Mr. Vineet Nayyar, Chairman of Mahindra Satyam. Thank you, and over to you, sir.
+VINEET NAYYAR, CHAIRMAN, MAHINDRA SATYAM: Welcome, ladies and gentlemen. Good morning, good afternoon, good evening, wherever you are. And so far as we at Mahindra Satyam are concerned, I do believe that today marks a major landmark in our journey towards normalization in this Company. We have declared the Indian GAAP results for FY09 and FY10 earlier this evening.
+Before I get into the numbers, I would be remiss in not pointing out the immense effort and time which has been spent by employees, especially in the Finance Department.
+As you know on January 7, 2009, following the confession to accounting fraud and subsequent resignation of the Chairman of Satyam, left the Company, its clients, employees and investors in significant turmoil, and caused what is considered to be the biggest crisis in the Indian corporate history. As additional details of the fraud emerged, it became evident that the fraud was perpetrated by a select group of individuals, who overstated the financial performance and did not reflect the failure of Satyam's business and organizing -- operating skills and its business model. While the government and judiciary took action with the fraud perpetrators, a massive effort was needed to protect the interests of Satyam's employees and clients, as well as to uphold the image of the industry and of emerging India.
+In our opinion, we have done extremely well when compared to global standards in terms of turnaround time taken to restate our numbers. A number of companies who went through similar situations have taken a longer period to restate, even up to five years or more. What is perhaps more commendable is when you compare the time to state versus the complexities involved here.
+Some of the key highlights are as follows. Revenue was overstated by INR5,362 crores over a period of six and half years, from April 1, 2002 to September 30, 2008. Cash was overstated by INR5,294 crores as of September 30, 2008. Most of the details of the other aspects are in our Stock Exchange release and are on Company's website.
+Our Company felt the impact of the fraud, and it was manifested across various aspects. There was customer restlessness resulting in some amount of attrition. Employees were obviously nervous, resulting in exits. Further compounded was the factor of excess employees in the system. There were delays in collection of dues from our customers, and our ability to meet contractual obligations in certain contracts on time.
+The past year has indeed been challenging, but we do believe we have been able to retain customers, and in certain cases grow them. So, just 480 days since Mahindra Group acquired Satyam and sought to stabilize the Company, we now have a new tomorrow to consider.
+Coming to the numbers, revenue in FY09 was around INR8,800 crores; net income was negative INR8,176 crores. Due to the circumstances, we had to take some exceptional charge on our P&L due to the fraud. Before exceptional items, our EBITDA was INR301 crores in FY09 and the net income was INR184 crores. So, in other words, whereas the net income for that year was INR184 crores, there were a large number of exceptional items which bloated the loss to this huge number I referred to.
+In FY10, our revenues were INR5,480 crores, and our net income was negative INR124 crores. However, before exceptional items, the EBITDA was INR456 crores and net income was INR293 crores.
+Now, let me refer to what is it that we imply by exceptional items. These are items which do not pertain to the industry. They are either adjustments on account of fraud, but for the FY10 they are adjustments on account to one-time expenditure which had to be done by the Company for meeting the peculiar situation, or for rationalizing or for downsizing. So, the amount of money we spent on virtual pool, amount of money which is going into litigation pertaining to the fraud and not normal litigation -- contractual legal, downsizing or buying out real estate contracts so that we could get out of the contract. All these items we have declared as being extraordinary.
+So, if you were to look at the Company as is, and if it was working normally, I presume our EBITDA for the current year would be around 8.4%, in relation to 3.6% in the last year. So this net/net indicates the current state of health of this Company financially.
+Now I'll ask my colleague CP Gurnani, who is the Chief Executive Officer of this Company, to indicate -- to give his views on how we stand today.
+CP GURNANI, CEO, MAHINDRA SATYAM: Thank you, Vineet, and thank you, friends. Ladies and gentlemen, I am really grateful to all of you for your support during the most difficult times for industry, as well as Mahindra Satyam in general, over the last 600 plus days.
+It doesn't matter. The fact is that on December 16, once that announcement or merger took place in 2008, things did start going into a spin. And that on April 13, when we were declared the bidder, or on May 27 when we were allowed a proper access to the Company's management, I think it was a very deep slide; it was a deep cascade that happened. But as you have heard from Vineet, that overall the Company has been able to not only survive the shock, but is today in very capable hands.
+I want to quickly invite the whole management team to come and join us on this conference call. With me today are Hari T, who is our Chief People Officer and also our Chief Marketing Officer; Rakesh Soni, who is our Chief Operating Officer and President of the Company. He looks after the delivery and the administration. I have Rajan. Rajan is our -- Head of our Enterprise Business Solutions, one of the very important service offerings of the Company. Then I have AS Murty, who is the ex-CEO of the Company and also the CTO of the Company. I have Vijay Rangineni, who is the CEO of our subsidiary for BPO. I have Durga Shankar with me, who is the CFO of the Company. And then we do have one of our most energetic people in the Company, Atul Kunwar, who looks after the global operations.
+So, in general, what we are trying to really stand up and salute is to our customers. They've been our assets. And no words will suffice to thank them enough for having stayed with a company which got hit by probably an accident that's very difficult to explain. And I know Vineet has given you a picture of -- starting 2002, just to explain to you the extent of that damage was. But overall, we genuinely want to thank our customers who have been our partners, who have indeed been with us and stayed with us during this journey.
+Our associates, our employees, they are the real spirit of the Company. They are the people who have continued to deliver. The fact is that the Company inherited -- all the customers that were inherited have continued to give extension of the contracts, have continued to stay with us. This is only because of A, the investments that we have done and continue to invest in technology. But more important is the confidence that our associates have had in the overall direction of the Company, overall vision and mission of the Company.
+So, in terms of the way our go-to-market is structured at the moment, we are really working on three fundamental advantages, as I say. One is what I call the Satyam advantage, which is the Mahindra Satyam advantage now, which is a company built around the Enterprise Business Solution, Business Intelligence, Engineering Services, Infrastructure Management, and also our capability to do some niche service offerings in BPO.
+But the second advantage is what I call the Tech Mahindra advantage. Tech Mahindra advantage is clearly the one that differentiates us in the business market. Number one is Mobility Business Solutions and number two is our overall understanding of the market, which works on Five Nines for a living. You don't work and design an application where you get to see a dead dial tone, and that's where I see that as a Tech Mahindra advantage. We collaborate with them in areas of BPO infrastructure, Mobility Business Solutions, and some of our horizontal business service offerings.
+The third advantage is the Mahindra Group. Mahindra Group has, as you know, 10 large divisions. Mahindra Group, some of the biggest divisions are built around manufacturing, whether that is in the newest baby on the block like aerospace or mature manufacturing groups like farm equipment sector and the automotive sector.
+Overall, my belief and the way I have tried to leverage is that we can take advantage of the domain skills and experience that counts. We offer that as a choice to our customers. And in many cases we have seen that people have readily agreed to come and visit with us and look at some of the best practices in manufacturing, some of the best practices in innovation, which comes outside the IT industry, and seeing that in many of them has grown the sectors.
+So, overall, all I can tell you is that the Company has survived the loss of customers. They were not insignificant. As a matter of fact, some of our best known customers, as you all know, [that was] Coke or Telstra, decided to go away. And -- but we've still inherited about 350 customers. We still inherited some of the best known logos in the world. We continue to build with them.
+So our strategy, clearly, as we go forward, is to continue to invest in our competencies, continue to invest in innovation. As a matter of fact, we have three task forces which are leading the transformation. And one of the task forces looks at growth which is (technical difficulty). Atul personally runs it, because he is the guy who takes into account what the needs of the customers are, what the needs of the new customers are or prospects are. The second task force and the whole division which is based around technology and innovation is run by AS Murty, whom you all know is a 29-year veteran and also has one of the best known faces of Satyam. He leads it personally.
+And the third area, around operating metrics, which is co-managed by our Chief Operating Officer, Rakesh Soni, and Durga. And ultimately, on operating metrics, we are looking at all the questions that you have. We are looking -- constantly looking at pricing; we are constantly looking at margins; we are constantly looking at our utilization; we are constantly looking at all the operating levers.
+So what I wanted to really establish, as we talk during this next 30 minutes, is that the Company did take -- Tech Mahindra did take a calculated risk. But as you would go through this conversation with us, you would realize that it was done at the right time, and it has been -- it has not only been good risk management from our perspective and Tech Mahindra, but overall also the team is enthused and generally rallying together to complete the transformation journey, where we do believe there is additional work left for the 18 or 19 months.
+So with this, I'm going to request the operator to throw it open for questions. And me and the rest of the management team will make all attempts to give you the answers.
+OPERATOR: Thank you. (Operator Instructions). The first question is from the line of Kawaljeet Saluja from Kotak. Please go ahead.
+KAWALJEET SALUJA, ANALYST, KOTAK SECURITIES: Hi. My first question is that can you just talk about the exit rate for both revenues and margins?
+DURGA SHANKAR, CFO, MAHINDRA SATYAM: Yes. This is Durga Shankar here. As you will have seen, we have (technical difficulty) annual numbers. And as we have a special dispensation CLB, these numbers are not given in quarterly terms. So, at this point in time, what we have given you is annual numbers, so I'm not able to -- in a position to actually clearly indicate what would be the -- what are the exit numbers for the quarter.
+KAWALJEET SALUJA: Okay.
+CP GURNANI: Kawaljeet, 45 days more on, November 15 or earlier, we would endeavor to come back to you with our Q1 and Q2 result, and that is the time when these questions will be answered in full detail.
+KAWALJEET SALUJA: Right. Okay. Now, the second thing is that can you just basically talk about the liabilities which have been crystallized but not paid till March 31, 2010, and just briefly talk about status on various liabilities and any potential suits filed against Mahindra Satyam?
+VINEET NAYYAR: I think, Kawaljeet, most of the liabilities have been extinguished. And we are -- other than class action suit, because of that we don't know what the liability is. This spans the entire spectrum from paying off debt to giving money for certain liabilities which were created under various contracts which Satyam had entered into, in addition to making payments for new acquisitions which Satyam had done but not paid. So almost every liability has been extinguished, other than at this point of time the class action suit.
+KAWALJEET SALUJA: Right. And finally, what has been the cost of retaining the customers, if there was any, over the last year or so, whether in terms of pricing or concessional or special contractual structures? And has that in any way materially changed your pricing and profitability structure -- potential profitability structure relative to your peers?
+VINEET NAYYAR: I don't recall any deduction being made for this -- for reason of extending a contract. In most of the -- there have been instances where we have gone in and secured price increase, but I don't believe we have reduced prices in any contract -- extension of any contract.
+KAWALJEET SALUJA: Sure. Thank you. All the best.
+VINEET NAYYAR: Thank you, sir.
+OPERATOR: Thank you. The next question is from the line of Ashwin Mehta from Nomura. Please go ahead.
+ASHWIN MEHTA, ANALYST, NOMURA: Yes. I just wanted to get a sense in terms of the quality of receivables. We have around INR923 crores outstanding. What proportion of that will be more than six months?
+DURGA SHANKAR: So, at this point of time, on quality of receivables you would have seen there is a provision made and an exceptional item. And for the year 2009 it is about INR419 crores. And as far as '09/'10 also, there is -- reasonable provisions have been made, but they are not classified as exceptional. So you can rest assured that the quality of receivables has been taken care of by liquid provision.
+OPERATOR: This is the operator. Mr. Mehta?
+ASHWIN MEHTA: Yes. Just wanted to get a sense of if there are any portion of these receivables which are pending from the clients which are ramp-down in terms of business?
+DURGA SHANKAR: It is difficult to specifically [cut out] this -- the outstandings from customers who are ramping down or not. But as I said, there has been adequate provision made. That's not at all a cause of concern at this point in time.
+ASHWIN MEHTA: Okay. And secondly, in terms of -- are there possibilities of tax benefits, given the accumulated losses that Satyam was running at in the past, going forward?
+DURGA SHANKAR: The matter of tax dispute has also been actually in detail explained in our press release. Fundamentally, this is an issue which is -- there is also some issues connected with that. So it's a bit premature to hazard a guess on how much would be the refund, if any, or would there be ultimate tax demand, which is the position which we have also taken in our notes. We have clearly stated that we have been professionally advised to leave the provision as it is and not really tamper with it by either adding or withdrawing at this point in time.
+ASHWIN MEHTA: Can you give us a sense in terms of the tax rate going into the future?
+DURGA SHANKAR: As far as last year was concerned, there is hardly any tax except orders paid abroad. And going forward, it would depend upon this year's revenue. Ideally, I wouldn't like to hazard a guess on that.
+ASHWIN MEHTA: Okay. And the last question is in terms of the headcount that you have stated, 45,000 and 27,000. Are these the closing headcounts for FY09 and FY10?
+CP GURNANI: Ashwin, you're right; these are the closing numbers.
+ASHWIN MEHTA: Okay. Okay. Thanks a lot.
+OPERATOR: Thank you. The next question is from the line of William Miller from JM Hartwell. Please go ahead.
+WILLIAM MILLER, ANALYST, JM HARTWELL: Yes. Thanks very much. Could you go into the background a little bit on why you are delisting from the New York Stock Exchange?
+And then there is a somewhat ambiguous, at least as far as I was concerned, announcement about Mahindra to announce Satyam Computer merger intent in two to three weeks. Could you give us a little color on that? I have no idea what it means.
+VINEET NAYYAR: Let me talk of delisting first. As you are aware, that you have to be current in terms of accounting in US GAAP with NYSE, and if you are not current for six months you can be de-listed. We were -- while we have been able to produce the Indian accounts according to the Indian auditing practices -- accounting practices, we have not been able to do that for US GAAP because it was a very complex fraud. It will take us another six to eight months to complete US GAAP accounts, which will then be filed with SEC and then we'll become current.
+The choice was either have NYSE de-list us, or we voluntarily de-list. We, in conversation with NYSE, decided that we will de-list voluntarily and the share will be traded now in the OTC, and that's exactly what will happen. So that is insofar as delisting is concerned. Will we go back to NYSE, once we are current under US GAAP? We haven't taken a decision on that yet.
+There was a second question you had asked, if you could kindly repeat.
+WILLIAM MILLER: Yes. Sorry if you didn't get it. There was an announcement on the -- here, dated this morning, which says Tech Mahindra to announce Satyam Computer merger intent in two to three weeks. Now, there is no other --
+VINEET NAYYAR: No. I --
+WILLIAM MILLER: Nothing (multiple speakers).
+VINEET NAYYAR: I think there has been a mis-reporting here. It has always been the intention of Tech Mahindra when it acquired Satyam that these two companies will merge. But even the process cannot be initiated till we are current, even by -- in terms of Indian accounting standards. And we will not be current till October -- till November 15 or so, when we publish the results of Q1 and Q2 of this year.
+Once that happens, the Board will consider whether it would wish -- will consider the process of merger, but that process takes normally nine months to a year. So I hope that kind of corrects the perspective. It's not something which can or will be done instantly, or in the next five to 10 days. We are still a way from it by at least one year.
+WILLIAM MILLER: But the ultimate intent is to combine the two companies - is that correct?
+VINEET NAYYAR: Pardon? I --
+WILLIAM MILLER: The ultimate intent Mahindra is to combine the two companies?
+VINEET NAYYAR: Yes, clearly. And that was stated upfront as way back as April 13 of last year, the day we won the bid.
+WILLIAM MILLER: So the question for stockholders is the valuation thereof. Is that a fair statement?
+VINEET NAYYAR: In terms of valuation, there is an elaborate process in India how the valuation is done. Once the -- you first move the High Courts. When they give the nod, then you appoint accountants, which will do fair value valuation of both the companies. They will propose certain swap ratios, which will then have to be approved by the Board of the two companies and by the AGM. And obviously we will follow the procedures which have been established in India for the merger.
+WILLIAM MILLER: Great. And finally, as we look out over the next six to nine months, which is when this process will start taking place, obviously the consideration of valuation anyway, can you give us some clue on the expected trend in margins and the trend in revenue? And since Infosys and Cognizant Technology are comparable companies in some ways, will your margins ever get to that point again? And what will it take to get them there?
+VINEET NAYYAR: Sorry; we cannot make commitments, statements or projections. That's not the policy of this Company.
+WILLIAM MILLER: Is there anything that structurally would prohibit getting back to your traditional margins, which would be comparable to those other competitors?
+VINEET NAYYAR: Well, our traditional margins of Satyam were always 3%. That's easy. That's already done. If you're talking of the industry, that will be our endeavor, but let us see how it works out.
+WILLIAM MILLER: Okay. Thanks a lot.
+OPERATOR: Thank you. Ladies and gentlemen, you are requested to limit your questions to one per participant. The next question is from the line of Sandeep Shah from ICICI Securities. Please go ahead.
+SANDEEP SHAH, ANALYST, ICICI SECURITIES: Yes. Just in terms of the cost items, like the employee cost for the FY2010, I guess it's not been normal, because you have introduced virtual pool program, plus there were some variable pay cuts. So is it fair to assume that in FY2011 you will have a normalization of your FY10 employee cost, and over and above that you will have a wage inflation which is normal for the FY11?
+CP GURNANI: Well, Sandeep, we are quite conscious of the two factors that you mention. That's number one is the percentage of employee cost to our revenue. In our opinion, we will have this for a brief period of time much higher than the industry for a simple reason is a company -- as you know, many CFOs around the world were waiting for these results to be stated, because it is -- it became a compliance requirement for them. So all I'm trying to say is the Company will hit the growth curve; it will be slightly gradual. And once we start sustaining the growth, then this percentage will come down. That is the employee cost.
+The second point you mention -- what was it, Sandeep, the second part of that question?
+SANDEEP SHAH: Yes. The first part is the employee cost normalization, which is like the INR4,000-odd crores which we have shown. I presume that it's not a normalized run rate. And the second is FY11 wage inflation.
+CP GURNANI: FY11 wage increases to some extent have been already factored in. An average increase that -- but you would not see them because, as I said, you'll have to wait for the quarter one/quarter two results and -- but you are not wrong that the growth would be gradual, whereas some of the costs would come in. And all I'm trying to say is that overall the Company is conscious of some of these operating levers and is constantly working.
+SANDEEP SHAH: Okay. Okay. And we also made a statement on the media that we may take one and a half to two years to go to the industry standard. So, if I just do analyze this statement, does that mean that we are looking at industry standard, A, in terms of utilization, B, in terms of the revenue growth rates, and C, in terms of EBITDA margin? This is what you are broadly indicating, that it may take one and a half to two years?
+CP GURNANI: That's right.
+SANDEEP SHAH: Okay. Okay. And third, in terms of (inaudible) consolidation, has it been fully over or more time to say the depreciation expense may further go down?
+VINEET NAYYAR: Well, we have started certain -- putting up some buildings on our own. Capital expenditure is taking place. I think we have this year spent already over INR100 crores on -- INR20 crores on this. Idea is that this will bring down our SG&A in terms of rentals will come down. We will move people from rented buildings to our own buildings. These were structures which were -- which had been put up during the -- by the previous management, but they had been abandoned for lack of funds halfway through. So basically they were just civil structures which we are now completing. This is again in an endeavor to bring down costs.
+SANDEEP SHAH: Okay. And this is the last thing. On the balance sheet, there's an investment item of INR627 crores. What is that?
+VINEET NAYYAR: Durga?
+DURGA SHANKAR: Yes. I'm just looking at -- are you talking about the consolidated balance sheet?
+SANDEEP SHAH: Yes.
+DURGA SHANKAR: These are our investments, subsidiary investments.
+SANDEEP SHAH: Okay. Because, sir, it's consolidated; that's why I thought (multiple speakers).
+DURGA SHANKAR: Yes. There are also other investments apart from that. We also have investments out of our surplus funds. That also comes in.
+SANDEEP SHAH: Okay. So these are like part of the cash/cash equivalent, or --?
+DURGA SHANKAR: Yes.
+SANDEEP SHAH: Okay.
+DURGA SHANKAR: Overall cash which we had restated as (inaudible) is in excess of INR2,100 crores on hand.
+SANDEEP SHAH: Okay. So of the INR627 crore, what would be the cash/cash equivalent?
+DURGA SHANKAR: Sorry? I didn't get your question.
+SANDEEP SHAH: Of the 627 (multiple speakers).
+DURGA SHANKAR: Yes, I told you. No, overall cash, it will be of that magnitude. What you are seeing is consolidated. My answer to you wasn't standalone.
+SANDEEP SHAH: Okay. Okay. Thanks. I will come back later.
+VINEET NAYYAR: Operator?
+OPERATOR: Thank you.
+VINEET NAYYAR: Operator, can you also please suggest in interest of equity that in the first round everyone confines themselves to one question?
+OPERATOR: Sure.
+VINEET NAYYAR: And then, if there is time, we can go to questions a bit more.
+OPERATOR: Sure, sir. Participants are requested to limit their questions to one per participant during the initial round. Additional questions can be taken later. The next question is from the line of Vikram Kotak from Birla Sun Life Insurance. Please go ahead.
+VIKRAM KOTAK, ANALYST, BIRLA SUN LIFE INSURANCE: Yes. I have two questions, actually. I didn't get your press release. I just want to know what is the cash balance as of March 2010?
+DURGA SHANKAR: INR2,176 crores.
+VIKRAM KOTAK: INR2,176 crores?
+DURGA SHANKAR: Yes.
+VIKRAM KOTAK: Okay. And just one --
+DEVEN SANGOI, ANALYST, BIRLA SUN LIFE INSURANCE: Sir, congratulations on the turnaround. This is Deven Sangoi. I would like to know what is the status of our bidding in the large outsourcing deals? And what will be our strategy going forward for the same?
+CP GURNANI: Deven, Atul is -- Deven, in terms of large deals, it's a full recovery program, because the fundamental fact is that, as you know, in this industry there are two hugely influencing factors. Number one is the analysts which cover the technology sector. The second part is that we also have a huge influence from the -- overall what I would call CXOs in their organization. So in a lot of ways, our lack of statement of accounts was a dampener in our being able to participate in the large deals.
+Just to demonstrate, Deven, that we have done -- we have planned a series of events. For example, today we are talking to you. Then, on October 19, we are taking this in a roadshow to London, where all the industry analysts from Gartner, Forrester, the whole lot, the TPI will be together, where we will share with them not only our competency roadmap but also about some unique experiences. Similarly, the same roadshow is being taken to Boston on October 21. We are also going to do a series of communication targeted at the CXOs, so that we can get back into the large deals.
+There is a lot of catch-up to be done, Deven, there. And that's why I said it'll be a gradual process of hitting the growth numbers which you would expect from a company of our size or references.
+DEVEN SANGOI: Okay. And in terms of the attrition, would you be able to give any kind of light on that subject?
+CP GURNANI: Is it a second question, Deven?
+DEVEN SANGOI: Yes, it's a second question.
+CP GURNANI: I'm sure the same question will come up, but I would like to follow the instructions given by my Chairman.
+DEVEN SANGOI: Okay. Thank you. Thank you.
+OPERATOR: Thank you. The next question is from the line of Srinivas Sheshadri from RBS Securities. Please go ahead.
+SRINIVAS SHESHADRI, ANALYST, RBS SECURITIES: Yes. Hi, everyone. I just had a question in two parts.
+OPERATOR: Mr. Sheshadri, I'm sorry to interrupt, we cannot hear you clearly.
+SRINIVAS SHESHADRI: Yes. Is that better now?
+OPERATOR: Yes. Please go ahead.
+SRINIVAS SHESHADRI: Yes, okay. I just had a question on the cost items in two parts. I was just wondering if you could possibly share how much you spent basically on the virtual pool last year, and also on the rental and facility cost last year, which would have been in the operating cost line. Thanks.
+CP GURNANI: Rakesh was -- as I introduced to you guys, he's our Chief Operating Officer, and he is going to (technical difficulty).
+VINEET NAYYAR: And he's also incidentally the chief cost-cutting guy.
+CP GURNANI: Cost optimizing.
+RAKESH SONI, COO, MAHINDRA SATYAM: Thank you for the introduction, Vineet. I think the cost reductions have happened by way of the virtual pool program, as well as some of the natural attrition. Savings that accrued from the virtual pool program were in the region of about $110m per annum.
+As regards the real estate savings, I think what we have done was that A, I think we had vacated some of the existing premises, and also looked at some of the other premises which were taken up in the hope that the Company is going to be growing to a much higher number. So the overall numbers of savings were in the region of about INR260 crores per annum, by considering both the factors.
+SRINIVAS SHESHADRI: Sorry. To clarify, does this INR260 crore also include the saving on the headcount, or this is purely the --?
+RAKESH SONI: This was the rental and the other savings in terms of utilities and other things. The manpower costs, as I said earlier, based on the VPP program was about $110m per annum. Let me put it another way, that we have saved around INR1,100 crores on operations and maintenance. This does not include the salary (inaudible) which have come down, because of reduction. But it does include payment paid for VPP, Virtual Pool Program, to the employees, or that was the cost of running that program.
+SRINIVAS SHESHADRI: Sorry. If I can just follow up on this, on the Virtual Pool Program, can you also share how much you actually spent in terms of paying the employees on the virtual pool last year?
+DURGA SHANKAR: This, as well as the rental restructuring costs which Rakesh was referring to, has been specifically considered as an exceptional item. And you will see the total amount that is so considered is 934m.
+SRINIVAS SHESHADRI: Okay. So whatever was paid for the virtual pool is actually classified under exceptionals?
+DURGA SHANKAR: Yes, a good chunk of it. So that as well as, as I said -- these are all called [life saving] expenditures, and that has been so classified.
+SRINIVAS SHESHADRI: Okay. Thanks. That's all from my side.
+OPERATOR: Thank you. The next question is from the line of Pratish Krishnan from Bank of America Merrill Lynch. Please go ahead.
+PRATISH KRISHNAN, ANALYST, BOFA MERRILL LYNCH: Yes. Hi. Thanks. You have this amount pending in (multiple speakers).
+OPERATOR: Mr. Krishnan, I'm sorry to interrupt; we cannot hear you.
+PRATISH KRISHNAN: Yes. Hi. Can you hear me?
+OPERATOR: Yes. Please go ahead.
+PRATISH KRISHNAN: You have this amount in the balance sheet, the amount pending investigation, to the tune of INR12b. Can you clarify in terms of what exactly this amount is and what is the liability here?
+DURGA SHANKAR: So this is an amount. There is also a note attached to it which gives you in detail what it is. In some -- there are some 37 companies which have said that -- allegedly that they had given advance to the Company. However, this matter is under investigation and this amount relates to that.
+PRATISH KRISHNAN: Okay. Thank you. Thanks a lot.
+OPERATOR: Thank you. The next question is from the line of Sandeep Muthangi from IIFL. Please go ahead.
+SANDEEP MUTHANGI, ANALYST, IIFL: Hi. Good evening. Very good effort in the entire process. Just had a question on a line item on your balance sheet. It would be great if you can clarify the item Miscellaneous Expenditure, which is about INR2,800 crores as of March 31, 2010.
+DURGA SHANKAR: This is because of the past losses, as well as the write-offs, miscellaneous amounts. It is a debit balance in the profit and loss account which occurs -- as a result of the losses of all those fraud items, everything was revised, and this is the consequence of that.
+SANDEEP MUTHANGI: Right. Would it impact the P&L going forward?
+DURGA SHANKAR: The past, actually, once you have written off and provided for it, it should not affect the future.
+SANDEEP MUTHANGI: Okay. Thanks.
+OPERATOR: Thank you. The next question is from the line of Yogesh Aggarwal from HSBC Securities. Please go ahead.
+YOGESH AGGARWAL, ANALYST, HSBC SECURITIES: Yes. Hi. I just have one quick one. Going back to the virtual pool question, when you exited FY10, can you just put how many people were sitting on bench? What was the utilization [rating] in the 27,000 employees?
+DURGA SHANKAR: This -- as I explained at the beginning of the call, at this point in time we are talking about the annual accounts. And in 45 days' time, we'll be talking about the Q1. At that time we'll have far greater clarity on the quarterly run rate.
+YOGESH AGGARWAL: No, I want it for FY10 only.
+DURGA SHANKAR: For FY10, there is no point in talking about a particular rate unless we talk about the quarter exit, because the entire year, as you would have seen, it starts at INR8,000 crores revenue, as well as ends at INR5,000 crores. And there has been quite a bit of movement of people also; start at 40,000 and end up with 27,000. Hardly anything's talking about exit. We're not talking about (inaudible).
+YOGESH AGGARWAL: Okay. Thank you.
+OPERATOR: Thank you. The next question is from the line of Sekhar Singh from Goldman Sachs. Please go ahead.
+SEKHAR SINGH, ANALYST, GOLDMAN SACHS: I just wondered, like similar to the previous question, the INR5,400 crores of revenue that you reported for FY10, that corresponds to how many available employees?
+DURGA SHANKAR: So this is a question which actually will lead on to calculation of the billing rates, which (multiple speakers).
+SEKHAR SINGH: No, not just billing rate at all. So give us an idea of what is the buffer in terms of utilization, if you are saying 27,000 is the employee number?
+DURGA SHANKAR: That's exactly the point which we are saying, because you need to wait for another 45 days. You will get that clarity as well as opening and closing. That's what -- wait for a month.
+SEKHAR SINGH: Okay. And just in the reply to the previous question, you said you started with INR8,000 crores and ended at INR5,000 crores, employees at 40,000, ended at 27,000. What is this INR8,000 crores to INR5,000 crores?
+DURGA SHANKAR: INR8,000 crores is the revenue, INR8,000 crores revenue, and it ended at INR5,400 crores, if you look at '09 to '10. I was talking about the revenue in crores as well as the employee count.
+SEKHAR SINGH: Sure. Thanks a lot.
+OPERATOR: Thank you.
+VINEET NAYYAR: Operator, can you say that next -- this will be the -- next question will be the last -- let's have last three questions. And any other questions which remain unanswered, they can mail it to us and we'll respond immediately.
+OPERATOR: Sure, sir. The next question is from the line of Nitin Padmanabhan from Indiabulls Securities. Please go ahead.
+NITIN PADMANABHAN, ANALYST, INDIABULLS SECURITIES: Yes. Hi. Thanks for taking my question. In the balance sheet, there's this INR1,230-odd crores, which you said is with 37-odd companies are claiming from the Raju family. The papers were indicating that you're looking at an out of court settlement, looking at closing it at around INR700-odd crores. Is there any truth to that?
+VINEET NAYYAR: There is no truth to that. The fact is that this claim is untenable. And I cannot say more, because this matter is sub judice at this point of time. But I can assure you that there can and will not be any negotiation on this issue.
+NITIN PADMANABHAN: Sure. And just in continuation with that, there's this INR390-odd crores that Maytas was claiming as inter-corporate deposit. What is the status on that?
+VINEET NAYYAR: We have -- no amount has been received, Maytas, by this company. So we cannot comment on the status.
+NITIN PADMANABHAN: Sure. Fair enough. Thank you.
+OPERATOR: Thank you. The next question is from the line of Ashish Chopra from Motilal Oswal Securities Limited. Please go ahead.
+ASHISH CHOPRA, ANALYST, MOTILAL OSWAL SECURITIES: Hello?
+CP GURNANI: Hi.
+ASHISH CHOPRA: Yes. Good evening, sir. Sir, just had one question. You mention in your press co that a part of the revenues in FY10 would also be coming from clients for whom you continue to do the work, but then the contracts were terminated. So could you quantify that amount?
+VINEET NAYYAR: No, and I'll tell you how that works. We have certain contracts -- Satyam had certain contracts. Immediately on the discovery of the fraud, these companies decided that they would not wish to work with Satyam any more. But there were unfinished tasks which Satyam continued to perform and bill for. So there is a stream of revenue which belongs to that, which will naturally terminate as soon as the task is over. And so in the first few months of FY10, we had a revenue stream coming from them.
+ASHISH CHOPRA: So would it be possible to give a number on that? How much was it?
+VINEET NAYYAR: Well, we -- it's not possible to segregate it at this point of time.
+ASHISH CHOPRA: Okay, sir. Thanks.
+OPERATOR: Thank you. Ladies and gentlemen, due to time constraints, we will take one last question from the line of Naushil Shah from Anand Rathi. Please go ahead.
+NAUSHIL SHAH, ANALYST, ANAND RATHI FINANCIAL SERVICES: Good evening, sir. Thank you for taking our question. Sir, just wanted to know when you have had such huge losses for both 2009 as well as 2010, what is the tax expenses that you have made? And what would be the income tax loss that you would be able to receive for the future years for setoff? I'm talking for the amount of tax loss, removing the exceptional items. I believe that there are litigations for the prior period items, but excluding the exceptional items, what would be the tax loss that you'll be able to carry forward?
+CP GURNANI: We are working on it, but I think that will be significant tax loss we would be able to carry forward. Durga, can you make any estimates?
+DURGA SHANKAR: Yes. For the last year, if you look at it, there has been hardly any tax payment except tax which was paid on foreign jurisdiction. And going forward, it'll depend upon certainly the revenue run rate which we'll be talking of, but also upon various other contingent factors which are hard to predict at this point in time.
+ASHISH CHOPRA: Right. Thank you.
+OPERATOR: Thank you. Please go ahead, sir.
+VINEET NAYYAR: Well, I thought we would bring this conference to a call -- this conference to an end. I fully recognize -- we fully recognize that there are certain unanswered questions. We would be happy if you write to us and we will respond promptly. Most importantly, I would wish to thank you for your support, for your interest. And I hope we would continue to perform in a fashion which has come up to your expectations and in terms of governance perform in a fashion which would meet the highest standards within the industry. That is our commitment to almost everyone. Thank you so much, and have a nice day.
+OPERATOR: Thank you, Mr. Nayyar. Thank you, gentlemen of the management. Ladies and gentlemen, on behalf of Mahindra Satyam, that concludes this conference call. Thank you for joining us, and you may now disconnect your line.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2010 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2010 Roll Call, Inc. ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or Roll Call's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and Roll Call so long as they provide conspicuous attribution to Thomson Financial and Roll Call as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Customers; Chief executive officers; Employees; Net income; Fraud; Downsizing
+
+Business indexing term: Subject: Customers Chief executive officers Employees Net income Downsizing
+
+Company / organization: Name: Mahindra Group; NAICS: 336390; Name: Thomson Financial; NAICS: 513210, 518210, 519290; Name: New York Stock Exchange--NYSE; NAICS: 523210
+
+Title: Q4 2010 Satyam Computer Services Limited Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2010
+
+Publication date: Sep 29, 2010
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 757664327
+
+Document URL: https://www.proquest.com/newspapers/q4-2010-satyam-computer-services-limited-earnings/docview/ 757664327/se-2?accountid=27562
+
+Copyright: 2010 CCBN, Inc. and Roll Call, Inc.
+
+Last updated: 2026-02-10
+
+Database: ABI/INFORM Collection

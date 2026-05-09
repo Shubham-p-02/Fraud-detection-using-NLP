@@ -1,0 +1,279 @@
+Q4 2008 Schlumberger Earnings Conference Call - Final
+
+https://www.proquest.com/newspapers/q4-2008-schlumberger-earnings-conference-call/docview/466099703/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   OPERATOR: Ladies and gentlemen, thank you for standing by and welcome to the Schlumberger earnings conference call. At this time all participants are in a listen only mode. Later we will conduct a question and answer session. Instructions will be given at that time. (Operator Instructions)
+And as a reminder, this conference is being recorded. I'd now like to turn the conference over to your host, Mr. Malcolm Theobald, Vice President of Investor Relations for Schlumberger Limited. Please go ahead, sir.
+MALCOLM THEOBALD, VP, IR, SCHLUMBERGER LIMITED: Thank you, [Shelley]. Welcome to today's fourth quarter and full year 2008 results conference call for Schlumberger Limited.
+Before we begin, I'd like to review the logistics and format of today's call. Some of the information in today's call may include forward-looking statements as well as non-GAAP financial measures. A detailed disclaimer and other important information are included in the FAQ document which is available on our website, or upon request.
+And now, for the call participants and format. Sitting with me for today's call are Andrew Gould, Chairman and Chief Executive Officer, and Simon Ayat, Chief Financial Officer. Prior to Andrew's overview of the results and his comments on the outlook, Simon will first review the financial results. After the opening comments, we will open the call for questions.
+And now, I'll turn the call over to Simon.
+SIMON AYAT, CFO, SCHLUMBERGER: Thank you, Malcolm. Ladies and gentlemen, thank you for participating in this conference call.
+Schlumberger fourth quarter income from continuing operations excluding charges and credits was $1.03 per share, down $0.22 sequentially and down $0.08 compared to the same quarter of last year. As announced, we are taking actions to reduce our global workforce as a result of the recent decline in activity in the Oil Field Services sector. We, therefore, recorded an exceptional charge of $0.08 per share during the quarter primarily to reflect these actions and create a provision relating to a client with liquidity issues. Depending on how the market situation evolves, further actions may be necessary.
+Turning to the business segments, Oil Field Services fourth quarter revenue fell by 2% sequentially, while WesternGeco revenue dropped 33% sequentially. Oil Field Services generated $1.6 billion in pre-tax operating income, down $100 million sequentially with margins slipping by 117 basis points to 25.6%. By area, Oil Field Services pre-tax operating margin highlights were as follows, my comments are on a sequential basis. North America pre-tax margin improved by 115 basis points to 22.3% with a strong offshore recovery in the Gulf of Mexico after the hurricane impaired third quarter and strong activity in US land West and in Alaska. These increases were partially offset by the impact of pricing pressure in the US land central and US land North GeoMarkets.
+Latin America pre-tax margin declined 211 basis points to 18% with lower activity levels in the Venezuela, Trinidad and Tobago GeoMarket and unfavorable activity mix in the Peru, Colombia, Ecuador and Mexico central GeoMarket. In Europe/CIS/Africa, pre-tax margin reduced 295 basis points to 26.1% as Russia experienced a seasonal decline in activity offshore in Sakhalin combined with significant reductions in activity in other areas due to lower customer spendings. Less favorable revenue mix in the North Sea and Nigeria and Gulf of Kenya GeoMarkets also reduce area margin. Finally, Middle East, Asia pre-tax margin declined 199 basis points to 33.5% on lower overall activity and less favorable technology mix in the Arabian and India GeoMarkets.
+WesternGeco pre-tax income of $88 million reflected a decline in pre-tax margins of 25.1 percentage points to 14.7%. Marine decreased from the record third quarter results through lower result utilization and a high number of transits while the lower level of multi-client sales depressed margins significantly.
+Now turning to Schlumberger as a whole, the effective tax rate before the impact of the exceptional charges was 21.5%, which was in line with last quarter; the ETR is expected to be in the low 20's for 2009. Net debt was $1.1 billion at the end of the quarter representing a sequential improvement of $600 million. Further, we ended the quarter with approximately $4.2 billion of cash and investments on hand. In addition, $1.8 billion of committed debt facilities and commercial bank, with commercial banks remain unused and were available at the end of December. This compares to short-term debt of only $1.6 billion reflecting the continued strength of our balance sheet and leaving us with more than enough liquidity to meet all corporate and operational requirements.
+Significant liquidity events during the quarter included $154 million off the stock buyback program, $234 million of pension funding, and $1.25 billion of CapEx including $83 million multi-client surveys capitalized. During the quarter we bought back 2.7 million shares for $154 million at an average price of $57.05. Given the current credit and economic environment we anticipate that the total dollar amount of stock repurchases in 2009 be significantly less than the $1.8 billion spent during 2008. This anticipated reduction will serve to increase Schlumberger's financial flexibility during these uncertain times.
+Our stock buyback activity during 2009 will continue to be targeted to offset any dilution caused by our stock based compensation programs. Oil Field Services CapEx is expected to approach $2.2 billion in 2009, while WesternGeco CapEx is expected to reach $800 million in 2009. This includes $385 million relating to the construction of seismic vessels.
+And now I'll turn the conference over to Andrew.
+ANDREW GOULD, CHAIRMAN AND CEO, SCHLUMBERGER LIMITED: Thank you, Simon. Good morning, everybody.
+Oil Field Services full year 2008 revenue of $24.28 billion increased 20% versus 2007 driven by area growth of 28% in Latin America, 24% in Europe/CIS/Africa, 18% in Middle East Asia, and 11% in North America. All technologies experienced double digit growth, most notably in Well Services, Drilling Measurements and Wireline. Sequentially, however, Oil Field Service revenue declined in the fourth quarter, largely due to the weakening of many local currencies against the US dollar as well as to lower activity in Russia, and with exception of North America generally weaker activity around the globe. This general weakness was partly due to seasonal weather effects and partly to initial client curtailment of spending. As a consequence with the exception of North America, pre-tax operating margins declined.
+Looking at the areas in more detail, sequential performance in North America was lead by the US Gulf of Mexico GeoMarket as activity recovered from the slowdown of the hurricane season in the third quarter and as higher ultra deepwater rig count lead to strong demand for Wireline Well Testing and Well Services technologies.
+On land, revenue in the US land West GeoMarket increased on demand for Well Services and Drilling and Measurement Services and artificial lift products, while the Alaska GeoMarkets saw a seasonal build up in activity that resulted in robust demand for Well Services and Drilling and Measurement Technologies. Also on the positive side, Schlumberger Information Solutions experienced growth from seasonally strong end year-end software and hardware sales. These increases however, were partially offset by the US land central and northern GeoMarkets where the reducing rig count that accelerated at the quarter end resulted in lower revenue. In Canada, revenue was lower primarily due to the weakening Canadian Dollar.
+Sequential revenue in Latin America fell with activity for Wireline and Well Services Technologies and completions products in the Venezuela, Trinidad and Tobago GeoMarket decreased. And as the Mexico Central America GeoMarket suffered lower activity and integrated project management operations. These decreases however were partially offset by strength in the Brazil GeoMarket from higher offshore exploration related demand for Wireline, Well Testing and Drilling and Measurement Services. And in the Peru, Colombia, Ecuador GeoMarket from strong demand for artificial lift and information solutions products. Overall area revenue was reduced by an estimated 4% due to the weakening of local currencies against the US dollar.
+In Europe/CIS/Africa, sequential revenue declined by 5% due to the weakening of local currencies against the US dollar particularly in the North Sea, Continental Europe and Russia. Russia also saw significant reductions in activity from lower customer spending, in addition to the seasonal slowdown in Sakhalin. Activity, however increased in the Libya GeoMarket with strong demand for artificial lift products and for Drilling and Measurements, Well Testing and Wireline services. The Continental Europe GeoMarket also grew with higher demand for Wireline and Drilling and Measurements Technologies.
+In the Middle East, Asia area, revenue decreased as a result of seasonal weather related effects in the Australia, Papua, New Guinea, New Zealand and in the China, Japan, Korea GeoMarkets. Lower activity in Qatar as projects were completed, a less favorable activity mix in Brunei, Malaysia, Philippines, and reduced customer spending in China, Japan, Korea and the Arabian GeoMarkets all affected revenue. While these declines primarily affected Wireline Drilling and Measurements and Well Services activity, they were partially offset by growth in the Gulf GeoMarket for artificial lift products, Well Services and Drilling and Measurements Technologies.
+At WesternGeco the sequential 33% decline in quarterly revenue was largely due to increases in marine, excuse me, decreases in marine which was affected by vessel transit, drydocks and project start ups. Multi-client revenue also decreased significantly as customers reduced discretionary spending. Margins suffered in consequence. At the end of the year, however, WesternGeco benefited from an all-time record backlog of $1.8 billion, under pinned by a number of long term contracts.
+The sharp drop in oil and gas prices due to lower demand, higher inventories and the belief that demand will erode further in 2009 as a result of reduced economic activity is leading to rapid and substantial reductions in exploration and production expenditure. At current prices, most of the new categories of hydrocarbon resources are not economic to develop. It would also take time for inflation to be removed from the system and to bring finding and development costs more in line with lower oil and gas prices. We therefore expect 2009 activity to weaken across-the-board, with the most significant declines occurring in North American natural gas drilling, Russian oil production enhancement, and in material offshore basins.
+Exploration offshore will be somewhat curtailed, but commitments already planned are likely to be honored. Seismic expenditures, particularly for multi-client data are likely to decrease from last year, and pricing erosion will compound these effects on revenue. In this market we are taking the necessary action to adjust our operating cost base while preserving our long term committment to technology development, key skill sets and service and product quality.
+The key indicator of future recovery in Oil Field Services activity will be a stabilization and recovery in the demand for oil. The recent years of increased exploration and production spending have not been sufficient to substantially improve the supply situation. The age of the production base, accelerating decline rates, the smaller size of recently developed fields, will mean that any prolonged reduction in investment will sew the seeds of a strong rebound. We have no doubt that Schlumberger will emerge from the current downturn a stronger Company, better positioned, to participate in the subsequent upturn.
+And I will now hand the call back to Malcolm.
+MALCOLM THEOBALD: Thank you, Andrew. We will now open the call for questions.
+OPERATOR: Thank you. (Operator Instructions). One moment please for the first question. Our first question will come from Kurt Hallead with RBC Capital Markets. Please go ahead.
+KURT HALLEAD, ANALYST, RBC CAPITAL MARKETS: Good morning.
+ANDREW GOULD: Good morning, Kurt.
+KURT HALLEAD: I was wondering in your view, how do you, how does the cycle compare to other cycles you've experienced in your career? Would you put this closely, more closely aligned with the '97 to '99 period or more like the '80 to '86 period?
+ANDREW GOULD: Well actually I think it's a bit different from both. Because the precipitous drop in the oil prices combined with the contraction of the general economy. So actually, the biggest difference I see from both sort of the mid '80's and as well as '97-'908, is the speed with which everybody is reacting. Our customers are reacting at a much faster pace than they probably did even in '97-'98 which was a very sharp cycle. I mean, my general comment is these cycles, as I experience them, are getting much sharper in their amplitude and shorter in their duration. Now of course that depends on the general economy. But I would say that the big difference I see so far is the speed with which everybody is reacting.
+KURT HALLEAD: And if I could just if I could follow-up, just in the prior periods, it always had taken longer for the international markets to adjust to the changes relative to North America and a lot of that has to do with long term contracts. Predicated on what you just said about your customers acting more quickly, do these contracts still provide that chance that the international markets could bleed lower and expand out into 2010? I don't want you to get specific, but just trying to get a general -- I'm trying to handicap it myself. So I don't know if we'll bleed lower like we did the last couple cycles or if you think '09 is really the ultimate trough here?
+ANDREW GOULD: I think the simple answer is I don't know. I think that our customers, they are not going to break contracts, but they are going to pressure us to swap price for volume or price for duration or things like that. So where they have an opportunity there, they are definitely going to act on price. But I don't think they are going to break contracts.
+KURT HALLEAD: OKay. Andrew, thank you very much.
+OPERATOR: We'll go on to the line of Charles Minervino with Goldman Sachs. Please go ahead
+CHARLES MINERVINO, ANALYST, GOLDMAN SACHS: Hi, thank you. Andrew, I was wondering if you could talk to us a little bit about your conversations with the national oil companies. I know they probably all have different goals and breakeven points on various projects. But if you could generally just talk about what you're seeing from them, they've obviously accumulated a lot of cash over the last few years. How are you seeing them spending through this cycle?
+ANDREW GOULD: Well, I don't think there'e -- it's very difficult to generalize on them like that. But the ones that are mixed, in other words they have some private ownership, I think they will react very much as private industry does. The ones that are entirely State owned, if they have cash, I think they will spread out their programs, but I doubt they will cancel them because they don't want to really compromise their long term position in this industry. So I think there's a very mixed reaction, but if I had to generalize it, if they can spread their programs over a longer period of time, they are likely to do so.
+CHARLES MINERVINO: And can you just give us a sense globally or internationally, can you talk about a little bit at the markets that you see? You mentioned earlier Russia slowing down. Can you touch a little bit on Latin America and the different parts of Europe, where you see maybe holding up a little bit better versus slowing down a little bit more?
+ANDREW GOULD: Well, I think Latin America will be a mixture. There are at least two GeoMarkets in Latin America that will remain very healthy and two that will probably weaken fairly dramatically. So I think overall there is a good chance that Latin America will be flattish over the whole year, but it's very early for me to commit to that. But that's the way we would see it today.
+If you look at Europe, then parts of central Europe will holdup. The North Sea will weaken. A lot of the weakness, actually all our weakness this quarter in the North Sea came from the devaluation of the pound against the US dollar. But it will weaken over the year.
+If you look at Africa, we see Libya, Algeria, North Africa axis will holdup pretty well. And offshore West Africa, the big guys will holdup really well, but some of the small independents who were doing exploration will probably drop off. So there is a reasonable, I think overall, I hate to go on being negative, but overall I suspect Europe/CIS/Africa will be down. And there will be pockets of strength with big customers offshore, Algeria, Libya, but the rest will be fairly weak.
+CHARLES MINERVINO: Okay, that's very helpful, thanks.
+OPERATOR: We have a question from the line of Michael LaMotte with JPMorgan. Please go ahead.
+MICHAEL LAMOTTE, ANALYST, JPMORGAN: Thanks, good morning.
+SIMON AYAT: Good morning.
+MICHAEL LAMOTTE: Andrew, if I could ask you to clarify your comment on the inflation and the unwinding of it, particularly I think when we think F&D inflation we tend to think oil field pricing. And clearly, the biggest components there were rigs and steel to businesses you are not in. So first I guess clarify that with respect to oil field pricing and then secondly, how you could be actually benefiting from inflation unwinding terms of your own P&L?
+ANDREW GOULD: Well actually, my remark was you don't drill without a rig and you don't build a platform without steel. So the really high inflation ticket items in projects are undoubtedly what our customers are going to want to come down. The traditional arm wrestling with the rig contractors and having run one I know what that's like will take some time to work itself through the system. That's what I meant, Michael. Okay?
+MICHAEL LAMOTTE: Okay.
+ANDREW GOULD: The steel stuff, the input to our manufacturing, be it steel, [incernel], a chrome, copper, the pricing effect is fairly immediate. As soon as we're through our inventory, we see the pricing affect come in very quickly. In fact we have some of our IPM contracts with a tubular element as price has been dropping by very substantial amount on a monthly basis. So I think -- but for it to really work its way through our system, in terms of material cost you're probably looking at a year.
+MICHAEL LAMOTTE: Okay. So I think, if I'm not putting words in your mouth then to say that this was not a statement about your own pricing structure?
+ANDREW GOULD: No. Our pricing structure will be negotiated, renegotiated as I explained in an answer to an earlier question. But for my customers, it's getting the cost of the really big ticket items down that's going to make projects become economic again or not.
+MICHAEL LAMOTTE: Okay, that's great. Thanks Andrew.
+OPERATOR: We have a question from the line of Alan Laws with Banc of America. Please go ahead.
+ALAN LAWS, ANALYST, BANC OF AMERICA: Good morning.
+SIMON AYAT: Good morning.
+ALAN LAWS: In a slowdown, the next kind of focus usually moves to the receivables. I wanted to know if you could comment on recent pressure ports of [Peta Veesa] owing somewhere near $8 billion and they stopped paying. Are there other areas in the world where you're seeing this type of pressure from your customers or they are running out of money and extending you on the receivable side?
+ANDREW GOULD: No. Not significantly. I think there's a bigger risk from some of the smaller independents than there is from the other national oil companies. Terms will undoubtedly extend. They always do in a downturn, but since I've been in this business we've never not been paid by an NOC.
+ALAN LAWS: Okay. That was my second question, that when they stretch out, they usually catch up on them?
+ANDREW GOULD: Well, never say never but when I first joined Schlumberger, one of the NOC's didn't pay us and they paid us seven years later. But Simon, we've never not been paid, no?
+SIMON AYAT: No, I confirm. As a matter of fact in Q4, we improved our receivable situation. That's part of the improvement in net debt that I spoke about.
+ALAN LAWS: Your expectations are that most will stay current right now or like I said before, there are areas in the world where you're worried about this happening as well?
+ANDREW GOULD: No, we're not, we haven't seen any, we seen an improvement as Simon said but if we look at specific companies, I don't think we've seen any significant deterioration yet that leads us to worry. I have to say that we put our field people on credit watch back in September. So they have been doing a lot of quality upgrading of the customer exposure since last September.
+ALAN LAWS: Okay, unrelated follow-up. Given the changes in the dynamics of demand up there, are you changing your marketing or pricing strategies at all in any particular markets?
+ANDREW GOULD: Well, I wouldn't want to say that over the phone. My competitors are undoubtedly listening but yes, everybody has to adapt to the current market circumstances.
+ALAN LAWS: Okay, that's good. I'll leave it at that. Thanks, Andrew.
+OPERATOR: We have a question from the line of Ole Slorer with Morgan Stanley. Please go ahead.
+OLE SLORER, ANALYST, MORGAN STANLEY: Thank you very much. Andrew, if we can just go back to what you said about coming out of this downturn a stronger Company. Does your reflections of how the whole cycle is playing out or is any specific to Schlumberger there relative to competitors? And should there be any consolidation are market share gains into that?
+ANDREW GOULD: Well, I think it's much easier for companies with very strong balance sheets to operate in this environment because we don't, we can still make investments that we think are going to pay off for the long term. As I said last October, we will be more opportunistic in acquisitions than we've been perhaps during the period when we felt that valuations were out of hand.
+And generally, we will not, we never adjust our R&D in any significant way during these downturns which means that when you turn up again, you have been able to renew a considerable part of your product and service portfolio. So if that recipe still works, that's what I meant, Ole.
+OLE SLORER: Okay, so what do you think are the chances that when we eventually come out of this downturn that the competitive landscape will have meaningfully changed?
+ANDREW GOULD: I don't know. I mean, I think that you can see already that some of the smaller companies went with private equity are struggling, so they may get snapped up. Whether they will be a larger consolidation, I don't know, Ole.
+OLE SLORER: If I can just move on to Block 31, it was kind of buried in the middle of the Press Release. And by the way, your Press Release seemed to be particularly aggressively sprinkled with the contract awards on technology this time around so I just wonder whether we should read anything into that specifically? But particularly on Block 31, could you talk a little bit about you simply have one sort of full house on the service side and what parts of that was incumbent and what was new rewards?
+ANDREW GOULD: I actually don't know off the top of my head. I certainly know that Wireline was incumbent. I'm not sure about Drilling and Measurements and Well Services we were partly incumbent. I would say we were incumbent on quite a lot of it but don't forget this is moving to the development stage, so the scope is very different.
+OLE SLORER: And then you've been successful on completion in deepwater in West Africa versus some of your previous competitors, has completion being awarded on Block 31?
+ANDREW GOULD: Yes.
+OLE SLORER: Has that been announced?
+ANDREW GOULD: And I don't know, but it's not in our Press Release so it's not us, Ole.
+OLE SLORER: Okay. Thanks for that, Andrew.
+OPERATOR: We have a question from the line of David Anderson with UBS. Please go ahead.
+DAVID ANDERSON, ANALYST, UBS: Thank you. Andrew, again getting back to some of the past downturns I'm just wondering if you could elaborate a little bit on applying some of the lessons you've learned during the last downturns to now? And I'm just curious if that was a factor in the timing of your decision to cut your workforce? My question is did you move the timing up because your outlook is really becoming incrementally more negative and you're looking in the past and you've decided to make a decision here?
+ANDREW GOULD: Actually, when I compare the way we're managing that to '97-'98, we actually today have much much better data. That's the first difference. The second difference -- and data about our own workforce I mean, where it is, who it is, what the loading is, all the rest of it.
+The other thing is that in previous cycles, including '97-'98, we used to listen to our customers about what we thought was going to happen in the market. And since then, where we suffered really badly from listening, we make up our own mind. So I would say that the decision that we had to make a workforce cut was probably made in November. And we don't make Press Releases about these things, but that cut actually concerns about 5,000 people worldwide.
+DAVID ANDERSON: So have you become incrementally more negative over the last two months?
+ANDREW GOULD: Yes.
+DAVID ANDERSON: You also talked about the speed of the spending cuts being faster than expected in past downturns.
+ANDREW GOULD: Yes.
+DAVID ANDERSON: Do you see much of a difference between the IOCs and the NOCs reacting now and is this more of a credit issue? I mean, I'm hearing, it seems like credit seems to more of an issue than commodity? I don't know if there is anyway you can comment on that.
+ANDREW GOULD: I think credit is an issue for the sort of ecosystems that grew out particularly in the London, [AIM] market, maybe in Russia a bit, and also in the US where people spend -- either don't have any cash flow like the exploration companies in London, or spend traditionally spent 125% or 150% of their cash flow as is the case in North America. So obviously, the credit crunch has had an effect on the speed of the contraction, yes.
+DAVID ANDERSON: And just one more question if I may. Just with regards to the offshore sector, you talked about in a lot of contracts in place should keep that work out there. Just wondering if the customers have the rig rates locked in already and they are looking to cut costs one other way, does that mean it comes down to you guys? I mean are you guys starting to get a lot of pushback on your pricing right now and how does -- your pricing structure offshore, how flexible is that?
+ANDREW GOULD: Well, I mean of course year going to get pushback on the pricing but the factor in the pricing of an offshore development is tiny compared to the some of the other ones. What they will do is some of the big new expensive rigs that were slated for exploration will be moved to development, if they can't get out of the contract, because an exploration rig doesn't, does not produce cash flow, a development rig does.
+DAVID ANDERSON: Makes a lot of sense. Thank you very much.
+OPERATOR: We have a question from the line of Bill Herbert with Simmons & Company. Please go ahead.
+BILL HERBERT, ANALYST, SIMMONS & COMPANY: Thanks, good morning Andrew.
+ANDREW GOULD: Hi, Bill.
+BILL HERBERT: Russia. Not getting a whole lot of attention with regard to the potential I guess production response to the implosion and drilling activity that we're seeing realtime. Can you comment on that in terms of what you're seeing ground level and what your expectations are and as the year unfolds, with a continued collapse in rig activity?
+ANDREW GOULD: Well, I think that from I've seen from the reports, the production is dropping now. I think that were drilling activity to remain as low as it's coming for a year or so, it would be a very significant decline in production. I don't want to give a number, but a very significant decline, Bill.
+BILL HERBERT: Right. Could you, again, a difficult question to answer because it's about debts and duration. But as you look out into 2009, what are your expectations with regard to a year-over-year decline in the E&P capital spending in Russia on a percentage basis, if you will?
+ANDREW GOULD: Actually, we haven't looked, we don't, so you have to divide the Russian market into three.
+BILL HERBERT: Okay.
+ANDREW GOULD: The IOC's particularly in Sakhalin, there will be no decline.
+BILL HERBERT: Okay, great.
+ANDREW GOULD: The small Russian companies that depended on credit markets will probably just not drill.
+BILL HERBERT: Got it.
+ANDREW GOULD: And what we're looking at at the moment, the hypothesis we're working on is that there will not in, I can't give you this in money but in the total meters drilled we're looking at somewhere, a drop of somewhere between 10% and 20%.
+BILL HERBERT: Okay, got it.
+ANDREW GOULD: Total meters drilled.
+BILL HERBERT: That's for the whole market?
+ANDREW GOULD: Yes, essentially for the western Siberian, Southern Russia market. Put it this way, Bill. The material market.
+BILL HERBERT: Got it. Down 10% to 20% year-over-year and I would suspect that the pricing pressure that the service industry is encountering in Russia is fairly acute, no?
+ANDREW GOULD: Yes, it is.
+BILL HERBERT: Okay, so capital spending down who knows, 20 to 30 or 40%, we'll see. Second question, Andrew, we have a decent slug of new build seismic vessels coming into the market this year for the Eastern Echo boats. What is the plan with regard to your existing fleets, some of your older vessels? Do we plan on stacking those or mothballing or do you not know at this stage?
+ANDREW GOULD: No, actually when we bought Eastern Echo, we made a contingency plan.
+BILL HERBERT: Yes.
+ANDREW GOULD: We don't think we would have to use it but we may have to use it. And if we do have to use it, the first thing is we still have some leased vessels and luckily, a lot of those leased vessels we can release in '09.
+BILL HERBERT: Okay. You say a lot, how much?
+ANDREW GOULD: That will leave us with an almost 100% owned fleet and in that case if we have to stack, we will park them fiord somewhere.
+BILL HERBERT: Okay I'll talk to Malcolm off line as with regard to how many vessels that encompasses, in interest of your leased fleet. Lastly, with regard to your receivable policy, I hear you with regard to national oil companies eventually making you whole, but what is the policy with regard to the carrying value of these receivables on the balance sheet? Is there a certain threshold at which you have to start writing them down, call it six months to a year?
+ANDREW GOULD: I'll let Simon comment but we have a policy, yes.
+BILL HERBERT: Okay, thanks.
+SIMON AYAT: So basically, we have a policy where we look on an item by item basis.
+BILL HERBERT: Okay.
+SIMON AYAT: We don't take general provisions. We do analyze our receivable divided by areas and people and GeoMarkets, they have very good visibility. And we look at our receivables item by item basis. So we don't take a general provision like we announced now. We took a particular provision that related to a specific client. And this is how we look at it so we don't have a general policy that based on aging. It is more particular to the client and what we know from the client and the discussion with them and the timing to be paid.
+BILL HERBERT: So last question. So for example, if you were to have some vulnerabilities attending to NOC, yet they historically have made you whole with regard to receivables, how would you, I mean how would the carrying value of those receivables adjust if any?
+SIMON AYAT: Well, I mean, we will look at our experience with the NOC. The discussion that's ongoing with them.
+BILL HERBERT: Okay.
+SIMON AYAT: And we'll make the decision on those basis. Now if it goes beyond a certain time frame, yes, I mean, prudent accounting approach we might take a provision but this would be again dependent on the circumstances.
+ANDREW GOULD: Bill, historically, the payment patterns of our NOC customers tend to get reflected in the pricing we practice.
+BILL HERBERT: Right. Okay, got it. Thank you very much, guys.
+ANDREW GOULD: Okay.
+OPERATOR: We have a question from Byron Pope with Tudor, Pickering, Holt. Please go ahead.
+BYRON POPE, ANALYST, TUDOR, PICKERING, HOLT: Good morning, guys. In the prepared comments Andrew you speak to pricing erosion and your US land central and North GeoMarkets. Assuming that applies primarily or refers primarily to well stimulation or are you starting to see it in some of your other product and service lines in those specific GeoMarkets?
+ANDREW GOULD: Well, essentially those, it will be pressure pumping.
+BYRON POPE: Okay. And then with regard to your Oil Field Services CapEx being down roughly 28% year-over-year, historically your CapEx spend has been fairly consistent with kind of your revenue mix. As we think about that decline year-over-year is it fair to think about North America bearing more of the brunt of the reductions or is that not a fair characterization?
+ANDREW GOULD: Yes, I think that's probably a fair characterization, yes. The brunt, no, but proportionately more, yes.
+BYRON POPE: Okay. Thank you.
+OPERATOR: We have a question from the line of Jim Crandell with Barclays Capital. Please go ahead.
+JIM CRANDELL, ANALYST, BARCLAYS CAPITAL: Hi, Andrew.
+ANDREW GOULD: Hi, Jim.
+JIM CRANDELL: Two questions. One, I understand that PEMEX, it tends to move forward with as many as eight 500 well packages that you [Jacontapak] in 2009. Could you comment on that and also talk about when your contracts expire, when you end your current stage of work at Jacontapak?
+ANDREW GOULD: Well, the only co[ones I'm prepared to comment on are the ATG3 and Four which have been announced. Beyond that I'm not prepared to speculate on what PEMEX might or might not do. And we have our current contracts are actually, we have been awarded some extensions to make up for some of the shortage of wells that PEMEX feel they have and therefore our Jacontapak, with its extensions will carry us through most of this year.
+JIM CRANDELL: Okay. Secondly, and I was even given all your explanations, I was still surprised over the magnitude of the drop in seismic profitability relative to the revenue. Could you perhaps expand on that and given where you were in the fourth quarter, where would you see the overall direction of profit margins from the fourth quarter levels in your seismic business?
+ANDREW GOULD: Well, I think you have to remember that the third quarter is the strong quarter in the North Sea and the North Sea has the highest seismic pricing in the world. So you've got a compounded effect of the boats moving to lower price contracts outside the North Sea, transit times, and you've also got -- we had a number of boats in drydock during the Fourth Quarter. So the magnitude is surprising, I agree with you, but it's quite logical. There's nothing particularly startling.
+I mean obviously in a quarter where you have transits and drydocks you can't reduce your fixed costs very much in marine. And the other portion of it was the which we had somewhat anticipated was the absence of multi-client both in North America and overseas during the fourth quarter.
+JIM CRANDELL: Okay, so some of this at least going forward, at least should lessons so would you expect overall your relative profitability in that business in terms of margin should improve over the next couple of quarters?
+ANDREW GOULD: Yes. I mean, I am not sure Q1 is not a good proxy because it's a bit like Q4, but certainly in the second quarter, yes.
+JIM CRANDELL: Okay. Thank you.
+OPERATOR: We have a question from the line of Mike Urban with Deutsche Bank. Please go ahead.
+MICHAEL URBAN, ANALYST, DEUTSCHE BANK: Thanks, good morning. Presumably the cuts that you put in place in terms of headcount, expenses, CapEx stem from your planning process. At that level of employment and spend, I mean what does that imply or what are you planning on in terms of activity levels? I'm just trying to get a sense for where your head is at and are you staffed for that expected level or is there kind of a Part B if things deteriorate further?
+ANDREW GOULD: So while we obviously have an overall plan at the level of Schlumberger Limited, as our field per peoples visibility beyond Q2 is still very poor, we've asked them to make a plan in two parts. So first half year plan, second half year plan, and we will revisit the second half year plan in April/May.
+The headcount adjustment we made now, which as I pointed out in an earlier question was planned in November, was to adjust to what we felt activity levels were likely to be in the first quarter, if not half year. Now, in fact, we're seeing -- the situation is so dynamic that I can not rule out that we would not make another headcount adjustment in the first half year. And secondly, depending on what comes in as the plan in April/May for the second half of the year we'll probably have to look at it again. It's so dynamic that I can't, I'm not going to say that an adjustment we made is for anything beyond the visibility we have over the next three to six months.
+MICHAEL URBAN: Okay, that's helpful and shifting back to the seismic business, at least one good data point there, the backlog up again. Roughly how long does that carry you? Does that get you half way through '09, through three quarters?
+ANDREW GOULD: Well, actually, what happened is Dalton and I agreed earlier last year that the time was to go long. So roughly half that backlog will be executed, no slightly more than that, sorry, North of a $1 billion is in the next 12 months and the balance would be in the following year.
+MICHAEL URBAN: Great. Thank you. That's all for me.
+OPERATOR: We have a question from the line of Geoff Kieburtz with Weeden. Please go ahead.
+GEOFF KIEBURTZ, ANALYST, WEEDEN: Thanks, good morning.
+ANDREW GOULD: Good morning, Geoff.
+GEOFF KIEBURTZ: Just to pick up on that last question, if I could. You clearly have a great deal of confidence in the WesternGeco backlog. Can you help us understand why?
+ANDREW GOULD: Well, because with the exception of one or two contracts who are with very reputable companies, the work has already started.
+GEOFF KIEBURTZ: Okay. All right. And you feel like once they start, they are going to complete the program as originally conceived?
+ANDREW GOULD: Well, I mean, we're talking about very reputable companies breaking contracts. They might shorten the program, but I don't see them breaking contracts, Geoff.
+GEOFF KIEBURTZ: Fair enough. Could I ask you to just elaborate a little bit on the comment in the Press Release about at current prices, most of the new categories of hydrocarbon resources are not economic to develop. Just what are you referring to in terms of new categories of hydrocarbon resources?
+ANDREW GOULD: Advanced EOR, ultra deep, heavy oil, tar sands, let alone coal to liquids or gas to liquids.
+GEOFF KIEBURTZ: Okay.
+ANDREW GOULD: There's a very good graph, Geoff, in the international energy agency 2008 outlook that shows the cost as of the time they did it in November at which each of these categories can be developed.
+GEOFF KIEBURTZ: Okay. And that basically is what you're referring to there?
+ANDREW GOULD: Yes.
+GEOFF KIEBURTZ: And then kind of as a follow on actually, the deepwater market, what are you expecting? You've made a couple comments already this morning. There are a lot of new rigs coming out. Do you expect that deepwater activity defined however you want to will in fact increase in '09 versus '08 with the addition of the new rigs?
+ANDREW GOULD: Oh, yes. Yes, definitely. I think some of the rigs as I said in an earlier question will be pushed, instead of doing the exploration they were planned for will be pushed for development because development brings cash flow. But I don't see any huge reduction in the deepwater commitments that people have already undertaken. I think that's far more a question for 2010, Geoff.
+GEOFF KIEBURTZ: Okay, and the combination of volume increase, but a mix shift toward development translates to an impact on Schlumberger how?
+ANDREW GOULD: Well, we don't make as much money in development as we do in exploration as you know. So to the extent there is a shift, let me say -- the service intensity in development is much less than in exploration. So it actually reduces our scope to sell to a certain extent.
+GEOFF KIEBURTZ: Okay. Great. Thank you.
+OPERATOR: We have a question from the line of Brad Handler with Credit Suisse. Please go ahead.
+BRAD HANDLER, ANALYST, CREDIT SUISSE: Thanks very much. I guess first question if I come back to the US market, can you give us an update on kind of the contract renegotiation status? A year ago we heard a lot about the process of negotiating pricing particularly in pumping, but I think it was broader than that for the US market for the coming year and it sounds like that has been delayed to some degree. Can you update us on that please?
+ANDREW GOULD: I think it's fair to say that customers knowing they were going to lay down rigs and therefore would have more bargaining power pushed out the contract renegotiation into much later than they would normally have done. And I would think that we're probably about 70% through it now for the key product lines, yes.
+BRAD HANDLER: So just to key in on that, so the point is we will start to see the impact of those discussions in Q1 or is it more of a Q2?
+ANDREW GOULD: No, I think you'll see them in Q1 but sorting out the effect of the new contracts from the drop in rigs and all of the rest of it is going to be quite complicated.
+BRAD HANDLER: Yes. That makes sense. On a relative basis versus the prior year sort of percentage of work and again your comment makes it more complicated to answer this, but percentage of work that you expect will prove to be under some form of contract versus the spot market?
+ANDREW GOULD: I don't think it will change very much, no. So 60-70% will be under contract. Now what the scope of those contracts is going to be I don't know because rigs are dropping so fast it's difficult to tell.
+BRAD HANDLER: Are they presumably of the same nature, they're sort of covering a certain area, for what work gets done here and here's the pricing?
+ANDREW GOULD: Yes.
+BRAD HANDLER: Can I ask one unrelated follow-up please? Can you comment, would you be willing just to make a comment, consensus EPS is sitting at 350, can you comment on how you all feel about that consensus number, just to try to just get it out there?
+ANDREW GOULD: Well given the way I've been talking this morning I suspect that the consensus number will come down from 350.
+BRAD HANDLER: That makes sense. Okay, got it. Thank you.
+OPERATOR: And we have a question from the line of Kevin Simpson with Miller Tabak & Company.
+KEVIN SIMPSON, ANALYST, MILLER TABAK & COMPANY: Good morning.
+ANDREW GOULD: Good morning Kevin.
+KEVIN SIMPSON: A question for Simon. There was a decent sized jump in the post-retirement benefits line. I wonder, I guess I hadn't really looked at it and so maybe it's been moving up through the year but wondered what the explanation for that is and is there a number that goes higher in '09?
+SIMON AYAT: So there's two explanations as a matter of fact. One big part of the increase was related to a decision we made in the fourth quarter to convert a pension scheme we have for our international mobile staff from a defined contribution to a defined benefit. In other words we, given the market condition, we felt that we will take the risk and convert it to a defined benefit was a target benefit associated with their average carrier.
+Now the other part is it's no secret. It's the value of the assets due to the market condition had dropped. Now overall, including the international mobile pension plan, we are about 70% funded. So this is why you see this big shift between the two years.
+KEVIN SIMPSON: So then obviously ex Stock Market conditions that the number now of the $2.37 billion is probably representative of where you're going to be going forward?
+SIMON AYAT: Well this would be dependent on first as you said, the value of the assets, the market condition, but we also plan to fund some of these shortfalls. In Q4, we put some money, $230 million, and we have spared money to fund the different plans during 2009. So it will be hopefully less.
+KEVIN SIMPSON: Okay, and then is the AIM going, obviously huge uncertainty here in terms of how far down, but pretty still lower but fairly robust CapEx program. Is the AIM to be cash neutral this year or is that possible I guess in this environment?
+ANDREW GOULD: Let me comment on that, Kevin. We planned to be cash neutral but we have a lot of options to stay very cash positive.
+KEVIN SIMPSON: And would that include cuts in CapEx?
+ANDREW GOULD: Yes. Well, you probably heard me explain that we did a H1-H2 plan.
+KEVIN SIMPSON: Yes.
+ANDREW GOULD: So when we do the H2 plan in May we will look at the CapEx again.
+KEVIN SIMPSON: So actually post the Q1 conference call.
+ANDREW GOULD: Yes.
+KEVIN SIMPSON: Okay. Thanks. That's all for me.
+OPERATOR: And we have a question from the line of Pierre Conner with Capital One Southcoast. Please go ahead.
+PIERRE CONNER, ANALYST, CAPITAL ONE SOUTHCOAST: Good morning Andrew. Most of the questions have been answered, but just a little bit of follow-up on seismic. If you could talk about sort of the difference in you commented about a rapid decline in library demand but yet the increase in the backlog, is it customer mix or is it basically a data driven demand?
+ANDREW GOULD: No. The backlog is not, there's very little multi-client in the backlog. The backlog is marine and land acquisition or third party processing.
+PIERRE CONNER: Okay.
+ANDREW GOULD: Actually, there is a very interesting difference between this cycle and the last down cycle in seismic. Is the last down cycle in seismic, WesternGeco had a balance sheet, library value of approximately $1.1 billion and this time, it's less than 300.
+SIMON AYAT: It's 282.
+ANDREW GOULD: So 282, and the multi-client that we are going to shoot through the first two-thirds of this year is already very adequately pre-funded. Because one of the dangers in the seismic business is everyone goes off and starts shooting multi-client without funding. I think this time around most of the seismic companies balance sheets are such that they won't do that unless they have pre-funding.
+PIERRE CONNER: My follow-on to it relates to the margins and I imagine just from the magnitude of the revenue contribution from the marine versus the library, but the margins in the library significantly better because of the depreciation, just as you pointed out. Is that, was that a large contribution to the decline, the decrements because of the less library or really all driven mostly by the drydocks and transit times?
+ANDREW GOULD: I think it's far more driven by the choppy quarter in marine, the fact that we had drydocks in transits and you can't cut the fixed cost when you just are moving boats around.
+PIERRE CONNER: Okay. So as pointed out earlier, that's the biggest driver?
+ANDREW GOULD: Yes.
+PIERRE CONNER: Very good. Thank you, gentlemen.
+OPERATOR: And we have a question from the line of Robin Shoemaker with Citigroup. Please go ahead.
+ROBIN SHOEMAKER, ANALYST, CITIGROUP: Andrew, as you planned for the North American continued drop in North American activity, you've mentioned that this downturn is different from previous ones in several respects. Do you expect a kind of a V-shaped bottom to the North American Drilling decline as we've seen in the last two downturns or is this something in your mind possibly very different?
+ANDREW GOULD: Well, I think, the answer Robin is I don't know yet because so much of what happens in North America is going to depend on the recovery and industrial demand for gas. And there are some things out there that could make it very positive, for example, if the new Administration decommissions some coal fire generating plants, that could increase gas demand fairly dramatically. The other unknown is what is the true decline rate of some of these new shale gas horizontal wells? So the answer is I don't know at this point in time, but I would say the key factor is, when demand starts to recover.
+ROBIN SHOEMAKER: Right, okay. One follow-up, in all the various currency impacts that you've mentioned and I assume some of the big ones are the pound, the Canadian Dollar, the Russian currency, do you have a aggregate impact of based on various markets of what that was in the negative sense in the most recent quarter?
+ANDREW GOULD: Simon?
+SIMON AYAT: So basically we highlighted the impact of the currency on the top line, and the fact is we don't have impact of those currencies on our profitability. As a matter of fact the stronger dollar overall is a slightly positive for us. But definitely on the top line as you highlighted, certain countries like Canada, North Sea, we have a high portion in the local currency and in some other markets much lower. But overall, we are quite balanced between the income between these currencies and our cost and on the profitability basis, there is no impact.
+ROBIN SHOEMAKER: Yes. Okay, thank you.
+SIMON AYAT: Sure.
+OPERATOR: And the last question will come from the line of Michael LaMotte with JPMorgan. Please go ahead.
+MICHAEL LAMOTTE: Thanks, I appreciate the opportunity to follow-up and it's related to CapEx. I was hoping you could talk a little bit about the priorities of the $2.2 billion in Oil Field with respect to replacement capital, new technology deployment, project related, etc.?
+ANDREW GOULD: There's an awful lot of project related deepwater CapEx. There's a lot of CapEx related to gas overseas and after that, I would say those are probably if you like the new categories, Michael then I would say it's replacement in new technology.
+MICHAEL LAMOTTE: Okay, and so if I think about a Plan B on the CapEx side in the second half, it would really be subject to potential deferrals on gas and deepwater, probably the biggest variable?
+ANDREW GOULD: Probably, yes. Or the fact that there had been some idling in the offshore market that allows us to take CapEx from other offshore rigs and put them on new ones.
+MICHAEL LAMOTTE: Okay. Very good, thank you.
+MALCOLM THEOBALD: On behalf of Schlumberger Management team, I would like to thank you for participating in today's call. Shelley will now provide the closing comments.
+OPERATOR: Thank you, ladies and gentlemen. This conference will be made available for replay after 10:30:00 a.m. today, and will run through February 23rd at midnight. To access the AT&T replay system at any time please dial 1-800-475-6701, international participants dial 1-320-365-3844 and enter the access code 972151. Again, those numbers are 1-800-475-6701, international participants dial 1-320-365-3844 and the access code 972151.
+That does conclude your conference for today. Thank you for your participation and for using AT&T's executive teleconference. You may now disconnect.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2009 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2009 ASC LLC (www.ascllc.net) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or ASC's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and ASC so long as they provide conspicuous attribution to Thomson Financial and ASC as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Tax rates; Chief executive officers; American dollar; Securities buybacks; Earnings per share; Oil fields; Liquidity
+
+Business indexing term: Subject: Tax rates Chief executive officers American dollar Securities buybacks Earnings per share Liquidity; Corporation: SLB Ltd
+
+Company / organization: Name: Thomson Financial; NAICS: 513210, 518210, 519290; Name: SLB Ltd; NAICS: 213111, 213112, 334419, 334513, 513210, 541512
+
+Title: Q4 2008 Schlumberger Earnings Conference Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2009
+
+Publication date: Jan 23, 2009
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Wire Feed
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 466099703
+
+Document URL: https://www.proquest.com/wire-feeds/q4-2008-schlumberger-earnings-conference-call/docview/466099703/se-2?accountid=27562
+
+Copyright: 2009 CCBN, Inc. and FDCH e-Media, Inc.
+
+Last updated: 2026-02-10
+
+Database: ABI/INFORM Collection

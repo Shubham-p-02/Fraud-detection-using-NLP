@@ -1,0 +1,376 @@
+Q4 2015 General Electric Co Earnings Call - Final
+
+https://www.proquest.com/newspapers/q4-2015-general-electric-co-earnings-call-final/docview/1762722888/se-2?accountid=27562
+
+Abstract: None available.
+
+Full text:   Presentation
+OPERATOR: Good day, ladies and gentlemen, and welcome to the General Electric fourth-quarter 2015 earnings conference call. (Operator Instructions) My name is Ellen and I will be your conference coordinator today. (Operator Instructions) As a reminder, this conference is being recorded.
+I would now like to turn the program over to your host for today's conference, Matt Cribbins, Vice President of Investor Communications. Please proceed.
+MATT CRIBBINS, VP INVESTOR COMMUNICATIONS, GENERAL ELECTRIC COMPANY: Good morning and thanks for joining our fourth-quarter 2015 webcast. Earlier today we posted the press release, presentation, and supplemental on our Investor website at www.GE.com/investor. As always, elements of this presentation are forward-looking and are based on our best view of the world and our businesses as we see them today. Those elements can change as the world changes.
+Today I'm joined by our Chairman and CEO, Jeff Immelt, and our CFO, Jeff Bornstein. Now I'd like to turn it over to Jeff Immelt.
+JEFF IMMELT, CHAIRMAN, CEO, GENERAL ELECTRIC COMPANY: Thanks, Matt. Let me start with some thoughts on the macro environment and GE's fit in it. For the last few years I've talked about a slow growth and volatile economy. This is still my view.
+In the fourth quarter, across our own large industrial footprint our orders grew by 1% organically, and our backlog is at a record of $315 billion, up 7% organically. Our biggest Industrial business, which is Power, had organic orders growth of 29% in the quarter. I have a difficult time reconciling this with the mood that is in the markets.
+Clearly, oil pricing is a concern and will have an impact. But our organic orders growth in the Middle East were up 14% in the quarter, so economic activity is ongoing.
+I know there is a concern about emerging markets in total, but our organic growth was up 7% in the quarter, ex-Alstom, and our business in China grew slightly organically in the year and backlog grew by 11%. So we're seeing a lot of economic volatility, but there's still enough business out there for GE to hit its goals.
+The GE team had a good quarter in a volatile environment. Total operating EPS was $0.52, up 27%; and Industrial EPS was $0.47, up 27%. Orders were up slightly and organic growth was down slightly versus a year ago.
+Total Industrial margins expanded by 80 basis points, and 2015 CFOA grew by 8% to $16.4 billion. Industrial profit expanded by 3% organically.
+We hit or exceeded all of our goals in 2015. Organic growth was up 3%, with 80 basis points of margin expansion, leading to 7% organic profit growth.
+EPS was $1.31, up 17%. We achieved this despite having $0.05 of FX headwind.
+The Verticals hit their plan, and Capital returned $4.3 billion to the Parent. Our cash and free cash flow execution was ahead of plan. We returned $33 billion to investors, including the excellent execution with Synchrony.
+We also executed a massive amount of portfolio change in the year. GE Capital exits are ahead of plan, with $157 billion of signings to date.
+The impact of Alstom was flat on EPS, slightly better than expected. Alstom had an impact on several segments, and Jeff will take you through those results; but on balance we like what we see in Alstom.
+Last week we announced the disposition of Appliances to Haier for $5.4 billion. This will create an attractive gain and allow us to significantly increase our restructuring targets in 2016.
+So we're committed to our 2016 framework in the face of macroeconomic volatility.
+Now for orders. Orders grew by 3%, which was up 1% organically. And as I said earlier, our backlog is $315 billion, up 7% ex-Alstom. Alstom added $29 billion to our backlog.
+Services grew by 5%, which was up 3% organically. Equipment grew by 2%, which was down slightly organically.
+Service orders were strong. Power Gen Service orders grew by 13% ex-Alstom, and Commercial Aviation Service orders were up 14%. Healthcare Service orders were up 3%, and Alstom orders were $2.6 billion.
+We had some nice wins with Alstom in China on the Hydro business, several combined-cycle gas turbine power plants, with richer GE content and the Hinkley Point nuclear steam turbine in the United Kingdom.
+On the products side of GE we also had some solid highlights. Two I'll call out.
+Power booked 12 H-turbine orders in the quarter, and we now have 33 in backlog; in addition we have another 49 technical selections. In Healthcare, our MR orders grew by 18% in the quarter and our bioprocessing grew by 16% in the quarter. So great results by those businesses.
+Globally, orders were generally positive, growing 8% in total and 12% in the growth regions. As I said earlier we had strength in the Middle East and ASEAN and India, and Latin America was also decent. Including Alstom, China was up 15% in orders in the quarter, and backlog grew by 16% to $21 billion.
+Order pricing was up 0.9% in the quarter, and we have good pricing momentum in both Aviation and Power. So overall, our backlog and orders pricing gives us high visibility as we approach our organic growth targets in 2016.
+Let's talk about the execution of the team and what you saw in the segment results. Overall the team executed in a tough environment: in the quarter organic growth was down slightly, but for the year organic growth was up 3% with seven of eight segments growing. Service remains steady, up 5% in the year and 4% in the quarter organically.
+The Oil & Gas team I'd really like to call out, because I think they executed very well in 2015. With a 7% decline in revenue, their organic operating profit grew by 1%, and this is ahead of what we said last year. Our team executed on restructuring, they improved their value gap, and they invested in the core franchise, and we expect the team to continue to execute in 2016.
+Looking at revenue in 2016, let me just give you a few metrics and some things to think about. We primarily ship from backlog, so orders and backlog growth matter.
+In 2015, six of seven businesses grew backlog, some substantially. When we do our analytics around convertible backlog and business performance, we see a path to 2% to 4% organic growth for 2016 even with a very difficult Oil & Gas market.
+The most robust part of our business is Service. Service backlog grew by 16% in 2015, and we expect another year of 20%-plus growth in our Digital applications. Both these support sustained growth in Services.
+We had another strong quarter and year in margins. For the year, Industrial margins were up 80 basis points at the segment level and 110 basis points overall. Services were up 40 basis points, and Equipment was up 20 basis points.
+We continue to make good progress on value gap, up more than $450 million on the year, and cost productivity. Mix was favorable in the quarter, and in addition we have solid momentum for cost-out.
+Again, due to the higher Appliances gain, we can do a record level restructuring in 2016 to fortify our framework. Specifically, we believe we can execute on an incremental $1.7 billion in the year, which should yield incremental benefits.
+Last year we discussed a new compensation plan that was aligned with investors and delivered results. I'm convinced that this incentivized our team to deliver superior results in 2015, and we have set our 2016 targets to drive our framework. Our strategy and business model is paying off, and we believe we can deliver strong performance in the face of economic volatility.
+Now for cash. CFOA grew for the year by 8%. Industrial free cash flow grew by 4%, and total free cash flow grew by 14% to $13.5 billion. Total year core Industrial cash flow, ex-Alstom, was $12.6 billion, up 3%. Total year free cash flow conversion was 85%, in line with our expectations.
+GE Capital dividends were $4.3 billion for the year, and we're still on track for $18 billion of dividends to the Parent in 2016. The balance sheet is very strong, and the price for Appliances was a pleasant surprise. The business had been improving, and there was strong interest in the business; and a price of $5.4 billion gives us more than $1.3 billion of incremental cash.
+For capital allocation, we returned $33 billion in the year, including Synchrony. Looking at 2016, we're still on track to return $26 billion to investors in dividend and buyback.
+Before I turn it over to Jeff, let me reflect a little on the Alstom results. We've integrated two months of revenue, all of the deal-related costs, and the impact of the joint ventures -- all for the first time. There's inherent complexity as we go through it, so bear with us; but in general, I would say the business and our outlook and our execution are on track, and we're still excited about Alstom.
+JEFF BORNSTEIN, SVP, CFO, GENERAL ELECTRIC COMPANY: Thanks, Jeff. I'll start with the fourth-quarter summary. Revenues were $33.9 billion, up 1% in the quarter. Industrial revenues including Corporate were up 3% to $31.3 billion.
+You can see on the right side that Industrial segments were down 1% reported and down 1% organic. Alstom revenue of $2 billion in the quarter was offset by $1.3 billion of foreign exchange and dispositions of $700 million.
+Industrial operating plus Verticals EPS was $0.52, up 27%. That's driven by Industrial up 27% and Verticals flat. The operating EPS number of $0.31 includes other continuing GE Capital activity, including headquarter runoff and other exit-related items I'll cover in more detail shortly.
+$0.26 of continuing EPS includes the impact of non-operating pension; and net EPS of $0.64 includes discontinued operations. The total disc-ops impact was a positive $3.7 billion, driven by the $3.4 billion gain from Synchrony and earnings from the businesses held in sale.
+As Jeff said, we generated $16.4 billion of CFOA for the year; that's up 8%. Industrial CFOA was $12.1 billion, down 1%, but up 3% when you exclude Alstom's CFOA and taxes associated with the disposition of Signaling.
+The GE tax rate was 5%, bringing the total year rate to 14%. The tax rate in the quarter was driven by the Appliances transaction moving into 2016; tax benefits associated with integrating our existing Service business with Alstom's business in Switzerland; higher tax benefits, principally on the Signaling gain we had in the quarter; and legislation making the US research credit permanent.
+The reported GE Capital tax rate in the quarter of 39% reflects a tax benefit on a pretax loss. The tax rate for the Vertical businesses was a negative 13%, reflecting reduced income at EFS and international tax benefits that will diminish as we complete the GE Capital exit plan. Going forward as we complete the exit we expect GE Capital Vertical tax rate to be approximately 10%.
+On the right side of the segment results, as I mentioned, Industrial segment revenues were down 1% reported and down 1% organic, with foreign exchange and dispositions offsetting Alstom. The foreign exchange was a $1.3 billion drag on Industrial segment revenue and a $163 million impact on Industrial segment op profit.
+The Power, Renewables, and Energy Management businesses were impacted by the Alstom acquisition, and I'll walk you through the impact on the next page.
+At the December outlook meeting we said we would present Industrial results including Corporate operating costs. On that basis, Industrial op profit for the quarter was down 6% recorded, but up 3% organically on strong Corporate cost performance.
+To give you context on the quarter, organic revenue at down 1% was a little over $1 billion lower than we expected. This was driven by Power, lower by about $350 million on expanded scope and BOP, aero, and reciprocating engines that did not close in the quarter; about $400 million in Renewables, on lower wind turbines, which I'll cover more on shortly; and $300 million of softness in Oil & Gas; and $100 million of softness in convertible orders in our Energy Management business.
+Most of the $1 billion was timing, and we expect it to convert in 2016. For the full year, organic revenue was up 3%.
+What's laid out on this page is the impact of Alstom on the Power, Renewables, and Energy Management businesses. You can see the reported op profit of the businesses in the first column, the impact of Alstom in the middle column, and the op profit and the Vs excluding Alstom on the right.
+Power on a standalone basis would have been down 5%; Renewables would've been down 54%; and Energy Management would have been up 4%. The outsized impact of Alstom in Energy Management business is due to the JV structure of Digital Energy and the Alstom Grid business.
+We contributed positive earnings from Digital Energy to Alstom's business that had negative earnings. Remember, this is a 50-50 JV and we consolidate 100% of the revenue but record only 50% of the earnings.
+In the case of Energy Management, the 17% organic V reflects the organic performance for the Power Conversion and Industrial Solutions business, which is how we report organic for this segment going forward. The organic V including Digital Energy would have been plus 19%.
+In the quarter, the EPS impact of Alstom was breakeven, with a pretax loss of $234 million in the segment and an additional $160 million of deal cost and accounting items at Corporate offset by positive tax benefits.
+Revenue was $2 billion and orders were $2.6 billion. As we look to 2016, no change to the guidance we gave you of $0.05 of EPS from Alstom.
+Next I'll do the earnings walk as we've been doing for the last number of quarters so you understand the dynamics clearly on what's going on in earnings. Starting with the first column on the left and working down, Industrial operating net income was $4.6 billion and Vertical income was $438 million, for total Industrial plus Verticals operating earnings of $5.1 billion.
+On the Other GE Capital line, we incurred $2.1 billion of cost in the quarter. This was driven by restructuring charges, the preferred dividend payment, headquarter runoff, operating expenses, and excess interest costs. We also took an impairment of about $800 million related to the Homer City power plant asset, which I'll cover more on, on the GE Capital page.
+As a result, total operating earnings were $3 billion. Including nonoperating pension costs, continuing earnings were $2.6 billion.
+We had a $3.7 billion of income in discontinued operations, principally related to the Synchrony gain. Adjusting for these items, net earnings for the quarter were $6.3 billion.
+In the center and the far right columns you can see the associated EPS numbers and their variance versus prior year.
+On the next page, Industrial other items for the quarter, we had $0.04 of charges related to Industrial restructuring and other items that were taken at Corporate. Charges were $567 million on a pretax basis, with $160 million of those charges related to the Alstom deal costs and accounting items.
+We also had $1 billion of Industrial gains in the quarter which equated to $0.08 of EPS at the transactional tax rates. The pretax Signaling gain was $622 million, and the Appliance breakup fee was $175 million. Additionally, we sold our embedded controls business in Energy Management and our Clarient business in Healthcare.
+On the bottom of the page you can see the total year restructuring gains profile. We incurred restructuring charges of $0.12 and had gains of $0.11, for a net charge of $0.01 for the year. This was $0.02 better than we communicated in December, driven by about $0.01 of lower restructuring, primarily Alstom-related, and slightly higher gains driven by predominantly tax at the transaction level.
+For 2016 we expect gains in restructuring to largely offset for the year. However, there will be a quarterly variability in the timing.
+As Jeff mentioned, we signed the Appliances transaction, which we expect to contribute about $0.20 of gain midyear this year. That, combined with some smaller transactions, should yield gains of about $0.25 in 2016.
+We will use this opportunity to continue to invest in improving the Industrial margins and costs. This will benefit us not only in 2016 but will position us well for 2017 and 2018.
+Now I'll go through the segments, starting with the Power business. With the combination of Alstom into the Power segment, we have reorganized some of the sub-businesses, so I'll take a minute to walk through these changes.
+First, the Thermal business was renamed Gas Power Systems. This business includes gas turbines and steam and generators for combined-cycle applications. Additionally, we move the Equipment side of our aero turbines business to Gas Power Systems.
+Second, the Power Services business includes our PGS business and services related to aero turbines. The Distributed Power business now includes just our reciprocating engines and the Service businesses for Jenbacher and Waukesha. Additionally, as you know we have a standalone steam business that we acquired from Alstom.
+Moving to the financial results, orders in the quarter of $9.6 billion, including $1 billion of Alstom orders, grew 40%. Excluding Alstom, orders were $8.6 billion, up 25%, with Equipment orders up 46% and Services up 8%.
+Within Equipment orders, Gas Power Systems was higher by 60%, ex-Alstom. The increase was driven by orders for 55 gas turbines versus 41 last year and expanded scope including BOP for a large Saudi 7F order.
+In the fourth quarter, we took new orders for 12 H-turbines versus two last year: five units in the US, four in Pakistan, and three in Asia. Our H backlog now totals 33, with an additional 49 technical selections for a total of 82 units.
+Aero turbine orders were down 14% on 43 units versus 50 last year. Distributed Power engines were lowered by 12%, with weakness in Waukesha gas compression partly offset by strong orders in Jenbacher. Equipment OPI was strong at 6.7%, driven by H-turbine demand.
+Service orders excluding Alstom grew 8% on higher installations, growth in multiyear contracts, and strong upgrades. AGP sold 42 for the quarter versus 26 a year ago, bringing total year orders on AGPs to 119.
+Alstom orders, as I mentioned, totaled $1 billion, including two steam turbines and six HSRGs, one in conjunction with GE orders.
+Ex-Alstom, Equipment backlog ended at $8.3 billion, up 15%. Service backlog grew 4% to $53 billion. In total, Power backlog ended the year at $62 billion ex-Alstom, and $77 billion with Alstom.
+Core GE revenues were $6.2 billion, down 10%, and down 7% organically. Equipment revenues were down 25% driven by fewer gas turbine shipments, foreign exchange, and lower balance of plant.
+In the quarter, the business shipped 28 gas turbines versus 44 a year ago. Total year shipments were 107 units. Lower units and lower BOP were driven by no repeat of the large Algerian deal in the fourth quarter of last year.
+Service revenues were up 1%, driven by Power Services up 8%. AGPs were 35 in the quarter versus 24 a year ago, bringing total shipments to 104 for the year.
+Strength in Power Service was partly offset by lower Distributed Power Service, down 15%. Alstom revenues in the quarter totaled $917 million, with $255 million from Equipment and $662 million from Services.
+GE core operating profit was $1.7 billion, down 5%. The decrease was driven by lower volume and partially offset by positive value gap. Margins improved 140 basis points in the quarter.
+Alstom operating profit was a loss of $80 million, reflecting operations, deal costs, and accounting adjustments. Given the scale of the Alstom consolidation on our first close, things went reasonably well. The core business came in a little lower on revenue than expected, driven by the timing of BOP and aero engine shipments; however, orders were better than expected on strong demand for both H and F products, particularly in Saudi and Pakistan.
+2016 is a big execution year, with the Alstom integration, shipping approximately 24 H-turbines, and executing on our product cost strategy. In total, we expect to ship 110 gas turbines and 125 AGPs, with 60% to 65% of these units shipping in the second half of the year in 2016.
+Next, I'll cover Renewables. Total Renewable orders were $2.5 billion in the quarter, up 1%. Excluding Alstom, orders were $2 billion, down 18%, and down 10% ex-foreign-exchange.
+We took orders for 827 wind turbines versus 1,251 a year ago in the quarter. The decline was a result of lower US orders, partly driven by the strength in the fourth quarter of last year related to the PTC extension. This year, the PTC extension includes a multiyear phaseout.
+Orders were also impacted by the shift from the 1.X product line to the new 2.X and 3.X products that drive fewer units but more megawatts. Additionally, we had three deals delayed to 2016 for a total of 240 turbines or about $550 million of orders.
+Orders outside the US were up 19% ex-FX, and down 2% reported, with strength in Europe, the Middle East, and South Asia. Backlog in the Renewables core business ended at $7.1 billion, up 27% year-over-year.
+Alstom renewable orders were $469 million in the quarter, with a large Hydro win of $400 million in China at the Three Gorges project. Alstom added $5.3 billion of backlog to the Renewables business.
+Renewables revenue for the fourth quarter totaled $1.9 billion, lower by 16% and down 8% ex-exchange. The legacy GE business had revenue of $1.9 billion, down 20% reported and down 12% ex-foreign-exchange.
+Core unit shipments were 847 in the quarter versus 1,081 last year. This was lower than expected as two deals for 165 turbines pushed into 2016.
+Operating profit ex-Alstom was $125 million, down 54%. The decline was attributable to lower volume of 234 units, negative mix from the new 2.X product as we come down the cost curve, and foreign exchange. Alstom op-profit was a loss of $69 million.
+In 2016 we expect to ship about 3,050 onshore turbines including 250 of Alstom wind units. As Jeff discussed earlier, 2016 organic revenues should be high single-digits to low double-digits depending on the mix of units shipped. Core op-profits should be flat to up slightly as the business is focused on improving the cost curve for the new 2.0 and 3.0 megawatt product launches and delivering $100 million of Alstom cost synergies.
+Next on Aviation, global passenger air travel continues to grow robustly, up 6.7% November year-to-date. Both domestic and international markets are strong, particularly in the Middle East and Asia Pacific. Air freight volume grew 2.3% November year-to-date.
+Orders in the fourth quarter of $6.8 billion were down 16%. Commercial engine orders were down 47%, as expected. We booked $1.9 billion of engine orders, including $100 million of GE90, $600 million of GEnx orders, $400 million of LEAP CFM orders, and $500 million of CF6 orders.
+Commercial Equipment backlog ended the year at $29.5 billion, up 11%. Military Equipment orders of $353 million in the quarter were higher by 2 times on a large Navy F414 order.
+Service orders were higher by 9% with strong Commercial Spares orders, up 10% to $39 million a day. CSAs were up 24% in the quarter.
+Military services were down 20%. Services backlog ended the year at over $116 billion, up 15% versus last year.
+Revenues of $6.7 billion were up 5%, with Commercial Equipment revenues down 5%. We shipped 59 GEnx units versus 77 last year, driven by schedule. We have no delinquencies to Boeing.
+Military Equipment revenue was down 1%, and Services revenue was up strongly at 18% driven by Commercial Services up 24%. Operating profit grew 12% on strength in Services, positive value gap, and good cost productivity. Operating margin rates improved 160 basis points.
+The Aviation team delivered another solid execution year. For the year, revenues grew 3%, operating profit grew 11%, and margins expanded 160 basis points.
+Our share on each of our engine platforms is very strong, and the LEAP launch remains on track for midyear. We expect another solid year from David Joyce and the team at Aviation.
+Next is Oil & Gas. This segment continues to operate in a very difficult environment, and we continue to be focused on being hypercompetitive on new opportunities and very aggressive on the cost structure.
+For the fourth quarter, orders of $3.3 billion were down 35%, and down 28% organically. Equipment orders were down 52%, or 44% organically.
+All segments had lower orders driven by delays and reduced CapEx spending, with the exception of our Downstream platform, which grew orders 51% reported and up 84% organically. For the other segments on a reported basis, Subsea was down 49%, TMS was down 78% and Surface was down 65%.
+Service orders were down 17%, and down 13% organically. On a reported basis, TMS was down 24%, Surface was down 29%, Subsea was down 35%, and M&C was down 8%, partly offset by Downstream which grew service orders by 20%.
+Not included in orders but included in backlog, TMS signed four new long-term service agreements totaling $1.5 billion in the quarter. Total backlog ended the year at about $23 billion, which was down 9% versus last year, and down 4% ex-exchange.
+Revenues in the quarter were down 16% reported and down 6% organic. Foreign exchange reduced revenues $437 million in the quarter.
+Equipment revenues were down 21% reported and 12% organically. By business, Surface was down 49%, TMS down 18%, Subsea down 15%. Organically, TMS was down 8% and Subsea was down 5%.
+Service revenues were down 9% and flat organically, with M&C down 5%, offset by TMS up 22% organically.
+Operating profit in the quarter was down 19% and down 7% organic. Foreign exchange in the quarter was a $93 million headwind. The business continued to deliver on cost reductions and deflation, which partially offset the negative volume and price.
+Margin rates were down 70 basis points. On an organic basis, margins contracted 10 basis points.
+The business executed an early and aggressive cost-out program beginning in 2014, delivering $600 million of cost-out during 2015. For the year, revenue and op profit were down 5% and up 1%, respectively, and organic margin rates actually expanded 90 basis points.
+For 2016 our best view for revenues and op profit continues to be down 10% to 15%, most likely at the bottom end of that range, given the outlook for the industry and our view of volume and price. Our base plan at December outlook called for $400 million of cost-out in 2016 to get to the $1 billion run rate over 2015 and 2016. We are working another $400 million of additional cost-out reductions to offset the likely lower volume and price pressure.
+We expect the first half to be tougher year-over-year versus the second half. Lorenzo and his team have executed very well in 2015, and we expect the business will continue to outperform on a relative basis in 2016.
+Next up in Healthcare, orders of $5.2 billion were down 4%, but up 1% organically. Geographically, orders in the US were down 1%; Europe was down 8%, and up 4% ex-FX; and the Middle East region was down 4%, and up 5% ex-FX. China was down 6% reported and down 3% ex-FX.
+Tenders in China continue to improve slowly. Year-over-year, tenders were flat after several quarters of contraction.
+In terms of business lines, Healthcare systems orders were down 6% and down 1% excluding exchange. The US was down 2%, driven by lower molecular imaging and x-ray on tough comparisons, offset partially by strong MR, up 33%, and Ultrasound up 5% on new product upgrades.
+Europe was down 8% reported, but grew 5% ex-foreign-exchange. Europe was up 5% ex-FX for the year and has seen six consecutive quarters of organic growth.
+China orders were down 11% reported and down 9% excluding exchange. Our current outlook for 2016 is for orders growth in China as government tenders begin to rebound.
+Life Sciences continued to perform very well. In the fourth quarter, orders grew 2%, up 8% ex-exchange. Within Life Sciences, bioprocess grew 16% ex-FX, with strength in Korea, China, and the US.
+Healthcare revenues were down 3% reported, and up 3% ex-FX. Healthcare systems revenues were lower by 4% reported, and up 3% ex-FX. Life Sciences revenues grew 6% excluding exchange.
+Operating profit was lower versus the fourth quarter of last year by 4% excluding exchange, and lower by 8% reported. Volume growth and cost productivity were more than offset by price and higher growth investments. Margin rates contracted 100 basis points in the quarter.
+In 2016 we expect John and the Healthcare business to improve operationally in terms of earnings and margin rates. Our outlook is for the Life Science business to continue to grow strongly and profitably, and for the HCS business to execute their digital transformation and aggressively reduce product and service costs.
+In Transportation, North American carloads were down 6.4% in the quarter, driven by very weak carloads in coal, down almost 20%, and petroleum down 13%. Intermodal volume was also down 1% in the quarter.
+For the year, volume was down 2.2% driven by commodities, with intermodal higher by 2%. Lower volume and operational improvements have improved velocity on the rails on average 2.4 miles an hour; that's up 10% versus last year.
+For our business, orders in the quarter were very strong, up 66% to $3.2 billion, driven by equipment orders up 113%. We took our largest order ever of 1,000 locos in India and also secured an order for 100 Tier 4s in the US.
+Service orders were down 6% ex-Signaling, on lower overhaul volume driven by increased parked locos. Revenues were up 2% reported and up 11% ex-Signaling. Equipment revenues were higher by 17%, 27% organically, principally driven by locomotives, partly offset by Services down 8% on lower overhauls.
+Op profit was higher in the quarter by 18% ex-Signaling, and up 8% reported. Increased loco volume, value gap, and productivity drove earnings higher. Margins improved 100 basis points reported and 120 basis points organically.
+The Transportation team delivered a tremendous year. Excluding the Signaling sale, they grew revenues 7%, operating profit 16%, and improved margins 150 basis points. They launched and delivered 425 Tier 4 locomotives on-time, on-cost, and the performance has significantly exceeded customer expectations.
+2016 is going to be a more challenging year, with softer demand in the US and in the commodity markets. We shipped 985 locos in 2015 and expect to ship about 800 in 2016.
+The team is executing an aggressive cost plan to address the lower volume. We expect the business to be down mid single-digits on op profit in 2016.
+On Energy Management, as I mentioned earlier, describing results for Energy Management is complicated by the contribution of our Digital Energy business to the Grid JV.
+For financial reporting purposes, we'll report 100% of the Grid JV's orders and revenues but only report 50% of their earnings. Going forward, we will report results on this basis; but all our organic calculations will include only Industrial Solutions and the Power Conversion business.
+Orders in the quarter were $2.6 billion, up 15% reported. Of the $2.6 billion, $1.1 billion was from the Grid business, with Alstom contributing $716 million and Digital Energy business contributing $342 million. Digital Energy orders were down 10% reported and down 8% organically.
+Power Conversion orders were down 17%, and down 11% organically on no repeat of large Renewable orders in the fourth quarter of last year. For the total year, Power Conversion orders were very strong up 19% organically.
+Industrial Solutions orders in the quarter were down 17% reported and down 11% organically, driven by foreign exchange and dispositions. North America demand in the quarter was weak across all Industrial Solution segments.
+Backlog for the quarter ended at $11.7 billion.
+Reported revenues of $2.4 billion were higher by 20%. Grid Solutions revenue totaled $952 million, inclusive of $393 million of Digital Energy revenue.
+Industrial Solutions revenues were down 8%, and down 4% organically. Power Conversion was down 6%, but up 9% organically.
+Reported op profit for the Energy Management segment was $33 million, which includes the effects of establishing the Grid JV and Alstom's results. Before the effects of Alstom, as I covered earlier, Energy Management earned $118 million of op profit, up 4%, driven by productivity and the gain on sale in our meters business, partly offset by lower Industrial Solutions volume.
+The contribution of our Digital Energy business to the Grid JV, combined with the Alstom Grid operating results, equaled the loss which we recorded at 50% or $5 million.
+Next we announced last week and Jeff spoke about it earlier, we have an agreement to sell our Appliance unit to Haier, which we expect to close midyear. Fourth-quarter results for both Appliances & Lighting had revenue essentially flat. Appliance revenue was up slightly from last year, and Lighting saw a flat revenue and growth organically. LED growth in the quarter was 28%.
+Operating profit for the segment was up 28%, with very strong performance in Appliances, up 51% on strong cost performance, and up 4% organically in Lighting, but down 10% reported, driven by foreign exchange.
+The Appliance team had a strong year, essentially doubling profits and expanding margins significantly. They've also done an outstanding job managing the business through this disposition process.
+Lastly I'll cover GE Capital. Our Verticals businesses earned $438 million this quarter; that's up 7% from prior year, driven by operations and higher tax benefits, partially offset by lower gains. Portfolio quality remains stable, and the Aviation portfolio finished the quarter with zero delinquencies and only two AOGs.
+Working down the page, GE Capital Corporate generated a $2 billion loss in the quarter, principally driven by restructuring and other charges related to the GE Capital transformation, preferred dividend payments, excess interest costs -- including the costs associated with the debt exchange we completed in October -- and headquarters operating costs.
+In the current quarter we took an impairment of approximately $800 million on our Homer City coal-fired power plant in the US related to a decision to exit the investment over time. This investment was not strategic to the Verticals go-forward business, and this action will align its portfolio more closely to the GE Store going forward. This charge is within the framework of the $23 billion charge to effect the GE Capital transformation.
+Discontinued operations, which now includes the Consumer segment, generated earnings of $3.7 billion, primarily driven by a $3.4 billion gain associated with the Synchrony split off as well as the earnings and gains from discontinued operations. Overall, GE Capital reported $2.1 billion of earnings, and we ended the quarter with $167 billion of ENI, excluding liquidity. The Verticals ended the quarter with $79 billion of ENI excluding liquidity.
+Our liquidity levels remain very strong at $91 billion. Our Basel 3 Tier 1 common ratio was 14.5%, which is up 80 basis points from the third quarter after paying dividends of $3.9 billion during the quarter, bringing our total dividends in 2015 to $4.3 billion.
+Asset sales remained ahead of plan, and we ended the year with $157 billion of signed deals and $104 billion of deals closed. Overall, Keith and the GE Capital team have executed ahead of schedule on all aspects versus the plan we shared with you back in April. We expect to be largely complete by the end of 2016 and are on track to file for SIFI rescission in the first quarter of this year.
+And with that I'll turn it back to Jeff.
+JEFF IMMELT: Let me end by going through our operating framework. This is the framework I showed in December. We have no change for increasing our goals for disposition cash.
+I know a lot has happened early in the year, but 2015 closed about where we thought it would. So let's start with organic growth of 2% to 4%. We finished 2015 with $315 billion of backlog.
+Earlier I outlined how we achieve those goals even in the face of a tougher Oil & Gas market. We have broad business and geographic diversity. And Service, which is 80% of our earnings, should continue to grow by 3% to 5% in 2016.
+We had two months of Alstom in 2015, and so far so good. We think our synergies are achievable.
+And with the Appliances transaction we're now looking at the ability to fund incremental restructuring. In addition, this gives us upside to our disposition cash for the year.
+All of our goals for GE Capital remain on track. Our dispositions are a year ahead of plan. Capital dividends are the key to returning about $26 billion to you this year, and we plan to file for SIFI de-designation later this quarter.
+We're acting to get more out of this economy. We're aggressively managing our cost structure to capitalize on deflation.
+We have a very strong balance sheet with substantial cash. We have the ability to finance our Industrial Products, which is a huge advantage.
+Our diversity in both regions and markets allows us to outperform single-purpose competitors. We can move production to the lowest cost regions and capitalize on currency or excess capacity.
+We have all the elements to help ourselves in a tough economy: buyback capacity, substantial restructuring funding, and Services growth. And we've continued to invest. Our long-term commitments for R&D, globalization, investments like Alstom have built a huge backlog.
+Just to recap some of our highlights for 2016: double-digit EPS growth; returning $26 billion of cash; Alstom integration; Digital execution. There is really a lot of value here in GE.
+So Matt, now let me turn it back over to you for some questions.
+MATT CRIBBINS: Thanks, Jeff. Operator, please open up the lines for questions.
+Questions and Answers
+OPERATOR: (Operator Instructions) Scott Davis, Barclays.
+SCOTT DAVIS, ANALYST, BARCLAYS CAPITAL: Hi, good morning, guys. One of the things that's changed in the last couple months is just the severe currency devaluations we've seen in some of the emerging markets out there. But your order book in EM seems to be pretty good.
+I mean, are you pricing -- can you just give us a sense of current and past? Are you pricing contracts in US dollars? Are you pricing them in local currency, or is there a mix? Just a little color there.
+JEFF IMMELT: Oh, gosh, maybe I'll do a little bit on the geographic side, Scott, and then give you a sense. We had a very strong fourth quarter in the Middle East. That was a lot driven by Power.
+Pricing actually was pretty good on those transactions for the quarter. I'd say on balance the pricing we've experienced on Power, Rail, Aviation, those show up in the pricing in the backlog and the order book. So I don't think we've seen really any diminution of pricing in the emerging market orders.
+As you know, guys, our stuff is lumpy, so there's big transactions. But I don't -- we don't see any of that. I don't know, Jeff, would you add to that?
+JEFF BORNSTEIN: Just a couple things. What we do in China, there's been very little -- albeit a little bit more lately -- the differences in exchange between the US and China are pretty de minimis. A lot of our businesses, like Aviation, are dollar-based.
+Then obviously in Oil & Gas and a number of Energy Management and a number of our other businesses we do work in local currency. So Brazil, where we're in Brazil and Europe and the euro we've had a little bit of a currency impact, and that's what you hear us reporting when we give you reported versus organic.
+On the orders front, I don't think we've seen that big an impact. When you look at orders in the quarter, particularly in Power, orders' price has been very, very good, very strong, particularly on the H-turbine, largely because we're selling out slots.
+SCOTT DAVIS: Yes, makes sense. Then just moving to Oil & Gas, how's $30 oil impact your 2016 outlook? I guess what I mean is that you have -- I mean, 2015 was pretty amazing with the cost-out. I mean, you haven't seen decremental margins at all in that business.
+Is that sustainable at -- are there breakpoints in oil prices where it's just not sustainable anymore to maintain that type of drop-through?
+JEFF IMMELT: Again, Scott, what I would say is that, just on a macro comment, there's still a lot of efficiency opportunities we have in our Oil & Gas business, both in the supply chain and -- so I think what Jeff talked about earlier in terms of the ability to do incremental restructuring, it's still out there. Then I would just again segment our business into project-based business, where we're still in execution mode -- and that's probably 70% or 80% of our total revenues -- and then businesses like Drilling and Surface that are probably the most susceptible as oil pricing goes down to $30, where trying to stay ahead on the cost curve is going to be very difficult in the future.
+We just need to be flexible as -- at a $30 environment, the one we see today. But that's a very small portion of our overall Oil & Gas business.
+JEFF BORNSTEIN: Yes, I would just add -- I'll just expound a little bit on what Jeff said. If you think about the business, our long-term, more contractual, and project-based stuff -- turbomachinery, Downstream, and Subsea -- that's about 65% of our revenue in 2016. And of those revenues, more than 70% of those are in backlog.
+If you add the M&C business on top of that, which tends to be more flow and convertible, but it's about roughly 50% exposure to Oil & Gas and 50% to non-Oil & Gas. That's 85% of revenue; and when you get M&C you've got about a little bit north of 65% of next year's revenues in backlog.
+So to Jeff's point, the real short-term exposure -- today anyway, as we look at it -- is Surface and Drilling, and they are very susceptible to volatility around what they see for convertible demand in any period of time. But it's 15% of the revenue.
+JEFF IMMELT: But again, Jeff, I'd come back and -- because of Appliances, guys, we have kind of $2 billion-plus of restructuring that wasn't in our plan when we stood in front of you in December.
+JEFF BORNSTEIN: So let me just go back then --
+JEFF IMMELT: And some of that's going to go to Oil & Gas, yes.
+JEFF BORNSTEIN: I was going to follow on with that. The way we think about it, within the range of down 10% to 15%, everything else being equal we may be at the lower end of the range. We may be closer to down 15%.
+We came into the year; we told you we had a plan to take $400 million of cost-out on top of the $600 million of cost-out we delivered in 2015 for a total of $1 billion over the two years, 2015 and 2016. We're now going after an incremental $400 million on top of that.
+So now we're trying to deliver $800 million of cost-out in 2016, and Appliances is an important part of our ability to do that. So we're going to invest more aggressively in 2016 in restructuring the Oil & Gas footprint than we even did in 2015.
+So that gives us, Scott, some ability to moderate potentially, if revenues are even lower or at the lower end of the range. We can moderate the impact on profitability.
+SCOTT DAVIS: Yes, it sounds like Appliances was timed just right. So good luck. Congrats, guys; I'll step off. Thanks.
+OPERATOR: Julian Mitchell, Credit Suisse.
+JULIAN MITCHELL, ANALYST, CREDIT SUISSE: Hi, thank you. Just a quick question firstly on Alstom. The core business that you say lost money on the EBIT line in Q4, you've talked about $200 million of core Alstom profit in 2016. How quickly do you think the business goes back to profits? Or is it sort of a second-half turnaround on the core Alstom business?
+JEFF BORNSTEIN: Well, I think that we expect -- we're off and running on the synergies as we speak. Having said that, most of those synergies and most of the improvement in the core operations is going to happen with -- will accelerate over the course of the year. I think we feel very good about the guidance we gave you in December around the outlook for Alstom in 2016, a $0.05 contribution. That today feels very solid.
+I'd go back to what we said about 2015 on that call. We came in almost line item by line item virtually right on top of what we told you. We were a little better in tax than we estimated, but the other elements of the costs and the operations we talked about on that call is exactly where we came in.
+It ended up -- Alstom in the fourth quarter ended up being essentially breakeven with tax or zero drag on EPS. So I think right now we are on course, and the benefits and the improvement will accelerate as you would expect over the course of the year.
+JEFF IMMELT: I would echo what Jeff said, Julian. Look, as you guys can see, this is a large, complicated transaction to get it integrated. But when we look underlying in terms of customer response and geographic opportunities and things like that, I think this is everything we thought it would be. So now we've just got to get out there and execute.
+JULIAN MITCHELL: Great; thanks. Then just a quick follow-up on Healthcare. The profits there were down I think about 9% in the second half of 2015. You're guiding profits up in 2016.
+What is it that's really swinging there from the second half to the next 12 months?
+JEFF IMMELT: Look, I think, Julian, when I think about Healthcare in 2016, this should be low to mid single-digits organic revenue grower with margin enhancement, okay? That's what investors should expect in Healthcare.
+I think when you look at the second half of last year, we allowed the business to spend incrementally on NPI, to make some changes in their IT business, to invest more. So basically I think we allowed them to increase their spending in the second half.
+That should be opportunities when we look in the future: better VCP, better NPIs. And I expect Healthcare to have a decent 2016.
+JEFF BORNSTEIN: We're going to deliver a better product cost profile in 2016.
+JULIAN MITCHELL: Great, thank you.
+OPERATOR: Andrew Kaplowitz, Citi.
+ANDREW KAPLOWITZ, ANALYST, CITIGROUP: Good morning, guys. Jeff, can you talk about your ability to grow margin for the Company in 2016? If you look at 4Q, you had 110 basis points of gross margin improvement ex-Alstom, despite declining organic sales. Your value gap and mix give you 100 basis points of that improvement.
+So given higher-margin Services orders are growing faster than Equipment and raw material costs are coming down, could you sustain the 100 basis points you saw in the quarter from mix and value gap as you move forward?
+JEFF BORNSTEIN: Great question. Our goal, what we've told folks is year on year we have a target to improve margins 50 basis points. That's true as well in 2016.
+The geography of where that improvement comes from I think will be largely the same. I think value gap will contribute a little bit less in 2016 to the margin expansion. I think variable cost productivity or productivity in general will -- or product cost, if you will -- will contribute more.
+Then Corporate and SG&A will also contribute in 2016. So we're still on the 50 basis point march at op profit and down through Corporate costs or Industrial margins. But the mix between what value gap contributes and what we get out of productivity is going to change a little bit.
+JEFF IMMELT: I would also say, guys, last year was the first year of our IC plan, what we call the AIP. More than half the businesses have gross margin targets; they all have margin targets. This has been really a good driver of these results, and we think we've set the bar appropriate in 2016 to get the same kind of benefits.
+JEFF BORNSTEIN: Then I would say on mix, you mentioned Services growth for Equipment. That's important actually, there's no question about it. We need our big Service businesses, PGS and Aviation, to grow and deliver what they -- because we have these product launches. So we've got the H-turbine coming next year; we've got a little over 100 LEAP engines launching next year; and we've got the 2.X and 3.X wind turbines going. So continuing the momentum in Services is very, very important to the overall story.
+ANDREW KAPLOWITZ: Jeff, if I could just follow up on Service for a second, your organic Service orders slowed slightly in the quarter from 4Q versus 3Q, but still good at 3%. You guys are guiding a 3% to 5% Service growth.
+Can you talk about the sustainability of your Service business, especially in Power in the current environment?
+And how much is Digital really helping? Because it seems like robust growth there.
+JEFF IMMELT: Yes, look, I mean I would start again with the Digital focus which is growing 20%-ish, not just in Power but in other businesses. But we also have very targeted programs in all of our businesses to go after the aged installed base.
+Alstom brings unique capabilities to the Power business. Aviation guys, we're still seeing good revenue passenger miles; there's lots of opportunities for our Aviation business to continue to grow.
+Healthcare is actually, after several years of flat revenue in Services, has actually grown 3% or 4% the last few quarters. So we're very programmatic in the Service side.
+I think we see that continuing next year, with Digital being the number-one driver. At the end of the day I think in an environment like this, this is the ballast for the Company, is the installed base.
+JEFF BORNSTEIN: The only thing I'd add, Jeff, is the upgrades. We think we'll do at least 125 AGPs next year and every one of the businesses is really pushing on the upgrades.
+ANDREW KAPLOWITZ: Thanks, guys.
+OPERATOR: Andrew Obin, Bank of America.
+ANDREW OBIN, ANALYST, BOFA MERRILL LYNCH: Yes, good morning. Just a question on restructuring. Now that you have this extra $0.20 from the Appliances, I'm sure you did have some restructuring built into your number before, because you were expecting Appliance sale in the mid of the year.
+But given that the gain brings restructuring and you have a lot more restructuring this year, does that mean that there is more cushion to the numbers? Or does that mean that the core guidance is actually reflecting more macro headwinds?
+JEFF BORNSTEIN: Okay, so -- in our core plan we expected to do about $1.7 billion pretax of restructuring in 2016; we will double that with Appliances. So we will do a lot heavier restructuring -- first of all, we're going to try to accelerate a lot of what we we're going to do in Alstom in 2017 and 2018. As much of that as we can execute we're going to try to accelerate.
+We're going to do more, as I mentioned earlier, in Oil & Gas. And every one of the businesses we're going to do more around the product Service cost footprint of the Company.
+So it does both things. When we spend that incremental money, there will be some amount of benefit in 2016; but maybe even more importantly, it's a great base to work from for 2017 and 2018 and will help us continue to deliver these margin improvements that you've seen.
+JEFF IMMELT: I would add, Andrew -- look, I'm going to say the same thing today that I said a year ago. Every one of our businesses has a very detailed incentive compensation plan that internally, just like last year, rolls up to more than we talk about externally. That's the way we've run the place; that's the way we continue to run the place.
+I just -- I look at the ability to do incremental restructuring as a good opportunity for us to continue to deliver good results.
+ANDREW OBIN: Just a follow-up question, are you guys seeing any signs of stabilization in China? Because that seems to be a big concern. I apologize if I missed your remarks in the beginning.
+JEFF IMMELT: Yes, look, I think for us the first thing I'd say: there's no one China, right? I don't think macro anymore when I talk about China. I think micro.
+I think about Aviation, Healthcare, Power, Mining. That's how I think everybody's got to start thinking about China.
+Now, Aviation remains superstrong, right. I think on the Power side it's going to become more predominantly a gas turbine market. It's been cyclical, but I like how we're positioned in the future in China there.
+The third business is Healthcare. Healthcare has had a tough couple years. I think the sense of our team is that we feel that's stabilizing.
+By tough I mean it's gone from up 10% to 15%, maybe flat to down slightly, right. So our team I think has seen some signs of stabilization there.
+That to me is the swinger, let's say, on China. But Aviation is superstrong even today.
+ANDREW OBIN: Thank you very much.
+OPERATOR: Joe Ritchie, Goldman Sachs.
+JOE RITCHIE, ANALYST, GOLDMAN SACHS: Thanks; good morning, guys. Maybe following up on Andrew's question slightly differently, I guess as you go into 2016 and take a look back into 2015, Industrial EBIT grew very low single-digits this past year. And as we head into 2016 there are a lot of headwinds, whether it's orders down, mix is becoming a bigger headwind, and then you've clearly -- Oil & Gas pressures are intensifying.
+So what I'm trying to understand is how much of the incremental improvement in Industrial segment EBIT is going to be driven by the restructuring actions that you are taking?
+JEFF BORNSTEIN: Well, let me go back and try to help you with that in terms of what 2015 was. In the fourth quarter, our restructuring efforts delivered a little over $220 million of benefits, and those are restructurings that started in 2014 and some of them were executed in 2015, etc.
+For the year, that was about $1 billion of value, if you will, against margins. In 2016, we'll roll forward and, based on what we did in 2015 and the benefits realizing in 2016 and the incremental spend in 2016, everything else being equal, we would expect that or more -- and more -- to flow to Industrial EBIT in 2016.
+Yes, it's part and parcel about remaking the competitiveness of this Company around products and Service cost. It's critically important. And our track record, I think, over the last couple years of these businesses delivering back the margin improvements based on the restructuring spend, I think has been on balance very good.
+JOE RITCHIE: Yes. No, that's fair. And it has been good and clearly should help provide a tailwind for 2017 and 2018.
+Maybe one follow-up question, Jeff, just a reminder on the $35 billion and the composition of the $35 billion dividend from the asset sales and leverage. Has that changed at all, just given that asset prices have come down a little bit to start this year?
+JEFF BORNSTEIN: No. Keith and the team have done an absolutely remarkable job executing against this plan. As you know Jeff mentioned and I'll just reiterate a little bit, just to baseline everybody: $157 billion of signings, $104 billion of asset closings in 2015. In 2016, we'll sign something on order of magnitude of another $50 billion in deals.
+We expect more than half of that to happen hopefully here in the first half of the year. And we'll close -- we'll get wire transfers for about another $100 billion of closings in 2016.
+So far we're tracking slightly better on a price to tangible book what we presented in April of next year. And we think, everything else being equal, as we sit here today with $50 billion of signings to go, all of which are in process, that we're going to end up at or maybe incrementally slightly better on the price to tangible book when we get through the end of this process, hopefully at the end of 2016.
+JOE RITCHIE: Okay; thanks, guys. I'll get back in queue.
+OPERATOR: Steven Winoker, Bernstein.
+STEVEN WINOKER, ANALYST, BERNSTEIN: Thanks and good morning. You've covered a lot of ground. But one of the things on page 4, the simplification SG&A cost being flat in the fourth quarter, just maybe run us through the dynamics there in terms of it coming down off of the prior savings you've been seeing in quarter after quarter there.
+JEFF BORNSTEIN: Sure. We had $224 million of SG&A structural cost-out in the quarter. That was down 7% year-over-year.
+For the year we were down about $800 million or about 6%. The reason you see it as not contributing to the margin performance is because that $224 million came out at about the same rate as volume came down in the quarter.
+So it's not that we didn't get cost out; we absolutely did. It's not that we lost any momentum. $224 million is about the middle of what we've been each of the last four quarters -- actually probably closer to the last eight quarters.
+It's just that volume was down and so it didn't contribute. We expect -- I think we said in December, we expect to improve SG&A to sales in 2016, and so you should expect it to show up on that line as contributing to the margin expansion in 2016, as it did for 30 basis points this year.
+STEVEN WINOKER: Okay, sounds good. Then I just wanted to clarify on the pricing again. When you point to the 3.8% in Power and you talk about the HA turbine driving a lot of that, you guys are -- how are you thinking about like-for-like pricing versus mix there?
+That HA is all like-for-like pricing? It's not driving the mix?
+JEFF IMMELT: Yes.
+JEFF BORNSTEIN: Steve, that's all like-for-like.
+STEVEN WINOKER: Okay, all right. Then just --
+JEFF BORNSTEIN: Go ahead, I'm sorry.
+STEVEN WINOKER: No, go ahead.
+JEFF BORNSTEIN: I was just going to say I think what the team has done on this H launch is pretty remarkable. All the growth in the heavy-duty gas market is this class of turbine. The gigawatts that get added over the next couple of years, 75% of that is going to come from this class of turbine.
+They've gone from no share to a very high level of share, and this is about $300 million of price in the quarter on the H. It's effectively we're selling slots out. So it's been a terrific story.
+STEVEN WINOKER: Okay; I'll pass it on. Thanks, guys.
+OPERATOR: Jeffrey Sprague, Vertical Research Partners.
+JEFFREY SPRAGUE, ANALYST, VERTICAL RESEARCH PARTNERS: Good morning. Just back to the whole restructuring dynamic and understanding the bridge into 2016, so I think your guide for 2016 roughly implies about $19 billion in segment OP, if we use the December construct.
+So just building off $18 billion in 2015, with over $1 billion in restructuring savings and Alstom of $600 million, is that how we should be thinking about it? So you have core erosion elsewhere in the portfolio of $400 million or $500 million?
+JEFF IMMELT: I don't think so, Jeff.
+JEFF BORNSTEIN: I don't have that reconciliation in front of me, Jeff. We will get back to you on that.
+But here's how we thought about the bridge is, when we go from 2015 to 2016 we will get incremental restructuring savings. As a V we earned $1 billion of restructuring savings in 2015; we will be better than that in 2016. But it won't be $1 billion better than it was in 2015.
+We'll get margin expansion and organic growth at 2% to 4%. And the only decrement, if you will, as you describe it, is we are overcoming the launch cost and the launch margins associated with the LEAP, and the H, the wind turbines, etc., etc.
+So we will grow op profit next year. I don't have the bridge exactly in front of me at the moment, but --
+JEFF IMMELT: But segment by segment, Power is up ex-Alstom.
+JEFF BORNSTEIN: Right.
+JEFF IMMELT: Renewables up ex-Alstom; Aviation up; Healthcare up; Transportation I think we said down slightly; Energy Management up. So segment by segment, Jeff, I think it tracks to the positive operating growth for next year.
+JEFFREY SPRAGUE: Okay. Roughly $19 billion is a good place to be, though, on the segment side?
+JEFF IMMELT: Yes.
+JEFF BORNSTEIN: Yes, $19 billion -- it's roughly $19 billion. A little better than $19 billion.
+JEFF IMMELT: Yes.
+JEFFREY SPRAGUE: Then just back to the macro, can you give us a little bit of sense on how much of your backlog is in Middle Eastern areas or areas where you've got really resource pressures on government budgets and the like?
+JEFF BORNSTEIN: Well, I mean, I think, Jeff, the -- let me just -- I don't have the regional split on backlog.
+Now, obviously, our Power business, obviously from Power Generation's perspective has got a big backlog associated with the Middle East. Our Oil & Gas business has a backlog that's associated with West Africa, Brazil, and the Middle East.
+We have a big backlog in Aviation associated with the Emirates, Qatar Airlines, etc. I don't think in the case of Power or Aviation that we have concerns about our Middle East backlog in any way, shape, or form.
+JEFF IMMELT: Yes, I was going to reflect on that to a certain extent. I think, Jeff, we've always talked about the resource-rich regions being more or less $30 billion or something like that for the Company. But in the fourth quarter we had a record orders quarter in Saudi Arabia. Our business in Latin America has -- because again demand for electricity has grown 8% last year; good Aviation backlogs; things like that.
+So I think the diversification of the mix of businesses we have is still pretty positive, even in regions like Saudi Arabia.
+JEFFREY SPRAGUE: Right. Then maybe just one last one. The order price index info is helpful. I wonder if you could share with us the price impact on revenues in the quarter.
+JEFF BORNSTEIN: Yes. Give me one second. In revenues in the quarter we had price of about $150 million. About $100 million of that came from Power; Aviation was strong as well; and then as you would expect, Healthcare had negative price of roughly $100 million. Most everybody had modest positive price.
+OPERATOR: Deane Dray, RBC Capital Markets.
+DEANE DRAY, ANALYST, RBC CAPITAL MARKETS: Thank you; good morning, everyone. Hey, just had a couple of cleanup questions here.
+Just to go back to the Appliances deal, we've gotten a lot of questions about this. That the deal you struck with Haier, significantly more favorable than Electrolux; gain of $0.20 versus $0.06.
+How did the deal all come together? I know they are not directly comparable, but just give us a sense on how it played out.
+JEFF IMMELT: Well again, Deane, I think we were -- we followed the process with Electrolux until December 7, so that kind of ran its course. That gave us the ability to look to see what other outcomes would be important for the business.
+After December 7 there was a tremendous amount of interest in the business. I think what you have to keep in mind is that the EBITDA of the business is better over the -- while we were in the process. The multiples in the industry improved while we were in the process.
+And I think what we always knew was true about the Appliance business is it had a favorable position in the North American market that was valued by people on the outside, and that's what we saw in the 30 days post December 7.
+I would add, Deane, we wanted to move quickly because the business had been for sale for two years. It just -- there was a real reason for us to get this transaction; and we're pleased with the way it turned out.
+DEANE DRAY: Yes, congratulations on that. Just a last question for me. I know you're out of the quarterly guidance business, but given the expectations with the higher restructuring and they won't be timed with gains, what does the first-quarter dynamics look like with regard to gains in restructuring?
+JEFF BORNSTEIN: Today we think we're going to have about $700 million of restructuring in the first quarter. We'll have some very modest, very modest gains in the first quarter. So we'll have naked restructuring in the quarter of between $600 million and $700 million pretax in the quarter.
+You want me to do the full first quarter? Here's what I'd say, is when you look at the profile for the year, when we talked about gas turbines and Power systems, I mentioned the fact that a lot of our volume was in the second half of the year. The first quarter in the Power business, we're going to be down significantly on gas turbines; last year we had the tail of end of Algeria and we had some Egyptian shipments in the first quarter.
+So even though we're going to be up on shipments year-over-year for the total year for Power systems, the first quarter is going to be light on gas turbines year-over-year.
+OPERATOR: Shannon O'Callaghan, UBS.
+SHANNON O'CALLAGHAN, ANALYST, UBS: Morning. Hey, Jeff, maybe a little more on the core margin expansion in the Power business, the 140 basis points. You talk about positive value gap and mix. Maybe a little more color there. What's really driving that?
+JEFF BORNSTEIN: Yes. A big part of it is the strength in their Service businesses. PGS was very strong in the quarter; that was important.
+We also shipped fewer gas turbines year-over-year in the quarter, from a mix perspective. That certainly helped them expand margins in the quarter the 140 basis points. Their value gap was really strong.
+JEFF IMMELT: I mean just some context here, guys. Our organic growth for the total Company in the fourth quarter of 2014 was up 9%. Organic growth for Power was up 20% or something in the fourth quarter last year, and that was a lot of the Algerian shipments that we had that were product shipments in 2014.
+So to Jeff's point we had, let's say, much more difficult comps from a revenue standpoint but much easier comps from a margin standpoint when you compare fourth quarter of 2015 to fourth quarter of 2014.
+SHANNON O'CALLAGHAN: Okay; yes, that makes a lot of sense. Then just on Corporate cost, got some benefits there in the quarter. I know it's an initiative that you're working on. Are we at a reasonable run rate now, or is there a lot more to go there in 2016?
+JEFF BORNSTEIN: No, we're going to be down in 2016. We finished the year at $2.1 billion of Corporate operating cost. We gave you a range of $2.0 billion to $2.2 billion. We're running the place to the bottom of that range.
+And, no, we're not close to the end of what we're doing around Corporate.
+OPERATOR: Nigel Coe, Morgan Stanley.
+NIGEL COE, ANALYST, MORGAN STANLEY: Yes, good morning, guys. We're getting a little bit late here so I'll keep this brief. Just back on the restructuring, obviously a huge number for this year, Jeff.
+Should we -- you've got $0.08 in for next year, 2017, for Alstom restructuring. Should we assume that the bulk of that $0.08 comes into this year?
+JEFF BORNSTEIN: I don't think it will be the bulk of it. We're going to try and move as much of the restructuring into 2016 as we can.
+All of that restructuring -- you don't just write a check and then get the benefits. There's actually all kinds of execution around it.
+So we're going to try to execute as much of the restructuring list, actions if you will, that were planned as 2017 actions -- we're going to try to do as many of those in 2016 on top of what we already planned, as possible.
+NIGEL COE: Okay, that's helpful.
+JEFF IMMELT: I would say, Nigel, with this amount of restructuring this year, we're going to get some benefits yet this year. The bulk of them are going to come in 2017; but we'll still get some restructuring actual benefits in 2016 just based on the quality of the projects we've gotten.
+NIGEL COE: Okay; that's helpful. Then just quickly on the -- you gave a little bit of color on 1Q. Obviously 4Q was noisy with some of the project delays and also Alstom accounting.
+I'm just thinking on 1Q: do you still see the scope for some backlog pushout into the back half of the year? And to what extent do we still have some of these accounting issues on Alstom in 1Q?
+JEFF BORNSTEIN: Well, we're going to continue -- we're not done purchase accounting, okay? From an accounting perspective, we've owned the Company for two months; so we've done a significant amount of work getting the initial purchase accounting done, but we're not complete yet. That really -- I'm hopeful that we'll be done with all that in the first half of this year.
+I think in terms of how our volume lays out, I mean, we're a little more back-end-loaded this year maybe than we were last year, just the way the order book wants to play out.
+JEFF IMMELT: But I would say to a certain extent, guys, things like just the change in PTC probably pushed some wind turbines from 2015 to 2016. That's un-forecastable, but it's generally a positive.
+So again I think by and large we feel pretty good about how our backlog lays out and the integrity of the backlog. Again, we're not Pollyanna-ish about the Oil & Gas market, and we need to be fast on our feet as it pertains to how that business rolls out the rest of the year.
+MATT CRIBBINS: Great. Thank you, Jeff. A couple of quick announcements before we wrap up. The replay of today's webcast will be available this afternoon on our Investor website.
+We're going to host a Healthcare investor meeting in New York City on March 11. And our first-quarter 2016 earnings webcast will be on April 22. Jeff?
+JEFF IMMELT: Yes, thanks again, guys. I think it was -- given the first time we closed Alstom this was more complicated than we like. Again, that will get better as time goes on.
+So it took us a long time to work through it, but I think if you stand back and look at 2016 we've got a lot of self-help in place with restructuring, big backlog, share repurchase. And we feel good about double-digit earnings growth, about returning a lot of cash back to investors, and about really continuing to drive our strategy into the future. So we feel great about the Company and we look forward to having more conversations. Great, Matt; thanks.
+OPERATOR: This concludes your conference call. Thank you for your participation today. You may now disconnect.
+[Thomson Financial reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON FINANCIAL OR THE APPLICABLE COMPANY OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.]
+[Copyright: Content copyright 2016 Thomson Financial. ALL RIGHTS RESERVED. Electronic format, layout and metadata, copyright 2016 ASC LLC (www.ascllc.net) ALL RIGHTS RESERVED. No license is granted to the user of this material other than for research. User may not reproduce or redistribute the material except for user's personal or internal use and, in such case, only one copy may be printed, nor shall user use any material for commercial purposes or in any fashion that may infringe upon Thomson Financial's or ASC's copyright or other proprietary rights or interests in the material; provided, however, that members of the news media may redistribute limited portions (less than 250 words) of this material without a specific license from Thomson Financial and ASC so long as they provide conspicuous attribution to Thomson Financial and ASC as the originators and copyright holders of such material. This is not a legal transcript for purposes of litigation.]
+
+Subject: Aviation; Investments; Earnings per share; Compensation plans; Profits; Cash flow; Volatility; Turbines
+
+Business indexing term: Subject: Earnings per share Compensation plans Profits Cash flow Volatility; Corporation: General Electric Co
+
+Company / organization: Name: General Electric Co; Ticker: GE; NAICS: 332510, 333611, 334290, 334512, 334519; SIC: 3743, 3546, 3511, 3630, 3612; DUNS: 00-136-7960; Name: GE Capital Corp; NAICS: 522220, 522291; SIC: 6159, 6799, 6331, 6141, 6351, 7359; DUNS: 00-698-4256; Name: Thomson Financial; NAICS: 513210, 518210, 519290
+
+Title: Q4 2015 General Electric Co Earnings Call - Final
+
+Publication title: Fair Disclosure Wire; Linthicum
+
+Publication year: 2016
+
+Publication date: Jan 22, 2016
+
+Publisher: VIQ Solutions Inc.
+
+Place of publication: Linthicum
+
+Country of publication: United States
+
+Publication subject: Business And Economics, Law--Corporate Law
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: WIRE FEED
+
+ProQuest document ID: 1762722888
+
+Document URL: https://www.proquest.com/newspapers/q4-2015-general-electric-co-earnings-call-final/docview/1762722888/se-2?accountid=27562
+
+Copyright: 2016 CCBN, Inc. and CQ Roll Call
+
+Last updated: 2026-02-10
+
+Database: ABI/INFORM Collection
